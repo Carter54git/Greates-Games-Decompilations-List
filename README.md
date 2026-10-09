@@ -3,17 +3,12 @@
 
 Games with a public decompilation, disassembly, or static recompilation, grouped by the platform that project actually targets.
 
-The starting point is [Samidy's list](https://github.com/SamidyFR/Game-Decompilations) (local copy dated September 29, 2026). Entries marked ✦ were added on October 9, 2026 from GitHub search, [decomp.dev](https://decomp.dev/projects), and project pages that were missing from that list.
-
-**718 projects** across 36 platforms · **50 new** · **5 reimplementations** at the bottom · last updated October 9, 2026
+**718 projects** across 36 platforms · **5 reimplementations** at the bottom · last updated October 9, 2026
 
 A game that shipped on several machines is listed under the version the repository is reversing. Inside each platform, names are alphabetical and a leading "The" is ignored.
 
 - Many projects are unfinished. Read the repository before treating it as a complete source tree.
 - Bring your own legally obtained game data. This list does not host assets.
-- ✦ marks a project that was not in the September 2026 alphabetical list.
-- The old Minecraft: Legacy Console Edition link was removed. It pointed at a broken path inside another repository. The Switch, Xbox 360, and Pocket Edition projects are still listed.
-- Tetris for the NES had been attached to the Tennis entry. It is now its own line.
 - Where two groups are decompiling the same game, both repositories are listed.
 - [Credits for the original collection](https://github.com/SamidyFR/Game-Decompilations/blob/main/CREDITS.md) · [how to contribute there](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md)
 
