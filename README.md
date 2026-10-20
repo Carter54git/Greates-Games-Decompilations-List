@@ -3,7 +3,7 @@
 
 Games with a public decompilation, disassembly, or static recompilation, grouped by the platform that project actually targets.
 
-**1994 projects** across 51 platforms · **232 reimplementations** and **133 source ports** at the bottom · last updated October 20, 2026
+**2359 projects in total** · **1994** across 51 platforms · **232 reimplementations** and **133 source ports** at the bottom · last updated October 20, 2026
 
 A game that shipped on several machines is listed under the version the repository is reversing. Inside each platform, names are alphabetical and a leading "The" is ignored.
 
