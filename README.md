@@ -1,3 +1,5 @@
+📢 **Telegram: [t.me/gamebase54](https://t.me/gamebase54)** — news and updates
+
 # Greates Games Decompilations List
 
 
