@@ -427,7 +427,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Glover** — [rainchus/glover](https://github.com/rainchus/glover)
 - **Glover (glover-decomp)** — [bigyoshi51/glover-decomp](https://github.com/bigyoshi51/glover-decomp)
 - **Glover (Recomp)** — [ThatGuyMcd/Glover-R](https://github.com/ThatGuyMcd/Glover-R)
-- **Goemon’s Great Adventure** — [Fluvian/gga](https://github.com/Fluvian/gga)
+- **Goemon’s Great Adventure** — [PandaPandel/Goemons-Great-Adventure-Decomp](https://github.com/PandaPandel/Goemons-Great-Adventure-Decomp)
 - **GoldenEye 007** — [kholdfuzion/goldeneye_src](https://gitlab.com/kholdfuzion/goldeneye_src)
 - **GoldenEye 007** — [chrissotraidis/goldenpad](https://github.com/chrissotraidis/goldenpad) — *Port.*
 - **GoldenEye 007 (007)** — [n64decomp/007](https://github.com/n64decomp/007)
@@ -505,7 +505,6 @@ A game that shipped on several machines is listed under the version the reposito
 - **Mischief Makers** — [drahsid/mischief-makers](https://github.com/drahsid/mischief-makers)
 - **Mischief Makers (Recomp)** — [ThiagoLira/trouble-makers-pc-recomp](https://github.com/ThiagoLira/trouble-makers-pc-recomp)
 - **Mortal Kombat Trilogy** — [cultofblue/MKTrilogyN64Recomp](https://github.com/cultofblue/MKTrilogyN64Recomp) — *Static recompilation.*
-- **Mystical Ninja Starring Goemon** — [fluvian/mnsg](https://github.com/fluvian/mnsg)
 - **Mystical Ninja Starring Goemon** — [ogdanimal/Goemon64Recomp-Android](https://github.com/ogdanimal/Goemon64Recomp-Android) — *Static recompilation.*
 - **Mystical Ninja Starring Goemon (mnsg)** — [klorfmorf/mnsg](https://github.com/klorfmorf/mnsg)
 - **Mystical Ninja Starring Goemon (Recomp)** — [klorfmorf/Goemon64Recomp](https://github.com/klorfmorf/Goemon64Recomp)
