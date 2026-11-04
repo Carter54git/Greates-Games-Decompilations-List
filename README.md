@@ -5,7 +5,7 @@
 
 Games with a public decompilation, disassembly, or static recompilation, grouped by the platform that project actually targets.
 
-**3522 projects in total** · **3115** across 55 platforms · **266 reimplementations** and **141 source ports** at the bottom · last updated November 3, 2026
+**3524 projects in total** · **3116** across 55 platforms · **267 reimplementations** and **141 source ports** at the bottom · last updated November 4, 2026
 
 A game that shipped on several machines is listed under the version the repository is reversing. Inside each platform, names are alphabetical and a leading "The" is ignored.
 
@@ -20,7 +20,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 - [NES / Famicom](#nes--famicom) · 104
 - [SNES / Super Famicom](#snes--super-famicom) · 115
-- [Nintendo 64](#nintendo-64) · 344
+- [Nintendo 64](#nintendo-64) · 345
 - [GameCube](#gamecube) · 156
 - [Wii](#wii) · 90
 - [Wii U](#wii-u) · 25
@@ -89,7 +89,7 @@ A game that shipped on several machines is listed under the version the reposito
 - [Multiplatform](#multiplatform) · 26
 - [Other](#other) · 37
 
-- [Open-source reimplementations](#open-source-reimplementations) · 266
+- [Open-source reimplementations](#open-source-reimplementations) · 267
 - [Source ports](#source-ports) · 141
 
 ## NES / Famicom
@@ -323,7 +323,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Nintendo 64
 
-344 projects
+345 projects
 
 - **1080° Snowboarding** — [bigyoshi51/1080-decomp](https://github.com/bigyoshi51/1080-decomp)
 - **1080° Snowboarding** — [djsaunde/1080-decomp](https://github.com/djsaunde/1080-decomp)
@@ -534,6 +534,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Paper Mario** — [SecondaryLifer/StarHaven](https://github.com/SecondaryLifer/StarHaven)
 - **Paper Mario** — [SMCGames/Paper-Mario-ReCut](https://github.com/SMCGames/Paper-Mario-ReCut) — *Port.*
 - **Paper Mario ( pmvita)** — [versacepapermario/papermario-pc-upload](https://github.com/versacepapermario/papermario-pc-upload) — *Port.*
+- **Paper Mario (n64hub)** — [n64hub/paper-mario-recomp](https://github.com/n64hub/paper-mario-recomp) — *Static recompilation.*
 - **Paper Mario (papermario-dx (engine fork))** — [bates64/papermario-dx](https://github.com/bates64/papermario-dx)
 - **Paper Mario (PaperMarioDecompilation)** — [RetroReversing/PaperMarioDecompilation](https://github.com/RetroReversing/PaperMarioDecompilation) — *Inactive or archived.*
 - **Paper Mario (PaperPad)** — [chrissotraidis/paperpad](https://github.com/chrissotraidis/paperpad) — *Port.*
@@ -3507,6 +3508,7 @@ These are not matching decompilations. They are open engines written by reading 
 - **Caesar III** ✦ — [bvschaik/julius](https://github.com/bvschaik/julius) — *Open-source reimplementation.*
 - **Pharaoh and Cleopatra** ✦ — [Keriew/augustus](https://github.com/Keriew/augustus) — *Open-source reimplementation.*
 - **Blood** ✦ — [NBlood/NBlood](https://github.com/NBlood/NBlood) — *Reverse-engineered Build-engine port.*
+- **Star Wars Jedi Knight: Dark Forces II (OpenJKDF2)** — [shinyquagsire23/OpenJKDF2](https://github.com/shinyquagsire23/OpenJKDF2) — *Engine reimplementation, PC / DOS.*
 - **Star Wars: Dark Forces** ✦ — [TheForceEngine/TheForceEngine](https://github.com/TheForceEngine/TheForceEngine) — *Open-source Jedi engine reimplementation.*
 - **1oom** — [1oom-fork/1oom](https://github.com/1oom-fork/1oom) — *Engine reimplementation.*
 - **Abyss Engine** — [AbyssEngine/AbyssEngine](https://github.com/AbyssEngine/AbyssEngine) — *Engine reimplementation. Inactive or archived.*
