@@ -1,1314 +1,4389 @@
-<p align="center">📢 <b>Telegram: <a href="https://t.me/gamebase54">t.me/gamebase54</a></b> — news and updates</p>
-
-<div align="center">
-
-# 🎮 Ultimate Catalog of Web Game Ports
-
-**Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
-
-![games](https://img.shields.io/badge/games-1012-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-567-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-684-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-247-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--10-555?style=for-the-badge)
-
-</div>
-
-## How to read this list
-
-| Icon | Meaning |
-| :---: | --- |
-| ▶ | Opens a playable build in your browser |
-| 📦 | Source code repository |
-| ⭐ | Has both a demo and the source |
-
-Many ports need your own game files (they ask you to upload the original data). Links point to third-party projects.
-
-## Jump to
-
-<p align="center">
-<a href="#num"><b>#</b></a> · <a href="#a"><b>A</b></a> · <a href="#b"><b>B</b></a> · <a href="#c"><b>C</b></a> · <a href="#d"><b>D</b></a> · <a href="#e"><b>E</b></a> · <a href="#f"><b>F</b></a> · <a href="#g"><b>G</b></a> · <a href="#h"><b>H</b></a> · <a href="#i"><b>I</b></a> · <a href="#j"><b>J</b></a> · <a href="#k"><b>K</b></a> · <a href="#l"><b>L</b></a> · <a href="#m"><b>M</b></a> · <a href="#n"><b>N</b></a> · <a href="#o"><b>O</b></a> · <a href="#p"><b>P</b></a> · <a href="#q"><b>Q</b></a> · <a href="#r"><b>R</b></a> · <a href="#s"><b>S</b></a> · <a href="#t"><b>T</b></a> · <a href="#u"><b>U</b></a> · <a href="#v"><b>V</b></a> · <a href="#w"><b>W</b></a> · <a href="#x"><b>X</b></a> · <a href="#y"><b>Y</b></a> · <a href="#z"><b>Z</b></a>
-</p>
-
-<a id="num"></a>
-
-## # <sub>· 6</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| Девятка (1994) | [▶ rgc.zone](https://rgc.zone/ports/nine-1994/index.html) |  |
-| ⭐ -3 | [▶ gn-math.dev](https://gn-math.dev/?id=816) | [📦 aukak/-3](https://github.com/aukak/-3) |
-| -b |  | [📦 web-ports/baldi-mods/tree/main/-b](https://github.com/web-ports/baldi-mods/tree/main/-b) |
-| ⭐ 20 Minutes Till Dawn | [▶ gn-math.dev](https://gn-math.dev/?id=819) | [📦 web-ports/20-minutes](https://github.com/web-ports/20-minutes) |
-| ⭐ 3D Pinball for Windows - Space Cadet | [▶ ksylvestre.itch.io](https://ksylvestre.itch.io/space-cadet-pinball) | [📦 k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) |
-| 60 Seconds! |  | [📦 usheje883-maker/60-Seconds-Webport](https://github.com/usheje883-maker/60-Seconds-Webport) |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="a"></a>
-
-## A <sub>· 35</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| A2 Racer IV: De Politie slaat terug |  | [📦 NostalgiaRealm/A2-Racer-4](https://github.com/NostalgiaRealm/A2-Racer-4) |
-| Abuse |  | [📦 midzer/abuse](https://github.com/midzer/abuse) |
-| Ages of Conflict | [▶ wasm.rip](https://wasm.rip/files/aoc/index.html) |  |
-| Albion |  | [📦 IS4Code/Albion](https://github.com/IS4Code/Albion) |
-| ⭐ Alley Cat | [▶ petarov.github.io](https://petarov.github.io/alleycat.exe/) | [📦 petarov/alleycat.exe](https://github.com/petarov/alleycat.exe) |
-| Alone in the Dark (aitd) |  | [📦 xesf/aitd](https://github.com/xesf/aitd) |
-| ⭐ Amanda The Adventurer | [▶ gn-math.github.io](https://gn-math.github.io/web-port/amanda-the-adventurer/) | [📦 genizy/web-port/tree/main/amanda-the-adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) |
-| Amazing Alex | [▶ nomadic-ua.itch.io](https://nomadic-ua.itch.io/amazing-alex) |  |
-| ⭐ American McGee’s Alice| [▶ https://yselimarslan98-dot.github.io/alice-web/](https://github.com/yselimarslan98-dot/alice-web) |  |
-| Ambidextro |  | [📦 chromecrash/Ambidextro-browser-port](https://github.com/chromecrash/Ambidextro-browser-port) |
-| ⭐ Among Us | [▶ wasm.rip](https://wasm.rip/files/amongus/index.html) | [📦 wasmdotrip/AmongUsPort](https://github.com/wasmdotrip/AmongUsPort) |
-| Anarch |  | [📦 drummyfish/anarch](https://gitlab.com/drummyfish/anarch) |
-| ⭐ Andy's Apple Farm | [▶ gn-math.github.io](https://gn-math.github.io/web-port/andys-apple-farm/) | [📦 genizy/web-port/tree/main/andys-apple-farm](https://github.com/genizy/web-port/tree/main/andys-apple-farm) |
-| Angband |  | [📦 angband/angband](https://github.com/angband/angband) |
-| Angry Birds 2 |  | [📦 Reeyuki/angry2](https://github.com/Reeyuki/angry2) |
-| Angry Birds Epic v3.0.1 |  | [📦 DarkTerraYT/EpicWeb](https://github.com/DarkTerraYT/EpicWeb) |
-| ⭐ Animal Crossing | [▶ rgc.zone](https://rgc.zone/ports/ac-webport-main/index.html) | [📦 web-ports/ac-gamecube](https://github.com/web-ports/ac-gamecube) |
-| Animal Crossing (GAMECUBE) | [▶ gn-math.dev](https://gn-math.dev/?id=828) |  |
-| Another World (another-world-suite) |  | [📦 malandrin/another-world-suite](https://github.com/malandrin/another-world-suite) |
-| Anton Blast Demo |  | [📦 burnedpopcorn/Anton-Blast-Demo-Web-Port](https://github.com/burnedpopcorn/Anton-Blast-Demo-Web-Port) |
-| ⭐ Antonblast | [▶ gn-math.dev](https://gn-math.dev/?id=711) | [📦 web-ports/antonblast](https://github.com/web-ports/antonblast) |
-| ⭐ Apes vs Helium | [▶ gn-math.dev](https://gn-math.dev/?id=783) | [📦 bubbls/UGS-Assets/tree/main/apesvshelium](https://github.com/bubbls/UGS-Assets/tree/main/apesvshelium) |
-| Apotheon |  | [📦 degloved-net/Apotheon](https://github.com/degloved-net/Apotheon) |
-| Apotris |  | [📦 akouzoukos/apotris](https://gitea.com/akouzoukos/apotris) |
-| Arcade games (arcade-js) |  | [📦 qarl/arcade-js](https://github.com/qarl/arcade-js) |
-| Arco |  | [📦 degloved-net/arco](https://github.com/degloved-net/arco) |
-| Arthur's Nightmare | [▶ gn-math.dev](https://gn-math.dev/?id=645) |  |
-| Arx Fatalis (Arxwasm Demo) | [▶ wasm.continuation-labs.com](https://wasm.continuation-labs.com/arxdemo/) |  |
-| Arx Fatalis (rgc.zone) | [▶ rgc.zone](https://rgc.zone/ports/arxweb/index.html) |  |
-| AstroMenace |  | [📦 midzer/astromenace](https://github.com/midzer/astromenace) |
-| Asylum |  | [📦 GMH-Code/Asylum](https://github.com/GMH-Code/Asylum) |
-| ⭐ Atlantis: The Lost Tales | [▶ ripleyxlr8.github.io](https://ripleyxlr8.github.io/atlantis-native/) | [📦 ripleyXLR8/atlantis-native](https://github.com/ripleyXLR8/atlantis-native) |
-| Atomiks |  | [📦 midzer/atomiks](https://github.com/midzer/atomiks) |
-| AXIS (2005) |  | [📦 reikop/axis-web](https://github.com/reikop/axis-web) |
-| Azimuth |  | [📦 midzer/azimuth](https://github.com/midzer/azimuth) |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="b"></a>
-
-## B <sub>· 60</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| Backyard Baseball '97 |  | [📦 degloved-net/backyard-baseball-97](https://github.com/degloved-net/backyard-baseball-97) |
-| Bad Parenting 1 | [▶ gn-math.dev](https://gn-math.dev/?id=166) |  |
-| Bad Piggies | [▶ gn-math.dev](https://gn-math.dev/?id=752) |  |
-| Balatro |  | [📦 W0W53R/web-balatro](https://github.com/W0W53R/web-balatro) |
-| Baldi Balds The Universe |  | [📦 reeyuki/baldiBaldsTheUniverse](https://github.com/reeyuki/baldiBaldsTheUniverse) |
-| ⭐ Baldi's Basics Birthday Bash | [▶ wasm.rip](https://wasm.rip/files/birthdaybash/index.html) | [📦 woahhcrackers/BirthdayBashWeb](https://github.com/woahhcrackers/BirthdayBashWeb) |
-| ⭐ Baldi's Basics Classic Remastered | [▶ gn-math.github.io](https://gn-math.github.io/web-port/baldi-remaster/) | [📦 genizy/web-port/tree/main/baldi-remaster](https://github.com/genizy/web-port/tree/main/baldi-remaster) |
-| ⭐ Baldi's Basics Plus | [▶ gn-math.github.io](https://gn-math.github.io/web-port/baldi-plus/) | [📦 genizy/web-port/tree/main/baldi-plus](https://github.com/genizy/web-port/tree/main/baldi-plus) |
-| Baldi's Basics: Minus 3 |  | [📦 aukak/-3](https://github.com/aukak/-3) |
-| Ballerburg SDL | [▶ baller.tuxfamily.org](https://baller.tuxfamily.org/) |  |
-| Banished (unbanished) |  | [📦 tanepiper/unbanished](https://github.com/tanepiper/unbanished) |
-| Bat to Bed Demo |  | [📦 gays-studio/BatToBed-DEMO-webport](https://github.com/gays-studio/BatToBed-DEMO-webport) |
-| Bat to the Heavens |  | [📦 gays-studio/bat-to-the-heavens](https://github.com/gays-studio/bat-to-the-heavens) |
-| ⭐ Battle City | [▶ battle-city.berrry.app](https://battle-city.berrry.app) | [📦 vgrichina/battlecity](https://github.com/vgrichina/battlecity) |
-| Battle Stadium D.O.N | [▶ battlestadium.online](https://battlestadium.online/) |  |
-| Beat Banger |  | [📦 ajtabjs/bbport](https://github.com/ajtabjs/bbport) |
-| Beatblock | [▶ gn-math.dev](https://gn-math.dev/?id=787) |  |
-| Beatblock | [▶ wasm.rip](https://wasm.rip/files/beatblock/index.html) |  |
-| Before Close |  | [📦 xxuep/before-close-webport](https://github.com/xxuep/before-close-webport) |
-| ⭐ Bendy and The Ink Machine | [▶ gn-math.github.io](https://gn-math.github.io/web-port/bendy/) | [📦 genizy/web-port/tree/main/bendy](https://github.com/genizy/web-port/tree/main/bendy) |
-| ⭐ Bendy and The Ink Machine (2) | [▶ wasm.rip](https://wasm.rip/files/BATIM/index.html) | [📦 slqntdevss/BATIMFullPort](https://github.com/slqntdevss/BATIMFullPort) |
-| ⭐ Bendy and The Ink Machine (3) | [▶ gn-math.github.io](https://gn-math.github.io/web-port/bendy/) | [📦 genizy/web-port/tree/main/bendy](https://github.com/genizy/web-port/tree/main/bendy) |
-| Bendy and The Ink Machine (4) |  | [📦 web-ports/bendy-and-the-ink-machine](https://github.com/web-ports/bendy-and-the-ink-machine) |
-| Bendy and The Ink Machine (5) |  | [📦 woahhcrackers/BATIMWeb](https://github.com/woahhcrackers/BATIMWeb) |
-| Bendy and the Ink Machine: ALL CHAPTERS | [▶ gn-math.dev](https://gn-math.dev/?id=803) |  |
-| Beneath a Steel Sky (ScummWeb) | [▶ scummweb.tsilva.eu](https://scummweb.tsilva.eu/beneath-a-steel-sky/play) |  |
-| ⭐ BERGENTRUCK 201x | [▶ gn-math.github.io](https://gn-math.github.io/web-port/bergentruck/) | [📦 genizy/web-port/tree/main/bergentruck](https://github.com/genizy/web-port/tree/main/bergentruck) |
-| Bermuda Syndrome |  | [📦 cyxx/bermuda](https://github.com/cyxx/bermuda) |
-| BFDI: Branches |  | [📦 highestage/web-port-games/tree/main/bfdi-branches](https://github.com/highestage/web-port-games/tree/main/bfdi-branches) |
-| ⭐ The Binding of Isaac: Repentance | [▶ tboi.online](https://tboi.online/) | [📦 chiikabu/the-browsing-of-isaac](https://github.com/chiikabu/the-browsing-of-isaac) |
-| Biolab Disaster |  | [📦 phoboslab/high_biolab](https://github.com/phoboslab/high_biolab) |
-| ⭐ A Bite at Freddy's | [▶ gn-math.dev](https://gn-math.dev/?id=258) | [📦 freebuisness/assets/tree/main/258](https://github.com/freebuisness/assets/tree/main/258) |
-| Black Hole Fishing |  | [📦 mynamescrax/gamesforaetheris/tree/main/blackholefishing](https://github.com/mynamescrax/gamesforaetheris/tree/main/blackholefishing) |
-| Blobby Volley 2 |  | [📦 danielknobe/blobbyvolley2](https://github.com/danielknobe/blobbyvolley2) |
-| Bloboats |  | [📦 midzer/bloboats](https://github.com/midzer/bloboats) |
-| Block Blast |  | [📦 SomeRandomFella/portsandrips/tree/master/blockblast-port](https://github.com/SomeRandomFella/portsandrips/tree/master/blockblast-port) |
-| Blood: One Unit Whole Blood (NotBlood-Chosen) |  | [📦 AdrianPol-projects/NotBlood-Chosen](https://github.com/AdrianPol-projects/NotBlood-Chosen) |
-| ⭐ BLOODMONEY! | [▶ gn-math.github.io](https://gn-math.github.io/web-port/bloodmoney/) | [📦 genizy/web-port/tree/main/bloodmoney](https://github.com/genizy/web-port/tree/main/bloodmoney) |
-| bog/aukak |  | [📦 aukak](https://github.com/aukak) |
-| ⭐ boil Noodles at Night | [▶ wasm.rip](https://wasm.rip/files/boilnoodles/index.html) | [📦 SomeRandomFella/portsandrips/tree/master/boilnoodles](https://github.com/SomeRandomFella/portsandrips/tree/master/boilnoodles) |
-| Bombermaaan |  | [📦 midzer/Bombermaaan](https://github.com/midzer/Bombermaaan) |
-| BottleShip (NFS Underground 2, XIII, Far Cry, Mafia, The Bard's Tale…) |  | [📦 jenissimo/bottleship](https://github.com/jenissimo/bottleship) |
-| Bowerwhelm |  |  |
-| Brawlhalla | [▶ truffled.lol](https://truffled.lol/games/brawlhalla/index.html) |  |
-| breadbb/genizy |  | [📦 genizy](https://github.com/genizy) |
-| BreakHack |  | [📦 midzer/breakhack](https://github.com/midzer/breakhack) |
-| Brogue |  | [📦 midzer/BrogueCE](https://github.com/midzer/BrogueCE) |
-| ⭐ Brotato | [▶ gn-math.dev](https://gn-math.dev/?id=723) | [📦 BlueGameMC/BrotatoWeb](https://github.com/BlueGameMC/BrotatoWeb) |
-| ⭐ Brotato (2) | [▶ wasm.rip](https://wasm.rip/files/bpac/index.html) | [📦 gays-studio/brotato-webport](https://github.com/gays-studio/brotato-webport/) |
-| Brotato (3) |  | [📦 wowdabug/s1/tree/main/brotato](https://github.com/wowdabug/s1/tree/main/brotato) |
-| Brotato (4) |  | [📦 degloved-net/brotato-web](https://github.com/degloved-net/brotato-web) |
-| Brutal Doom | [▶ rgc.zone](https://rgc.zone/ports/brutaldoom/index.html) |  |
-| Bubble Bobble |  | [📦 cookertron/BubbleBobble](https://github.com/cookertron/BubbleBobble) |
-| ⭐ Buckshot Roulette | [▶ gn-math.github.io](https://gn-math.github.io/web-port/buckshot-roulette/) | [📦 genizy/web-port/tree/main/buckshot-roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) |
-| Buckshot Roulette (2) |  | [📦 Stratus-Games/Buckshot-NEWEST-Port](https://github.com/Stratus-Games/Buckshot-NEWEST-Port) |
-| Buckshot Roulette (3) |  | [📦 degloved-net/buckshot-roulette-web](https://github.com/degloved-net/buckshot-roulette-web) |
-| Bumpy's Arcade Fantasy | [▶ rgc.zone](https://rgc.zone/ports/bumpyweb/openbumpy.html) |  |
-| burnedwebsite |  | [📦 burnedpopcorn/burnedwebsite](https://github.com/burnedpopcorn/burnedwebsite) |
-| Burnout 3: Takedown | [▶ burnout3.online](https://burnout3.online/) |  |
-| Buster Jam | [▶ gn-math.dev](https://gn-math.dev/?id=646) |  |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="c"></a>
-
-## C <sub>· 80</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| C-Dogs SDL |  | [📦 midzer/cdogs-sdl](https://github.com/midzer/cdogs-sdl) |
-| Caesar II | [▶ second-impressions.github.io](https://second-impressions.github.io/caesar2-port/) |  |
-| Caesar III |  | [📦 bvschaik/julius](https://github.com/bvschaik/julius) |
-| Caesar III (Augustus) |  | [📦 Keriew/augustus](https://github.com/Keriew/augustus) |
-| Call of Duty Web Collection | [▶ cod-webports.pages.dev](https://cod-webports.pages.dev/) |  |
-| Call of Duty: Black Ops Zombies | [▶ vel.gg](http://vel.gg/bo1z) |  |
-| ⭐ Call of Duty: Black Ops Zombies (2) | [▶ vel.gg](https://vel.gg/bsz) | [📦 AllanLotta/bo1-zombies-coop](https://github.com/AllanLotta/bo1-zombies-coop) |
-| Call of Duty: Modern Warfare 2 | [▶ ovz-game-production.up.railway.app](https://ovz-game-production.up.railway.app) |  |
-| Call of Mini: Dino Hunter (Revival) | [▶ comdh.krig.games](https://comdh.krig.games/) |  |
-| Candy Crisis |  | [📦 midzer/CandyCrisis](https://github.com/midzer/CandyCrisis) |
-| Capuchin |  | [📦 aukak/Capuchin](https://github.com/aukak/Capuchin) |
-| ⭐ Carmageddon | [▶ rgc.zone](https://rgc.zone/ports/carmaweb/index.html) | [📦 Carter54git/dethrace-ported-to-web](https://github.com/Carter54git/dethrace-ported-to-web) |
-| ⭐ Carmageddon II: Carpocalypse Now | [▶ rgc.zone](https://rgc.zone/ports/carma2web/index.html) | [📦 Carter54git/carmageddon-2-ported-to-web](https://github.com/Carter54git/carmageddon-2-ported-to-web) |
-| CaseOh's Basics in Eating and Fast Food | [▶ gn-math.dev](https://gn-math.dev/?id=758) |  |
-| Castle Crashers | [▶ truffled.lol](https://truffled.lol/games/castle/index.html) |  |
-| Cat Goes Fishing |  | [📦 Reeyuki/CatFish](https://github.com/Reeyuki/CatFish) |
-| Catchaware |  | [📦 barnicalstuff/captchaware](https://github.com/barnicalstuff/captchaware) |
-| ⭐ Cave Story | [▶ rgc.zone](https://rgc.zone/ports/cavestory/index.html) | [📦 midzer/nxengine-evo](https://github.com/midzer/nxengine-evo) |
-| Cave Story | [▶ midzer.de](https://midzer.de/wasm/cavestory/) |  |
-| ⭐ Celeste | [▶ gn-math.dev](https://gn-math.dev/?id=623) | [📦 MercuryWorkshop/celeste-wasm](https://github.com/MercuryWorkshop/celeste-wasm) |
-| ⭐ Celeste (2) | [▶ celeste.r58playz.dev](https://celeste.r58playz.dev/) | [📦 web-ports/celeste](https://github.com/web-ports/celeste) |
-| Celeste 3D |  | [📦 gays-studio/celeste3d](https://github.com/gays-studio/celeste3d) |
-| Celeste 64 |  | [📦 MercuryWorkshop/Celeste64](https://github.com/MercuryWorkshop/Celeste64) |
-| Chain-Chillas |  | [📦 Camzzz-vrgt/chain-chillas-web](https://github.com/Camzzz-vrgt/chain-chillas-web) |
-| Chasing Tails ~A Promise in the Snow~ |  | [📦 gays-studio/chasingtails](https://github.com/gays-studio/chasingtails) |
-| Chasm: The Rift | [▶ rgc.zone](https://rgc.zone/ports/chasmweb/run.html) |  |
-| Cheese Cube | [▶ cheese-cube.pages.dev](http://cheese-cube.pages.dev) |  |
-| Cheese Rollers |  | [📦 SomeRandomFella/portsandrips/tree/master/CheeseRollingWeb](https://github.com/SomeRandomFella/portsandrips/tree/master/CheeseRollingWeb) |
-| Cheese Rolling | [▶ gn-math.dev](https://gn-math.dev/?id=762) |  |
-| Cheese Rolling | [▶ wasm.rip](https://wasm.rip/files/cheese-rolling/index.html) |  |
-| Cheesed Up 1.3.1 |  | [📦 burnedpopcorn/Cheesed-Up-1.3.1-Web-Port](https://github.com/burnedpopcorn/Cheesed-Up-1.3.1-Web-Port) |
-| Chip's Challenge (chipdx) |  | [📦 CasualX/chipdx](https://github.com/CasualX/chipdx) |
-| ⭐ Christmas Massacre | [▶ gn-math.dev](https://gn-math.dev/?id=734) | [📦 web-ports/christmas-massacre](https://github.com/web-ports/christmas-massacre) |
-| Chromium B.S.U. |  | [📦 midzer/chromium-bsu](https://github.com/midzer/chromium-bsu) |
-| Circus Linux! |  | [📦 ICTylor/circuslinux](https://github.com/ICTylor/circuslinux) |
-| ⭐ Class of '09 | [▶ gn-math.github.io](https://gn-math.github.io/web-port/class-of-09/) | [📦 genizy/web-port/tree/main/class-of-09](https://github.com/genizy/web-port/tree/main/class-of-09) |
-| Class of '09: The Flip Side |  | [📦 AlexBoops/TFS](https://github.com/AlexBoops/TFS) |
-| Class of '09: The Re-Up |  | [📦 AlexBoops/tru](https://github.com/AlexBoops/tru) |
-| ⭐ Claude of Duty: Vibe Slops II | [▶ froydinger.github.io](https://froydinger.github.io/claude-of-duty/) | [📦 froydinger/claude-of-duty](https://github.com/froydinger/claude-of-duty) |
-| Claude of Duty: Vibe Slops II (GoofyAhhBro69420 mirror) | [▶ goofyahhbro69420.github.io](https://goofyahhbro69420.github.io/Black-Ops-2/) |  |
-| Claw |  | [📦 midzer/OpenClaw](https://github.com/midzer/OpenClaw) |
-| Click to Ten |  | [📦 BestSpark687090/bestspark-web-ports/tree/main/click-to-ten](https://github.com/BestSpark687090/bestspark-web-ports/tree/main/click-to-ten) |
-| ⭐ Clover Pit | [▶ gn-math.dev](https://gn-math.dev/?id=716) | [📦 web-ports/clover-pit](https://github.com/web-ports/clover-pit) |
-| ⭐ Clustertruck | [▶ wasm.rip](https://wasm.rip/files/ClusterTruck/clustertruck.html) | [📦 wasmdotrip/Clustertruck-Port](https://github.com/wasmdotrip/Clustertruck-Port) |
-| Command & Conquer |  | [📦 midzer/Vanilla-Conquer](https://github.com/midzer/Vanilla-Conquer) |
-| Command & Conquer: Generals (wasm.com.br) | [▶ generals.wasm.com.br](https://generals.wasm.com.br/) |  |
-| ⭐ Command & Conquer: Generals Zero Hour | [▶ generals.wasm.ltd](https://generals.wasm.ltd) | [📦 origami-ltd/wasm-generals](https://github.com/origami-ltd/wasm-generals) |
-| Command & Conquer: Red Alert 2 | [▶ chronodivide.com](https://chronodivide.com/) |  |
-| ⭐ Command & Conquer: Renegade (Open Commando) | [▶ open-commando.netanelgilad.workers.dev](https://open-commando.netanelgilad.workers.dev) | [📦 netanelgilad/open-commando](https://github.com/netanelgilad/open-commando) |
-| ⭐ Commander Keen | [▶ jamesfmackenzie.com](https://www.jamesfmackenzie.com/chocolatekeen/) | [📦 jamesfmackenzie/chocolatekeen](https://github.com/jamesfmackenzie/chocolatekeen) |
-| Counter Strike & Half Life |  | [📦 yohimik/webxash3d-fwgs](https://github.com/yohimik/webxash3d-fwgs) |
-| ⭐ Counter Strike & Half Life (2) | [▶ pixelsuft.github.io](https://pixelsuft.github.io/hl/) | [📦 Pixelsuft/hl](https://github.com/Pixelsuft/hl) |
-| Counter Strike & Half Life frontend (2) |  | [📦 Pixelsuft/hl](https://github.com/Pixelsuft/hl) |
-| Counter Strike 1.6 |  | [📦 woahhcrackers/Global-Strike](https://github.com/woahhcrackers/Global-Strike) |
-| Counter Strike 1.6 (2) | [▶ csjs.live](https://csjs.live) |  |
-| Counter Strike 2019 | [▶ webstrike.me](https://webstrike.me) |  |
-| Counter-Strike (GStrike) | [▶ wasm.rip](https://wasm.rip/files/gstrike/index.html) |  |
-| ⭐ Counter-Strike 2 (cs2go, Three.js) | [▶ cs2go.3kh0.net](https://cs2go.3kh0.net) | [📦 3kh0/cs2go](https://github.com/3kh0/cs2go) |
-| Counter-Strike: Source Bunnyhop | [▶ bunnyhop.lol](https://bunnyhop.lol) |  |
-| Counter-Strike: Source Surf | [▶ surfd.net](http://surfd.net) |  |
-| Crash Bash Online | [▶ crashbash.app](https://crashbash.app/) |  |
-| Crash Nitro Kart | [▶ crashnitrokart.online](https://crashnitrokart.online/) |  |
-| Crash Team Racing (High Octane) | [▶ rinnegatamante.github.io](https://rinnegatamante.github.io/Crash-Team-Racing-High-Octane/) |  |
-| Crash Team Racing Turbocharged | [▶ ctr.cmzi.uk](https://ctr.cmzi.uk/) |  |
-| Crashout Crew | [▶ wasm.rip](https://wasm.rip/files/cc/index.html) |  |
-| Crazy Cattle 3D | [▶ gn-math.dev](https://gn-math.dev/?id=164) |  |
-| Createrria | [▶ nomadic-ua.itch.io](https://nomadic-ua.itch.io/createrria) |  |
-| Crisis Core: Final Fantasy VII | [▶ crisiscorefinalfantasy7.online](https://crisiscorefinalfantasy7.online/) |  |
-| ⭐ Cro-Mag Rally | [▶ midzer.de](https://midzer.de/wasm/cromagrally/) | [📦 midzer/CroMagRally](https://github.com/midzer/CroMagRally) |
-| ⭐ Cruelty Squad | [▶ gn-math.dev](https://gn-math.dev/?id=825) | [📦 imt00dizzy/cruelty-squad](https://github.com/imt00dizzy/cruelty-squad) |
-| Cruelty Squad (2) |  | [📦 web-ports/cruelty-squad](https://github.com/web-ports/cruelty-squad) |
-| Cultures: 8th Wonder of the World / Northland (cultures-saga-wasm) |  | [📦 cyberneticangel/cultures-saga-wasm](https://github.com/cyberneticangel/cultures-saga-wasm) |
-| ⭐ Cuphead | [▶ gn-math.github.io](https://gn-math.github.io/web-port/cuphead/) | [📦 genizy/web-port/tree/main/cuphead](https://github.com/genizy/web-port/tree/main/cuphead) |
-| Cuphead (2) |  | [📦 woahhcrackers/CupheadWeb](https://github.com/woahhcrackers/CupheadWeb) |
-| Cuphead (3) |  | [📦 web-ports/cuphead](https://github.com/web-ports/cuphead) |
-| Cuphead (4) | [▶ wasm.rip](https://wasm.rip/files/cuphead/index.html) |  |
-| Cut the Rope (H5DX) | [▶ yell0wsuit.github.io](https://yell0wsuit.github.io/cuttherope-h5dx/index.html) |  |
-| Cut the Rope DX | [▶ yell0wsuit.github.io](https://yell0wsuit.github.io/cuttherope-dx/) |  |
-| Cuyo |  | [📦 midzer/cuyo](https://github.com/midzer/cuyo) |
-| Cyberpunk 2077 | [▶ cyberpunk2077.lol](https://cyberpunk2077.lol/) |  |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="d"></a>
-
-## D <sub>· 84</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| Daggerfall (DaggerfallJS) | [▶ daggerfalljs.dev](https://daggerfalljs.dev/) |  |
-| A Dance of Fire and Ice |  | [📦 Nawsif/host/tree/main/ADOFAI](https://github.com/Nawsif/host/tree/main/ADOFAI) |
-| Dawnfolk |  | [📦 degloved-net/dawnfolk](https://github.com/degloved-net/dawnfolk) |
-| ⭐ Daytona USA | [▶ johannruiz.github.io](https://johannruiz.github.io/Daytona-USA-Web/) | [📦 johannruiz/Daytona-USA-Web](https://github.com/johannruiz/Daytona-USA-Web) |
-| ⭐ Dead Plate | [▶ gn-math.github.io](https://gn-math.github.io/web-port/dead-plate/) | [📦 genizy/web-port/tree/main/dead-plate](https://github.com/genizy/web-port/tree/main/dead-plate) |
-| ⭐ Deadseat | [▶ gn-math.github.io](https://gn-math.github.io/web-port/deadseat/) | [📦 genizy/web-port/tree/main/deadseat](https://github.com/genizy/web-port/tree/main/deadseat) |
-| ⭐ The Deadseat | [▶ gn-math.github.io](https://gn-math.github.io/web-port/deadseat/) | [📦 genizy/web-port/tree/main/deadseat](https://github.com/genizy/web-port/tree/main/deadseat) |
-| The Deadseat |  | [📦 TheBlehLollipop/The-Deadseat-Webport](https://github.com/TheBlehLollipop/The-Deadseat-Webport) |
-| Def Jam: Fight for NY | [▶ def-jam.online](https://def-jam.online/) |  |
-| Defblade |  | [📦 midzer/paper-world](https://github.com/midzer/paper-world) |
-| ⭐ Deltarune | [▶ gn-math.github.io](https://gn-math.github.io/web-port/deltatraveler/) | [📦 genizy/web-port/tree/main/deltatraveler](https://github.com/genizy/web-port/tree/main/deltatraveler) |
-| Deltarune |  | [📦 Mollomm1/test](https://github.com/Mollomm1/test) |
-| Deltarune Chapters 1-4 | [▶ aukak.itch.io](https://aukak.itch.io/deltarune) |  |
-| Deltatraveler | [▶ gn-math.dev](https://gn-math.dev/?id=560) |  |
-| Der Clou! |  | [📦 midzer/derclou](https://github.com/midzer/derclou) |
-| Descent | [▶ rgc.zone](https://rgc.zone/ports/descentweb/index.html) |  |
-| ⭐ Descent (d1wasm) | [▶ descent.2ar.nl](https://descent.2ar.nl/) | [📦 arbruijn/d1wasm](https://github.com/arbruijn/d1wasm) |
-| Descent (DXX-Rebirth) | [▶ midzer.de](https://midzer.de/wasm/descent1/) |  |
-| Descent I |  | [📦 midzer/dxx-rebirth](https://github.com/midzer/dxx-rebirth) |
-| Devil May Cry (ps2-web-dmc) |  | [📦 Brando-karim/ps2-web-dmc](https://github.com/Brando-karim/ps2-web-dmc) |
-| Dewdrop Dynasty |  | [📦 obsidian-ports/Dewdrop-Dynasty](https://github.com/obsidian-ports/Dewdrop-Dynasty) |
-| ⭐ Diablo | [▶ d07riv.github.io](https://d07riv.github.io/diabloweb/) | [📦 d07RiV/diabloweb](https://github.com/d07RiV/diabloweb) |
-| ⭐ Diablo (diablo_web) | [▶ johnimril.github.io](https://johnimril.github.io/diablo_web/) | [📦 johnimril/diablo_web](https://github.com/johnimril/diablo_web) |
-| ⭐ Diablo II: Lord of Destruction (D2-Web) | [▶ diablo2.virtastic.app](https://diablo2.virtastic.app/) | [📦 Virtastic/d2-web](https://github.com/Virtastic/d2-web) |
-| ⭐ Dice a Million | [▶ gn-math.dev](https://gn-math.dev/?id=759) | [📦 NotRexed/Unblocked-Games/tree/main/diceamillion](https://github.com/NotRexed/Unblocked-Games/tree/main/diceamillion) |
-| Dictators:No Peace Countryballs |  | [📦 web-ports/countryballsdictator](https://github.com/web-ports/countryballsdictator) |
-| ⭐ Diddy Kong Racing (Golden Balloon) | [▶ akratch.github.io](https://akratch.github.io/golden-balloon/) | [📦 akratch/goldenballoon](https://github.com/akratch/goldenballoon) |
-| ⭐ A Difficult Game About Climbing | [▶ gn-math.dev](https://gn-math.dev/?id=672) | [📦 web-ports/adgac](https://github.com/web-ports/adgac) |
-| Digital Logic Simulator |  | [📦 thecheetoman/DLSWebPort](https://github.com/thecheetoman/DLSWebPort) |
-| ⭐ Do NOT Take This Cat Home | [▶ gn-math.github.io](https://gn-math.github.io/web-port/donottakethiscathome/) | [📦 genizy/web-port/tree/main/donottakethiscathome](https://github.com/genizy/web-port/tree/main/donottakethiscathome) |
-| ⭐ DOKDO (restoration) | [▶ dokdo.online](https://dokdo.online) | [📦 ykondrashyn/dokdo.online](https://github.com/ykondrashyn/dokdo.online) |
-| Doki Doki Literature Club |  | [📦 EmeraldGreenR/EmeraldGreenR.github.io](https://github.com/EmeraldGreenR/EmeraldGreenR.github.io) |
-| Doki Doki Literature Club Plus! | [▶ selenite.cc](https://selenite.cc/resources/semag/ddlcplus/index.html) |  |
-| Don't Bite Me Bro |  | [📦 usheje883-maker/Dont-Bite-Me-Bro-Web](https://github.com/usheje883-maker/Dont-Bite-Me-Bro-Web) |
-| Don't Sleep With The Fishes |  | [📦 AlexBoops/DSWTF-Port](https://github.com/AlexBoops/DSWTF-Port) |
-| Donald Duck: Goin' Quackers (n64hub recomp) |  | [📦 n64hub/donald-duck-goin-quackers-recomp](https://github.com/n64hub/donald-duck-goin-quackers-recomp) |
-| ⭐ Doom | [▶ raz0red.github.io](https://raz0red.github.io/webprboom/) | [📦 midzer/chocolate-doom](https://github.com/midzer/chocolate-doom) |
-| Doom (cssDOOM) |  | [📦 NielsLeenheer/cssDOOM](https://github.com/NielsLeenheer/cssDOOM) |
-| Doom (doom-wasm) |  | [📦 cloudflare/doom-wasm](https://github.com/cloudflare/doom-wasm) |
-| Doom (doom.wasm) |  | [📦 jacobenget/doom.wasm](https://github.com/jacobenget/doom.wasm) |
-| Doom (joeheyming, classic and mods) | [▶ joeheyming.github.io](https://joeheyming.github.io/doom/) |  |
-| Doom (wasm-doom) |  | [📦 lazarv/wasm-doom](https://github.com/lazarv/wasm-doom) |
-| Doom (wasmdoom) |  | [📦 theMagicalKarp/wasmdoom](https://github.com/theMagicalKarp/wasmdoom) |
-| ⭐ Doom (wasoom) | [▶ wasoom.pages.dev](https://wasoom.pages.dev/) | [📦 koimilk/wasoom](https://github.com/koimilk/wasoom) |
-| ⭐ Doom (WebDOOM) | [▶ ustymukhman.github.io](https://ustymukhman.github.io/WebDOOM/public/) | [📦 UstymUkhman/WebDOOM](https://github.com/UstymUkhman/WebDOOM) |
-| Doom / Doom II / Heretic (EDGE-classic) |  | [📦 edge-classic/EDGE-classic](https://github.com/edge-classic/EDGE-classic) |
-| ⭐ Doom 3 | [▶ gn-math.dev](https://gn-math.dev/?id=626) | [📦 web-ports/doom-3](https://github.com/web-ports/doom-3) |
-| Doom 3 (D3Wasm) | [▶ recompiledgames.com](https://recompiledgames.com/doom-3-recompiled) |  |
-| Doom 3 Demo | [▶ wasm.continuation-labs.com](https://wasm.continuation-labs.com/d3demo/) |  |
-| Doom 3: BFG Edition (D3BFG.js) |  | [📦 Hiten-dev-ai/D3BFG.js](https://github.com/Hiten-dev-ai/D3BFG.js) |
-| Doom Engine |  | [📦 GMH-Code/Dwasm](https://github.com/GMH-Code/Dwasm) |
-| DOOM I & II | [▶ rgc.zone](https://rgc.zone/ports/truedoom/index.html) |  |
-| Doom Multiplayer | [▶ silentspacemarine.com](https://silentspacemarine.com/) |  |
-| DOS demoscene productions (demoscene-recomp) |  | [📦 treylorswift/demoscene-recomp](https://github.com/treylorswift/demoscene-recomp) |
-| Dos.Zone | [▶ dos.zone](https://dos.zone) |  |
-| Downhill Domination | [▶ downhilldomination.online](https://downhilldomination.online/) |  |
-| Downhill Domination (downhill-revived) |  | [📦 skuza-oss/downhill-revived](https://github.com/skuza-oss/downhill-revived) |
-| Downhill Domination (downhill-web) |  | [📦 ekansh28/downhill-web](https://github.com/ekansh28/downhill-web) |
-| Dragon Ball Z: Budokai 2 | [▶ budokai2onlline.cc](https://budokai2onlline.cc/) |  |
-| Dragon Ball Z: Budokai 3 | [▶ dragonballbudokai3.online](https://dragonballbudokai3.online/) |  |
-| Dragon Ball Z: Budokai Tenkaichi 2 | [▶ dragonballbt2.online](https://dragonballbt2.online/) |  |
-| Dragon Ball Z: Budokai Tenkaichi 3 | [▶ dragonballbt3.online](https://dragonballbt3.online/) |  |
-| Dragon Ball Z: Budokai Tenkaichi 3 (Tenkaichi3Decomp, WASM) |  | [📦 BeeLTL/Tenkaichi3Decomp](https://github.com/BeeLTL/Tenkaichi3Decomp) |
-| ⭐ Drakan: The Ancients' Gates (Drakan2PC) | [▶ christophervr.github.io](https://christophervr.github.io/Drakan2PC/) | [📦 ChristopherVR/Drakan2PC](https://github.com/ChristopherVR/Drakan2PC) |
-| Drascula: The Vampire Strikes Back (ScummWeb) | [▶ scummweb.tsilva.eu](https://scummweb.tsilva.eu/drascula-the-vampire-strikes-back) |  |
-| Dressing Room |  |  |
-| Duck Game (WebAssembly port) |  | [📦 im-nassinger/duck-game](https://github.com/im-nassinger/duck-game) |
-| Duck Life 8 | [▶ gn-math.dev](https://gn-math.dev/?id=695) |  |
-| Duck Life Adventure |  | [📦 aukak/duck-life-adventure](https://github.com/aukak/duck-life-adventure) |
-| Duck Life Adventure (2) |  | [📦 web-ports/duck-8](https://github.com/web-ports/duck-8) |
-| Dude Simulator | [▶ dude-simulator-webgl.netlify.app](https://dude-simulator-webgl.netlify.app/) |  |
-| Dude Simulator 2 | [▶ dude-sim-2-webgl-ported-by-carteryes.netlify.app](https://dude-sim-2-webgl-ported-by-carteryes.netlify.app/) |  |
-| Duke Caribbean: Life's a Beach | [▶ rgc.zone](https://rgc.zone/ports/8779-duke-vacation/run.html) |  |
-| Duke It Out in D.C. | [▶ rgc.zone](https://rgc.zone/ports/8780-duke-dc/run.html) |  |
-| ⭐ Duke Nukem 3D | [▶ midzer.de](https://midzer.de/wasm/duke3d/) | [📦 midzer/BelgianChocolateDuke3D](https://github.com/midzer/BelgianChocolateDuke3D) |
-| ⭐ Duke Nukem 3D (eduke32-wasm) | [▶ digitalcybersoft.github.io](https://digitalcybersoft.github.io/eduke32-wasm/) | [📦 digitalcybersoft/eduke32-wasm](https://github.com/digitalcybersoft/eduke32-wasm) |
-| Duke Nukem 3D TG | [▶ rgc.zone](https://rgc.zone/ports/duke3dtg/index.html) |  |
-| Duke Nukem II |  | [📦 lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) |
-| Duke: Nuclear Winter | [▶ rgc.zone](https://rgc.zone/ports/8781-duke-nwinter/run.html) |  |
-| Dumb Ways to Die (v1.6) |  | [📦 web-ports/dumb-ways-to-die](https://github.com/web-ports/dumb-ways-to-die) |
-| ⭐ Dune II | [▶ dune2js.com](https://dune2js.com/) | [📦 midzer/OpenDUNE](https://github.com/midzer/OpenDUNE) |
-| DUNE II TG | [▶ rgc.zone](https://rgc.zone/ports/dune2tg/index.html) |  |
-| Dungeon Keeper | [▶ dk-browser.tiiny.site](https://dk-browser.tiiny.site/) |  |
-| Dungeon Rush |  | [📦 midzer/DungeonRush](https://github.com/midzer/DungeonRush) |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="e"></a>
-
-## E <sub>· 8</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| ⭐ EA Sports Cricket 07 | [▶ cricket07.dhaiwat.com](https://cricket07.dhaiwat.com/) | [📦 Dhaiwat10/cricket07-browser](https://github.com/Dhaiwat10/cricket07-browser) |
-| Eaglercraft | [▶ rgc.zone](https://rgc.zone/ports/eaglecarftg/index.html) |  |
-| Egg Fried Rice |  |  |
-| ⭐ The Elder Scrolls III: Morrowind (OpenMW) | [▶ morrowind.virtastic.app](https://morrowind.virtastic.app/) | [📦 Virtastic/openmw-web](https://github.com/Virtastic/openmw-web) |
-| Empty Clip |  | [📦 midzer/empty-clip](https://github.com/midzer/empty-clip) |
-| Endacopia |  | [📦 linkawaken1979-alt/endacopia-](https://github.com/linkawaken1979-alt/endacopia-) |
-| Endoparasitic | [▶ gn-math.dev](https://gn-math.dev/?id=286) |  |
-| Endoparasitic 2 | [▶ gn-math.dev](https://gn-math.dev/?id=724) |  |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="f"></a>
-
-## F <sub>· 67</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| F-Zero X (n64hub recomp) |  | [📦 n64hub/f-zero-x-recomp](https://github.com/n64hub/f-zero-x-recomp) |
-| ⭐ F1 Race (MTK) | [▶ lab.exlmoto.ru](https://lab.exlmoto.ru/f1/) | [📦 EXL/F1-Race](https://github.com/EXL/F1-Race) |
-| Fade To Black |  | [📦 midzer/f2bgl](https://github.com/midzer/f2bgl) |
-| ⭐ Fallout | [▶ gn-math.dev](https://gn-math.dev/?id=585) | [📦 midzer/fallout1-ce](https://github.com/midzer/fallout1-ce) |
-| Fallout 2 |  | [📦 roginvs/fallout2-ce](https://github.com/roginvs/fallout2-ce) |
-| Fallout: Nevada / Sonora | [▶ fallout-nevada.ru](https://fallout-nevada.ru/#/en) |  |
-| ⭐ Fallout: New Vegas (fnv-web-recomp) | [▶ falloutnewvegasweb.com](https://falloutnewvegasweb.com/) | [📦 SgtMetz/fnv-web-recomp](https://github.com/SgtMetz/fnv-web-recomp) |
-| Faster Than Light: Demo | [▶ rgc.zone](https://rgc.zone/ports/ftldemo/index.html) |  |
-| Fatal Racing | [▶ play.fatal.racing](https://play.fatal.racing/) |  |
-| Fear & Hunger | [▶ gn-math.dev](https://gn-math.dev/?id=706) |  |
-| Fear & Hunger 2: Termina | [▶ gn-math.dev](https://gn-math.dev/?id=794) |  |
-| Fear and Hunger |  | [📦 web-ports/fear-and-hunger](https://github.com/web-ports/fear-and-hunger) |
-| Fear and Hunger 2: Termina |  | [📦 web-ports/fear-and-hunger-2](https://github.com/web-ports/fear-and-hunger-2) |
-| ⭐ Fears To Fathom | [▶ gn-math.github.io](https://gn-math.github.io/web-port/fears-to-fathom/) | [📦 genizy/web-port/tree/main/fears-to-fathom](https://github.com/genizy/web-port/tree/main/fears-to-fathom) |
-| ⭐ Fears to Fathom: Home Alone | [▶ gn-math.dev](https://gn-math.dev/?id=460) | [📦 slqntdevss/FTFHAPort](https://github.com/slqntdevss/FTFHAPort) |
-| ⭐ Feed & Grow Fish | [▶ reeyukifish.pages.dev](https://reeyukifish.pages.dev/) | [📦 Reeyuki/FeedAndGrowFishPort](https://github.com/Reeyuki/FeedAndGrowFishPort) |
-| Feed the Pit |  | [📦 idkdl/feedthepit-src](https://github.com/idkdl/feedthepit-src) |
-| ⭐ FEZ | [▶ wasm.rip](https://wasm.rip/files/FEZ/fez.html) | [📦 degloved-net/FEZ](https://github.com/degloved-net/FEZ) |
-| FIFA 10 (PSP) | [▶ fifa10.website](https://fifa10.website/) |  |
-| FIFA 11 | [▶ fifa11.online](https://fifa11.online/) |  |
-| FIFA 12 | [▶ fifa12.online](https://fifa12.online/) |  |
-| FIFA 13 | [▶ fifa13.online](https://fifa13.online/) |  |
-| FIFA 14 (PSP) | [▶ fifa14.online](https://fifa14.online/) |  |
-| FIFA Street | [▶ fifastreet.online](https://fifastreet.online/) |  |
-| FIFA Street 2 | [▶ fifastreet2.fun](https://fifastreet2.fun/) |  |
-| ⭐ Fih | [▶ gn-math.dev](https://gn-math.dev/?id=797) | [📦 InsayneBoko/fih-port/tree/main/port](https://github.com/InsayneBoko/fih-port/tree/main/port) |
-| ⭐ FISH | [▶ gn-math.dev](https://gn-math.dev/?id=761) | [📦 web-ports/fish](https://github.com/web-ports/fish) |
-| Five Nighs at Epstein's |  | [📦 web-ports/fnae](https://github.com/web-ports/fnae) |
-| Five Nights at Candy's | [▶ gn-math.dev](https://gn-math.dev/?id=503) |  |
-| Five Nights at Candy's 1 |  | [📦 web-ports/fnac/tree/main/1](https://github.com/web-ports/fnac/tree/main/1) |
-| ⭐ Five Nights at Candy's 2 | [▶ gn-math.dev](https://gn-math.dev/?id=504) | [📦 web-ports/fnac/tree/main/2](https://github.com/web-ports/fnac/tree/main/2) |
-| ⭐ Five Nights at Epstein's | [▶ gn-math.dev](https://gn-math.dev/?id=710) | [📦 web-ports/fnae](https://github.com/web-ports/fnae) |
-| Five Nights at Freddy's | [▶ gn-math.dev](https://gn-math.dev/?id=38) |  |
-| Five Nights at Freddy's 1 |  | [📦 irv77/hd_fnaf/tree/main/1](https://github.com/irv77/hd_fnaf/tree/main/1) |
-| ⭐ Five Nights at Freddy's 2 | [▶ gn-math.dev](https://gn-math.dev/?id=39) | [📦 irv77/hd_fnaf/tree/main/2](https://github.com/irv77/hd_fnaf/tree/main/2) |
-| ⭐ Five Nights at Freddy's 3 | [▶ gn-math.dev](https://gn-math.dev/?id=40) | [📦 irv77/hd_fnaf/tree/main/3](https://github.com/irv77/hd_fnaf/tree/main/3) |
-| ⭐ Five Nights at Freddy's 4 | [▶ gn-math.dev](https://gn-math.dev/?id=41) | [📦 irv77/hd_fnaf/tree/main/4](https://github.com/irv77/hd_fnaf/tree/main/4) |
-| Five Nights at Freddy's 4: Halloween | [▶ gn-math.dev](https://gn-math.dev/?id=428) |  |
-| Five Nights at Freddy's 4: Halloween Edition |  | [📦 genizy/fnaf/tree/main/4-halloween](https://github.com/genizy/fnaf/tree/main/4-halloween) |
-| ⭐ Five Nights at Freddy's World: Refreshed | [▶ gn-math.dev](https://gn-math.dev/?id=704) | [📦 web-ports/fnaf-world-refreshed](https://github.com/web-ports/fnaf-world-refreshed) |
-| Five Nights at Freddy's: Pizza Simulator | [▶ gn-math.dev](https://gn-math.dev/?id=191) |  |
-| Five Nights at Freddy's: Pizzeria Simulator |  | [📦 irv77/hd_fnaf/tree/main/ps](https://github.com/irv77/hd_fnaf/tree/main/ps) |
-| ⭐ Five Nights at Freddy's: Sister Location | [▶ gn-math.dev](https://gn-math.dev/?id=185) | [📦 irv77/hd_fnaf/tree/main/sl](https://github.com/irv77/hd_fnaf/tree/main/sl) |
-| ⭐ Five Nights at Freddy's: Ultimate Custom Night | [▶ gn-math.dev](https://gn-math.dev/?id=192) | [📦 irv77/hd_fnaf/tree/main/ucn](https://github.com/irv77/hd_fnaf/tree/main/ucn) |
-| ⭐ Five Nights at Freddy's: World | [▶ gn-math.dev](https://gn-math.dev/?id=190) | [📦 irv77/hd_fnaf/tree/main/w](https://github.com/irv77/hd_fnaf/tree/main/w) |
-| ⭐ Five Nights at Frickbear's 3 | [▶ gn-math.dev](https://gn-math.dev/?id=813) | [📦 Reeyuki/frickbears3port](https://github.com/Reeyuki/frickbears3port/) |
-| Five Nights at Last Breath | [▶ gn-math.dev](https://gn-math.dev/?id=750) |  |
-| Five Nights in Anime 3D |  | [📦 Reeyuki/fivenightsanime3dport](https://github.com/Reeyuki/fivenightsanime3dport) |
-| Flare |  | [📦 midzer/flare-engine](https://github.com/midzer/flare-engine) |
-| Flashback |  | [📦 midzer/reminiscence](https://github.com/midzer/reminiscence) |
-| FlatOut 2 (dezm0n web port) | [▶ itch.io](https://itch.io/event/46481004) |  |
-| Flight of the Amazon Queen (ScummWeb) | [▶ scummweb.tsilva.eu](https://scummweb.tsilva.eu/#game-flight-of-the-amazon-queen) |  |
-| Flying Gorilla |  | [📦 web-ports/flying-gorilla](https://github.com/web-ports/flying-gorilla) |
-| ⭐ Flying Gorilla 3D | [▶ gn-math.dev](https://gn-math.dev/?id=763) | [📦 web-ports/flying-gorilla](https://github.com/web-ports/flying-gorilla) |
-| ⭐ FNAF | [▶ gn-math.github.io](https://gn-math.github.io/web-port/fnaf/) | [📦 genizy/web-port/tree/main/fnaf](https://github.com/genizy/web-port/tree/main/fnaf) |
-| FNAF |  | [📦 genizy/fnaf/tree/main/1](https://github.com/genizy/fnaf/tree/main/1) |
-| FNAF: Blood & Gears (Demo) |  | [📦 UMMMM-GUYSSS/Five-Nights-at-Freddy-s-Blood---Gears](https://github.com/UMMMM-GUYSSS/Five-Nights-at-Freddy-s-Blood---Gears) |
-| Formula One 06 | [▶ f12006.online](https://f12006.online/) |  |
-| Free Heroes of Might and Magic II (web) |  | [📦 Carter54git/fheroes-1.1.17-ported-to-web](https://github.com/Carter54git/fheroes-1.1.17-ported-to-web) |
-| Freeciv (Freeciv-web) | [▶ webciv.org](https://webciv.org/webclient/?action=new&type=singleplayer) |  |
-| Freegemas |  | [📦 midzer/freegemas](https://github.com/midzer/freegemas) |
-| Freegish |  | [📦 midzer/freegish](https://github.com/midzer/freegish) |
-| Freeserf |  | [📦 midzer/freeserf](https://github.com/midzer/freeserf) |
-| FreeSiege |  | [📦 midzer/freesiege](https://github.com/midzer/freesiege) |
-| ⭐ Fundamental Paper Novel | [▶ gn-math.dev](https://gn-math.dev/?id=746) | [📦 bubbls/ports/tree/main/fpn-FULLY_RECRAFTED-web](https://github.com/bubbls/ports/tree/main/fpn-FULLY_RECRAFTED-web) |
-| Fungiman |  | [📦 GrassPorts/Fungiman](https://github.com/GrassPorts/Fungiman) |
-| Fused 240 | [▶ gn-math.dev](https://gn-math.dev/?id=722) |  |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="g"></a>
-
-## G <sub>· 55</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| Gabriel's Awesome Schoolhouse |  | [📦 web-ports/gash](https://github.com/web-ports/gash) |
-| Gabriel's Awesome Schoolhouse (GASH) | [▶ gn-math.dev](https://gn-math.dev/?id=784) |  |
-| Gamble with Your Friends |  | [📦 Camzzz-vrgt/gamble-with-your-friends-web/tree/main/game](https://github.com/Camzzz-vrgt/gamble-with-your-friends-web/tree/main/game) |
-| Gambonanza |  | [📦 AlexBoops/Gambonanza-Port](https://github.com/AlexBoops/Gambonanza-Port) |
-| A Game about Feeding a Black Hole |  | [📦 GrassPorts/A-Game-About-Feeding-A-Black-Hole](https://github.com/GrassPorts/A-Game-About-Feeding-A-Black-Hole) |
-| A Game about Feeding a Black Hole |  | [📦 portmirrors/agafabh](https://git.gay/portmirrors/agafabh) |
-| GameMaker games (gm-recomp, browser) |  | [📦 KurathSec/gm-recomp](https://github.com/KurathSec/gm-recomp) |
-| Gang Beasts |  | [📦 jmhq20120212-cmd/GangBeast-WebPort](https://github.com/jmhq20120212-cmd/GangBeast-WebPort) |
-| gays dot' studio |  | [📦 gays-studio](https://github.com/gays-studio) |
-| Genital Jousting |  | [📦 degloved-net/genital-jousting](https://github.com/degloved-net/genital-jousting) |
-| ⭐ Geometry Dash | [▶ gn-math.dev](https://gn-math.dev/?id=785) | [📦 AlexBoops/geometry-dash-webport](https://github.com/AlexBoops/geometry-dash-webport) |
-| ⭐ Geometry Dash (Web Dashers) | [▶ web-dashers.github.io](https://web-dashers.github.io/) | [📦 web-dashers/web-dashers.github.io](https://github.com/web-dashers/web-dashers.github.io) |
-| ⭐ Getting Over It | [▶ gn-math.github.io](https://gn-math.github.io/web-port/getting-over-it/) | [📦 genizy/web-port/tree/main/getting-over-it](https://github.com/genizy/web-port/tree/main/getting-over-it) |
-| Getting Over It with Bennett Foddy | [▶ gn-math.dev](https://gn-math.dev/?id=557) |  |
-| Gilbert and the doors |  | [📦 midzer/gilbert](https://github.com/midzer/gilbert) |
-| GMH-Code |  | [📦 GMH-Code](https://github.com/GMH-Code) |
-| GO TO BED |  |  |
-| God of War II / Gran Turismo 4 (PS2 Web Recomp) |  | [📦 snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) |
-| God of War: Chains of Olympus | [▶ godofwarchains.online](https://godofwarchains.online/) |  |
-| God of War: Chains of Olympus / Ghost of Sparta (PSP Web Recomp) |  | [📦 snuri00/psp-web-recomp](https://github.com/snuri00/psp-web-recomp) |
-| God of War: Ghost of Sparta | [▶ godofwarsparta.online](https://godofwarsparta.online/) |  |
-| Gold Miner Special Edition | [▶ wasmarcade.app](https://wasmarcade.app/play/gold-miner) |  |
-| ⭐ Golden Sun | [▶ shmargus.github.io](https://shmargus.github.io/GSRecomp/) | [📦 shmargus/GSRecomp](https://github.com/shmargus/GSRecomp) |
-| GoldenEye 007 (GoldenWeb64) | [▶ goldenweb64.com](https://goldenweb64.com/) |  |
-| ⭐ Gorilla Tag | [▶ gn-math.dev](https://gn-math.dev/?id=668) | [📦 web-ports/gorilla-tag](https://github.com/web-ports/gorilla-tag) |
-| Gorilla Tag (2) |  | [📦 aukak/gorrila-tag](https://github.com/aukak/gorrila-tag) |
-| Gran Turismo 2 | [▶ ydubr-gt2.surge.sh](https://ydubr-gt2.surge.sh/) |  |
-| Gran Turismo 2 (gt-2-pc) |  | [📦 dubrovskiy-yevhen-stakelogic/gt-2-pc](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) |
-| Gran Turismo 4 | [▶ granturismo4.online](https://granturismo4.online/) |  |
-| ⭐ Grand Theft Auto 2 | [▶ m1stermo.github.io](https://m1stermo.github.io/gta2/) | [📦 M1sterMo/gta2-browser](https://github.com/M1sterMo/gta2-browser) |
-| Grand Theft Auto III (wasm.rip) | [▶ wasm.rip](https://wasm.rip/files/gta3/index.html) |  |
-| Grand Theft Auto III Online (quenq) | [▶ iii.quenq.com](https://iii.quenq.com/) |  |
-| Grand Theft Auto IV (gta4-web) |  | [📦 itzzace/gta4-web](https://github.com/itzzace/gta4-web) |
-| ⭐ Grand Theft Auto: Chinatown Wars (PPSSPP Web) | [▶ gta-chinatown-wars.pages.dev](https://gta-chinatown-wars.pages.dev/) | [📦 root-hunter/ppsspp-web](https://github.com/root-hunter/ppsspp-web) |
-| Grand Theft Auto: Vice City (quenq) | [▶ vc.quenq.com](https://vc.quenq.com/) |  |
-| ⭐ Grand Theft Auto: Vice City (revc.wasm.ltd) | [▶ revc.wasm.ltd](https://revc.wasm.ltd/) | [📦 origami-ltd/wasm-revc](https://github.com/origami-ltd/wasm-revc) |
-| ⭐ Granny | [▶ gn-math.dev](https://gn-math.dev/?id=90) | [📦 web-ports/granny](https://github.com/web-ports/granny) |
-| Granny (2) |  | [📦 aukak/Granny](https://github.com/aukak/Granny) |
-| Granny (3) |  | [📦 woahhcrackers/GrannyWeb](https://github.com/woahhcrackers/GrannyWeb) |
-| Granny 2 |  | [📦 web-ports/granny-2](https://github.com/web-ports/granny-2) |
-| Granny 3 |  | [📦 mynamescrax/gamesforaetheris/tree/main/granny3](https://github.com/mynamescrax/gamesforaetheris/tree/main/granny3) |
-| Gravity Circuit |  | [📦 TheChillVideoGameNerd/Gravity-Circuit-Web-Port](https://github.com/TheChillVideoGameNerd/Gravity-Circuit-Web-Port) |
-| ⭐ Gravity Defied (gravity-defied-web) | [▶ litomore.github.io](https://litomore.github.io/gravity-defied-web/) | [📦 LitoMore/gravity-defied-web](https://github.com/LitoMore/gravity-defied-web) |
-| GTA 3 |  | [📦 larpinguser/HelloWorldScriptBasicFunctionCSharpIsCool](https://github.com/larpinguser/HelloWorldScriptBasicFunctionCSharpIsCool/) |
-| GTA 3 (2) |  | [📦 woahhcrackers/GTA3Web](https://github.com/woahhcrackers/GTA3Web) |
-| GTA 3 (3) | [▶ wasmarcade.com](https://wasmarcade.com/gta3) |  |
-| GTA V | [▶ web.archive.org](https://web.archive.org/web/20261006055917/https://playgta5.com/) |  |
-| GTA V (Grand-V) |  | [📦 SebasKitten/Grand-V](https://github.com/SebasKitten/Grand-V) |
-| ⭐ GTA V (GrandV V2) | [▶ v2.fiveplay.lol](https://v2.fiveplay.lol/launcher.html) | [📦 gudeakhil/playgta5v2](https://github.com/gudeakhil/playgta5v2) |
-| ⭐ GTA V (gta5-web, WebGPU) | [▶ hammadshakeelai.github.io](https://hammadshakeelai.github.io/gta5-web/) | [📦 hammadshakeelai/gta5-web](https://github.com/hammadshakeelai/gta5-web) |
-| ⭐ GTA V (playgta5-to-rust) | [▶ gta.caruno.wtf](https://gta.caruno.wtf:8443/) | [📦 caruno-git/playgta5-to-rust](https://github.com/caruno-git/playgta5-to-rust) |
-| GTA Vice City |  | [📦 Lolendor/reVCDOS](https://github.com/Lolendor/reVCDOS) |
-| ⭐ GTA Vice City (2) | [▶ joncodeofficial.github.io](https://joncodeofficial.github.io/gta-vice-city-wasm/) | [📦 joncodeofficial/gta-vice-city-wasm](https://github.com/joncodeofficial/gta-vice-city-wasm) |
-| ⭐ GTA: Vice City (projetoescola) | [▶ gtavc.projetoescola.com](https://gtavc.projetoescola.com/) | [📦 ezekky/gta-vice-city-online-webassembly](https://github.com/ezekky/gta-vice-city-online-webassembly) |
-| Guitar Hero III (Browser Edition) | [▶ gh3.thediaryofchris.net](https://gh3.thediaryofchris.net/index.html) |  |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="h"></a>
-
-## H <sub>· 44</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| Half Life | [▶ gn-math.dev](https://gn-math.dev/?id=262) |  |
-| ⭐ Half Life 2 | [▶ hl2.slqnt.dev](https://hl2.slqnt.dev/) | [📦 AlexBoops/half-life-2-port](https://github.com/AlexBoops/half-life-2-port) |
-| Half Life: Opposing Force | [▶ gn-math.dev](https://gn-math.dev/?id=693) |  |
-| ⭐ Half-Life and Counter-Strike 1.6 (WebXash) | [▶ x8bitrain.github.io](https://x8bitrain.github.io/webXash/) | [📦 x8bitrain/webXash](https://github.com/x8bitrain/webXash) |
-| ⭐ Halo: Combat Evolved | [▶ mitchellhynes.com](https://mitchellhynes.com/halo/halo.html) | [📦 ecumene/web-halo](https://github.com/ecumene/web-halo) |
-| Halo: Combat Evolved (Combat Lab) | [▶ mitchellhynes.com](https://mitchellhynes.com/combat-lab/) |  |
-| ⭐ Halo: Combat Evolved (OpenCE) | [▶ opencommunityedition.com](https://opencommunityedition.com/) | [📦 OpenCommunityEdition/OpenCE](https://github.com/OpenCommunityEdition/OpenCE) |
-| Halo: Combat Evolved Mobile | [▶ hcemobile.com](https://hcemobile.com/) |  |
-| ⭐ Happy Room | [▶ wasm.rip](https://wasm.rip/files/happy-room/index.html) | [📦 degloved-net/happy-room](https://github.com/degloved-net/happy-room) |
-| ⭐ Happy Sheepies | [▶ gn-math.github.io](https://gn-math.github.io/web-port/happy-sheepies/) | [📦 genizy/web-port/tree/main/happy-sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) |
-| Happy Wheels |  | [📦 Nawsif/host/tree/main/HappyWheels](https://github.com/Nawsif/host/tree/main/HappyWheels) |
-| Hard Truck / Hard Truck 2 (Дальнобойщики 1 и 2) | [▶ rgc.zone](https://rgc.zone/ports/hardtruck/index.html) |  |
-| ⭐ Harry Potter and the Chamber of Secrets | [▶ hp2.mihaimateias.com](https://hp2.mihaimateias.com/) | [📦 cefege/harry-potter-2-chamber-of-secrets-pc](https://github.com/cefege/harry-potter-2-chamber-of-secrets-pc) |
-| Haxima |  | [📦 midzer/nazghul](https://github.com/midzer/nazghul) |
-| HAYAI |  | [📦 degloved-net/HAYAI](https://github.com/degloved-net/HAYAI) |
-| Haze (haze-recomp) |  | [📦 zdiemer/haze-recomp](https://github.com/zdiemer/haze-recomp) |
-| Heart of Darkness |  | [📦 midzer/hode](https://github.com/midzer/hode) |
-| Hedgewars (WebWars) |  | [📦 apmlabs/webwars](https://github.com/apmlabs/webwars) |
-| ⭐ Helltaker | [▶ gn-math.dev](https://gn-math.dev/?id=790) | [📦 larpinguser/Helltaker-Web/tree/main/helltakerweb](https://github.com/larpinguser/Helltaker-Web/tree/main/helltakerweb) |
-| ⭐ Helltaker (2) | [▶ wasm.rip](https://wasm.rip/files/Helltaker/helltaker.html) | [📦 reeyuki/Helltaker-Webport](https://github.com/reeyuki/Helltaker-Webport) |
-| Help Hannah's Horse |  | [📦 midzer/hannah](https://github.com/midzer/hannah) |
-| HERETIC / HEXEN | [▶ rgc.zone](https://rgc.zone/ports/heretichex/index.html) |  |
-| Heroes of Might and magic 3 for Web |  | [📦 caiiiycuk/vcmi-wasm](https://github.com/caiiiycuk/vcmi-wasm) |
-| ⭐ Heroes of Might and Magic II | [▶ midzer.de](https://midzer.de/wasm/heroes2/) | [📦 midzer/fheroes2](https://github.com/midzer/fheroes2) |
-| Heroes of Might and Magic II (fheroes2, rgc.zone) | [▶ rgc.zone](https://rgc.zone/ports/fheroes2weblast/index.html) |  |
-| Hexen II | [▶ dos.zone](https://dos.zone/hexen-2-fteqw/) |  |
-| Hexen II (Hexenwail) | [▶ hexenwail.github.io](https://hexenwail.github.io/hexenwail/) |  |
-| Hill Climb Racing |  | [📦 NotRexed/HillClimbRacingPort](https://github.com/NotRexed/HillClimbRacingPort) |
-| ⭐ Hollow Knight | [▶ gn-math.dev](https://gn-math.dev/?id=468) | [📦 aukak/hollow-knight](https://github.com/aukak/hollow-knight) |
-| Hollow Knight (2) |  | [📦 NOTAHACKER9999/Hollow-Knight-Port](https://github.com/NOTAHACKER9999/Hollow-Knight-Port) |
-| Hollow Knight (dezm0n web port) | [▶ dezm0n.itch.io](https://dezm0n.itch.io/hollow-knight-web-port) |  |
-| ⭐ Hollow Knight: Silksong | [▶ gn-math.dev](https://gn-math.dev/?id=771) | [📦 web-ports/hollow-knight-silksong](https://github.com/web-ports/hollow-knight-silksong) |
-| Hollow Knight: Silksong (2) |  | [📦 webporting/Hollow-Knight-Silksong](https://github.com/webporting/Hollow-Knight-Silksong) |
-| ⭐ Homeworld | [▶ gardens-of-kadesh.gitlab.io](https://gardens-of-kadesh.gitlab.io/gardens-of-kadesh/) | [📦 GardensOfKadesh/Homeworld](https://github.com/GardensOfKadesh/Homeworld) |
-| Horse Magnifier |  | [📦 AlexBoops/horse-magnifier-port](https://github.com/AlexBoops/horse-magnifier-port) |
-| Horsey Game |  | [📦 woahhcrackers/HorseyGameWeb](https://github.com/woahhcrackers/HorseyGameWeb) |
-| ⭐ Hot Shots Tennis (OpenTennis) | [▶ opentennis.dev](https://opentennis.dev/) | [📦 FIZL0/opentennis](https://github.com/FIZL0/opentennis) |
-| ⭐ Hotline Miami | [▶ gn-math.github.io](https://gn-math.github.io/web-port/hotline-miami/) | [📦 genizy/web-port/tree/main/hotline-miami](https://github.com/genizy/web-port/tree/main/hotline-miami) |
-| The House of the Dead (PC 1998, recomp web) |  | [📦 un4ckn0wl3z/house-of-the-dead-recomp-web](https://github.com/un4ckn0wl3z/house-of-the-dead-recomp-web) |
-| ⭐ How to Fish | [▶ wasm.rip](https://wasm.rip/files/HowToFish/HowToFish.html) | [📦 NotRexed/HowToFishPort](https://github.com/NotRexed/HowToFishPort) |
-| Hugo (hugo_js) |  | [📦 cyxx/hugo_js](https://github.com/cyxx/hugo_js) |
-| ⭐ Human Expenditure Program | [▶ gn-math.github.io](https://gn-math.github.io/web-port/human-expenditure-program/) | [📦 genizy/web-port/tree/main/human-expenditure-program](https://github.com/genizy/web-port/tree/main/human-expenditure-program) |
-| Hurrican |  | [📦 midzer/hurrican](https://github.com/midzer/hurrican) |
-| HYDROGEN |  | [📦 BestSpark687090/bestspark-web-ports/tree/main/hydrogen](https://github.com/BestSpark687090/bestspark-web-ports/tree/main/hydrogen) |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="i"></a>
-
-## I <sub>· 10</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| I Can't Believe It's Not Sonic 1 | [▶ jojudge.com](https://jojudge.com/ICBINS1/) |  |
-| I Spoke to God |  | [📦 degloved-net/i-spoke-to-god](https://github.com/degloved-net/i-spoke-to-god) |
-| I Wanna Be The Guy | [▶ gn-math.dev](https://gn-math.dev/?id=834) |  |
-| Ignition |  | [📦 xesf/ignition](https://github.com/xesf/ignition) |
-| ⭐ In Stars and Time | [▶ gn-math.dev](https://gn-math.dev/?id=667) | [📦 Reeyuki/InStarsAndTime](https://github.com/Reeyuki/InStarsAndTime) |
-| In Stars and Time (2) |  | [📦 web-ports/in-stars-and-time](https://github.com/web-ports/in-stars-and-time) |
-| Incubation: Time Is Running Out (Remake) |  | [📦 n0madic/IncubationRemake](https://github.com/n0madic/IncubationRemake) |
-| ⭐ Inscryption | [▶ wasm.rip](https://wasm.rip/files/inscryption/index.html) | [📦 Reeyuki/InscryptionWebport](https://github.com/Reeyuki/InscryptionWebport) |
-| ⭐ Iron Lung | [▶ gn-math.dev](https://gn-math.dev/?id=705) | [📦 web-ports/iron-lung](https://github.com/web-ports/iron-lung) |
-| IS THAT A GUBBY? |  | [📦 xxskidxx69420-ai/isthatagubbywebportheh](https://github.com/xxskidxx69420-ai/isthatagubbywebportheh) |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="j"></a>
-
-## J <sub>· 11</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| Jagged Alliance 2 |  | [📦 midzer/ja2-stracciatella](https://github.com/midzer/ja2-stracciatella) |
-| Jak and Daxter: The Lost Frontier | [▶ jakdaxterlostfrontier.online](https://jakdaxterlostfrontier.online/) |  |
-| Jazz Jackrabbit |  | [📦 midzer/openjazz](https://github.com/midzer/openjazz) |
-| Jazz Jackrabbit 2 |  | [📦 deathkiller/jazz2-native](https://github.com/deathkiller/jazz2-native) |
-| ⭐ Jeffrey Epstein Basics In Education And Kidnapping | [▶ gn-math.dev](https://gn-math.dev/?id=751) | [📦 bubbls/ports/tree/main/jeffrey-epsteins-basics-in-education-and-kidnapping](https://github.com/bubbls/ports/tree/main/jeffrey-epsteins-basics-in-education-and-kidnapping) |
-| ⭐ Jelly Drift | [▶ gn-math.github.io](https://gn-math.github.io/web-port/jelly-drift/) | [📦 genizy/web-port/tree/main/jelly-drift](https://github.com/genizy/web-port/tree/main/jelly-drift) |
-| JENNY |  | [📦 MRVAPORWAVE25/JennyGameFiles](https://github.com/MRVAPORWAVE25/JennyGameFiles) |
-| JS-DOS |  | [📦 js-dos](https://github.com/js-dos/) |
-| Jumbo Mario | [▶ gn-math.dev](https://gn-math.dev/?id=712) |  |
-| Jump 'n Bump |  | [📦 midzer/jumpnbump](https://github.com/midzer/jumpnbump) |
-| ⭐ Just Shapes & Beats | [▶ gn-math.dev](https://gn-math.dev/?id=826) | [📦 web-ports/jsab](https://github.com/web-ports/jsab) |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="k"></a>
-
-## K <sub>· 23</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| ⭐ Karlson | [▶ gn-math.github.io](https://gn-math.github.io/web-port/karlson/) | [📦 genizy/web-port/tree/main/karlson](https://github.com/genizy/web-port/tree/main/karlson) |
-| Karlson (2) |  | [📦 thecheetoman/KarlsonWebPort](https://github.com/thecheetoman/KarlsonWebPort) |
-| Karlson 2D | [▶ truffled.lol](https://truffled.lol/games/karlson2d/truffledkarlson2d/index.html) |  |
-| Keep Talking and Nobody Explodes |  | [📦 squidward5/ktane-webport](https://github.com/squidward5/ktane-webport) |
-| Kerbal Space Program |  | [📦 woahhcrackers/KSPWeb](https://github.com/woahhcrackers/KSPWeb) |
-| Kill the Ice Age Baby Adventure 2 |  | [📦 SomeRandomFella/kill-ice-age-baby-adventure-2-](https://github.com/SomeRandomFella/kill-ice-age-baby-adventure-2-) |
-| Kindergarten | [▶ gn-math.dev](https://gn-math.dev/?id=445) |  |
-| ⭐ Kindergarten 1 & 2 | [▶ gn-math.github.io](https://gn-math.github.io/web-port/kindergarten/) | [📦 genizy/web-port/tree/main/kindergarten](https://github.com/genizy/web-port/tree/main/kindergarten) |
-| Kindergarten 2 | [▶ gn-math.dev](https://gn-math.dev/?id=446) |  |
-| ⭐ Kindergarten 3 | [▶ gn-math.dev](https://gn-math.dev/?id=501) | [📦 slqntdevss/Kindergarten3Port](https://github.com/slqntdevss/Kindergarten3Port) |
-| Kingdom Hearts: Chain of Memories (ReKHCoM, web alpha) |  | [📦 MatyMeatBoy/ReKHCom](https://github.com/MatyMeatBoy/ReKHCom) |
-| Kingdom Hearts: Chain of Memories (RepliCoM) | [▶ replicom.dev](https://replicom.dev/) |  |
-| Kingdom Rush (Flash Edition) | [▶ wasmarcade.app](https://wasmarcade.app/play/kingdom-rush) |  |
-| KinitoPET |  | [📦 web-ports/kinito-pet](https://github.com/web-ports/kinito-pet) |
-| ⭐ Kino der Toten | [▶ kino-der-toten.pages.dev](http://kino-der-toten.pages.dev) | [📦 GoofyAhhBro69420/COD-ZOMBIES](https://github.com/GoofyAhhBro69420/COD-ZOMBIES) |
-| Kino der Toten (GoofyAhhBro69420 mirror) | [▶ goofyahhbro69420.github.io](https://goofyahhbro69420.github.io/COD-ZOMBIES/) |  |
-| Kino der Toten (theeagler1234 mirror) | [▶ theeagler1234-alt.github.io](https://theeagler1234-alt.github.io/kino-der-toten/) |  |
-| ⭐ Kirby & The Amazing Mirror (katam-port) | [▶ sh1ftmaker.github.io](https://sh1ftmaker.github.io/katam-port/) | [📦 sh1ftmaker/katam-port](https://github.com/sh1ftmaker/katam-port) |
-| Kirby ~ Soft & Wet | [▶ gn-math.dev](https://gn-math.dev/?id=692) |  |
-| Kirby ~ Soft and Wet |  | [📦 web-ports/soft-and-wet](https://github.com/web-ports/soft-and-wet) |
-| KisakCOD |  | [📦 slqntdevss/kisakcod-port](https://github.com/slqntdevss/kisakcod-port) |
-| Klifur |  | [📦 aukak/klifur](https://github.com/aukak/klifur) |
-| koi/_flixel | [▶ oldgrounds.xyz](https://oldgrounds.xyz/) |  |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="l"></a>
-
-## L <sub>· 29</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| La Madriguera |  | [📦 web-ports/la-madriguera](https://github.com/web-ports/la-madriguera) |
-| La Madriguera (Lazy Bear Game) | [▶ gn-math.dev](https://gn-math.dev/?id=843) |  |
-| ⭐ Lacey's Flash Games | [▶ gn-math.github.io](https://gn-math.github.io/web-port/laceys-flash-games/) | [📦 genizy/web-port/tree/main/lacysflashgames](https://github.com/genizy/web-port/tree/main/lacysflashgames) |
-| LBreakoutHD |  | [📦 midzer/lbreakouthd](https://github.com/midzer/lbreakouthd) |
-| ⭐ Legend of Legaia | [▶ andrewaltimit.github.io](https://andrewaltimit.github.io/legend-of-legaia-re/play.html) | [📦 AndrewAltimit/legend-of-legaia-re](https://github.com/AndrewAltimit/legend-of-legaia-re) |
-| The Legend of Sword and Fairy (SDLPAL) |  | [📦 sdlpal/sdlpal](https://github.com/sdlpal/sdlpal) |
-| The Legend of Sword and Fairy (type-pal) |  | [📦 IllegalCreed/type-pal](https://github.com/IllegalCreed/type-pal) |
-| The Legend of Zelda (ZQuest Classic) |  | [📦 ZQuestClassic/ZQuestClassic](https://github.com/ZQuestClassic/ZQuestClassic) |
-| The Legend of Zelda - A Link to the Past |  | [📦 midzer/zelda3](https://github.com/midzer/zelda3) |
-| The Legend of Zelda - A Link to the Past (lttp, WebGL remake) |  | [📦 englercj/lttp](https://github.com/englercj/lttp) |
-| The Legend of Zelda: Link's Awakening DX (linksawakening-portable) |  | [📦 sp00nznet/linksawakening-portable](https://github.com/sp00nznet/linksawakening-portable) |
-| ⭐ The Legend of Zelda: Twilight Princess (Dusklight) | [▶ dusklight.pages.dev](https://dusklight.pages.dev/) | [📦 caribbeansc/dusklight](https://github.com/caribbeansc/dusklight) |
-| ⭐ LEGO Island | [▶ isle.pizza](https://isle.pizza/) | [📦 isledecomp/isle.pizza](https://github.com/isledecomp/isle.pizza) |
-| LEGO Racers | [▶ steponit.online](https://steponit.online/) |  |
-| LEGOLAND (1999) |  | [📦 facundosterzerforino/legoland-port](https://github.com/facundosterzerforino/legoland-port) |
-| Lemmings (ohmylemmings) |  | [📦 edwardkim/ohmylemmings](https://github.com/edwardkim/ohmylemmings) |
-| Lenin: First Blood | [▶ rgc.zone](https://rgc.zone/ports/8770-blood-lenin/run.html) |  |
-| ⭐ Lethal Ape | [▶ gn-math.dev](https://gn-math.dev/?id=793) | [📦 web-ports/lethal-ape](https://github.com/web-ports/lethal-ape) |
-| Lethal Company | [▶ wasm.rip](https://wasm.rip/files/lethal/index.html) |  |
-| Li-Ri |  | [📦 midzer/Li-Ri](https://github.com/midzer/Li-Ri) |
-| Limbo | [▶ truffled.lol](https://truffled.lol/games/limbo/index.html) |  |
-| Lionheart (lionheart-web) |  | [📦 ray77/lionheart-web](https://github.com/ray77/lionheart-web) |
-| Liquidator 3D | [▶ rgc.zone](https://rgc.zone/ports/8778-liquidator/run.html) |  |
-| Little Big Adventure 2 |  | [📦 LBALab/lba2remake](https://github.com/LBALab/lba2remake) |
-| ⭐ Lobotomy Corporation | [▶ wasm.rip](https://wasm.rip/files/lob-corp/index.html) | [📦 Reeyuki/lobcorp](https://github.com/Reeyuki/lobcorp) |
-| ⭐ Look Outside | [▶ gn-math.dev](https://gn-math.dev/?id=649) | [📦 web-ports/look-outside](https://github.com/web-ports/look-outside) |
-| ⭐ Luanti (Minetest) | [▶ wasmga.me](https://wasmga.me/games/luanti) | [📦 wasmga-me/luanti-wasm](https://github.com/wasmga-me/luanti-wasm) |
-| ⭐ Lugaru | [▶ loganwalkerdev.github.io](https://loganwalkerdev.github.io/lugaru-web/) | [📦 loganwalkerdev/lugaru-web](https://github.com/loganwalkerdev/lugaru-web) |
-| Luigi's Picture Poker | [▶ marcy4000.itch.io](https://marcy4000.itch.io/luigis-picture-poker) |  |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="m"></a>
-
-## M <sub>· 66</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| Madden NFL 08 | [▶ maddennfl08.online](https://maddennfl08.online/) |  |
-| Magic Sushi |  | [📦 EXL/Magic-Sushi](https://github.com/EXL/Magic-Sushi) |
-| Magic Tower: 50 Floors | [▶ wasmarcade.app](https://wasmarcade.app/play/magic-tower) |  |
-| ⭐ The Man From the Window | [▶ gn-math.github.io](https://gn-math.github.io/web-port/the-man-in-the-window/) | [📦 genizy/web-port/tree/main/the-man-in-the-window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) |
-| ⭐ The Man From the Window 2 | [▶ wasm.rip](https://wasm.rip/files/MFDW2/index.html) | [📦 wasm-rip/the-man-from-the-window-2-web](https://github.com/wasm-rip/the-man-from-the-window-2-web) |
-| The Man In The Window | [▶ gn-math.dev](https://gn-math.dev/?id=459) |  |
-| Marathon 2 / Infinity (AlephWeb) |  | [📦 TotallyGatsby/AlephWeb](https://github.com/TotallyGatsby/AlephWeb) |
-| Marble Blast Gold & Marble Blast Platinum |  | [📦 Vanilagy/MarbleBlast](https://github.com/Vanilagy/MarbleBlast) |
-| Mario Kart Wii (WebCompiled) |  | [📦 dynamiteswag81/webcompiled](https://github.com/dynamiteswag81/webcompiled) |
-| Mario Party (n64hub recomp) |  | [📦 n64hub/mario-party-recomp](https://github.com/n64hub/mario-party-recomp) |
-| Mario Party 2 (n64hub recomp) |  | [📦 n64hub/mario-party-2-recomp](https://github.com/n64hub/mario-party-2-recomp) |
-| Mario Party 3 (n64hub recomp) |  | [📦 n64hub/mario-party-3-recomp](https://github.com/n64hub/mario-party-3-recomp) |
-| Mario Party 4 (PC Download Play Edition) |  | [📦 wigwoo1/Mario-Party-4-PC-Download-Play-Edition](https://github.com/wigwoo1/Mario-Party-4-PC-Download-Play-Edition) |
-| Marvel vs. Capcom 2 | [▶ marvelvscapcom2.online](https://marvelvscapcom2.online/) |  |
-| Master of Defence | [▶ nomadic-ua.itch.io](https://nomadic-ua.itch.io/master-of-defence) |  |
-| Master of Orion |  | [📦 midzer/1oom](https://github.com/midzer/1oom) |
-| The Math Is Leaking |  | [📦 reeyuki/themathisleaking](https://github.com/reeyuki/themathisleaking) |
-| ⭐ MechCommander 2 (mc2-rust) | [▶ justinbukoski.github.io](https://justinbukoski.github.io/mc2-rust/) | [📦 justinbukoski/mc2-rust](https://github.com/justinbukoski/mc2-rust) |
-| Medabots AX | [▶ medabots-ax.meme.ar](https://medabots-ax.meme.ar/) |  |
-| Mega Mario |  | [📦 midzer/megamario](https://github.com/midzer/megamario) |
-| Meowdoku! |  | [📦 c00lkiddtech/md-](https://github.com/c00lkiddtech/md-) |
-| The Message From Deep Space |  | [📦 dashiellbenton/ports/tree/main/tmfds](https://github.com/dashiellbenton/ports/tree/main/tmfds) |
-| ⭐ Metal Gear Solid (Shadow Moses Web) | [▶ mgs.ravenlight.net](https://mgs.ravenlight.net/) | [📦 vjravenlight/shadow-moses-web](https://github.com/vjravenlight/shadow-moses-web) |
-| Meteor 60 Seconds |  | [📦 ThatWirdGuy/Meteor-60-Seconds-Web](https://github.com/ThatWirdGuy/Meteor-60-Seconds-Web) |
-| Micro Machines (scale-miniatures) |  | [📦 hivvu/scale-miniatures](https://github.com/hivvu/scale-miniatures) |
-| Midnight Club 3: DUB Edition | [▶ midnighhtclub3.online](https://midnighhtclub3.online/) |  |
-| Midnight Club 3: DUB Edition (mc3-web) |  | [📦 LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web) |
-| Midnight Shift | [▶ gn-math.dev](https://gn-math.dev/?id=658) |  |
-| ⭐ Milk inside a bag of milk inside a bag of milk | [▶ gn-math.dev](https://gn-math.dev/?id=650) | [📦 web-ports/milk-bag-games/tree/main/inside](https://github.com/web-ports/milk-bag-games/tree/main/inside) |
-| ⭐ Milk outside a bag of milk outside a bag of milk | [▶ gn-math.dev](https://gn-math.dev/?id=651) | [📦 web-ports/milk-bag-games/tree/main/outside](https://github.com/web-ports/milk-bag-games/tree/main/outside) |
-| ⭐ Milkman Karlson | [▶ gn-math.github.io](https://gn-math.github.io/web-port/milkman-karlson/) | [📦 genizy/web-port/tree/main/milkman-karlson](https://github.com/genizy/web-port/tree/main/milkman-karlson) |
-| Milkman Karlson (2) |  | [📦 aukak/gameports/tree/main/milkman%20karlson](https://github.com/aukak/gameports/tree/main/milkman%20karlson) |
-| Mindustry |  | [📦 khoichon/mindustry-web](https://github.com/khoichon/mindustry-web) |
-| Mindwave | [▶ gn-math.dev](https://gn-math.dev/?id=648) |  |
-| Mine Bombers (minebombers-reloaded) |  | [📦 jeiel85/minebombers-reloaded](https://github.com/jeiel85/minebombers-reloaded) |
-| Minecraft 0.6.1 | [▶ rgc.zone](https://rgc.zone/ports/minecraft061/index.html) |  |
-| Minecraft 1.8.8 (EaglercraftX) | [▶ wasmarcade.com](https://wasmarcade.com/minecraft) |  |
-| Minecraft 4k |  | [📦 midzer/m4kc](https://github.com/midzer/m4kc) |
-| Minecraft Classic (ClassiCube) |  | [📦 ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) |
-| Minecraft LCE |  |  |
-| Minecraft Pocket Edition | [▶ gn-math.dev](https://gn-math.dev/?id=754) |  |
-| Minecraft Story Mode | [▶ mcsm-web.pages.dev](https://mcsm-web.pages.dev/) |  |
-| ⭐ Minesweeper Plus | [▶ gn-math.github.io](https://gn-math.github.io/web-port/minesweeperplus/) | [📦 genizy/web-port/tree/main/minesweeperplus](https://github.com/genizy/web-port/tree/main/minesweeperplus) |
-| Mini DayZ | [▶ rgc.zone](https://rgc.zone/ports/minidayz/index.html) |  |
-| MiniSlug |  | [📦 midzer/minislug](https://github.com/midzer/minislug) |
-| Mirror's Edge (Glassline) |  | [📦 MoonCellar-Team/Glassline](https://github.com/MoonCellar-Team/Glassline) |
-| ⭐ MiSide | [▶ gn-math.dev](https://gn-math.dev/?id=814) | [📦 web-ports/miside](https://github.com/web-ports/miside/) |
-| ⭐ MiSide (2) | [▶ wasm.rip](https://wasm.rip/files/miside/miside.html) | [📦 woahhcrackers/MiSideWeb](https://github.com/woahhcrackers/MiSideWeb) |
-| ⭐ Mobile Suit Gundam: Federation vs. Zeon DX (re-gvs-fvzdx) | [▶ sennett-lau.github.io](https://sennett-lau.github.io/re-gvs-fvzdx/) | [📦 sennett-lau/re-gvs-fvzdx](https://github.com/sennett-lau/re-gvs-fvzdx) |
-| Mobile Suit Gundam: Gundam vs. Zeta Gundam (re-gvs-gvzg) |  | [📦 sennett-lau/re-gvs-gvzg](https://github.com/sennett-lau/re-gvs-gvzg) |
-| Monster Hunter Freedom Unite | [▶ mhfu.online](https://mhfu.online/) |  |
-| Moon (Black Ops Zombies, vel.gg) | [▶ vel.gg](https://vel.gg/bo1z/moon) |  |
-| Moon (Zombies) | [▶ moon-zombies.pages.dev](http://moon-zombies.pages.dev) |  |
-| Mortal Kombat: Armageddon | [▶ mka.lauta.site](https://mka.lauta.site/) |  |
-| Mortal Kombat: Shaolin Monks | [▶ mortalkombatsm.online](https://mortalkombatsm.online/) |  |
-| ⭐ Motocross Madness 2 (mcm2-web) | [▶ rzrabbi.github.io](https://rzrabbi.github.io/mcm2-web/) | [📦 rzrabbi/mcm2-web](https://github.com/rzrabbi/mcm2-web) |
-| Muck (WIP) |  | [📦 gays-studio/muck-webport](https://github.com/gays-studio/muck-webport) |
-| Muddy Heights |  | [📦 gabadagabadgoo/morbidy-obese-chickens](https://github.com/gabadagabadgoo/morbidy-obese-chickens) |
-| MVP Baseball 2005 |  | [📦 ptitty12/mvp2005-decomp](https://github.com/ptitty12/mvp2005-decomp) |
-| My Baby Talking Hippo |  | [📦 web-ports/talking-hippo](https://github.com/web-ports/talking-hippo) |
-| My Dictator Stalin Can't Be This Cute ?! |  | [📦 degloved-net/my-dictator-stalin-cant-be-this-cute](https://github.com/degloved-net/my-dictator-stalin-cant-be-this-cute) |
-| My Dictator Stalin Can't Be This Cute ?! |  | [📦 degloved-net/stalin-yuri-web](https://github.com/degloved-net/stalin-yuri-web) |
-| My Femboy Roommate |  | [📦 gays-studio/mfr-webport](http://github.com/gays-studio/mfr-webport) |
-| My Femboy Roommate (2) |  | [📦 Cute-Orange-Cat/MFR/tree/main](https://github.com/Cute-Orange-Cat/MFR/tree/main) |
-| My Furry Protogen |  | [📦 Atreyu802/My-Furry-Protogen-Web-Port](https://github.com/Atreyu802/My-Furry-Protogen-Web-Port) |
-| My Talking Baby Hippo | [▶ gn-math.dev](https://gn-math.dev/?id=840) |  |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="n"></a>
-
-## N <sub>· 36</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| Nacht der Untoten | [▶ zombies.bitcoinsapi.com](https://zombies.bitcoinsapi.com/) |  |
-| Nacht der Untoten (2) | [▶ zombies.concentric.live](https://zombies.concentric.live/) |  |
-| NAM / Napalm | [▶ rgc.zone](https://rgc.zone/ports/namweb/run.html) |  |
-| Naruto Shippuden: Ultimate Ninja 5 | [▶ narutoshippuden5.online](https://narutoshippuden5.online/) |  |
-| Naruto Shippuden: Ultimate Ninja Impact | [▶ narutoimpact.online](https://narutoimpact.online/) |  |
-| NBA 2K12 | [▶ nba2k12.online](https://nba2k12.online/) |  |
-| ⭐ NBA Street V3 | [▶ nbastreet3.online](https://nbastreet3.online/) | [📦 recomp-code/street-recomp-v3](https://github.com/recomp-code/street-recomp-v3) |
-| NBlood | [▶ rgc.zone](https://rgc.zone/ports/nbloodweb/run.html) |  |
-| ⭐ NCAA Football 10 (PSP Recomp) | [▶ awest813.github.io](https://awest813.github.io/NCAA-10-PSP-Recomp/) | [📦 awest813/NCAA-10-PSP-Recomp](https://github.com/awest813/NCAA-10-PSP-Recomp) |
-| ⭐ Need for Speed III: Hot Pursuit (nfs3-web) | [▶ nfs3.xyz](https://nfs3.xyz/) | [📦 mrz944/nfs3-web](https://github.com/mrz944/nfs3-web) |
-| Need for Speed: Carbon (online multiplayer) | [▶ nfscrb.xyz](https://nfscrb.xyz/) |  |
-| Need for Speed: Most Wanted (2005) (dezm0n web port) | [▶ dezm0n.itch.io](https://dezm0n.itch.io/nfs-most-wanted-web-port) |  |
-| Need for Speed: Most Wanted (2005) (NFSMW Online web) | [▶ web.nfsmwo.com](https://web.nfsmwo.com/) |  |
-| Need for Speed: Most Wanted (2005) (NFSMW Online) | [▶ nfsmwonline.com](https://nfsmwonline.com) |  |
-| ⭐ Need for Speed: Most Wanted (nfsmw-webport) | [▶ iker3329.github.io](https://iker3329.github.io/nfsmw-webport/) | [📦 Iker3329/nfsmw-webport](https://github.com/Iker3329/nfsmw-webport) |
-| Need for Speed: ProStreet (NFSProStreet_online) |  | [📦 uvindusl/NFSProStreet_online](https://github.com/uvindusl/NFSProStreet_online) |
-| Need for Speed: Underground (nfsu1web) |  | [📦 yurasmetanka/nfsu1web](https://github.com/yurasmetanka/nfsu1web) |
-| Need for Speed: Underground 2 | [▶ nfsu2.xyz](https://nfsu2.xyz/) |  |
-| Need for Speed: Underground 2 (nfsunderground2.site) | [▶ nfsunderground2.site](https://nfsunderground2.site/) |  |
-| ⭐ Needy Streamer Overload | [▶ gn-math.dev](https://gn-math.dev/?id=708) | [📦 web-ports/needy-streamer-overload](https://github.com/web-ports/needy-streamer-overload) |
-| NetQuake.io | [▶ netquake.io](https://www.netquake.io/) |  |
-| Neverball |  | [📦 Neverball/neverball](https://github.com/Neverball/neverball) |
-| New Super Mario Bros. Wii |  | [📦 teaserlua/nsmbw-web-port](https://github.com/teaserlua/nsmbw-web-port) |
-| NFL Street | [▶ nflstreet.online](https://nflstreet.online/) |  |
-| NFL Street 2 (NIL Street) | [▶ nilstreet.playthecombine.com](https://nilstreet.playthecombine.com/) |  |
-| NHL '94 | [▶ kingof94.web.app](https://kingof94.web.app/) |  |
-| Night in the Woods |  | [📦 reeyuki/NightInTheWoods](https://github.com/reeyuki/NightInTheWoods/) |
-| Night of the Consumers |  | [📦 linkawaken1979-alt/night-of-the-consumers-web-port](https://github.com/linkawaken1979-alt/night-of-the-consumers-web-port) |
-| Nikwi |  | [📦 midzer/nikwi](https://github.com/midzer/nikwi) |
-| No One Lives Forever | [▶ playnolf.com](https://playnolf.com/) |  |
-| Nodebuster |  | [📦 degloved-net/nodebuster](https://github.com/degloved-net/nodebuster) |
-| Nothing |  | [📦 gays-studio/nothing-wasm-web](https://github.com/gays-studio/nothing-wasm-web) |
-| Nothing (2) |  | [📦 googoogoob/NothingWebPort](https://github.com/googoogoob/NothingWebPort) |
-| Nothing (3) |  | [📦 BestSpark687090/bestspark-web-ports/tree/main/actual-nothing](https://github.com/BestSpark687090/bestspark-web-ports/tree/main/actual-nothing) |
-| ⭐ Nubby's Number Factory | [▶ gn-math.dev](https://gn-math.dev/?id=517) | [📦 genizy/biologyexams/tree/main/nubbys-number-factory](https://github.com/genizy/biologyexams/tree/main/nubbys-number-factory) |
-| Numpty Physics |  | [📦 midzer/numptyphysics](https://github.com/midzer/numptyphysics) |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="o"></a>
-
-## O <sub>· 16</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| Ogre Battle 64: Person of Lordly Caliber (recomp) |  | [📦 lfarroco/ogre-battle-64-recomp](https://github.com/lfarroco/ogre-battle-64-recomp) |
-| OLD CheesedUP |  | [📦 burnedpopcorn/OLD-CheesedUP-Web-Port](https://github.com/burnedpopcorn/OLD-CheesedUP-Web-Port) |
-| ⭐ OMORI | [▶ gn-math.github.io](https://gn-math.github.io/web-port/omori-fixed/) | [📦 genizy/web-port/tree/main/omori-fixed](https://github.com/genizy/web-port/tree/main/omori-fixed) |
-| OMORI (openomori) |  | [📦 dazacode/openomori](https://github.com/dazacode/openomori) |
-| One Must Fall 2097 Remastered |  | [📦 Jared-woodruff/OMF-2097-Remastered](https://github.com/Jared-woodruff/OMF-2097-Remastered) |
-| One Night At Kim Jong Un's |  | [📦 usheje883-maker/One-Night-At-Kim-Jong-Un-s-Webport](https://github.com/usheje883-maker/One-Night-At-Kim-Jong-Un-s-Webport) |
-| One Potion Please! |  | [📦 ajtabjs/onepotionplease](https://github.com/ajtabjs/onepotionplease) |
-| ⭐ Oneshot (Legacy) | [▶ gn-math.dev](https://gn-math.dev/?id=622) | [📦 67-Factory/oneshotthing](https://github.com/67-Factory/oneshotthing) |
-| ⭐ Oneshot: World Machine Edition | [▶ wasm.rip](https://wasm.rip/files/oneshot-wme/index.html) | [📦 MercuryWorkshop/webshot](https://github.com/MercuryWorkshop/webshot) |
-| Open Golf |  | [📦 mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) |
-| Open Sonic | [▶ clarkeadg.github.io](https://clarkeadg.github.io/opensonic-js/) |  |
-| OpenFodder |  | [📦 OpenFodder/openfodder](https://github.com/OpenFodder/openfodder) |
-| ⭐ OpenTTD | [▶ openttdonline.com](https://openttdonline.com/play/) | [📦 OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) |
-| OpenTTD (OpenTTD Online) |  | [📦 swords02/openttd-online](https://github.com/swords02/openttd-online) |
-| OpenTyrian |  | [📦 midzer/opentyrian](https://github.com/midzer/opentyrian) |
-| Overburden | [▶ gn-math.dev](https://gn-math.dev/?id=760) |  |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="p"></a>
-
-## P <sub>· 62</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| Pacman |  | [📦 midzer/pacman](https://github.com/midzer/pacman) |
-| Paint the Town Red |  | [📦 Reeyuki/PttrWebport](https://github.com/Reeyuki/PttrWebport) |
-| Pang (pang-web) |  | [📦 ray77/pang-web](https://github.com/ray77/pang-web) |
-| Paper Mario (n64hub recomp) |  | [📦 n64hub/paper-mario-recomp](https://github.com/n64hub/paper-mario-recomp) |
-| Patrick’s Parabox |  | [📦 puffrs/patrickparaboxweb](https://github.com/puffrs/patrickparaboxweb) |
-| ⭐ PEAK (VERY wip) | [▶ wasm.rip](https://wasm.rip/files/peak/PEAK.html) | [📦 wasmdotrip/Peak-Port](https://github.com/wasmdotrip/Peak-Port) |
-| ⭐ Peaks of Yore | [▶ gn-math.dev](https://gn-math.dev/?id=717) | [📦 web-ports/peaks-of-yore](https://github.com/web-ports/peaks-of-yore) |
-| ⭐ Pekka Kana 2 | [▶ gmh-code.github.io](https://gmh-code.github.io/pk2/) | [📦 GMH-Code/PK2](https://github.com/GMH-Code/PK2) |
-| Penthouse Paradise | [▶ rgc.zone](https://rgc.zone/ports/8782-duke-penthouse/run.html) |  |
-| ⭐ People Playground | [▶ gn-math.github.io](https://gn-math.github.io/web-port/people-playground/) | [📦 genizy/web-port/tree/main/people-playground](https://github.com/genizy/web-port/tree/main/people-playground) |
-| People Playground (2) |  | [📦 bubbls/ugss/tree/main/people-playground](https://github.com/bubbls/ugss/tree/main/people-playground) |
-| Pepsiman | [▶ pepsiman.ol.mr](https://pepsiman.ol.mr/) |  |
-| Perfect Dark | [▶ perfectdark.royal-cake-5abc.workers.dev](https://perfectdark.royal-cake-5abc.workers.dev/) |  |
-| Perfect Dark (n64hub recomp) |  | [📦 n64hub/perfect-dark-recomp](https://github.com/n64hub/perfect-dark-recomp) |
-| Perimeter |  | [📦 KD-lab-Open-Source/Perimeter](https://github.com/KD-lab-Open-Source/Perimeter) |
-| Phantasy Star Online (PSO Reborn) | [▶ recompiledgames.com](https://recompiledgames.com/phantasy-star-online-recompiled) |  |
-| Phantasy Star Online Episode I & II (PSO Reborn) | [▶ psoreborn.com](https://psoreborn.com/) |  |
-| Phineas and Ferb in the Transport-inators of Doooom | [▶ stelight.games](https://stelight.games/play/webports/stellite.games/stellite/doom/index.html) |  |
-| Pikmin | [▶ truffled.lol](https://truffled.lol/games/pikmin/index.html) |  |
-| ⭐ Pizza Tower | [▶ gn-math.github.io](https://gn-math.github.io/web-port/pizza-tower/) | [📦 genizy/web-port/tree/main/pizza-tower](https://github.com/genizy/web-port/tree/main/pizza-tower) |
-| Pizza Tower 1.1.0 |  | [📦 burnedpopcorn/Pizza-Tower-1.1.0-Web-Port](https://github.com/burnedpopcorn/Pizza-Tower-1.1.0-Web-Port) |
-| Pizza Tower: Scoutdigo | [▶ gn-math.dev](https://gn-math.dev/?id=628) |  |
-| PizzaTower April2021 WebPort |  | [📦 burnedpopcorn/PizzaTower-April2021-WebPort](https://github.com/burnedpopcorn/PizzaTower-April2021-WebPort) |
-| Plague Inc | [▶ gn-math.dev](https://gn-math.dev/?id=805) |  |
-| Plague Inc. | [▶ wasm.rip](https://wasm.rip/files/plauge/index.html) |  |
-| Plague Inc: Evolved |  | [📦 Reeyuki/PlagueIncEvolved](https://github.com/Reeyuki/PlagueIncEvolved) |
-| Plants vs Zombies: Fusion |  | [📦 gays-studio/pvzfusion](https://github.com/gays-studio/pvzfusion) |
-| ⭐ Plants vs Zombies: GOTY Edition | [▶ gn-math.dev](https://gn-math.dev/?id=842) | [📦 wszqkzqk/PvZ-Portable](https://github.com/wszqkzqk/PvZ-Portable) |
-| Plants vs Zombies: GOTY Edition (2) |  | [📦 web-ports/pvz](https://github.com/web-ports/pvz) |
-| Plants vs Zombies: GOTY Edition (3) |  | [📦 ajtabjs/pvzdeploy](https://github.com/ajtabjs/pvzdeploy) |
-| Plants vs. Zombies | [▶ rgc.zone](https://rgc.zone/ports/pvzweb/index.html) |  |
-| Plunder & Pillage | [▶ rgc.zone](https://rgc.zone/ports/8786-plunder/run.html) |  |
-| Pokémon Emerald (pokeemerald-wasm) |  | [📦 tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) |
-| Pokémon Emerald 3D (pokeemerald-3d) |  | [📦 tripplyons/pokeemerald-3d](https://github.com/tripplyons/pokeemerald-3d) |
-| Pokémon Mystery Dungeon (Web Mystery Dungeon) | [▶ frequentgamer.itch.io](https://frequentgamer.itch.io/pmdweb) |  |
-| Pokémon Snap (pokemonsnap-web) |  | [📦 Sorikairox/pokemonsnap-web](https://github.com/Sorikairox/pokemonsnap-web) |
-| Pokémon Yellow (pokemon-yellow-typescript) |  | [📦 gididaf/pokemon-yellow-typescript](https://github.com/gididaf/pokemon-yellow-typescript) |
-| ⭐ Portal | [▶ yikes.pw](https://yikes.pw/portal/) | [📦 weliveinhell/source-engine](https://github.com/weliveinhell/source-engine) |
-| Portal |  | [📦 AlexBoops/portal-1-port](https://github.com/AlexBoops/portal-1-port) |
-| POSTAL |  | [📦 leahanderson1/POSTAL-WASM](https://github.com/leahanderson1/POSTAL-WASM) |
-| POSTAL 2 (KahnStation) | [▶ kahn.lol](https://kahn.lol/gopostal) |  |
-| Potion Craft: Alchemist Simulator |  | [📦 GrassPorts/Potion-Craft-Alchemy-Simulator](https://github.com/GrassPorts/Potion-Craft-Alchemy-Simulator) |
-| ⭐ Power Hover | [▶ gn-math.dev](https://gn-math.dev/?id=743) | [📦 web-ports/power-hover](https://github.com/web-ports/power-hover) |
-| Powermanga |  | [📦 midzer/Powermanga](https://github.com/midzer/Powermanga) |
-| Powerslave | [▶ rgc.zone](https://rgc.zone/ports/8774-powerslave/run.html) |  |
-| Prehistorik (prehistorik_js) |  | [📦 cyxx/prehistorik_js](https://github.com/cyxx/prehistorik_js) |
-| Pretend it's not there |  |  |
-| ⭐ Prince of Persia | [▶ princejs.com](https://princejs.com/) | [📦 midzer/SDLPoP](https://github.com/midzer/SDLPoP) |
-| Pro Evolution Soccer 2011 | [▶ pes11.optijuegos.net](https://pes11.optijuegos.net/) |  |
-| Pro Evolution Soccer 2012 | [▶ pes12.online](https://pes12.online/) |  |
-| Pro Evolution Soccer 2014 (PSP) | [▶ pes14.online](https://pes14.online/) |  |
-| Pro Evolution Soccer 6 | [▶ pes6.optijuegos.net](http://pes6.optijuegos.net) |  |
-| Project I.G.I.: I'm Going In | [▶ playigi.com](https://playigi.com/game/) |  |
-| Project Zomboid |  |  |
-| Promises to Keep | [▶ gitea.mcalec.dev](https://gitea.mcalec.dev/mcalec/ptk) |  |
-| Prototype |  | [📦 midzer/prototype](https://github.com/midzer/prototype) |
-| Proxified Ports |  | [📦 burnedpopcorn/Proxified-Ports](https://github.com/burnedpopcorn/Proxified-Ports) |
-| Psychopomp |  | [📦 z4laxis/PsychopompWebport](https://github.com/z4laxis/PsychopompWebport) |
-| PT HTML Launcher |  | [📦 burnedpopcorn/PT-HTML-Launcher](https://github.com/burnedpopcorn/PT-HTML-Launcher) |
-| PT Scoutdigo |  | [📦 burnedpopcorn/PT-Scoutdigo-Web-Port](https://github.com/burnedpopcorn/PT-Scoutdigo-Web-Port) |
-| PTWebLauncher |  | [📦 burnedpopcorn/PTWebLauncher](https://github.com/burnedpopcorn/PTWebLauncher) |
-| ⭐ Purble Place (decomp) | [▶ areshkew.github.io](https://areshkew.github.io/purble-place-decomp/) | [📦 Areshkew/purble-place-decomp](https://github.com/Areshkew/purble-place-decomp) |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="q"></a>
-
-## Q <sub>· 13</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| ⭐ Quake | [▶ qwasm.m-h.org.uk](https://qwasm.m-h.org.uk/) | [📦 GMH-Code/Qwasm](https://github.com/GMH-Code/Qwasm) |
-| Quake 2 |  | [📦 GMH-Code/Qwasm2](https://github.com/GMH-Code/Qwasm2) |
-| Quake 3 |  | [📦 lrusso/Quake3](https://github.com/lrusso/Quake3) |
-| Quake II | [▶ rgc.zone](https://rgc.zone/ports/Q2web/index.html) |  |
-| Quake II (q2.pieter.com) | [▶ q2.pieter.com](http://q2.pieter.com) |  |
-| Quake II (Quake WASM2) | [▶ qwasm2.m-h.org.uk](https://qwasm2.m-h.org.uk/) |  |
-| Quake III Arena | [▶ gn-math.dev](https://gn-math.dev/?id=263) |  |
-| Quake III Arena (q3.pieter.com) | [▶ q3.pieter.com](https://q3.pieter.com) |  |
-| ⭐ Quake III Arena (q3js) | [▶ q3js.com](https://q3js.com/) | [📦 lklacar/q3js](https://github.com/lklacar/q3js) |
-| Quake TG | [▶ rgc.zone](https://rgc.zone/ports/quaketg/index.html) |  |
-| QuakeWorld | [▶ q1.pieter.com](http://q1.pieter.com) |  |
-| Quest for Al-Qa'eda | [▶ rgc.zone](https://rgc.zone/ports/8790-quest-alqaeda/run.html) |  |
-| Quest for Hussein | [▶ rgc.zone](https://rgc.zone/ports/8789-quest-hussein/run.html) |  |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="r"></a>
-
-## R <sub>· 37</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| ⭐ R.E.P.O | [▶ gn-math.github.io](https://gn-math.github.io/web-port/repo/) | [📦 genizy/web-port/tree/main/repo](https://github.com/genizy/web-port/tree/main/repo) |
-| Rabbids Go Home |  | [📦 teaserlua/rabbids-go-home-web-port](https://github.com/teaserlua/rabbids-go-home-web-port) |
-| ⭐ RAFT | [▶ gn-math.github.io](https://gn-math.github.io/web-port/raft/) | [📦 genizy/web-port/tree/main/raft](https://github.com/genizy/web-port/tree/main/raft) |
-| Raft Wars 2 | [▶ wasmarcade.app](https://wasmarcade.app/play/raft-wars-2) |  |
-| Ragnarok Online (roBrowser) |  | [📦 vthibault/roBrowser](https://github.com/vthibault/roBrowser) |
-| Rain World | [▶ stelight.games](https://stelight.games/play/webports/stellite.games/stellite/rain-world/) |  |
-| ⭐ Raldi's Crackhouse | [▶ gn-math.dev](https://gn-math.dev/?id=670) | [📦 woahhcrackers/RaldiWeb-LEGACY](https://github.com/woahhcrackers/RaldiWeb-LEGACY) |
-| Raptor - Call of the Shadows |  | [📦 midzer/raptor](https://github.com/midzer/raptor) |
-| ⭐ Ratchet & Clank | [▶ re-rac.github.io](https://re-rac.github.io/) | [📦 re-rac/rerac](https://github.com/re-rac/rerac) |
-| Ratchet & Clank: Size Matters | [▶ ratchetclanksizematters.online](https://ratchetclanksizematters.online/) |  |
-| Ravenfield |  | [📦 degloved-net/Ravenfield](https://github.com/degloved-net/Ravenfield) |
-| Rayman 2: The Great Escape (n64hub recomp) |  | [📦 n64hub/rayman-2-recomp](https://github.com/n64hub/rayman-2-recomp) |
-| ⭐ RE:RUN | [▶ gn-math.dev](https://gn-math.dev/?id=260) | [📦 aukak/RE-RUN](https://github.com/aukak/RE-RUN) |
-| Rec Room |  | [📦 98corbins](https://github.com/98corbins) |
-| Red Stone Online (redstone-js) |  | [📦 LostMyCode/redstone-js](https://github.com/LostMyCode/redstone-js) |
-| Redneck Rampage | [▶ rgc.zone](https://rgc.zone/ports/redneckrweb/run.html) |  |
-| Redneck Rampage: Rides Again | [▶ rgc.zone](https://rgc.zone/ports/rrridesagain/run.html) |  |
-| Redneck Rampage: Route 66 | [▶ rgc.zone](https://rgc.zone/ports/rrroute66/run.html) |  |
-| REminiscence |  | [📦 midzer/reminiscence](https://github.com/midzer/reminiscence) |
-| ⭐ Reset Generation | [▶ hubert-rybak.github.io](https://hubert-rybak.github.io/Reset-Generation-Wasm-Port/) | [📦 Hubert-Rybak/Reset-Generation-Wasm-Port](https://github.com/Hubert-Rybak/Reset-Generation-Wasm-Port) |
-| Resident Evil 4 | [▶ residentevil4.online](https://residentevil4.online/) |  |
-| Resident Evil Outbreak File #1 & #2 (Outbreak Web) | [▶ outbreakweb.com](https://outbreakweb.com/) |  |
-| Return to Castle Wolfenstein | [▶ rgc.zone](https://rgc.zone/ports/castlewolf/index.html) |  |
-| ⭐ Return to Castle Wolfenstein | [▶ wwasm.m-h.org.uk](https://wwasm.m-h.org.uk/) | [📦 GMH-Code/Wwasm](https://github.com/GMH-Code/Wwasm) |
-| Return to Castle Wolfenstein (rtcw.pieter.com) | [▶ rtcw.pieter.com](http://rtcw.pieter.com) |  |
-| ⭐ Rimworld | [▶ wasm.rip](https://wasm.rip/files/rimworld/index.html) | [📦 SomeRandomFella/portsandrips/tree/master/rimworld](https://github.com/SomeRandomFella/portsandrips/tree/master/rimworld) |
-| Rise of the Triad |  | [📦 midzer/rottexpr](https://github.com/midzer/rottexpr) |
-| Road Rash (Three.js) | [▶ roadrash.pages.dev](https://roadrash.pages.dev/) |  |
-| Rockbot |  | [📦 midzer/rockbot](https://github.com/midzer/rockbot) |
-| Rocks'n'Diamonds | [▶ artsoft.org](https://www.artsoft.org/rocksndiamonds/) |  |
-| RollerCoaster Tycoon 2 (OpenRCT2) | [▶ rgc.zone](https://rgc.zone/ports/openrct2/index.html) |  |
-| ⭐ Rolling Sky (web port) | [▶ rollingsky.3kh0.net](https://rollingsky.3kh0.net) | [📦 3kh0/rolling-sky](https://github.com/3kh0/rolling-sky) |
-| ROUNDS |  | [📦 Nawsif/host/tree/main/ROUNDS](https://github.com/Nawsif/host/tree/main/ROUNDS) |
-| ⭐ Rugby 08 (mitchivin) | [▶ mitchivin.github.io](https://mitchivin.github.io/rugby08/) | [📦 mitchivin/rugby08](https://github.com/mitchivin/rugby08) |
-| Rugby 08 (rugby08-web) |  | [📦 IFAKA/rugby08-web](https://github.com/IFAKA/rugby08-web) |
-| RuneScape Classic | [▶ runescapeclassic.gold](https://runescapeclassic.gold/) |  |
-| Running Fred |  | [📦 aukak/running-fred](https://github.com/aukak/running-fred) |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="s"></a>
-
-## S <sub>· 144</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| ⭐ S.P.L.I.T | [▶ gn-math.dev](https://gn-math.dev/?id=839) | [📦 degloved-net/s.p.l.i.t](https://github.com/degloved-net/s.p.l.i.t) |
-| ⭐ S.T.A.L.K.E.R.: Call of Pripyat (ZoneVM) | [▶ zonevm.btr.pm](https://zonevm.btr.pm/) | [📦 x8BitRain/zone-vm](https://github.com/x8BitRain/zone-vm) |
-| ⭐ Saihate Station (さいはて駅) | [▶ gn-math.dev](https://gn-math.dev/?id=737) | [📦 web-ports/saihate-station](https://github.com/web-ports/saihate-station) |
-| Samogonki (Moonshine Racers) |  | [📦 KD-lab-Open-Source/Samogonki](https://github.com/KD-lab-Open-Source/Samogonki) |
-| Samokatogeddon (Carmageddon II mod) | [▶ rgc.zone](https://rgc.zone/ports/carma2/index.html) |  |
-| San Francisco Rush 2049 (Recomp) |  | [📦 n64hub/rush-2049-recomp](https://github.com/n64hub/rush-2049-recomp) |
-| Saturday Night Slam Masters (ssm-online) |  | [📦 GinoDaza/ssm-online](https://github.com/GinoDaza/ssm-online) |
-| Scampton The Great | [▶ gn-math.dev](https://gn-math.dev/?id=802) |  |
-| ⭐ Schoolboy Runaway | [▶ gn-math.github.io](https://gn-math.github.io/web-port/schoolboy-runaway/) | [📦 genizy/web-port/tree/main/schoolboy-runaway](https://github.com/genizy/web-port/tree/main/schoolboy-runaway) |
-| Scoutdingo |  | [📦 web-ports/scoutdingo](https://github.com/web-ports/scoutdingo) |
-| ⭐ SCP: Containment Breach | [▶ wasm.rip](https://wasm.rip/files/scp/index.html) | [📦 larpinguser/q8j](https://github.com/larpinguser/q8j) |
-| Scritchy Scratchy |  | [📦 c00lkiddtech/scratchy](https://github.com/c00lkiddtech/scratchy) |
-| SDL Sopwith |  | [📦 fragglet/sdl-sopwith](https://github.com/fragglet/sdl-sopwith) |
-| SDL-Ball |  | [📦 midzer/sdl-ball](https://github.com/midzer/sdl-ball) |
-| Serial Experiments Lain (lainTSX) |  | [📦 ad044/lainTSX](https://github.com/ad044/lainTSX) |
-| ⭐ The Seven Games of the Soul | [▶ omnium-games.github.io](https://omnium-games.github.io/faust/) | [📦 Omnium-Games/faust](https://github.com/Omnium-Games/faust) |
-| Sex with Hitler |  | [📦 ajtabjs/swhport](https://github.com/ajtabjs/swhport) |
-| Sex with Hitler |  | [📦 q-29/swhport-fixed](https://github.com/q-29/swhport-fixed) |
-| ⭐ Shadow Warrior | [▶ rgc.zone](https://rgc.zone/ports/8775-swarrior/run.html) | [📦 midzer/jfsw](https://github.com/midzer/jfsw) |
-| Shadow Warrior: Twin Dragon | [▶ rgc.zone](https://rgc.zone/ports/8787-sw-twindragon/run.html) |  |
-| Shadow Warrior: Wanton Destruction | [▶ rgc.zone](https://rgc.zone/ports/8788-sw-wanton/run.html) |  |
-| ⭐ Shift at Midnight | [▶ gn-math.dev](https://gn-math.dev/?id=721) | [📦 webporting/Shift-At-Midnight](https://github.com/webporting/Shift-At-Midnight) |
-| Shift at Midnight |  | [📦 slqntdevss/ShiftAtMidnightPort](https://github.com/slqntdevss/ShiftAtMidnightPort) |
-| Shiromino |  | [📦 midzer/shiromino](https://github.com/midzer/shiromino) |
-| Shrimpio |  | [📦 goodmeals/shrimpio](https://github.com/goodmeals/shrimpio) |
-| Sid Meier's SimGolf (OpenSGolf) |  | [📦 crspytopgn/opensgolf](https://github.com/crspytopgn/opensgolf) |
-| Side Effects |  | [📦 gn-math/assets/tree/main/318](https://github.com/gn-math/assets/tree/main/318) |
-| Silent Hill (silent-hill-decomp PC port) |  | [📦 SlickAmogus/silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp/tree/pc-port) |
-| Silent Hill: Origins | [▶ silenthillorigins.zeliaopen.space](https://silenthillorigins.zeliaopen.space/) |  |
-| Silkroad Online (OpenSRO) | [▶ opensro.online](https://opensro.online/) |  |
-| ⭐ SimCity (micropolisJS) | [▶ graememcc.co.uk](https://www.graememcc.co.uk/micropolisJS/) | [📦 graememcc/micropolisJS](https://github.com/graememcc/micropolisJS) |
-| SimGolf | [▶ richardatct.github.io](https://richardatct.github.io/simgolf-web/) |  |
-| The Simpsons: Hit & Run | [▶ shar-wasm.cjoseph.workers.dev](http://shar-wasm.cjoseph.workers.dev/?skipmovie) |  |
-| The Simpsons: Hit & Run (rgc.zone) | [▶ rgc.zone](https://rgc.zone/ports/simphnr/index.html) |  |
-| The Simpsons: Hit & Run (shar-wasm) | [▶ shar-wasm.cjoseph.workers.dev](https://shar-wasm.cjoseph.workers.dev/) |  |
-| ⭐ The Simpsons: Hit & Run (Web Port) | [▶ vheissu.github.io](https://vheissu.github.io/hit-and-run-web/) | [📦 Vheissu/hit-and-run-web](https://github.com/Vheissu/hit-and-run-web) |
-| The Simpsons: Hit & Run (with mod support) | [▶ shar.harshvirdhaliwal.com](https://shar.harshvirdhaliwal.com/) |  |
-| ⭐ SimTower (benphelps) | [▶ benphelps.github.io](https://benphelps.github.io/simtower/) | [📦 benphelps/simtower](https://github.com/benphelps/simtower) |
-| SimTower (concilia-tower) |  | [📦 Jonahss/concilia-tower](https://github.com/Jonahss/concilia-tower) |
-| Simutrans |  | [📦 midzer/simutrans](https://github.com/midzer/simutrans) |
-| Skate × Rust (Global Terror) | [▶ global-terror.net](https://global-terror.net/) |  |
-| Skate 3 | [▶ skate.aaddpp.lol](http://skate.aaddpp.lol) |  |
-| Slay the Spire | [▶ truffled.lol](https://truffled.lol/games/sts/index.html) |  |
-| Slender: The 8 Pages | [▶ gn-math.dev](https://gn-math.dev/?id=451) |  |
-| ⭐ Slender: The Eight Pages | [▶ gn-math.github.io](https://gn-math.github.io/web-port/slender/) | [📦 genizy/web-port/tree/main/slender](https://github.com/genizy/web-port/tree/main/slender) |
-| Slenderina The Cellar |  | [📦 Reeyuki/slenderina](https://github.com/Reeyuki/slenderina) |
-| Slendytubbies |  | [📦 web-ports/slendytubbies](https://github.com/web-ports/slendytubbies) |
-| Slendytubbies 1 | [▶ gn-math.dev](https://gn-math.dev/?id=796) |  |
-| ⭐ Slendytubbies 2 | [▶ gn-math.dev](https://gn-math.dev/?id=806) | [📦 web-ports/slendytubbies/tree/main/2](https://github.com/web-ports/slendytubbies/tree/main/2) |
-| ⭐ Slendytubbies 2D | [▶ gn-math.dev](https://gn-math.dev/?id=807) | [📦 web-ports/slendytubbies/tree/main/2d](https://github.com/web-ports/slendytubbies/tree/main/2d) |
-| Slime Rancher | [▶ gn-math.dev](https://gn-math.dev/?id=591) |  |
-| Slime Ranchers |  | [📦 web-ports/slime-ranchers](https://github.com/web-ports/slime-ranchers) |
-| Slime Ranchers (2) |  | [📦 Reeyuki/SlimeRanch](https://github.com/Reeyuki/SlimeRanch) |
-| SM Kart ZX |  | [📦 burnedpopcorn/SM-Kart-ZX-Web-Port](https://github.com/burnedpopcorn/SM-Kart-ZX-Web-Port) |
-| sm64plus webport PoC |  | [📦 burnedpopcorn/sm64plus-webport-PoC](https://github.com/burnedpopcorn/sm64plus-webport-PoC) |
-| SNAPTIC |  | [📦 degloved-net/snaptic-web](https://github.com/degloved-net/snaptic-web) |
-| ⭐ SOCOM II: U.S. Navy SEALs (SOCOM Legacy) | [▶ socomlegacy.com](https://socomlegacy.com/) | [📦 Scotho/socom-legacy](https://github.com/Scotho/socom-legacy) |
-| Sokoban |  | [📦 midzer/simple-sokoban](https://github.com/midzer/simple-sokoban) |
-| Something |  | [📦 gays-studio/something-web](https://github.com/gays-studio/something-web) |
-| Something (2) |  | [📦 googoogoob/SomethingWebPort](https://github.com/googoogoob/SomethingWebPort) |
-| Something (3) |  | [📦 BestSpark687090/bestspark-web-ports/tree/main/actual-something](https://github.com/BestSpark687090/bestspark-web-ports/tree/main/actual-something) |
-| Sonic 3 A.I.R. |  | [📦 Eukaryot/sonic3air](https://github.com/Eukaryot/sonic3air) |
-| ⭐ Sonic CD | [▶ gn-math.dev](https://gn-math.dev/?id=589) | [📦 TWS2401/Sonic-CD-WASM](https://github.com/TWS2401/Sonic-CD-WASM) |
-| Sonic CD (Sonic-CD-WASM) | [▶ tws2401.github.io](https://tws2401.github.io/Sonic-CD-WASM/) |  |
-| Sonic GDevelop |  | [📦 burnedpopcorn/Sonic-GDevelop-Web-Port](https://github.com/burnedpopcorn/Sonic-GDevelop-Web-Port) |
-| ⭐ Sonic Mania | [▶ gn-math.dev](https://gn-math.dev/?id=590) | [📦 VinMannie/SonicManiaWeb](https://github.com/VinMannie/SonicManiaWeb) |
-| ⭐ Sonic Robo Blast 2 | [▶ afd2025.srb2.org](https://afd2025.srb2.org/) | [📦 chromaticpipe/SRB2-WASM](https://github.com/chromaticpipe/SRB2-WASM) |
-| Sonic Robo Blast 2 (2) |  | [📦 web-ports/srb2](https://github.com/web-ports/srb2) |
-| Sonic Robo Blast 2 Kart | [▶ skyleite.github.io](https://skyleite.github.io/Kart-Public-WASM/) |  |
-| ⭐ Sonic Robo Blast 2 Legacy (SRB2LegacyWeb) | [▶ legacyweb.gvbvdxx.me](http://legacyweb.gvbvdxx.me/) | [📦 gvbvdxxalt2/SRB2LegacyWeb](https://github.com/gvbvdxxalt2/SRB2LegacyWeb) |
-| Sonic the Fighters | [▶ play.sonicthefighte.rs](https://play.sonicthefighte.rs/) |  |
-| ⭐ Sonic the Hedgehog (2013) | [▶ vinmannie.github.io](https://vinmannie.github.io/Sonic-1-WASM/) | [📦 VinMannie/Sonic-1-WASM](https://github.com/VinMannie/Sonic-1-WASM) |
-| Sonic the Hedgehog 1 & 2 (Sonic-Decompilation-WASM) |  | [📦 mattConn/Sonic-Decompilation-WASM](https://github.com/mattConn/Sonic-Decompilation-WASM) |
-| Sonic the Hedgehog 2 |  | [📦 VinMannie/Sonic-2-WASM](https://github.com/VinMannie/Sonic-2-WASM) |
-| Sonic the Hedgehog 4: Episode I | [▶ wamwoowam.co.uk](https://wamwoowam.co.uk/sonic4/) |  |
-| Sonic Worlds Next | [▶ grubbyplaya.github.io](https://grubbyplaya.github.io/Sonic-Worlds-Next-WASM/Sonic%20Worlds%20Next.html) |  |
-| ⭐ SONIC.EXE | [▶ gn-math.github.io](https://gn-math.github.io/web-port/sonic.exe/) | [📦 genizy/web-port/tree/main/sonic.exe](https://github.com/genizy/web-port/tree/main/sonic.exe) |
-| Sonic.EXE (ORIGINAL) | [▶ gn-math.dev](https://gn-math.dev/?id=606) |  |
-| Sonic2 Community Cut WebPort |  | [📦 burnedpopcorn/Sonic2-Community-Cut-WebPort](https://github.com/burnedpopcorn/Sonic2-Community-Cut-WebPort) |
-| sonic3air webport |  | [📦 burnedpopcorn/sonic3air-webport](https://github.com/burnedpopcorn/sonic3air-webport) |
-| SonicManiaPlusWebPort |  | [📦 burnedpopcorn/SonicManiaPlusWebPort](https://github.com/burnedpopcorn/SonicManiaPlusWebPort) |
-| Space Cadet |  | [📦 k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) |
-| Space Rangers: Quests | [▶ spacerangers.gitlab.io](https://spacerangers.gitlab.io/) |  |
-| ⭐ Space Station 13 (ss13.live) | [▶ ss13.live](https://ss13.live) | [📦 Greytide-inc/ss13.live](https://github.com/Greytide-inc/ss13.live) |
-| ⭐ Spaceflight Simulator | [▶ gn-math.dev](https://gn-math.dev/?id=808) | [📦 web-ports/spaceflight-simulator](https://github.com/web-ports/spaceflight-simulator) |
-| ⭐ The Specialists (Half-Life mod, specialists-browser) | [▶ bulletballet.dev](https://bulletballet.dev/) | [📦 klampatech/specialists-browser](https://github.com/klampatech/specialists-browser) |
-| ⭐ Speed Stars | [▶ gn-math.github.io](https://gn-math.github.io/web-port/speed-stars/) | [📦 genizy/web-port/tree/main/speed-stars](https://github.com/genizy/web-port/tree/main/speed-stars) |
-| ⭐ Speedy Blupi / Speedy Eggbert 2 / Planet Blupi | [▶ speedyblupi.com](https://speedyblupi.com/) | [📦 openeggbert/speedyblupi.com](https://github.com/openeggbert/speedyblupi.com) |
-| Spelunky Classic HD | [▶ yancharkin.itch.io](https://yancharkin.itch.io/spelunky-classic-hd) |  |
-| Spider-Man 2 | [▶ spiderman2.online](https://spiderman2.online/) |  |
-| SRB2 Kart |  | [📦 skyleite/Kart-Public-WASM](https://github.com/skyleite/Kart-Public-WASM/) |
-| SSX 3 | [▶ ssx3.online](https://ssx3.online/) |  |
-| SSX 3 (ssx3-decomp) |  | [📦 andersfischernielsen/ssx3-decomp](https://github.com/andersfischernielsen/ssx3-decomp) |
-| Star Command (SSI, browser remake) |  | [📦 DrEvil-TitaniumHelix/star-command-remake](https://github.com/DrEvil-TitaniumHelix/star-command-remake) |
-| Star Fox Adventures | [▶ foxhollow.dev](https://foxhollow.dev/) |  |
-| Star Wars Jedi Knight Dark Forces 2 | [▶ rgc.zone](https://rgc.zone/ports/oswjkdf2/index.html) |  |
-| Star Wars Jedi Knight: Dark Forces II |  | [📦 shinyquagsire23/OpenJKDF2](https://github.com/shinyquagsire23/OpenJKDF2) |
-| Star Wars Jedi Knight: Jedi Academy | [▶ jk.q3js.com](https://jk.q3js.com) |  |
-| Star Wars Jedi Knight: Jedi Academy (OpenJK, rgc.zone) | [▶ rgc.zone](https://rgc.zone/ports/openjkspweb/index.html) |  |
-| ⭐ Star Wars: Empire at War (Browser Edition) | [▶ playeaw.com](https://playeaw.com) | [📦 Glenn332/Empire-At-War-Browser-Edition](https://github.com/Glenn332/Empire-At-War-Browser-Edition) |
-| ⭐ Stardew Valley | [▶ gn-math.dev](https://gn-math.dev/?id=789) | [📦 degloved-net/stardew-wasm](https://github.com/degloved-net/stardew-wasm) |
-| Stardew Valley | [▶ wasm.rip](https://wasm.rip/files/stardewvalley/index.html) |  |
-| Starfighter |  | [📦 midzer/starfighter](https://github.com/midzer/starfighter) |
-| Stick War | [▶ wasmarcade.app](https://wasmarcade.app/play/stick-war) |  |
-| ⭐ Stick with It | [▶ gn-math.dev](https://gn-math.dev/?id=502) | [📦 slqntdevss/StickWithItPort](https://github.com/slqntdevss/StickWithItPort) |
-| Street Fighter Anniversary Collection | [▶ streetfighteranniversary.online](https://streetfighteranniversary.online/) |  |
-| Street Fighter III: 3rd Strike | [▶ streetfighter3.online](https://streetfighter3.online/) |  |
-| Stunts (PlayStunts) | [▶ playstunts.com](https://playstunts.com/) |  |
-| Stunts (stunts-hd) |  | [📦 mr-finster/stunts-hd](https://github.com/mr-finster/stunts-hd) |
-| Subway Surfers: Las Vegas |  | [📦 Toastiest64/Las-Vegas](https://github.com/Toastiest64/Las-Vegas) |
-| Sugary Spire |  | [📦 burnedpopcorn/Sugary-Spire-Web-Port](https://github.com/burnedpopcorn/Sugary-Spire-Web-Port) |
-| Suicide Guy Deluxe |  | [📦 Reeyuki/SuicideGuyDeluxe](https://github.com/Reeyuki/SuicideGuyDeluxe) |
-| Sunky's Schoolhouse |  | [📦 gays-studio/sunkys-schoolhouse-webport](https://github.com/gays-studio/sunkys-schoolhouse-webport) |
-| Supaplex |  | [📦 midzer/open-supaplex](https://github.com/midzer/open-supaplex) |
-| Super Bo Noise |  | [📦 burnedpopcorn/Super-Bo-Noise-Web-Port](https://github.com/burnedpopcorn/Super-Bo-Noise-Web-Port) |
-| Super Choppy Orc |  | [📦 gays-studio/super-choppy-orc](https://github.com/gays-studio/super-choppy-orc) |
-| Super Mario 64 | [▶ gn-math.dev](https://gn-math.dev/?id=588) |  |
-| Super Mario 64 | [▶ recompiledgames.com](https://recompiledgames.com/super-mario-64-recompiled) |  |
-| Super Mario 64 (multiplayer, olivers.tools) | [▶ olivers.tools](https://olivers.tools/?play) |  |
-| Super Mario 64 (n64hub recomp) |  | [📦 n64hub/super-mario-64-recomp](https://github.com/n64hub/super-mario-64-recomp) |
-| Super Mario 64 (rgc.zone) | [▶ rgc.zone](https://rgc.zone/ports/sm64-main/index.html) |  |
-| Super Mario 64 (sm3das) | [▶ heyitsheart.github.io](https://heyitsheart.github.io/sm3das/64/) |  |
-| ⭐ Super Mario 64 (sm64coopdx in browser) | [▶ b1t64.github.io](https://b1t64.github.io/m64-dl6t2g/) | [📦 B1T64/m64-dl6t2g](https://github.com/B1T64/m64-dl6t2g) |
-| Super Mario 64 (sm64js) |  | [📦 sm64js/sm64js](https://github.com/sm64js/sm64js) |
-| Super Mario 64 DS (Enhanced PC Port) |  | [📦 wigwoo1/Super-Mario-64-DS-Enhanced-PC-Port](https://github.com/wigwoo1/Super-Mario-64-DS-Enhanced-PC-Port) |
-| Super Mario 64 FPS |  | [📦 gays-studio/sm64fps-port](https://github.com/gays-studio/sm64fps-port) |
-| Super Mario 64 in Scratch |  | [📦 naegoxdev/sm64-scratch](https://github.com/naegoxdev/sm64-scratch) |
-| Super Mario 64 Multiplayer | [▶ olivers.tools](https://olivers.tools/play/) |  |
-| ⭐ Super Mario Bros. Remastered | [▶ gn-math.dev](https://gn-math.dev/?id=736) | [📦 bubbls/ports/blob/main/smb-remastered](https://github.com/bubbls/ports/blob/main/smb-remastered) |
-| Super Mario Galaxy |  | [📦 T4ctica1YT/SMGwebport](https://github.com/T4ctica1YT/SMGwebport) |
-| Super Mario Kart (SM-Kart-ZX Web Port) | [▶ burnedpopcorn.github.io](https://burnedpopcorn.github.io/SM-Kart-ZX-Web-Port/index.html) |  |
-| Super Mario Sunshine | [▶ truffled.lol](https://truffled.lol/games/sms/index.html) |  |
-| Super Mario War |  | [📦 mmatyas/supermariowar](https://github.com/mmatyas/supermariowar) |
-| Super Mario Zombies | [▶ smz.fun](https://smz.fun/) |  |
-| Super Monkey Ball | [▶ monkeyball-online.pages.dev](https://monkeyball-online.pages.dev/) |  |
-| Super Smash Bros. (n64hub recomp) |  | [📦 n64hub/super-smash-bros-recomp](https://github.com/n64hub/super-smash-bros-recomp) |
-| ⭐ Super Smash Bros. (smash.fun) | [▶ smash.fun](https://smash.fun/) | [📦 turtlesoupy/opensmash](https://github.com/turtlesoupy/opensmash) |
-| Super Smash Bros. Melee (melee-pc) |  | [📦 999sian/melee-pc](https://github.com/999sian/melee-pc) |
-| Super Smash Bros. Ultimate (SSBU-port-web) |  | [📦 longurara/SSBU-port-web](https://github.com/longurara/SSBU-port-web) |
-| Superflight |  | [📦 squidward5/superflight-webport](https://github.com/squidward5/superflight-webport) |
-| SuperTux |  | [📦 SuperTux/supertux](https://github.com/SuperTux/supertux) |
-| SuperTuxKart (browser) |  | [📦 ading2210/stk-code](https://github.com/ading2210/stk-code) |
-| Swabs Expedition |  | [📦 burnedpopcorn/Swabs-Expedition-Web-Port](https://github.com/burnedpopcorn/Swabs-Expedition-Web-Port) |
-| ⭐ Syndicate | [▶ rgc.zone](https://rgc.zone/ports/syndweb/index.html) | [📦 midzer/freesynd](https://github.com/midzer/freesynd) |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="t"></a>
-
-## T <sub>· 39</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| T Cubed |  | [📦 web-ports/baldi-mods/tree/main/t3](https://github.com/web-ports/baldi-mods/tree/main/t3) |
-| T Cubed (2) |  | [📦 GlaceonFan77/T-Cubed-Web](https://github.com/GlaceonFan77/T-Cubed-Web) |
-| Tekken 3 (Tekken3Remake) |  | [📦 n0madic/Tekken3Remake](https://github.com/n0madic/Tekken3Remake) |
-| Tekken 4 | [▶ tekken4.online](https://tekken4.online/) |  |
-| Tekken 5 | [▶ tekken5.online](https://tekken5.online/) |  |
-| Tekken: Dark Resurrection | [▶ tekkendr.live](https://tekkendr.live/) |  |
-| Tenchu: Shinobi Gaisen |  | [📦 Fuuzetsu/tenchu-shinobi-gaisen-pc](https://github.com/Fuuzetsu/tenchu-shinobi-gaisen-pc) |
-| Terraria (3) | [▶ playterraria.lol](https://playterraria.lol/) |  |
-| Tony Hawk's Pro Skater (thps1-web-port) |  | [📦 nascarfan03/thps1-web-port](https://github.com/nascarfan03/thps1-web-port) |
-| Tony Hawk's Pro Skater 3 | [▶ tonyhawkpro3.online](https://tonyhawkpro3.online/) |  |
-| Tony Hawk's Underground 2 | [▶ tonyhawksunderground2.online](https://tonyhawksunderground2.online/) |  |
-| Tony Hawk's Underground 2 (thug2-web) |  | [📦 Loosemond/thug2-web](https://github.com/Loosemond/thug2-web) |
-| Total Annihilation: Kingdoms (OpenKingdoms) |  | [📦 OpenKingdoms/OpenKingdoms](https://github.com/OpenKingdoms/OpenKingdoms) |
-| t³ (T cubed) | [▶ gn-math.dev](https://gn-math.dev/?id=818) |  |
-| Taiko no Tatsujin | [▶ cjdgrevival.com](https://cjdgrevival.com/) |  |
-| ⭐ Tattletail | [▶ gn-math.github.io](https://gn-math.github.io/web-port/tattletail/) | [📦 genizy/web-port/tree/main/tattletail](https://github.com/genizy/web-port/tree/main/tattletail) |
-| Team Fortress 2 | [▶ tf2.riddy.workers.dev](https://tf2.riddy.workers.dev/) |  |
-| ⭐ Tekken 5: Dark Resurrection (Recomp) | [▶ tkdr-recomp.pages.dev](https://tkdr-recomp.pages.dev/) | [📦 gasparegas/tkdr-recomp](https://github.com/gasparegas/tkdr-recomp) |
-| ⭐ Terraria | [▶ gn-math.dev](https://gn-math.dev/?id=669) | [📦 mercuryWorkshop/terraria-wasm](http://github.com/mercuryWorkshop/terraria-wasm) |
-| ⭐ Terraria (2) | [▶ terraria.mercurywork.shop](https://terraria.mercurywork.shop/) | [📦 web-ports/terraria](https://github.com/web-ports/terraria) |
-| ⭐ That's Not My Neighbor | [▶ gn-math.github.io](https://gn-math.github.io/web-port/thats-not-my-neighbor/) | [📦 genizy/web-port/tree/main/thats-not-my-neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) |
-| There's a Butcher Around |  | [📦 usheje883-maker/There-s-A-Butcher-Around-Webport](https://github.com/usheje883-maker/There-s-A-Butcher-Around-Webport) |
-| There is No Game: Wrong Dimension |  | [📦 dashiellbenton/ports-data](https://github.com/dashiellbenton/ports-data/tree/main) |
-| To The Core |  |  |
-| ⭐ Tomb Raider | [▶ xproger.info](http://xproger.info/projects/OpenLara/) | [📦 XProger/OpenLara](https://github.com/XProger/OpenLara) |
-| Toonstruck | [▶ rgc.zone](https://rgc.zone/ports/toonstruckweb/index.html#toonstruck-fargus) |  |
-| Torus Trooper |  | [📦 speps/tt](https://github.com/speps/tt) |
-| Totally Accurate Battle Simulator |  | [📦 web-ports/tabs](https://github.com/web-ports/tabs) |
-| Totally Accurate Battle Simulator (2) |  | [📦 Reeyuki/Tabs](https://github.com/Reeyuki/Tabs) |
-| Totally Accurate Battle Simulator (TABS) | [▶ gn-math.dev](https://gn-math.dev/?id=827) |  |
-| ⭐ Touhou Mother | [▶ gn-math.dev](https://gn-math.dev/?id=523) | [📦 aukak/gameports/tree/main/touhou%20mother](https://github.com/aukak/gameports/tree/main/touhou%20mother) |
-| Tower To Heaven |  | [📦 midzer/tth](https://codeberg.org/midzer/tth) |
-| Traffic Racer |  | [📦 genizy/traffic-racer](https://github.com/genizy/traffic-racer) |
-| Trees Hate You |  | [📦 thirstygithub/fugglelatougin](https://github.com/thirstygithub/fugglelatougin) |
-| Tremulous | [▶ webnova360.com](https://webnova360.com/play-tremulous/) |  |
-| TriZon |  | [📦 degloved-net/trizon](https://github.com/degloved-net/trizon) |
-| ⭐ Trombone Champ | [▶ wasm.rip](https://wasm.rip/files/tchamp/index.html) | [📦 degloved-net/trombone-champ](https://github.com/degloved-net/trombone-champ) |
-| Tsukihime (TsukiWeb) | [▶ tsukiweb.holofield.fr](https://tsukiweb.holofield.fr/) |  |
-| Tyrian (OpenTyrian) | [▶ midzer.de](https://midzer.de/wasm/opentyrian/) |  |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="u"></a>
-
-## U <sub>· 23</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| UFC 2009 Undisputed / Throwdown | [▶ ufc2.online](https://ufc2.online/) |  |
-| UFC Throwdown | [▶ ufc2.online](https://ufc2.online/) |  |
-| Ultima VI (Rust/wasm) |  | [📦 2lab-ai/ultima6](https://github.com/2lab-ai/ultima6) |
-| ULTRAKILL | [▶ gn-math.dev](https://gn-math.dev/?id=196) |  |
-| ULTRAKILL | [▶ monoxide.dev](https://monoxide.dev/ultrakill) |  |
-| ⭐ Ultrakill Prelude | [▶ gn-math.github.io](https://gn-math.github.io/web-port/ultrakill/) | [📦 genizy/web-port/tree/main/ultrakill](https://github.com/genizy/web-port/tree/main/ultrakill) |
-| ⭐ Ultrapool | [▶ gn-math.dev](https://gn-math.dev/?id=757) | [📦 ParrrotVR/ultrapoolwebport](https://github.com/ParrrotVR/ultrapoolwebport) |
-| Ultrapool (bread fork) |  | [📦 genizy/ultrapoolwebport-nothreads](https://github.com/genizy/ultrapoolwebport-nothreads) |
-| Uncharted Waters: New Horizons |  | [📦 JohanLi/uncharted-waters-2](https://github.com/JohanLi/uncharted-waters-2) |
-| Uncle Albert's Magical Album |  | [📦 panlybero/uncle-albert-magical-album-greek](https://github.com/panlybero/uncle-albert-magical-album-greek) |
-| ⭐ Undertale | [▶ gn-math.github.io](https://gn-math.github.io/web-port/undertale/) | [📦 genizy/web-port/tree/main/undertale](https://github.com/genizy/web-port/tree/main/undertale) |
-| ⭐ Undertale Yellow | [▶ gn-math.github.io](https://gn-math.github.io/web-port/undertale-yellow/) | [📦 genizy/web-port/tree/main/undertale-yellow](https://github.com/genizy/web-port/tree/main/undertale-yellow) |
-| Unreal Gold |  | [📦 National-Porting-Association/unrealgold-emscripten](https://github.com/National-Porting-Association/unrealgold-emscripten) |
-| Unreal Tournament (SurrealEngine Web) | [▶ demensdeum.com](https://demensdeum.com/demos/SurrealEngine/) |  |
-| ⭐ Untitled Goose Game | [▶ gn-math.dev](https://gn-math.dev/?id=718) | [📦 web-ports/untitled-goose-game](https://github.com/web-ports/untitled-goose-game) |
-| Untitled Goose Game (2) |  | [📦 webporting/Untitled-Goose-Game](https://github.com/webporting/Untitled-Goose-Game) |
-| Upload Labs |  | [📦 googoogoob/UploadLabsWebPort](https://github.com/googoogoob/UploadLabsWebPort) |
-| Upstream |  | [📦 degloved-net/upstream](https://github.com/degloved-net/upstream) |
-| ⭐ The Ur-Quan Masters (Star Control II) | [▶ urquanmasters.org](https://urquanmasters.org/) | [📦 vcorem/uqm-3do-web](https://github.com/vcorem/uqm-3do-web) |
-| ⭐ Urban Chaos (OpenChaos) | [▶ rgc.zone](https://rgc.zone/ports/urbanchaosweb/) | [📦 Carter54git/Urban-Chaos-OpenChaos-ported-to-web](https://github.com/Carter54git/Urban-Chaos-OpenChaos-ported-to-web) |
-| Urban Reign (PS2 recomp) |  | [📦 anmolverma5/urban-reign-wasm](https://github.com/anmolverma5/urban-reign-wasm) |
-| ⭐ Urban Terror | [▶ ut.pieter.com](http://ut.pieter.com) | [📦 FrozenSand/ioq3-for-UrbanTerror-4](https://github.com/FrozenSand/ioq3-for-UrbanTerror-4) |
-| ⭐ UvuvwevwevweOnyetenvewveUgwemubwemOssas | [▶ gn-math.dev](https://gn-math.dev/?id=795) | [📦 bubbls/ports/tree/main/UvuvwevwevweOnyetenvewveUgwemubwemOssas](https://github.com/bubbls/ports/tree/main/UvuvwevwevweOnyetenvewveUgwemubwemOssas) |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="v"></a>
-
-## V <sub>· 9</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| Vangers |  | [📦 KranX/Vangers](https://github.com/KranX/Vangers) |
-| Vectoroids |  | [📦 midzer/vectoroids](https://github.com/midzer/vectoroids) |
-| Very Realistic Game Dev Simulator |  | [📦 UMMMM-GUYSSS/Very-Realistic-Game-Dev-Simulator](https://github.com/UMMMM-GUYSSS/Very-Realistic-Game-Dev-Simulator) |
-| Violetland |  | [📦 midzer/violetland](https://github.com/midzer/violetland) |
-| ⭐ Virtua Fighter | [▶ vf1-recomp.pages.dev](https://vf1-recomp.pages.dev/) | [📦 mr-finster/vf1-recomp](https://github.com/mr-finster/vf1-recomp) |
-| Virtua Tennis 2 | [▶ virtuatennis2.online](https://virtuatennis2.online/) |  |
-| Virtual On: Cyber Troopers | [▶ solid7s.github.io](https://solid7s.github.io/Virtual-On-Web/) |  |
-| Void Whispers |  | [📦 degloved-net/void-whispers](https://github.com/degloved-net/void-whispers) |
-| ⭐ VVVVVV | [▶ stelight.games](https://stelight.games/play/webports/stellite.games/stellite/vvvvvv/) | [📦 midzer/vvvvvv](https://github.com/midzer/vvvvvv) |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="w"></a>
-
-## W <sub>· 35</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| WadCMD | [▶ wadcmd.com](https://wadcmd.com/) |  |
-| Warcraft II (Wargus) | [▶ rgc.zone](https://rgc.zone/ports/Warcraft2web/index.html) |  |
-| Warcraft III: Reign of Chaos / The Frozen Throne (wc3-wasm) |  | [📦 rgnv/wc3-wasm](https://github.com/rgnv/wc3-wasm) |
-| The Warriors | [▶ thewarriors.online](https://thewarriors.online/) |  |
-| Warzone 2100 (Web Edition) | [▶ wz2100.net](https://wz2100.net/news/warzone-2100-web-edition/) |  |
-| WASM Arcade | [▶ wasmarcade.com](https://wasmarcade.com/) |  |
-| wasm.rip | [▶ wasm.rip](https://wasm.rip) |  |
-| Water Closet |  | [📦 midzer/waterCloset](https://github.com/midzer/waterCloset) |
-| Web Port Unblocked |  | [📦 burnedpopcorn/Web-Port-Unblocked](https://github.com/burnedpopcorn/Web-Port-Unblocked) |
-| ⭐ Webfishing | [▶ gn-math.github.io](https://gn-math.github.io/web-port/web-fishing/) | [📦 genizy/web-port/tree/main/web-fishing](https://github.com/genizy/web-port/tree/main/web-fishing) |
-| webport.ing |  | [📦 webporting](https://github.com/webporting) |
-| Weltendämmerung (weltendaemmerung (spec-driven RE + web port)) |  | [📦 s-macke/weltendaemmerung](https://github.com/s-macke/weltendaemmerung) |
-| while True: learn() |  | [📦 dashiellbenton/ports/tree/main/while-true-learn](https://github.com/dashiellbenton/ports/tree/main/while-true-learn) |
-| ⭐ Who's Your Daddy? | [▶ gn-math.dev](https://gn-math.dev/?id=791) | [📦 Reeyuki/daddygame](https://github.com/Reeyuki/daddygame) |
-| Who's Your Daddy? (2) |  | [📦 web-ports/daddygame](https://github.com/web-ports/daddygame) |
-| Wii Forecast Channel (forecast-channel-web) |  | [📦 ravensclawx/forecast-channel-web](https://github.com/ravensclawx/forecast-channel-web) |
-| William Shatner's TekWar | [▶ rgc.zone](https://rgc.zone/ports/8777-tekwar/run.html) |  |
-| Wine Assembly (Windows games in the browser: RollerCoaster Tycoon, Space Cadet…) |  | [📦 Emupedia/wine-assembly](https://github.com/Emupedia/wine-assembly) |
-| ⭐ WipEout | [▶ phoboslab.org](https://phoboslab.org/wipegame/) | [📦 phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) |
-| ⭐ Witch's Heart | [▶ gn-math.github.io](https://gn-math.github.io/web-port/witch-heart/) | [📦 genizy/web-port/tree/main/witch-heart](https://github.com/genizy/web-port/tree/main/witch-heart) |
-| Witchaven | [▶ rgc.zone](https://rgc.zone/ports/8783-witchaven/run.html) |  |
-| Witchaven II | [▶ rgc.zone](https://rgc.zone/ports/8784-witchaven2/run.html) |  |
-| Wizards in Shorts |  | [📦 Reeyuki/WizardsInShorts](https://github.com/Reeyuki/WizardsInShorts) |
-| Wolfenstein 3D |  | [📦 midzer/wolf4sdl](https://github.com/midzer/wolf4sdl) |
-| ⭐ Wolfenstein 3D (HTML5, lazarv) | [▶ wolf3d.wadcmd.com](https://wolf3d.wadcmd.com/) | [📦 lazarv/wolf3d](https://github.com/lazarv/wolf3d) |
-| Wolfenstein 3D (Iron Wolf) |  | [📦 Ragnaroek/iron-wolf](https://github.com/Ragnaroek/iron-wolf) |
-| Wolfenstein 3D TG | [▶ rgc.zone](https://rgc.zone/ports/wolf3dtg/index.html) |  |
-| World of Warcraft (wowser) |  | [📦 wowserhq/wowser](https://github.com/wowserhq/wowser) |
-| Worldbox |  | [📦 Shindo957-Official/worldfox](https://gitlab.com/Shindo957-Official/worldfox) |
-| WW2 GI: Platoon Leader | [▶ rgc.zone](https://rgc.zone/ports/8791-ww2-platoon/run.html) |  |
-| WWE SmackDown vs. Raw 2010 | [▶ wwe2010.online](https://wwe2010.online/) |  |
-| WWE SmackDown vs. Raw 2011 | [▶ wwe2011.online](https://wwe2011.online/) |  |
-| WWE SmackDown! Here Comes the Pain | [▶ wwepain.online](https://wwepain.online/) |  |
-| WWE SmackDown! vs. RAW | [▶ smackdownvsraw.online](https://smackdownvsraw.online/) |  |
-| WWII GI | [▶ rgc.zone](https://rgc.zone/ports/ww2giweb/run.html) |  |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="x"></a>
-
-## X <sub>· 8</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| The X-Files Game (shiloh) |  | [📦 Asterber/shiloh](https://github.com/Asterber/shiloh) |
-| Xash3D |  | [📦 btarg/Xash3D-Emscripten](https://github.com/btarg/Xash3D-Emscripten) |
-| xbattle (xbattle-web) |  | [📦 lab1702/xbattle-web](https://github.com/lab1702/xbattle-web) |
-| XCOM |  | [📦 midzer/OpenXcom](https://github.com/midzer/OpenXcom) |
-| XEvil (xevil-wasm) |  | [📦 CyberspaceVii/xevil-wasm](https://github.com/CyberspaceVii/xevil-wasm) |
-| XGalaga |  | [📦 midzer/xgalaga-sdl](https://github.com/midzer/xgalaga-sdl) |
-| Xiao Xiao 4: Bar Shootout | [▶ wasmarcade.app](https://wasmarcade.app/play/xiao-xiao-4) |  |
-| xrick | [▶ xrick.net](https://www.xrick.net/) |  |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="y"></a>
-
-## Y <sub>· 8</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| ⭐ Yandere Simulator | [▶ gn-math.github.io](https://gn-math.github.io/web-port/yandere-simulator/) | [📦 genizy/web-port/tree/main/yandere-simulator](https://github.com/genizy/web-port/tree/main/yandere-simulator) |
-| Yesterday's Meat |  | [📦 SoupcanUBG/Yesterdays-Meat](https://github.com/SoupcanUBG/Yesterdays-Meat) |
-| yomih hustle |  | [📦 web-ports/yomi-hustle](https://github.com/web-ports/yomi-hustle) |
-| You Want Half a Mounds Bar |  | [📦 wasm-rip/You-Want-Half-A-Mounds-Bar-Web](https://github.com/wasm-rip/You-Want-Half-A-Mounds-Bar-Web) |
-| ⭐ Your Only Move is Hustle | [▶ gn-math.dev](https://gn-math.dev/?id=776) | [📦 webporting/Your-Only-Move-Is-HUSTLE](https://github.com/webporting/Your-Only-Move-Is-HUSTLE) |
-| Your Only Move is Hustle (2) |  | [📦 web-ports/yomi-hustle](https://github.com/web-ports/yomi-hustle) |
-| Youtubers Life OMG! |  | [📦 Reeyuki/ytlifeomg](https://github.com/Reeyuki/ytlifeomg) |
-| ⭐ Yume Nikki | [▶ gn-math.github.io](https://gn-math.github.io/web-port/yume-nikki/) | [📦 genizy/web-port/tree/main/yume-nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-<a id="z"></a>
-
-## Z <sub>· 4</sub>
-
-| Game | Play | Source |
-| --- | --- | --- |
-| Zato |  | [📦 z4laxis/ZatoWebport](https://github.com/z4laxis/ZatoWebport) |
-| Zelda II: The Adventure of Link (z2rs) | [▶ z2rs.com](https://z2rs.com/) |  |
-| Zeliard |  | [📦 nolanvenhola/zeliard](https://github.com/nolanvenhola/zeliard) |
-| Zuma Deluxe (ZumaTAS) |  | [📦 9933fa/Zuma-Deluxe-TAS](https://github.com/9933fa/Zuma-Deluxe-TAS) |
-
-<p align="right"><a href="#jump-to">↑ back to top</a></p>
-
-## License
-
-Catalog data is provided as-is. Links point to third-party projects —
-their licenses and terms of use are defined by the respective repository authors.
-
-## Special thanks for great work
-
-- [breadbb/genizy](https://github.com/genizy)
-- [98Corbins](https://98.c0rbin.fun/)
-- [bog/aukak](https://github.com/aukak)
-- [burnedpopcorn](https://github.com/burnedpopcorn)
-- [irv77](https://github.com/irv77)
-- [koi/_flixel](https://oldgrounds.xyz/)
-- [slqnt](https://github.com/slqntdevss)
-- [sodiboo](https://github.com/sodiboo)
-- [SpanishFreddy](https://github.com/spanishfreddy)
-- [Mercury Workshop](https://github.com/MercuryWorkshop)
-- [national porting association](https://github.com/National-Porting-Association)
-- [webport.ing](https://github.com/webporting)
-- [sky](https://github.com/skysthelimitt) at selenite.cc
-- [GMH-Code](https://github.com/GMH-Code)
-- [MattConn](https://github.com/MattConn)
-- [VinMannie](https://github.com/VinMannie)
-- [chromaticpipe](https://github.com/chromaticpipe)
-- [skyleite](https://github.com/skyleite)
-- [BlueGameMC](https://github.com/BlueGameMC)
-- [gays dot' studio](https://github.com/gays-studio)
-- [Vanilagy](https://github.com/Vanilagy)
-- [TWS2401](https://github.com/TWS2401)
-- [q8j](https://github.com/q8j-dev)
-- [wasm.rip](https://wasm.rip)
+📢 **Telegram: [t.me/gamebase54](https://t.me/gamebase54)** — news and updates
+
+# Greates Games Decompilations List
+
+
+Games with a public decompilation, disassembly, or static recompilation, grouped by the platform that project actually targets.
+
+**4004 projects in total** · **3577** across 55 platforms · **285 reimplementations** and **142 source ports** at the bottom · last updated November 10, 2026
+
+A game that shipped on several machines is listed under the version the repository is reversing. Inside each platform, names are alphabetical and a leading "The" is ignored.
+
+- Many projects are unfinished. Read the repository before treating it as a complete source tree.
+- Bring your own legally obtained game data. This list does not host assets.
+- Where two groups are decompiling the same game, both repositories are listed.
+- [Credits for the original collection](https://github.com/SamidyFR/Game-Decompilations/blob/main/CREDITS.md) · [how to contribute there](https://github.com/SamidyFR/Game-Decompilations/blob/main/CONTRIBUTING.md) · [awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) · [awesome-decomp-games-ru](https://github.com/justxor/awesome-decomp-games-ru) · [daily status tracker of native PC ports](https://portedgames.com/recompiled-games/)
+
+## Contents
+
+**Nintendo**
+
+- [NES / Famicom](#nes--famicom) · 106
+- [SNES / Super Famicom](#snes--super-famicom) · 132
+- [Nintendo 64](#nintendo-64) · 364
+- [GameCube](#gamecube) · 174
+- [Wii](#wii) · 98
+- [Wii U](#wii-u) · 27
+- [Nintendo Switch](#nintendo-switch) · 111
+- [Game Boy](#game-boy) · 66
+- [Game Boy Color](#game-boy-color) · 51
+- [Game Boy Advance](#game-boy-advance) · 131
+- [Nintendo DS](#nintendo-ds) · 82
+- [Nintendo 3DS](#nintendo-3ds) · 31
+- [Virtual Boy](#virtual-boy) · 3
+
+**Sega**
+
+- [Master System](#master-system) · 6
+- [Sega Genesis / Mega Drive](#sega-genesis--mega-drive) · 54
+- [Game Gear](#game-gear) · 2
+- [Sega 32X](#sega-32x) · 2
+- [Sega CD](#sega-cd) · 5
+- [Sega Saturn](#sega-saturn) · 7
+- [Dreamcast](#dreamcast) · 18
+
+**Sony**
+
+- [PlayStation](#playstation) · 302
+- [PlayStation 2](#playstation-2) · 217
+- [PlayStation 3](#playstation-3) · 50
+- [PlayStation 4](#playstation-4) · 53
+- [PlayStation 5](#playstation-5) · 1
+- [PlayStation Portable](#playstation-portable) · 34
+
+**Microsoft**
+
+- [Xbox](#xbox) · 158
+- [Xbox 360](#xbox-360) · 402
+- [Xbox One](#xbox-one) · 1
+
+**Computer, mobile, and web**
+
+- [PC-98](#pc-98) · 2
+- [ZX Spectrum](#zx-spectrum) · 46
+- [Commodore 64](#commodore-64) · 14
+- [Commodore VIC-20](#commodore-vic-20) · 2
+- [Amiga](#amiga) · 13
+- [Atari 8-bit](#atari-8-bit) · 3
+- [Atari ST](#atari-st) · 3
+- [Apple II](#apple-ii) · 9
+- [BBC Micro / Acorn](#bbc-micro--acorn) · 16
+- [Amstrad CPC](#amstrad-cpc) · 1
+- [Mac](#mac) · 8
+- [PC / DOS](#pc--dos) · 465
+- [Mobile](#mobile) · 107
+- [Web / Flash](#web--flash) · 3
+
+**Arcade, other hardware, and tools**
+
+- [Arcade](#arcade) · 69
+- [Neo Geo](#neo-geo) · 2
+- [Atari 2600](#atari-2600) · 5
+- [Atari Jaguar](#atari-jaguar) · 4
+- [Atari Lynx](#atari-lynx) · 1
+- [ColecoVision](#colecovision) · 1
+- [MSX](#msx) · 9
+- [3DO](#3do) · 1
+- [Philips CD-i](#philips-cd-i) · 5
+- [System software and emulators](#system-software-and-emulators) · 36
+- [Multiplatform](#multiplatform) · 26
+- [Other](#other) · 39
+
+- [Open-source reimplementations](#open-source-reimplementations) · 285
+- [Source ports](#source-ports) · 142
+
+## NES / Famicom
+
+106 projects
+
+- **Adventure Island II** — [Junior-Jones/Adventure-Island-II-NES-Static-Recomp](https://github.com/Junior-Jones/Adventure-Island-II-NES-Static-Recomp)
+- **Atlantis no Nazo** — [Xkeeper0/atlantis-no-nazo](https://github.com/Xkeeper0/atlantis-no-nazo) — *Disassembly.*
+- **Balloon Fight** — [LuigiBlood/balloonfight_dis](https://github.com/LuigiBlood/balloonfight_dis)
+- **Balloon Fight (Balloon-fight-VS-for-NES)** — [tvoybro/Balloon-fight-VS-for-NES](https://github.com/tvoybro/Balloon-fight-VS-for-NES) — *Port. Inactive or archived.*
+- **Battle City** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Battle%20City)
+- **BioHazard (Waixing)** — [nikita600/BioHazard_NES](https://github.com/nikita600/BioHazard_NES) — *Inactive or archived.*
+- **Bomberman** — [emu-russia/bomberman-nes](https://github.com/emu-russia/bomberman-nes)
+- **Bubble Bobble** — [Junior-Jones/Bubble-Bobble-NES-Static-Recomp](https://github.com/Junior-Jones/Bubble-Bobble-NES-Static-Recomp) — *Static recompilation.*
+- **The Bugs Bunny Crazy Castle** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Bugs%20Bunny%20Crazy%20Castle)
+- **Captain Tsubasa Vol. II: Super Striker** — [qnctr/CaptainTsubasaIINESRecomp](https://github.com/qnctr/CaptainTsubasaIINESRecomp) — *Static recompilation.*
+- **Captain Tsubasa Vol. II: Super Striker (Captain-Tsubasa-2-English-Translation)** — [cyneprepou4uk/Captain-Tsubasa-2-English-Translation](https://github.com/cyneprepou4uk/Captain-Tsubasa-2-English-Translation) — *Disassembly.*
+- **Castlevania** — [rumbleminze/castlevania-snes](https://github.com/rumbleminze/castlevania-snes) — *Port.*
+- **Castlevania II: Simon's Quest (SNES port)** — [rumbleminze/castlevania-ii-snes](https://github.com/rumbleminze/castlevania-ii-snes) — *Port.*
+- **Contra** — [vermiceli/nes-contra-us](https://github.com/vermiceli/nes-contra-us/)
+- **Contra (Japan)** — [ZReC/contraj-disasm](https://github.com/ZReC/contraj-disasm) — *Disassembly. Inactive or archived.*
+- **Crystalis** — [crystalisdisassembly/crystalisdisassembly](https://github.com/crystalisdisassembly/crystalisdisassembly)
+- **Danny Sullivan's Indy Heat** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Danny%20Sullivan's%20Indy%20Heat)
+- **Donald Land** — [brunovalads/donald-land](https://github.com/brunovalads/donald-land)
+- **Donkey Kong** — [RussianManSMWC/Donkey-Kong-NES-Disassembly](https://github.com/RussianManSMWC/Donkey-Kong-NES-Disassembly)
+- **Donkey Kong (dksnes)** — [furrykef/dksnes](https://github.com/furrykef/dksnes) — *Port. Inactive or archived.*
+- **Double Dragon II: The Revenge** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Double%20Dragon%20II)
+- **Dr. Mario** — [Nostaljipi/dr-mario-disassembly](https://github.com/Nostaljipi/dr-mario-disassembly)
+- **Dr. Mario** — [brianhuffman/drmario](https://github.com/brianhuffman/drmario) — *Disassembly.*
+- **Dr. Mario (Recomp)** — [mstan/DrMarioNesRecomp](https://github.com/mstan/DrMarioNesRecomp)
+- **Dragon Warrior** — [nmikstas/dragon-warrior-disassembly](https://github.com/nmikstas/dragon-warrior-disassembly)
+- **Dragon Warrior IV** — [arichmondphoto/DragonWarrior4NESRecomp](https://github.com/arichmondphoto/DragonWarrior4NESRecomp) — *Static recompilation.*
+- **Duck Hunt** — [mstan/DuckHuntNESRecomp](https://github.com/mstan/DuckHuntNESRecomp) — *Static recompilation.*
+- **Earthbound Beginnings** — [GrasonHumphrey/Earthbound-Zero-Decomp](https://github.com/GrasonHumphrey/Earthbound-Zero-Decomp)
+- **Elite** — [markmoxon/elite-source-code-nes](https://github.com/markmoxon/elite-source-code-nes)
+- **ExciteBike** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Excitebike)
+- **Faxanadu** — [mstan/FaxanaduRecomp](https://github.com/mstan/FaxanaduRecomp)
+- **Final Fantasy** — [Entroper/FF1Disassembly](https://github.com/Entroper/FF1Disassembly)
+- **Final Fantasy (FF1-MMC5)** — [JiggeryPonkery/FF1-MMC5](https://github.com/JiggeryPonkery/FF1-MMC5) — *Disassembly. Inactive or archived.*
+- **Final Fantasy (FinalFantasyDisassembly)** — [BenWenger/FinalFantasyDisassembly](https://github.com/BenWenger/FinalFantasyDisassembly) — *Disassembly. Inactive or archived.*
+- **Final Fantasy II** — [everything8215/ff2](https://github.com/everything8215/ff2)
+- **Final Fantasy II** — [JiggeryPonkery/FF2-Disassembly](https://github.com/JiggeryPonkery/FF2-Disassembly) — *Disassembly. Inactive or archived.*
+- **Final Fantasy III** — [everything8215/ff3](https://github.com/everything8215/ff3)
+- **Fire Emblem: Shadow Dragon and the Blade of Light (fe1)** — [StanHash/fe1](https://github.com/StanHash/fe1) — *Disassembly. Inactive or archived.*
+- **Game Genie** — [qalle2/nes-gg-disassembly](https://github.com/qalle2/nes-gg-disassembly)
+- **Golgo 13: Top Secret Episode** — [Tenome/Golgo-13-Decomp](https://github.com/Tenome/Golgo-13-Decomp)
+- **Ice Climber** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Ice%20Climber)
+- **Kid Icarus (project-petunia, SNES port)** — [rumbleminze/project-petunia](https://github.com/rumbleminze/project-petunia) — *Port.*
+- **Kunio-kun no Nekketsu Soccer League** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Kunio-kun%20no%20Nekketsu%20Soccer%20League)
+- **The Legend Of Zelda** — [aldonunez/zelda1-disassembly](https://github.com/aldonunez/zelda1-disassembly)
+- **The Legend of Zelda (Recomp)** — [mstan/LegendOfZeldaNESRecomp](https://github.com/mstan/LegendOfZeldaNESRecomp)
+- **The Legend of Zelda (zeldasource)** — [camthesaxman/zeldasource](https://github.com/camthesaxman/zeldasource) — *Disassembly. Inactive or archived.*
+- **The Legend Of Zelda II: The Adventure Of Link** — [FiendsOfTheElements/z2disassembly](https://github.com/FiendsOfTheElements/z2disassembly)
+- **Life Force** — [rumbleminze/lifeforce-snes](https://github.com/rumbleminze/lifeforce-snes) — *Port.*
+- **Maniac Mansion** — [pditincho/mm-explained](https://github.com/pditincho/mm-explained)
+- **Mappy** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Mappy)
+- **Mario Bros.** — [RussianManSMWC/Mario-Bros.-Dis](https://github.com/RussianManSMWC/Mario-Bros.-Dis)
+- **Mega Man** — [lsmmega/mm1](https://github.com/lsmmega/mm1) — *Disassembly.*
+- **Mega Man (mm1dasm)** — [TheRealQuantam/mm1dasm](https://github.com/TheRealQuantam/mm1dasm) — *Disassembly.*
+- **Mega Man 2** — [lsmmega/mm2](https://github.com/lsmmega/mm2) — *Disassembly.*
+- **Mega Man 3** — [Raidenthequick/megaman3-disassembly](https://github.com/Raidenthequick/megaman3-disassembly)
+- **Mega Man 3** — [mstan/Megaman3NESRecomp](https://github.com/mstan/Megaman3NESRecomp) — *Static recompilation.*
+- **Mega Man 3 (megaman3-disassembly)** — [refreshing-lemonade/megaman3-disassembly](https://github.com/refreshing-lemonade/megaman3-disassembly)
+- **Mega Man 4** — [Raidenthequick/megaman4-disassembly](https://github.com/Raidenthequick/megaman4-disassembly)
+- **Mega Man 4** — [captainsouthbird/mm4](https://github.com/captainsouthbird/mm4) — *Disassembly. Inactive or archived.*
+- **Mega Man 4 (megaman4-disassembly)** — [refreshing-lemonade/megaman4-disassembly](https://github.com/refreshing-lemonade/megaman4-disassembly)
+- **Mega Man 5** — [Raidenthequick/megaman5-disassembly](https://github.com/Raidenthequick/megaman5-disassembly)
+- **Mega Man 5 (megaman5-disassembly)** — [refreshing-lemonade/megaman5-disassembly](https://github.com/refreshing-lemonade/megaman5-disassembly)
+- **Mega Man 6 (megaman6-disassembly)** — [refreshing-lemonade/megaman6-disassembly](https://github.com/refreshing-lemonade/megaman6-disassembly) — *Disassembly. Inactive or archived.*
+- **Metroid** — [metroiddatabase.com](https://metroiddatabase.com/source-code/)
+- **Metroid (m1disasm)** — [metroidret/m1disasm](https://github.com/metroidret/m1disasm) — *Disassembly.*
+- **Metroid (metroid-disassembly)** — [nmikstas/metroid-disassembly](https://github.com/nmikstas/metroid-disassembly) — *Disassembly.*
+- **Metroid (Recomp)** — [mstan/MetroidNESRecomp](https://github.com/mstan/MetroidNESRecomp)
+- **Mighty Bomb Jack** — [Xkeeper0/mighty-bomb-jack](https://github.com/Xkeeper0/mighty-bomb-jack) — *Disassembly.*
+- **Mike Tyson's Punch Out!!** — [nmikstas/mike-tysons-punch-out-disassembly](https://github.com/nmikstas/mike-tysons-punch-out-disassembly)
+- **Milon's Secret Castle** — [jasonmray/MilonsSecretCastle](https://github.com/jasonmray/MilonsSecretCastle) — *Disassembly.*
+- **Mother/Earthbound Zero/Earthbound Beginnings** — [Nathan-R-Og/mother](https://github.com/Nathan-R-Og/mother)
+- **Ms. Pac-Man (Tengen)** — [RussianManSMWC/Ms.-Pac-Man-NES-Tengen-Disassembly](https://github.com/RussianManSMWC/Ms.-Pac-Man-NES-Tengen-Disassembly) — *Disassembly.*
+- **Nuts & Milk** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Nuts%20%26%20Milk)
+- **Pac-Man** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Pac-Man)
+- **Pac-Man** — [Mr-Shizzy/PacManRecomp](https://github.com/Mr-Shizzy/PacManRecomp) — *Static recompilation.*
+- **Rygar (SNES port)** — [rumbleminze/rygar-snes](https://github.com/rumbleminze/rygar-snes) — *Port. Inactive or archived.*
+- **Solstice: The Quest for the Staff of Demnos** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Solstice)
+- **SonSon** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Son%20Son)
+- **Street Fighter III (9 Fighter, unlicensed)** — [cyneprepou4uk/Street-Fighter-3](https://github.com/cyneprepou4uk/Street-Fighter-3) — *Disassembly. Inactive or archived.*
+- **Super C** — [vermiceli/nes-super-c](https://github.com/vermiceli/nes-super-c/)
+- **Super Dodge Ball (super-super-dodgeball)** — [rumbleminze/super-super-dodgeball](https://github.com/rumbleminze/super-super-dodgeball) — *Port.*
+- **Super Mario Bros.** — [gist:1wErt3r](https://gist.github.com/1wErt3r/4048722)
+- **Super Mario Bros.** — [pwsqrd/lynx_smb](https://github.com/pwsqrd/lynx_smb) — *Port.*
+- **Super Mario Bros.** — [oliveryasuna/smb-recomp](https://github.com/oliveryasuna/smb-recomp) — *Static recompilation.*
+- **Super Mario Bros.** — [pgattic/smb1-disasm](https://github.com/pgattic/smb1-disasm) — *Disassembly. Inactive or archived.*
+- **Super Mario Bros. (Recomp)** — [mstan/SuperMarioBrosNESRecomp](https://github.com/mstan/SuperMarioBrosNESRecomp)
+- **Super Mario Bros. (smb)** — [nathsou/smb](https://github.com/nathsou/smb)
+- **Super Mario Bros. (smb-disassembly)** — [threecreepio/smb-disassembly](https://github.com/threecreepio/smb-disassembly) — *Disassembly. Inactive or archived.*
+- **Super Mario Bros. (smb1 disassembly)** — [Xkeeper0/smb1](https://github.com/Xkeeper0/smb1) — *Disassembly. Inactive or archived.*
+- **Super Mario Bros. (smb1-disasm)** — [laura240406/smb1-disasm](https://github.com/laura240406/smb1-disasm) — *Disassembly. Inactive or archived.*
+- **Super Mario Bros. (UEFI_SuperMario)** — [MikeWuPing/UEFI_SuperMario](https://github.com/MikeWuPing/UEFI_SuperMario) — *Port.*
+- **Super Mario Bros. / Super Mario Bros.: The Lost Levels** — [nukep/SMB-Vanilla](https://github.com/nukep/SMB-Vanilla)
+- **Super Mario Bros. 2 (smb2)** — [Xkeeper0/smb2](https://github.com/Xkeeper0/smb2) — *Inactive or archived.*
+- **Super Mario Bros. 2: The Lost Levels** — [threecreepio/smb2j-disassembly](https://github.com/threecreepio/smb2j-disassembly)
+- **Super Mario Bros. 3** — [captainsouthbird/smb3](https://github.com/captainsouthbird/smb3)
+- **Super Mario World (Hummer Team NES port)** — [palaceswitcher/SMW-NES-Disassembly](https://github.com/palaceswitcher/SMW-NES-Disassembly) — *Port.*
+- **Tecmo Super Bowl (Tecmo_Super_Bowl_NES_Disassembly)** — [bruddog/Tecmo_Super_Bowl_NES_Disassembly](https://github.com/bruddog/Tecmo_Super_Bowl_NES_Disassembly) — *Disassembly.*
+- **Tecmo World Cup Soccer** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Tecmo%20World%20Cup%20Soccer)
+- **Tennis (NES)** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Tennis)
+- **Tetris (NES)** ✦ — [CelestialAmber/TetrisNESDisasm](https://github.com/CelestialAmber/TetrisNESDisasm)
+- **Tetris (TengenTetrisDisasm)** — [zohassadar/TengenTetrisDisasm](https://github.com/zohassadar/TengenTetrisDisasm) — *Disassembly.*
+- **Transformers: Mystery Of Convoy** — [Fixatron/TFRom-Recreation](https://github.com/Fixatron/TFRom-Recreation)
+- **Ultima: Exodus** — [nmikstas/nes_ultima_3_disassembly](https://github.com/nmikstas/nes_ultima_3_disassembly) — *Disassembly. Inactive or archived.*
+- **Yie Ar Kung Fu** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Yie%20Ar%20Kung-Fu)
+- **Yoshi** — [mstan/YoshiNESRecomp](https://github.com/mstan/YoshiNESRecomp) — *Static recompilation.*
+- **Yoshi's Cookie** — [mstan/YoshisCookieRecomp](https://github.com/mstan/YoshisCookieRecomp) — *Static recompilation.*
+
+## SNES / Super Famicom
+
+132 projects
+
+- **ActRaiser** — [DerrickGold/ar-recomp](https://github.com/DerrickGold/ar-recomp)
+- **Arcana** — [SarahShinespark/arcana-disassembly](https://github.com/SarahShinespark/arcana-disassembly) — *Disassembly.*
+- **Beavis and Butt-Head** — [rac08241988/BeavisAndButtHead-Recomp](https://github.com/rac08241988/BeavisAndButtHead-Recomp) — *Static recompilation.*
+- **BS Zelda no Densetsu (BS-Zelda-no-Densetsu-Disassembly)** — [Yoshifanatic1/BS-Zelda-no-Densetsu-Disassembly](https://github.com/Yoshifanatic1/BS-Zelda-no-Densetsu-Disassembly) — *Disassembly. Inactive or archived.*
+- **Chrono Trigger** — [dscotton/ct_disassembly](https://github.com/dscotton/ct_disassembly) — *Disassembly.*
+- **Demons Crest** — [FredYeye/various-game-disassembly](https://github.com/FredYeye/various-game-disassembly/blob/main/SNES/demons_crest.asm)
+- **Donkey Kong Country** — [Yoshifanatic1/Donkey-Kong-Country-1-Disassembly](https://github.com/Yoshifanatic1/Donkey-Kong-Country-1-Disassembly)
+- **Donkey Kong Country (Recomp)** — [elliotttate/DKC1Recomp](https://github.com/elliotttate/DKC1Recomp)
+- **Donkey Kong Country 2** — [p4plus2/DKC2-disassembly](https://github.com/p4plus2/DKC2-disassembly)
+- **Donkey Kong Country 2: Diddy's Kong Quest** — [elliotttate/DKC2Recomp](https://github.com/elliotttate/DKC2Recomp)
+- **Donkey Kong Country 2: Diddy's Kong Quest (Donkey-Kong-Country-2-Disassembly)** — [Yoshifanatic1/Donkey-Kong-Country-2-Disassembly](https://github.com/Yoshifanatic1/Donkey-Kong-Country-2-Disassembly) — *Disassembly. Inactive or archived.*
+- **Donkey Kong Country 3** — [Yoshifanatic1/Donkey-Kong-Country-3-Disassembly](https://github.com/Yoshifanatic1/Donkey-Kong-Country-3-Disassembly)
+- **Donkey Kong Country 3** — [BlueImp78/DKC3-Disassembly](https://github.com/BlueImp78/DKC3-Disassembly) — *Disassembly.*
+- **Donkey Kong Country 3 (Recomp)** — [elliotttate/DKC3Recomp](https://github.com/elliotttate/DKC3Recomp)
+- **Doom** — [Cacodemontube/DoomSNESRecomp](https://github.com/Cacodemontube/DoomSNESRecomp) — *Static recompilation.*
+- **Dragon Ball Z: Super Saiya Densetsu** — [JackRushante/DBZ-Super-Saiya-Densetsu-Rust](https://github.com/JackRushante/DBZ-Super-Saiya-Densetsu-Rust) — *Static recompilation.*
+- **EarthBound (earthbound (D port))** — [Herringway/earthbound](https://github.com/Herringway/earthbound) — *Port.*
+- **EarthBound (EarthBound-Disassembly)** — [Yoshifanatic1/EarthBound-Disassembly](https://github.com/Yoshifanatic1/EarthBound-Disassembly) — *Disassembly. Inactive or archived.*
+- **EarthBound (PC Port Co-op)** — [edzito69/Earthbound-PC-Port-COOP](https://github.com/edzito69/Earthbound-PC-Port-COOP) — *Port.*
+- **EarthBound (Phase Distorter)** — [TheRunaway5/Phase-Distorter](https://github.com/TheRunaway5/Phase-Distorter) — *Port.*
+- **EarthBound / Mother 2** — [Herringway/ebsrc](https://github.com/Herringway/ebsrc)
+- **Earthbound Companion** — [rages4calm/earthbound-companion](https://github.com/rages4calm/earthbound-companion) — *Static recompilation.*
+- **Earthworm Jim 2** — [Yoshifanatic1/Earthworm-Jim-2-Disassembly](https://github.com/Yoshifanatic1/Earthworm-Jim-2-Disassembly) — *Disassembly. Inactive or archived.*
+- **F-Zero** — [mstan/FZeroSNESRecomp](https://github.com/mstan/FZeroSNESRecomp)
+- **F-Zero** — [RetroPortingToolKit/FZeroSNESRecomp](https://github.com/RetroPortingToolKit/FZeroSNESRecomp) — *Static recompilation.*
+- **F-Zero (Recomp)** — [craigshaw/FZeroRecomp](https://github.com/craigshaw/FZeroRecomp)
+- **Faceball 2000** — [Yoshifanatic1/Faceball-2000-Disassembly](https://github.com/Yoshifanatic1/Faceball-2000-Disassembly) — *Disassembly. Inactive or archived.*
+- **Final Fantasy IV** — [everything8215/ff4](https://github.com/everything8215/ff4)
+- **Final Fantasy V** — [everything8215/ff5](https://github.com/everything8215/ff5) · [ff6hacking.com](https://www.ff6hacking.com/ff5wiki/images/0/00/Ff5j_asm_Squall.txt)
+- **Final Fantasy VI** — [everything8215/ff6](https://github.com/everything8215/ff6)
+- **Final Fantasy: Mystic Quest** — [TheAnsarya/ffmq-info](https://github.com/TheAnsarya/ffmq-info) — *Disassembly.*
+- **Final Fight 2 (macOS)** — [EddyKine/final-fight-2-snes](https://github.com/EddyKine/final-fight-2-snes) — *Static recompilation.*
+- **Final Fight 3** — [omegakatana92/Final-Fight-3-Recomp](https://github.com/omegakatana92/Final-Fight-3-Recomp) — *Static recompilation.*
+- **Fire Emblem: Thracia 776 (FireEmblem5)** — [ZaneAvernathy/FireEmblem5](https://github.com/ZaneAvernathy/FireEmblem5) — *Disassembly. Inactive or archived.*
+- **Flashback: The Quest for Identity** — [mpolizel/FBSNESRecomp](https://github.com/mpolizel/FBSNESRecomp) — *Static recompilation.*
+- **Go Go Ackman** — [catmidori/gogoackman1recomp](https://github.com/catmidori/gogoackman1recomp) — *Static recompilation.*
+- **Goof Troop** — [Yoshifanatic1/Goof-Troop-Disassembly](https://github.com/Yoshifanatic1/Goof-Troop-Disassembly)
+- **Harvest Moon** — [RodoLy/HarvestMoonSnesDecomp](https://github.com/RodoLy/HarvestMoonSnesDecomp)
+- **Harvest Moon (HM-Decomp)** — [ElisaS-Codes/HM-Decomp](https://github.com/ElisaS-Codes/HM-Decomp) — *Disassembly. Inactive or archived.*
+- **Hong Kong 97** — [ItsT3K/Hong-Kong-97-Disassembly](https://github.com/ItsT3K/Hong-Kong-97-Disassembly) — *Disassembly. Inactive or archived.*
+- **Illusion of Gaia** — [mrOt4/babel-recomp](https://github.com/mrOt4/babel-recomp) — *Static recompilation.*
+- **The Incredible Crash Dummies** — [rac08241988/IncredibleCrashDummies-Recomp](https://github.com/rac08241988/IncredibleCrashDummies-Recomp) — *Static recompilation.*
+- **International Superstar Soccer Deluxe (International-Superstar-Soccer-Deluxe-SNES-Disassembly)** — [Yoshifanatic1/International-Superstar-Soccer-Deluxe-SNES-Disassembly](https://github.com/Yoshifanatic1/International-Superstar-Soccer-Deluxe-SNES-Disassembly) — *Disassembly. Inactive or archived.*
+- **ISS Deluxe** — [sergiomanzur/issd-native](https://github.com/sergiomanzur/issd-native)
+- **Jungle Strike** — [Junior-Jones/Jungle-Strike-SNES-Static-Recomp](https://github.com/Junior-Jones/Jungle-Strike-SNES-Static-Recomp) — *Static recompilation.*
+- **Jurassic Park (Jurassic-Park-1-SNES-disassembly)** — [Yoshifanatic1/Jurassic-Park-1-SNES-disassembly](https://github.com/Yoshifanatic1/Jurassic-Park-1-SNES-disassembly) — *Disassembly. Inactive or archived.*
+- **Kirby Super Star** — [nvd123-YT/KirbySuperStarPC](https://github.com/nvd123-YT/KirbySuperStarPC) — *Static recompilation.*
+- **Kirby Super Star (KSS-disassembly)** — [Ankouno/KSS-disassembly](https://github.com/Ankouno/KSS-disassembly) — *Disassembly. Inactive or archived.*
+- **Kirby's Dream Land 3** — [Yoshifanatic1/Kirbys-Dream-Land-3-Disassembly](https://github.com/Yoshifanatic1/Kirbys-Dream-Land-3-Disassembly) — *Disassembly. Inactive or archived.*
+- **Kirby's Dream Land 3** — [marciliofilho/KirbysDreamLand3Recomp](https://github.com/marciliofilho/KirbysDreamLand3Recomp) — *Static recompilation.*
+- **Lagoon** — [rages4calm/LagoonSNESRecomp](https://github.com/rages4calm/LagoonSNESRecomp) — *Static recompilation.*
+- **The Legend Of Zelda: A Link To The Past** — [snesrev/zelda3](https://github.com/snesrev/zelda3)
+- **The Legend of Zelda: A Link to the Past** — [EstebanPdN/zelda-alttp-3ds](https://github.com/EstebanPdN/zelda-alttp-3ds) — *Port.*
+- **The Legend of Zelda: A Link to the Past** — [YeOldPress/alttp-dx](https://github.com/YeOldPress/alttp-dx) — *Port.*
+- **The Legend of Zelda: A Link to the Past** — [Waterdish/zelda3-android](https://github.com/Waterdish/zelda3-android) — *Port. Inactive or archived.*
+- **The Legend of Zelda: A Link to the Past (alttp-disassembly)** — [walkingeyerobot/alttp-disassembly](https://github.com/walkingeyerobot/alttp-disassembly) — *Disassembly. Inactive or archived.*
+- **The Legend of Zelda: A Link to the Past (moonpearl)** — [DoutorRaposo/moonpearl](https://github.com/DoutorRaposo/moonpearl) — *Port.*
+- **The Legend of Zelda: A Link to the Past (Recomp)** — [mstan/ZeldaAlttPSNESRecomp](https://github.com/mstan/ZeldaAlttPSNESRecomp)
+- **The Legend of Zelda: A Link to the Past (US, Asar)** — [JaredBrian/AsarUSALTTPDisassembly](https://github.com/JaredBrian/AsarUSALTTPDisassembly) — *Disassembly.*
+- **The Lion King** — [kinduff/TLKRecomp](https://github.com/kinduff/TLKRecomp) — *Static recompilation.*
+- **Looney Tunes B-Ball** — [SlippyGetBackHere/looney_tunes_b-ball_recomp](https://github.com/SlippyGetBackHere/looney_tunes_b-ball_recomp) — *Static recompilation.*
+- **Lufia II: Rise of the Sinistrals** — [Cellenseres/Lufia2SNESRecomp](https://github.com/Cellenseres/Lufia2SNESRecomp) — *Static recompilation.*
+- **Lufia II: Rise of the Sinistrals** — [Cellenseres/Lufia2Decomp](https://github.com/Cellenseres/Lufia2Decomp)
+- **Lufia II: Rise of the Sinistrals (recomp)** — [Cellenseres/Lufia2SNESRecompf](https://github.com/Cellenseres/Lufia2SNESRecompf) — *Static recompilation.*
+- **Magical Pop'n** — [looking-glassinsects/MagicalPopnRecomp](https://github.com/looking-glassinsects/MagicalPopnRecomp) — *Static recompilation.*
+- **Mario Paint** — [Yoshifanatic1/Mario-Paint-Disassembly](https://github.com/Yoshifanatic1/Mario-Paint-Disassembly) — *Disassembly. Inactive or archived.*
+- **Mega Man 7 (Mega-Man-7-Disassembly)** — [Yoshifanatic1/Mega-Man-7-Disassembly](https://github.com/Yoshifanatic1/Mega-Man-7-Disassembly) — *Disassembly. Inactive or archived.*
+- **Mega Man X** — [mstan/MegaManXSNESRecomp](https://github.com/mstan/MegaManXSNESRecomp)
+- **Mega Man X** — [MarkAlarm/MMX1-Disassembly](https://github.com/MarkAlarm/MMX1-Disassembly) — *Disassembly. Inactive or archived.*
+- **Mega Man X2** — [mstan/MegaManX2Recomp](https://github.com/mstan/MegaManX2Recomp)
+- **Mega Man X3** — [mstan/MegamanX3SNESRecomp](https://github.com/mstan/MegamanX3SNESRecomp) — *Static recompilation.*
+- **Ms. Pac-Man** — [Yoshifanatic1/Ms-Pac-Man-SNES-Disassembly](https://github.com/Yoshifanatic1/Ms-Pac-Man-SNES-Disassembly) — *Disassembly. Inactive or archived.*
+- **Mystery Dungeon: Shiren the Wanderer** — [CelestialAmber/shiren](https://github.com/CelestialAmber/shiren) — *Disassembly. Inactive or archived.*
+- **Plok** — [Yoshifanatic1/Plok-Disassembly](https://github.com/Yoshifanatic1/Plok-Disassembly) — *Disassembly. Inactive or archived.*
+- **Puggsy (unreleased)** — [zestydevy/puggsy-disassembly](https://github.com/zestydevy/puggsy-disassembly) — *Disassembly. Inactive or archived.*
+- **Shin Megami Tensei** — [Chickenzes/smt-decomp](https://codeberg.org/Chickenzes/smt-decomp)
+- **Shin Megami Tensei J1.0** — [spannerisms/smt1dasm](https://github.com/spannerisms/smt1dasm)
+- **SimCity** — [Yoshifanatic1/SimCity-SNES-Disassembly](https://github.com/Yoshifanatic1/SimCity-SNES-Disassembly) — *Disassembly. Inactive or archived.*
+- **SimCity** — [Junior-Jones/SimCity-SNES-Static-Recomp](https://github.com/Junior-Jones/SimCity-SNES-Static-Recomp) — *Static recompilation.*
+- **SNES and NES games (dizProjects)** — [bogaa/dizProjects](https://github.com/bogaa/dizProjects) — *Disassembly.*
+- **Soul Blazer** — [hellow554/RustyBlazer](https://github.com/hellow554/RustyBlazer)
+- **Star Fox** — [kandowontu2/starfox-enhanced](https://github.com/kandowontu2/starfox-enhanced)
+- **Star Fox (arwing)** — [carl0srmz/arwing](https://github.com/carl0srmz/arwing) — *Static recompilation.*
+- **Star Fox (SPC sound driver)** — [phonymike/starfox_spc_driver](https://github.com/phonymike/starfox_spc_driver) — *Disassembly.*
+- **Star Fox (StarFoxDisassembly)** — [SpyderTL/StarFoxDisassembly](https://github.com/SpyderTL/StarFoxDisassembly)
+- **Star Fox (starwing-3ds)** — [EstebanPdN/starwing-3ds](https://github.com/EstebanPdN/starwing-3ds) — *Port.*
+- **Star Fox 2 (arwing2)** — [carl0srmz/arwing2](https://github.com/carl0srmz/arwing2) — *Static recompilation.*
+- **Starfox Recomp** — [mstan/StarFoxSNESRecomp](https://github.com/mstan/StarFoxSNESRecomp)
+- **Strike Gunner S.T.G** — [SlippyGetBackHere/Strike-Gunner-STG-Recomp](https://github.com/SlippyGetBackHere/Strike-Gunner-STG-Recomp) — *Static recompilation.*
+- **Stunt Race FX** — [jeff-strutb/stuntracefx](https://github.com/jeff-strutb/stuntracefx)
+- **Super Bomberman** — [LIJI32/superbomberman](https://github.com/LIJI32/superbomberman)
+- **Super Bomberman (Recomp)** — [elliotttate/BombermanRecomp](https://github.com/elliotttate/BombermanRecomp)
+- **Super Bomberman 5** — [MauricioSuporte/SuperBomberman5SNESRecomp](https://github.com/MauricioSuporte/SuperBomberman5SNESRecomp) — *Static recompilation.*
+- **Super Ghouls 'n Ghosts** — [thatkidluke/SuperGhoulsNGhostsSNESRecomp](https://github.com/thatkidluke/SuperGhoulsNGhostsSNESRecomp) — *Static recompilation.*
+- **Super Ghouls ‘n Ghosts** — [fredyeye/super-ghouls-n-ghosts-disassembly](https://github.com/fredyeye/super-ghouls-n-ghosts-disassembly)
+- **Super Mario All-Stars** — [Maseya/SMAS-Disassembly](https://github.com/Maseya/SMAS-Disassembly) — *Disassembly.*
+- **Super Mario All-Stars** — [TanookiStudios/SuperMarioAllStarsRecomp](https://github.com/TanookiStudios/SuperMarioAllStarsRecomp) — *Static recompilation.*
+- **Super Mario All-Stars (Darhkfox)** — [Darhkfox/SuperMarioAllStars](https://github.com/Darhkfox/SuperMarioAllStars) — *Port.*
+- **Super Mario Kart** — [jvipond/super_mario_kart_recompilation](https://github.com/jvipond/super_mario_kart_recompilation)
+- **Super Mario Kart (Super-Mario-Kart-Disassembly)** — [Yoshifanatic1/Super-Mario-Kart-Disassembly](https://github.com/Yoshifanatic1/Super-Mario-Kart-Disassembly) — *Disassembly. Inactive or archived.*
+- **Super Mario RPG** — [Yoshifanatic1/Super-Mario-RPG-Disassembly](https://github.com/Yoshifanatic1/Super-Mario-RPG-Disassembly)
+- **Super Mario RPG: Legend of the Seven Stars** — [mstan/SuperMarioRPGRecomp](https://github.com/mstan/SuperMarioRPGRecomp) — *Static recompilation.*
+- **Super Mario World** — [IsoFrieze/SMWDisX](https://github.com/IsoFrieze/SMWDisX)
+- **Super Mario World (Recomp)** — [mstan/SuperMarioWorldRecomp](https://github.com/mstan/SuperMarioWorldRecomp)
+- **Super Mario World (SMAS_Launcher)** — [stephini/SMAS_Launcher](https://github.com/stephini/SMAS_Launcher) — *Port. Inactive or archived.*
+- **Super Mario World (smw)** — [snesrev/smw](https://github.com/snesrev/smw)
+- **Super Mario World (SMW-SMAS-SMASW-Disassembly)** — [Yoshifanatic1/SMW-SMAS-SMASW-Disassembly](https://github.com/Yoshifanatic1/SMW-SMAS-SMASW-Disassembly) — *Disassembly. Inactive or archived.*
+- **Super Mario World (smw-src)** — [galaxyhaxz/smw-src](https://github.com/galaxyhaxz/smw-src) — *Disassembly. Inactive or archived.*
+- **Super Mario World (SMWDisC (All.log++))** — [gnaghi/SMWDisC](https://github.com/gnaghi/SMWDisC) — *Disassembly. Inactive or archived.*
+- **Super Mario World 2** — [brunovalads/yoshisisland-disassembly](https://github.com/brunovalads/yoshisisland-disassembly)
+- **Super Mario World 2: Yoshi's Island** — [ahoustonpsych/YoshiDis](https://github.com/ahoustonpsych/YoshiDis) — *Disassembly. Inactive or archived.*
+- **Super Mario World 2: Yoshi's Island (SMW2Recomp)** — [mpolizel/SMW2Recomp](https://github.com/mpolizel/SMW2Recomp) — *Static recompilation.*
+- **Super Mario World 2: Yoshi's Island (Yoshi-s-Island-Disassembly)** — [Yoshifanatic1/Yoshi-s-Island-Disassembly](https://github.com/Yoshifanatic1/Yoshi-s-Island-Disassembly) — *Disassembly. Inactive or archived.*
+- **Super Metroid** — [strager/supermetroid](https://github.com/strager/supermetroid)
+- **Super Metroid (Launcher)** — [RadzPrower/Super-Metroid-Launcher](https://github.com/RadzPrower/Super-Metroid-Launcher) — *Port.*
+- **Super Metroid (MrJackSpade)** — [MrJackSpade/SuperMetroidDecomp](https://github.com/MrJackSpade/SuperMetroidDecomp)
+- **Super Metroid (N64 port)** — [Tron-cell/SMetroid-N64-port](https://github.com/Tron-cell/SMetroid-N64-port) — *Port.*
+- **Super Metroid (Recomp)** — [mstan/SuperMetroidRecomp](https://github.com/mstan/SuperMetroidRecomp)
+- **Super Metroid (sm)** — [snesrev/sm](https://github.com/snesrev/sm)
+- **Super Metroid (sm-3ds)** — [CharlesAverill/sm-3ds](https://github.com/CharlesAverill/sm-3ds) — *Port.*
+- **Super Metroid (sm_disassembly)** — [InsaneFirebat/sm_disassembly](https://github.com/InsaneFirebat/sm_disassembly)
+- **Super Punch-Out!!** — [Yoshifanatic1/Super-Punch-Out-Disassembly](https://github.com/Yoshifanatic1/Super-Punch-Out-Disassembly)
+- **Teenage Mutant Ninja Turtles IV: Turtles in Time** — [Yoshifanatic1/TMNT-IV---Turtles-In-Time-SNES-Disassembly](https://github.com/Yoshifanatic1/TMNT-IV---Turtles-In-Time-SNES-Disassembly) — *Disassembly.*
+- **Tiny Toon Adventures: Buster Busts Loose! (Buster Busts Loose! (PC port))** — [Darhkfox/BusterBustsLoose](https://github.com/Darhkfox/BusterBustsLoose) — *Port.*
+- **Tokimeki Memorial: Forever With You** — [CelestialAmber/tokimemo](https://github.com/CelestialAmber/tokimemo)
+- **Top Gear** — [Junior-Jones/Top-Gear-SNES-Static-Recomp](https://github.com/Junior-Jones/Top-Gear-SNES-Static-Recomp) — *Static recompilation.*
+- **Uniracers (Redcomp Dream)** — [fselich/redcomp-dream](https://github.com/fselich/redcomp-dream) — *Static recompilation.*
+- **Urban Strike** — [rac08241988/UrbanStrike-Recomp](https://github.com/rac08241988/UrbanStrike-Recomp) — *Static recompilation.*
+- **Wario's Woods** — [Yoshifanatic1/Wario-s-Woods-SNES-Disassembly](https://github.com/Yoshifanatic1/Wario-s-Woods-SNES-Disassembly) — *Disassembly. Inactive or archived.*
+- **Wayne's World** — [rac08241988/WaynesWorld-Recomp](https://github.com/rac08241988/WaynesWorld-Recomp) — *Static recompilation.*
+- **Zelda no Densetsu: Kamigami no Triforce** — [spannerisms/jpdasm](https://github.com/spannerisms/jpdasm)
+- **Zombies Ate My Neighbors (Zombies Ate My Neighbors PC Port)** — [moshferatu/zombies-ate-my-neighbors-pc-port](https://github.com/moshferatu/zombies-ate-my-neighbors-pc-port) — *Port.*
+
+## Nintendo 64
+
+364 projects
+
+- **1080° Snowboarding** — [bigyoshi51/1080-decomp](https://github.com/bigyoshi51/1080-decomp)
+- **1080° Snowboarding** — [djsaunde/1080-decomp](https://github.com/djsaunde/1080-decomp)
+- **AeroGauge** — [LLONSIT/AeroGauge](https://github.com/LLONSIT/AeroGauge)
+- **AeroGauge (Recomp)** — [alondero/aerogauge-recomp](https://github.com/alondero/aerogauge-recomp)
+- **Aidyn Chronicles: The First Mage** — [blackgamma7/Aidyn](https://github.com/blackgamma7/Aidyn)
+- **Aidyn Chronicles: The First Mage** — [spitzdano/AidynReChronicled](https://github.com/spitzdano/AidynReChronicled) — *Static recompilation.*
+- **Animal Forest** — [zeldaret/af](https://github.com/zeldaret/af)
+- **Animal Forest (animal_forest_psp)** — [bruder-grimm/animal_forest_psp](https://github.com/bruder-grimm/animal_forest_psp) — *Port.*
+- **Animal Forest (doubutsu-no-mori)** — [BluRosie/doubutsu-no-mori](https://github.com/BluRosie/doubutsu-no-mori) — *Inactive or archived.*
+- **Automobili Lamborghini** — [alondero/automobililamborghini-recomp](https://github.com/alondero/automobililamborghini-recomp)
+- **Banjo-Kazooie** — [banjo.decomp/banjo-kazooie](https://gitlab.com/banjo.decomp/banjo-kazooie)
+- **Banjo-Kazooie (banjo-kazooie)** — [n64decomp/banjo-kazooie](https://github.com/n64decomp/banjo-kazooie)
+- **Banjo-Kazooie (Banjo: Recompiled [Android Port])** — [AurelioB/BanjoRecomp-Android](https://github.com/AurelioB/BanjoRecomp-Android)
+- **Banjo-Kazooie (BanjoRecomp)** — [BanjoRecomp/BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp)
+- **Banjo-Kazooie (BearBirdPad)** — [chrissotraidis/bearbirdpad](https://github.com/chrissotraidis/bearbirdpad) — *Port.*
+- **Banjo-Kazooie (Lighthouse)** — [HarbourMasters/Lighthouse](https://github.com/HarbourMasters/Lighthouse)
+- **Banjo-Tooie** — [mr-wiseguy/banjo-tooie](https://github.com/mr-wiseguy/banjo-tooie)
+- **Banjo-Tooie** — [some-scurvy-dog/banjo-tooie-scurvy-dog-port](https://github.com/some-scurvy-dog/banjo-tooie-scurvy-dog-port) — *Port.*
+- **Banjo-Tooie** — [wedarobi/banjo2](https://github.com/wedarobi/banjo2) — *Inactive or archived.*
+- **Banjo-Tooie (Android)** — [Frostie77/Tooie-Recompiled](https://github.com/Frostie77/Tooie-Recompiled) — *Static recompilation.*
+- **Banjo-Tooie (Banjo-Tooie: Recompiled)** — [Vidanox/BanjoTooieRecompiled](https://github.com/Vidanox/BanjoTooieRecompiled) — *Static recompilation.*
+- **BattleTanx** — [melalawi/battletanx-decomp](https://github.com/melalawi/battletanx-decomp)
+- **BattleTanx** — [TheGh0stShip/BattleTanx](https://github.com/TheGh0stShip/BattleTanx)
+- **BattleTanx: Global Assault** — [TheGh0stShip/BattleTanx-Global-Assault](https://github.com/TheGh0stShip/BattleTanx-Global-Assault)
+- **BattleTanx: Global Assault (BTGARecomp)** — [wootbeer/btgarecomp](https://github.com/wootbeer/btgarecomp) — *Static recompilation.*
+- **BattleTanx: Global Assault (Native PC Port)** — [TheGh0stShip/BattleTanx-Global-Assault-PC-Port](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PC-Port) — *Port.*
+- **Battlezone: Rise of the Black Dogs (BZRecomp)** — [wootbeer/bzrecomp](https://github.com/wootbeer/bzrecomp) — *Static recompilation.*
+- **Beetle Adventure Racing (bar-recomp)** — [synamaxmusic/bar-recomp](https://github.com/synamaxmusic/bar-recomp) — *Static recompilation.*
+- **Beetle Adventure Racing (BeetleRecomp)** — [bryankruman/BeetleRecomp](https://github.com/bryankruman/BeetleRecomp) — *Static recompilation.*
+- **Beetle Adventure Racing!** — [synamaxmusic/bar-decomp](https://github.com/synamaxmusic/bar-decomp)
+- **Beetle Adventure Racing! (Recomp)** — [danielgomesvieira2000/beetle-adventure-racing-recomp](https://github.com/danielgomesvieira2000/beetle-adventure-racing-recomp)
+- **Blast Corps** — [retroplastic/blastcorps](https://github.com/retroplastic/blastcorps)
+- **Blast Corps** — [Doridian/BlastCorps](https://github.com/Doridian/BlastCorps)
+- **Blast Corps** — [SlaveOfIDO/blastcorps-recomp](https://github.com/SlaveOfIDO/blastcorps-recomp) — *Static recompilation.*
+- **Blast Corps (Android, BlastDroid)** — [Frostie77/BlastDroid](https://github.com/Frostie77/BlastDroid) — *Port.*
+- **Blast Corps (blastcorps)** — [SlaveOfIDO/blastcorps](https://github.com/SlaveOfIDO/blastcorps)
+- **Blast Corps (Power Dozer)** — [djultra64/Power-Dozer](https://github.com/djultra64/Power-Dozer) — *Static recompilation.*
+- **Body Harvest** — [jaytheham/body-harvest-decompilation](https://github.com/jaytheham/body-harvest-decompilation)
+- **Body Harvest** — [DeltaniumIndustries/BodyHarvestDecomp](https://github.com/DeltaniumIndustries/BodyHarvestDecomp) — *Inactive or archived.*
+- **Body Harvest (Recomp)** — [danielgomesvieira2000/body-harvest-recomp](https://github.com/danielgomesvieira2000/body-harvest-recomp)
+- **Bomberman 64** — [bomberhackers/bm64](https://github.com/bomberhackers/bm64)
+- **Bomberman 64** — [MarioMaster96/bomberman-64](https://github.com/MarioMaster96/bomberman-64) — *Inactive or archived.*
+- **Bomberman 64 (Recomp)** — [RevoSucks/BM64Recomp](https://github.com/RevoSucks/BM64Recomp)
+- **Bomberman 64: The Second Attack!** — [bomberhackers/tsa](https://github.com/bomberhackers/tsa)
+- **Bomberman 64: The Second Attack!** — [bdragoncore/pommy-recomp](https://github.com/bdragoncore/pommy-recomp) — *Static recompilation.*
+- **Bomberman 64: The Second Attack! (bm64tsa)** — [Bomberhackers/bm64tsa](https://github.com/Bomberhackers/bm64tsa)
+- **Bomberman Hero** — [bomberhackers/bmhero](https://github.com/bomberhackers/bmhero)
+- **Bomberman Hero (Recomp)** — [RevoSucks/BMHeroRecomp](https://github.com/RevoSucks/BMHeroRecomp)
+- **Buck Bumble ( project-bumble)** — [riseio/project-bumble](https://github.com/riseio/project-bumble) — *Static recompilation.*
+- **Castlevania** — [k64ret/cv64](https://github.com/k64ret/cv64)
+- **Castlevania (overlays)** — [moisesPC/cv64_overlays_decomp](https://github.com/moisesPC/cv64_overlays_decomp) — *Inactive or archived.*
+- **Castlevania 64** — [blazkowolf/cv64](https://github.com/blazkowolf/cv64)
+- **Castlevania 64 (CV64-Recomp)** — [spacefarergames/CV64-Recomp](https://github.com/spacefarergames/CV64-Recomp) — *Static recompilation.*
+- **Castlevania 64 (Recomp)** — [RevoSucks/CV64Recomp](https://github.com/RevoSucks/CV64Recomp)
+- **Castlevania: Legacy of Darkness** — [fliperama86/cvlod_recomp](https://github.com/fliperama86/cvlod_recomp)
+- **Chameleon Twist** — [chameleontwistret/chameleontwistv1.0-jp](https://github.com/chameleontwistret/chameleontwistv1.0-jp)
+- **Chameleon Twist (Recomp)** — [Rainchus/ChameleonTwist1-JP-Recomp](https://github.com/Rainchus/ChameleonTwist1-JP-Recomp)
+- **Chameleon Twist 2** — [chameleontwistret/chameleontwist2v1.0-jp](https://github.com/chameleontwistret/chameleontwist2v1.0-jp)
+- **ClayFighter 63⅓ (ClayFighter64)** — [djultra64/ClayFighter64](https://github.com/djultra64/ClayFighter64) — *Port.*
+- **Conker's Bad Fur Day** — [mkst/conker](https://github.com/mkst/conker)
+- **Conker's Bad Fur Day** — [gipson-dev/64CBFD](https://github.com/gipson-dev/64CBFD)
+- **Conker's Bad Fur Day (conker64-recompiled)** — [Conker64Recomp/conker64-recompiled](https://github.com/Conker64Recomp/conker64-recompiled)
+- **Conker's Bad Fur Day (DevOldSchool)** — [DevOldSchool/conkers-bfd-decomp](https://github.com/DevOldSchool/conkers-bfd-decomp)
+- **Conker's Bad Fur Day (PS5)** — [Samclay8/CBFD-Recompiled-PS5](https://github.com/Samclay8/CBFD-Recompiled-PS5) — *Static recompilation.*
+- **Conker's Bad Fur Day (Recomp)** — [sciaschi/CBFD-Recompiled](https://github.com/sciaschi/CBFD-Recompiled)
+- **Conker's Bad Fur Day (Switch)** — [DomazinUS/CBFD-Switch](https://github.com/DomazinUS/CBFD-Switch) — *Static recompilation.*
+- **Conker's Bad Fur Day Reloaded** — [DahSidiAbdallah/ConkerBFDReloaded](https://github.com/DahSidiAbdallah/ConkerBFDReloaded)
+- **Dark Rift** — [unnunu/darkrift](https://github.com/unnunu/darkrift)
+- **Destruction Derby 64** — [murkantor/Destruction-Decomp-64](https://github.com/murkantor/Destruction-Decomp-64)
+- **Diddy Kong Racing** — [davidsm64/diddy-kong-racing](https://github.com/davidsm64/diddy-kong-racing)
+- **Diddy Kong Racing** — [sp00nznet/diddykongracing](https://github.com/sp00nznet/diddykongracing) — *Static recompilation.*
+- **Diddy Kong Racing (BarrelPad)** — [chrissotraidis/barrelpad](https://github.com/chrissotraidis/barrelpad) — *Port.*
+- **Diddy Kong Racing (goldenballoon)** — [akratch/goldenballoon](https://github.com/akratch/goldenballoon)
+- **Diddy Kong Racing (Recomp)** — [ThatGuyMcd/DKR-R](https://github.com/ThatGuyMcd/DKR-R)
+- **Dinosaur Planet** — [zestydevy/dinosaur-planet](https://github.com/zestydevy/dinosaur-planet)
+- **Dinosaur Planet (dino-recomp)** — [Francessco121/dino-recomp](https://github.com/Francessco121/dino-recomp) — *Static recompilation.*
+- **Dinosaur Planet (DinoPad)** — [chrissotraidis/dinopad](https://github.com/chrissotraidis/dinopad) — *Port.*
+- **Dinosaur Planet (Recomp)** — [DinosaurPlanetRecomp/dino-recomp](https://github.com/DinosaurPlanetRecomp/dino-recomp)
+- **Donald Duck: Goin' Quackers (n64hub)** — [n64hub/donald-duck-goin-quackers-recomp](https://github.com/n64hub/donald-duck-goin-quackers-recomp) — *Static recompilation.*
+- **Donkey Kong 64** — [dk64_decomp/dk64](https://gitlab.com/dk64_decomp/dk64)
+- **Donkey Kong 64 (Android)** — [deivid22srk/dk64-recomp-android](https://github.com/deivid22srk/dk64-recomp-android) — *Port.*
+- **Donkey Kong 64 (BananaPad)** — [chrissotraidis/bananapad](https://github.com/chrissotraidis/bananapad) — *Port.*
+- **Donkey Kong 64 (Nintendo Switch)** — [Trinalord777/DK64Recomp-NX](https://github.com/Trinalord777/DK64Recomp-NX) — *Port.*
+- **Donkey Kong 64 (Recomp)** — [Rainchus/Donkey-Kong-64-Recompiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled)
+- **Doom 64** — [Erick194/DOOM64-RE](https://github.com/Erick194/DOOM64-RE)
+- **Doom 64 (doom64-dc)** — [jnmartin84/doom64-dc](https://github.com/jnmartin84/doom64-dc) — *Port.*
+- **Doraemon 3: Nobita no Machi SOS!** — [citrongames/Dora64-3](https://github.com/citrongames/Dora64-3) — *Static recompilation.*
+- **Doraemon: Nobita to Mittsu no Seireiseki** — [prakxo/doraemon1](https://github.com/prakxo/doraemon1)
+- **Doraemon: Nobita to Mittsu no Seireiseki (doraemon1)** — [adipocira/doraemon1](https://github.com/adipocira/doraemon1)
+- **Doraemon: Nobita to Mittsu no Seireiseki (Recomp)** — [citrongames/Dora64](https://github.com/citrongames/Dora64)
+- **Dr. Mario 64** — [angheloalf/drmario64](https://github.com/angheloalf/drmario64)
+- **Dr. Mario 64** — [AngheloAlf/drmario64_recomp](https://github.com/AngheloAlf/drmario64_recomp) — *Static recompilation. Inactive or archived.*
+- **Dr. Mario 64 (Recomp)** — [theboy181/drmario64_recomp_plus](https://github.com/theboy181/drmario64_recomp_plus)
+- **Duke Nukem 64** — [nblood/duke64-re](https://github.com/nblood/duke64-re)
+- **Duke Nukem Zero Hour** — [sonicdcer/DNZHRecomp](https://github.com/sonicdcer/DNZHRecomp)
+- **Duke Nukem: Zero Hour** — [gillou68310/dukenukemzerohour](https://github.com/gillou68310/dukenukemzerohour)
+- **Duke Nukem: Zero Hour (DukeNukemZeroHourPort (Gillou68310))** — [Gillou68310/DukeNukemZeroHourPort](https://github.com/Gillou68310/DukeNukemZeroHourPort) — *Port.*
+- **Evo's Space Adventures** — [mkst/esa](https://github.com/mkst/esa)
+- **Excitebike 64** — [chasmlol/excitebike64](https://github.com/chasmlol/excitebike64)
+- **Extreme-G** — [sp00nznet/extremeg](https://github.com/sp00nznet/extremeg) — *Static recompilation.*
+- **F-Zero X** — [inspectredc/fzerox](https://github.com/inspectredc/fzerox)
+- **F-Zero X (f-zerox)** — [BttrDrgn/f-zerox](https://github.com/BttrDrgn/f-zerox)
+- **F-Zero X (f0x)** — [chrissotraidis/f0x](https://github.com/chrissotraidis/f0x) — *Port.*
+- **F-Zero X (G-Diffuser)** — [Zorkats/G-Diffuser](https://github.com/Zorkats/G-Diffuser)
+- **F-Zero X (gdx-3ds)** — [cruxxxxxx/gdx-3ds](https://github.com/cruxxxxxx/gdx-3ds)
+- **F-Zero X (n64hub)** — [n64hub/f-zero-x-recomp](https://github.com/n64hub/f-zero-x-recomp) — *Static recompilation.*
+- **F-Zero X Expansion Kit** — [inspectredc/fzerox-expansion-kit](https://github.com/inspectredc/fzerox-expansion-kit) — *64DD expansion for F-Zero X.*
+- **Fushigi no Dungeon: Fūrai no Shiren 2 — Oni Shūrai! Shiren-jō!** — [mschienbein/shiren2-decomp](https://github.com/mschienbein/shiren2-decomp)
+- **Gauntlet Legends** — [drahsid/gauntlet-legends](https://github.com/drahsid/gauntlet-legends)
+- **Gex 64: Enter the Gecko** — [matbourgon/gex64decomp](https://github.com/matbourgon/gex64decomp)
+- **Glover** — [rainchus/glover](https://github.com/rainchus/glover)
+- **Glover (glover-decomp)** — [bigyoshi51/glover-decomp](https://github.com/bigyoshi51/glover-decomp)
+- **Glover (Recomp)** — [ThatGuyMcd/Glover-R](https://github.com/ThatGuyMcd/Glover-R)
+- **Goemon's Great Adventure** — [PandaPandel/Goemons-Great-Adventure-Decomp](https://github.com/PandaPandel/Goemons-Great-Adventure-Decomp)
+- **Goemon's Great Adventure (GGARecomp)** — [DreaXer/GGARecomp](https://github.com/DreaXer/GGARecomp) — *Static recompilation.*
+- **Goemon’s Great Adventure** — [Fluvian/gga](https://github.com/Fluvian/gga)
+- **GoldenEye 007** — [kholdfuzion/goldeneye_src](https://gitlab.com/kholdfuzion/goldeneye_src)
+- **GoldenEye 007** — [chrissotraidis/goldenpad](https://github.com/chrissotraidis/goldenpad) — *Port.*
+- **GoldenEye 007 (007)** — [n64decomp/007](https://github.com/n64decomp/007)
+- **GoldenEye 007 (goldeneye-metal)** — [ysrdevs/goldeneye-metal](https://github.com/ysrdevs/goldeneye-metal) — *Static recompilation.*
+- **GoldenEye 007 (GoldenEye-Recomp-Server (online play for GoldenEye recomp))** — [SunJaycy/GoldenEye-Recomp-Server](https://github.com/SunJaycy/GoldenEye-Recomp-Server) — *Static recompilation.*
+- **GoldenEye 007 (GoldenRecomp)** — [kholdfuzion/GoldenRecomp](https://github.com/kholdfuzion/GoldenRecomp)
+- **GoldenEye 007 (mgb64)** — [akratch/mgb64](https://github.com/akratch/mgb64) — *Port. Inactive or archived.*
+- **GoldenEye 007 (Project Midas)** — [murkantor/Project-Midas](https://github.com/murkantor/Project-Midas)
+- **GoldenEye 007 (Recomp)** — [cblock85/GoldenEye64Recomp](https://github.com/cblock85/GoldenEye64Recomp)
+- **GoldenEye PC Port** — [jkdansereau/goldeneye-pc-port](https://github.com/jkdansereau/goldeneye-pc-port) — *Port.*
+- **Harvest Moon 64** — [harvestwhisperer/hm64-decomp](https://github.com/harvestwhisperer/hm64-decomp)
+- **Harvest Moon 64** — [ai-tdd-labs/harvest-moon-64-recompiled](https://github.com/ai-tdd-labs/harvest-moon-64-recompiled) — *Static recompilation.*
+- **Harvest Moon 64** — [Rainchus/HarvestMoon64-Recomp](https://github.com/Rainchus/HarvestMoon64-Recomp) — *Static recompilation.*
+- **Harvest Moon 64 (Recomp)** — [HarvestMoon64Recomp/HarvestMoon64Recomp](https://github.com/HarvestMoon64Recomp/HarvestMoon64Recomp)
+- **Hey You, Pikachu!** — [farisawan-2000/hey_you_pikachu](https://github.com/farisawan-2000/hey_you_pikachu) — *Inactive or archived.*
+- **Hot Wheels Turbo Racing** — [orymizak/hwtr-decomp](https://github.com/orymizak/hwtr-decomp)
+- **Hybrid Heaven** — [southcitycapture/hybridheaven-decomp](https://github.com/southcitycapture/hybridheaven-decomp)
+- **Hybrid Heaven** — [danielgomesvieira2000/hybrid-heaven-recomp](https://github.com/danielgomesvieira2000/hybrid-heaven-recomp) — *Static recompilation.*
+- **Hybrid Heaven** — [ogdanimal/HybridHeaven-Recomp](https://github.com/ogdanimal/HybridHeaven-Recomp) — *Static recompilation.*
+- **Hybrid Heaven (Recomp)** — [hunkstalker/hybrid-heaven-recomp](https://github.com/hunkstalker/hybrid-heaven-recomp) — *Static recompilation.*
+- **International Superstar Soccer 2000** — [djultra64/ISS2000](https://github.com/djultra64/ISS2000) — *Static recompilation.*
+- **Jet Force Gemini** — [ryan-myers/jet-force-gemini](https://github.com/ryan-myers/jet-force-gemini)
+- **Jet Force Gemini** — [VibinToast/JetForceGemini-Recomp](https://github.com/VibinToast/JetForceGemini-Recomp) — *Static recompilation.*
+- **Jet Force Gemini** — [TK22-26/JetForceGemini-Recomp](https://github.com/TK22-26/JetForceGemini-Recomp) — *Static recompilation.*
+- **Jet Force Gemini** — [riseio/Jet-Force-Capricorn](https://github.com/riseio/Jet-Force-Capricorn) — *Static recompilation.*
+- **Jet Force Gemini (VibinToast)** — [VibinToast/JetForceGemini-Recompiled](https://github.com/VibinToast/JetForceGemini-Recompiled) — *Static recompilation.*
+- **Kirby 64: The Crystal Shards** — [kirby64ret/kirby64](https://github.com/kirby64ret/kirby64)
+- **Kirby 64: The Crystal Shards (HALBERD)** — [JR3DFUL/HALBERD](https://github.com/JR3DFUL/HALBERD) — *Port.*
+- **Kirby and the Crystal Shards** — [Kirby64Ret/Kirby64Recomp](https://github.com/Kirby64Ret/Kirby64Recomp)
+- **Knife Edge - Nose Gunner** — [disi33/KE-NG_Reversing](https://github.com/disi33/KE-NG_Reversing)
+- **The Legend of Zelda: Majora's Mask** — [zeldaret/mm](https://github.com/zeldaret/mm)
+- **The Legend of Zelda: Majora's Mask (2 Ship 2 Harkinian, PS4)** — [alechurri/2ship2harkinian-ps4](https://github.com/alechurri/2ship2harkinian-ps4) — *Port.*
+- **The Legend of Zelda: Majora's Mask (MaskPad)** — [chrissotraidis/maskpad](https://github.com/chrissotraidis/maskpad) — *Port.*
+- **The Legend of Zelda: Majora's Mask (MMRecompRando)** — [RecompRando/MMRecompRando](https://github.com/RecompRando/MMRecompRando) — *Static recompilation.*
+- **The Legend of Zelda: Majora's Mask (n64decomp)** — [n64decomp/majora](https://github.com/n64decomp/majora) — *Inactive or archived.*
+- **The Legend of Zelda: Majora's Mask (Native Port)** — [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp)
+- **The Legend of Zelda: Majora's Mask (Zelda64 Recompiled [Android])** — [linkzenic/Zelda64Recomp-Android](https://github.com/linkzenic/Zelda64Recomp-Android) — *Static recompilation.*
+- **The Legend of Zelda: Ocarina of Time** — [zeldaret/oot](https://github.com/zeldaret/oot)
+- **The Legend of Zelda: Ocarina of Time** — [blawar/ooot](https://github.com/blawar/ooot) — *Port. Inactive or archived.*
+- **The Legend of Zelda: Ocarina of Time** — [camthesaxman/zelda_oot](https://github.com/camthesaxman/zelda_oot) — *Disassembly. Inactive or archived.*
+- **The Legend of Zelda: Ocarina of Time (HackerOoT)** — [HackerN64/HackerOoT](https://github.com/HackerN64/HackerOoT)
+- **The Legend of Zelda: Ocarina of Time (HarkinianPad)** — [chrissotraidis/harkinianpad](https://github.com/chrissotraidis/harkinianpad) — *Port.*
+- **The Legend of Zelda: Ocarina of Time (jaigner-hub)** — [jaigner-hub/ocarina-of-time-recomp](https://github.com/jaigner-hub/ocarina-of-time-recomp) — *Static recompilation.*
+- **The Legend of Zelda: Ocarina of Time (n64dd file)** — [Decompollaborate/n64dd](https://github.com/Decompollaborate/n64dd) — *Inactive or archived.*
+- **The Legend of Zelda: Ocarina of Time (NTSC 1.0)** — [shawlucas/oot_src_1.0](https://github.com/shawlucas/oot_src_1.0) — *Disassembly. Inactive or archived.*
+- **The Legend of Zelda: Ocarina of Time (oot-dc)** — [jnmartin84/oot-dc](https://github.com/jnmartin84/oot-dc)
+- **The Legend of Zelda: Ocarina of Time (oot-PSP)** — [z2442/oot-PSP](https://github.com/z2442/oot-PSP) — *Port.*
+- **The Legend of Zelda: Ocarina of Time (oot-recompiled)** — [JonB-Dev/oot-recompiled](https://github.com/JonB-Dev/oot-recompiled) — *Static recompilation.*
+- **The Legend of Zelda: Ocarina of Time (PS3, Ship of Gadeguion)** — [Gadega/ship-of-gadeguion](https://github.com/Gadega/ship-of-gadeguion) — *Port.*
+- **The Legend of Zelda: Ocarina of Time (Switch 2, TOoT-R)** — [Unkn0wnAli4n/TOoT-R](https://github.com/Unkn0wnAli4n/TOoT-R) — *Port.*
+- **The Legend of Zelda: Ocarina of Time (vc64-decomp)** — [nim-ka/vc64-decomp](https://github.com/nim-ka/vc64-decomp) — *Disassembly. Inactive or archived.*
+- **The Legend of Zelda: Ocarina of Time 1.0** — [Roman971/oot-disassembly](https://github.com/Roman971/oot-disassembly) — *Disassembly. Inactive or archived.*
+- **The Legend of Zelda: Ocarina of Time Master Quest (debug)** — [n64decomp/oot](https://github.com/n64decomp/oot) — *Inactive or archived.*
+- **The Legend of Zelda: Ocarina of Time Master Quest (debug)** — [camthesaxman/zelda_ocarina_mq_debug](https://github.com/camthesaxman/zelda_ocarina_mq_debug) — *Disassembly. Inactive or archived.*
+- **Mabecs International Superstar Soccer 2000** — [Mabec-games/iss2000-recomp](https://github.com/Mabec-games/iss2000-recomp) — *Static recompilation.*
+- **Magical Tetris Challenge (MagicalBlocks)** — [rac08241988/MagicalBlocks](https://github.com/rac08241988/MagicalBlocks) — *Static recompilation.*
+- **Mario Artist: Paint Studio** — [LuigiBlood/paintstudio_decomp](https://github.com/LuigiBlood/paintstudio_decomp)
+- **Mario Artist: Paint Studio** — [zestydevy/paint-studio](https://github.com/zestydevy/paint-studio) — *Inactive or archived.*
+- **Mario Golf** — [monde-lointain/mariogolf64](https://github.com/monde-lointain/mariogolf64)
+- **Mario Golf (Recomp)** — [Rainchus/MarioGolf64](https://github.com/Rainchus/MarioGolf64)
+- **Mario Kart 64** — [n64decomp/mk64](https://github.com/n64decomp/mk64) · [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart)
+- **Mario Kart 64** — [sonicdcer/MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) — *Static recompilation.*
+- **Mario Kart 64** — [RenaKunisaki/mariokart64](https://github.com/RenaKunisaki/mariokart64) — *Disassembly. Inactive or archived.*
+- **Mario Kart 64 (early disassembly)** — [RevoSucks/mk64_old](https://github.com/RevoSucks/mk64_old) — *Disassembly.*
+- **Mario Kart 64 (mario-kart-64-3ds)** — [EstebanPdN/mario-kart-64-3ds](https://github.com/EstebanPdN/mario-kart-64-3ds)
+- **Mario Kart 64 (Mario-Kart-64-X)** — [Team-Resurgent/Mario-Kart-64-X](https://github.com/Team-Resurgent/Mario-Kart-64-X) — *Port.*
+- **Mario Kart 64 (mk64-dc)** — [jnmartin84/mk64-dc](https://github.com/jnmartin84/mk64-dc)
+- **Mario Kart 64 (MK64Recomp)** — [arefdsg/MK64Recomp](https://github.com/arefdsg/MK64Recomp) — *Static recompilation.*
+- **Mario Kart 64 (PSP)** — [beckerd/psp_mk64_portable](https://github.com/beckerd/psp_mk64_portable) — *Port.*
+- **Mario Kart 64 (SpaghettiKart [Android Port])** — [izzy2lost/SpaghettiKart](https://github.com/izzy2lost/SpaghettiKart) — *Port.*
+- **Mario Kart 64 (SpaghettiPad)** — [chrissotraidis/spaghettipad](https://github.com/chrissotraidis/spaghettipad) — *Port.*
+- **Mario Party (n64hub)** — [n64hub/mario-party-recomp](https://github.com/n64hub/mario-party-recomp) — *Static recompilation.*
+- **Mario Party 1** — [mariopartyrd/marioparty](https://github.com/mariopartyrd/marioparty)
+- **Mario Party 2** — [mariopartyrd/marioparty2](https://github.com/mariopartyrd/marioparty2)
+- **Mario Party 2** — [ajcohn716/mp2Recomp](https://github.com/ajcohn716/mp2Recomp) — *Static recompilation.*
+- **Mario Party 2 (n64hub)** — [n64hub/mario-party-2-recomp](https://github.com/n64hub/mario-party-2-recomp) — *Static recompilation.*
+- **Mario Party 3** — [mariopartyrd/marioparty3](https://github.com/mariopartyrd/marioparty3)
+- **Mario Party 3** — [PartyPlanner64/mp3](https://github.com/PartyPlanner64/mp3) — *Inactive or archived.*
+- **Mario Party 3 (decomp)** — [ChanceTimeGame/marioparty3](https://github.com/ChanceTimeGame/marioparty3)
+- **Mario Party 3 (n64hub)** — [n64hub/mario-party-3-recomp](https://github.com/n64hub/mario-party-3-recomp) — *Static recompilation.*
+- **Mario Party 3 (Recomp)** — [Rainchus/MarioParty3-Recomp](https://github.com/Rainchus/MarioParty3-Recomp)
+- **Mario Tennis** — [dellm-79/mariotennisn64](https://github.com/dellm-79/mariotennisn64)
+- **Mario Tennis** — [Ieatzcrayonz/MarioTennisRecomp](https://github.com/Ieatzcrayonz/MarioTennisRecomp) — *Static recompilation.*
+- **Mega Man 64** — [MegaMan64Recomp/MegaMan64Recompiled](https://github.com/MegaMan64Recomp/MegaMan64Recompiled)
+- **Mega Man 64** — [MegaMan64Recomp/MegaMan64Decomp](https://github.com/MegaMan64Recomp/MegaMan64Decomp)
+- **Mega Man 64 (mobile)** — [DevZer0D4Y/MegaMan64Recompiled-Mobile](https://github.com/DevZer0D4Y/MegaMan64Recompiled-Mobile) — *Port.*
+- **Mischief Makers** — [drahsid/mischief-makers](https://github.com/drahsid/mischief-makers)
+- **Mischief Makers (Recomp)** — [ThiagoLira/trouble-makers-pc-recomp](https://github.com/ThiagoLira/trouble-makers-pc-recomp)
+- **Mortal Kombat Trilogy** — [cultofblue/MKTrilogyN64Recomp](https://github.com/cultofblue/MKTrilogyN64Recomp) — *Static recompilation.*
+- **Mystical Ninja Starring Goemon** — [fluvian/mnsg](https://github.com/fluvian/mnsg)
+- **Mystical Ninja Starring Goemon** — [ogdanimal/Goemon64Recomp-Android](https://github.com/ogdanimal/Goemon64Recomp-Android) — *Static recompilation.*
+- **Mystical Ninja Starring Goemon (mnsg)** — [klorfmorf/mnsg](https://github.com/klorfmorf/mnsg)
+- **Mystical Ninja Starring Goemon (Recomp)** — [klorfmorf/Goemon64Recomp](https://github.com/klorfmorf/Goemon64Recomp)
+- **N64 Classic: Rush 2** — [bryantmh/rush2recompiled](https://github.com/bryantmh/rush2recompiled)
+- **N64 games for Miyoo Mini (miyoo64)** — [mr-finster/miyoo64](https://github.com/mr-finster/miyoo64) — *Port.*
+- **Nagano Winter Olympics '98** — [TheGh0stShip/Nagano-Winter-Olympics-98-N64](https://github.com/TheGh0stShip/Nagano-Winter-Olympics-98-N64)
+- **NBA Hangtime** — [8bitninja64/HangtimeRecomp](https://github.com/8bitninja64/HangtimeRecomp) — *Static recompilation.*
+- **Neon Genesis Evangelion** — [evaa-01/adam](https://github.com/evaa-01/adam) — *Static recompilation.*
+- **Neon Genesis Evangelion 64** — [farisawan-2000/evangelion](https://github.com/farisawan-2000/evangelion)
+- **The New Tetris** — [kiritodv/tnt](https://github.com/kiritodv/tnt)
+- **The New Tetris** — [chris-gilmore/tnt-splat](https://github.com/chris-gilmore/tnt-splat)
+- **Ogre Battle 64: Person of Lordly Caliber** — [lfarroco/ogre-battle-64-recomp](https://github.com/lfarroco/ogre-battle-64-recomp)
+- **Onegai Monsters** — [ryan-myers/onegaimonsters](https://github.com/ryan-myers/onegaimonsters)
+- **Paper Mario** — [pmret/papermario](https://github.com/pmret/papermario)
+- **Paper Mario** — [SecondaryLifer/StarHaven](https://github.com/SecondaryLifer/StarHaven)
+- **Paper Mario** — [SMCGames/Paper-Mario-ReCut](https://github.com/SMCGames/Paper-Mario-ReCut) — *Port.*
+- **Paper Mario ( pmvita)** — [versacepapermario/papermario-pc-upload](https://github.com/versacepapermario/papermario-pc-upload) — *Port.*
+- **Paper Mario (n64hub)** — [n64hub/paper-mario-recomp](https://github.com/n64hub/paper-mario-recomp) — *Static recompilation.*
+- **Paper Mario (papermario-dx (engine fork))** — [bates64/papermario-dx](https://github.com/bates64/papermario-dx)
+- **Paper Mario (PaperMarioDecompilation)** — [RetroReversing/PaperMarioDecompilation](https://github.com/RetroReversing/PaperMarioDecompilation) — *Inactive or archived.*
+- **Paper Mario (PaperPad)** — [chrissotraidis/paperpad](https://github.com/chrissotraidis/paperpad) — *Port.*
+- **Paper Mario (Recomp)** — [lucyawrey/Paper_Mario_64_Recomp](https://github.com/lucyawrey/Paper_Mario_64_Recomp)
+- **Paper Mario (ReCut)** — [SMCGames/Paper-Mario-ReCut-Deprecated](https://github.com/SMCGames/Paper-Mario-ReCut-Deprecated) — *Port.*
+- **Paper Mario 64 (PaperBoat)** — [HarbourMasters/PaperBoat](https://github.com/HarbourMasters/PaperBoat)
+- **Paperboy** ✦ — [marijnvdwerf/paperboy-n64](https://github.com/marijnvdwerf/paperboy-n64)
+- **Perfect Dark** — [ryandwyer/perfect-dark](https://gitlab.com/ryandwyer/perfect-dark)
+- **Perfect Dark** — [perfect-dark-pc-port/perfect_dark](https://github.com/perfect-dark-pc-port/perfect_dark) — *Port.*
+- **Perfect Dark (Dab's Mod)** — [DabDavis/perfect-dark-dabs-mod](https://github.com/DabDavis/perfect-dark-dabs-mod)
+- **Perfect Dark (n64hub)** — [n64hub/perfect-dark-recomp](https://github.com/n64hub/perfect-dark-recomp) — *Static recompilation.*
+- **Perfect Dark (PC port)** — [fgsfdsfgs/perfect_dark](https://github.com/fgsfdsfgs/perfect_dark) — *Port.*
+- **Perfect Dark (Perfect Dark Port [Android])** — [izzy2lost/perfect_dark](https://github.com/izzy2lost/perfect_dark) — *Port.*
+- **Perfect Dark (perfect_dark)** — [n64decomp/perfect_dark](https://github.com/n64decomp/perfect_dark)
+- **Pilotwings 64** ✦ — [NoahVl/Birdman64](https://github.com/NoahVl/Birdman64) — *Native PC port. Bring your own ROM.*
+- **Pilotwings 64** — [n64decomp/pw64](https://github.com/n64decomp/pw64)
+- **Pilotwings 64 (Pilotwings64Decomp)** — [gcsmith/Pilotwings64Decomp](https://github.com/gcsmith/Pilotwings64Decomp)
+- **Pilotwings 64 (Pilotwings64Recomp)** — [gcsmith/Pilotwings64Recomp](https://github.com/gcsmith/Pilotwings64Recomp)
+- **Pilotwings 64 (Recomp)** — [danielgomesvieira2000/pilotwings-64-recomp](https://github.com/danielgomesvieira2000/pilotwings-64-recomp)
+- **Pokemon Puzzle League** — [angheloalf/puzzleleague64](https://github.com/angheloalf/puzzleleague64)
+- **Pokemon Snap** — [ethteck/pokemonsnap](https://github.com/ethteck/pokemonsnap)
+- **Pokemon Snap (Recomp)** — [dreamsailing59-ops/Snapshot](https://github.com/dreamsailing59-ops/Snapshot)
+- **Pokemon Stadium 1** — [pret/pokestadium](https://github.com/pret/pokestadium)
+- **Pokemon Stadium 2** — [pret/pokestadiumgs](https://github.com/pret/pokestadiumgs)
+- **Pokémon Puzzle League** — [AngheloAlf/puzzleleague64_recomp](https://github.com/AngheloAlf/puzzleleague64_recomp) — *Static recompilation. Inactive or archived.*
+- **Pokémon Snap** — [chrissotraidis/snappad](https://github.com/chrissotraidis/snappad)
+- **Pokémon Snap (3DS)** — [xXDankeyKongXx/psnap-3ds](https://github.com/xXDankeyKongXx/psnap-3ds) — *Static recompilation.*
+- **Pokémon Snap (Recomp)** — [JackandBeans/Snap64Recomp](https://github.com/JackandBeans/Snap64Recomp)
+- **Pokémon Stadium** — [chrissotraidis/annepad](https://github.com/chrissotraidis/annepad)
+- **Pokémon Stadium (pokemonstadium)** — [ethteck/pokemonstadium](https://github.com/ethteck/pokemonstadium)
+- **Pokémon Stadium (Recomp)** — [mstan/PokemonStadiumRecomp](https://github.com/mstan/PokemonStadiumRecomp)
+- **Quest 64** — [rainchus/quest64-decomp](https://github.com/rainchus/quest64-decomp)
+- **Quest 64** — [Mallos31/Quest](https://github.com/Mallos31/Quest) — *Inactive or archived.*
+- **Quest 64 (Quest 64 Tale: Recompiled)** — [boricuapab/quest64tale-recompiled](https://github.com/boricuapab/quest64tale-recompiled) — *Static recompilation.*
+- **Quest 64 (Recomp)** — [Rainchus/Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp)
+- **Rampage: World Tour / Rampage 2** — [sp00nznet/Rampage](https://github.com/sp00nznet/Rampage) — *Static recompilation.*
+- **Rayman 2: The Great Escape (n64hub)** — [n64hub/rayman-2-recomp](https://github.com/n64hub/rayman-2-recomp) — *Static recompilation.*
+- **Ridge Racer 64** — [jvicu2001/rr64-decomp](https://github.com/jvicu2001/rr64-decomp)
+- **Road Rash 64** — [linkssy2/RoadRash64Recompiled](https://github.com/linkssy2/RoadRash64Recompiled)
+- **Rocket: Robot on Wheels** — [RocketRet/Rocket-Robot-On-Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels)
+- **Rocket: Robot on Wheels (Recomp)** — [ThatGuyMcd/Rocket-R](https://github.com/ThatGuyMcd/Rocket-R)
+- **San Francisco Rush 2 (rush)** — [Carasas/rush](https://github.com/Carasas/rush) — *Static recompilation.*
+- **San Francisco Rush 2049** ✦ — [cabi24/SFRush2049-decomp](https://github.com/cabi24/SFRush2049-decomp)
+- **Rugrats: Scavenger Hunt** — [TheGh0stShip/Rugrats-Scavenger-Hunt](https://github.com/TheGh0stShip/Rugrats-Scavenger-Hunt) — *Complete matching decompilation ([progress](https://bytematch.dev/TheGh0stShip/Rugrats-Scavenger-Hunt)).*
+- **San Francisco Rush 2049** — [amazingalek/rush-2049-recomp](https://github.com/amazingalek/rush-2049-recomp) — *Static recompilation.*
+- **San Francisco Rush 2049** — [n64hub/rush-2049-recomp](https://github.com/n64hub/rush-2049-recomp) — *Static recompilation.*
+- **San Francisco Rush: Extreme Racing** — [sp00nznet/sfrush](https://github.com/sp00nznet/sfrush) — *Static recompilation.*
+- **Shadowgate 64** — [rainchus/shadowgate64](https://github.com/rainchus/shadowgate64)
+- **Sin and Punishment** — [wootbeer/snprecomp](https://github.com/wootbeer/snprecomp) — *Static recompilation.*
+- **Sin and Punishment (sin-punishment-recompiled)** — [maximilianoide/sin-punishment-recompiled](https://github.com/maximilianoide/sin-punishment-recompiled) — *Static recompilation.*
+- **Snowboard Kids** — [sonicdcer/sk](https://github.com/sonicdcer/sk)
+- **Snowboard Kids** — [tenry92/sbk-decomp](https://github.com/tenry92/sbk-decomp) — *Inactive or archived.*
+- **Snowboard Kids (Snowboard Kids: Recompiled)** — [cdlewis/snowboardkids-recomp](https://github.com/cdlewis/snowboardkids-recomp) — *Static recompilation.*
+- **Snowboard Kids (snowboardkids-decomp)** — [cdlewis/snowboardkids-decomp](https://github.com/cdlewis/snowboardkids-decomp)
+- **Snowboard Kids 2** — [cdlewis/snowboardkids2-decomp](https://github.com/cdlewis/snowboardkids2-decomp)
+- **Snowboard Kids 2 (Recomp)** — [cdlewis/snowboardkids2-recomp](https://github.com/cdlewis/snowboardkids2-recomp)
+- **Space Station Silicon Valley** — [mkst/sssv](https://github.com/mkst/sssv)
+- **Space Station Silicon Valley (Recomp)** — [Cellenseres/SSSV_Recomp](https://github.com/Cellenseres/SSSV_Recomp)
+- **Star Fox 64** — [sonicdcer/sf64](https://github.com/sonicdcer/sf64)
+- **Star Fox 64 (Recomp)** — [sonicdcer/Starfox64Recomp](https://github.com/sonicdcer/Starfox64Recomp)
+- **Star Fox 64 (sf64-dc)** — [jnmartin84/sf64-dc](https://github.com/jnmartin84/sf64-dc)
+- **Star Fox 64 (Star-Fox-64-X)** — [Team-Resurgent/Star-Fox-64-X](https://github.com/Team-Resurgent/Star-Fox-64-X) — *Port.*
+- **Star Fox 64 (Starship [Android Port])** — [izzy2lost/Starship](https://github.com/izzy2lost/Starship) — *Port.*
+- **Star Fox 64 (Starship)** — [HarbourMasters/Starship](https://github.com/HarbourMasters/Starship)
+- **Star Fox 64 (StarshipPad)** — [chrissotraidis/starshippad](https://github.com/chrissotraidis/starshippad) — *Port.*
+- **Star Wars Episode I: Racer** — [sp00nznet/racer](https://github.com/sp00nznet/racer) — *Static recompilation.*
+- **Star Wars: Rogue Squadron** — [Tmcg2/rogue_squadron64](https://github.com/Tmcg2/rogue_squadron64)
+- **Star Wars: Rogue Squadron** — [MikeSemicolonD/RogueSquadron64Recomp](https://github.com/MikeSemicolonD/RogueSquadron64Recomp) — *Static recompilation.*
+- **Star Wars: Shadows of the Empire** — [eltalelibrarian/sote](https://github.com/eltalelibrarian/sote)
+- **Star Wars: Shadows of the Empire (Recomp)** — [GTTeancum/SotE-Recomp](https://github.com/GTTeancum/SotE-Recomp)
+- **StarCraft 64** — [n0madic/StarCraft64-recomp](https://github.com/n0madic/StarCraft64-recomp) — *Static recompilation.*
+- **Super Mario 64** — [n64decomp/sm64](https://github.com/n64decomp/sm64)
+- **Super Mario 64** — [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex) — *Port.*
+- **Super Mario 64** — [sm64-port/sm64-port](https://github.com/sm64-port/sm64-port) — *Port.*
+- **Super Mario 64 (Ghostship)** — [HarbourMasters/Ghostship](https://github.com/HarbourMasters/Ghostship) — *Port.*
+- **Super Mario 64 (HackerSM64)** — [HackerN64/HackerSM64](https://github.com/HackerN64/HackerSM64)
+- **Super Mario 64 (libsm64-godot)** — [Brawmario/libsm64-godot](https://github.com/Brawmario/libsm64-godot) — *Port.*
+- **Super Mario 64 (libsm64-rust)** — [nickmass/libsm64-rust](https://github.com/nickmass/libsm64-rust) — *Port.*
+- **Super Mario 64 (libsm64-sharp)** — [MeltyPlayer/libsm64-sharp](https://github.com/MeltyPlayer/libsm64-sharp) — *Port.*
+- **Super Mario 64 (libsm64-unity)** — [libsm64/libsm64-unity](https://github.com/libsm64/libsm64-unity) — *Port. Inactive or archived.*
+- **Super Mario 64 (n64hub)** — [n64hub/super-mario-64-recomp](https://github.com/n64hub/super-mario-64-recomp) — *Static recompilation.*
+- **Super Mario 64 (NumWorks)** — [Mason363/NumWorks-Super-Mario-64](https://github.com/Mason363/NumWorks-Super-Mario-64) — *Port.*
+- **Super Mario 64 (PS5)** — [griches/PS5_Ghostship](https://github.com/griches/PS5_Ghostship) — *Port.*
+- **Super Mario 64 (SM64 Plus)** — [MorsGames/sm64plus](https://github.com/MorsGames/sm64plus) — *Port.*
+- **Super Mario 64 (sm64-decomp)** — [justinwash/sm64-decomp](https://github.com/justinwash/sm64-decomp) — *Inactive or archived.*
+- **Super Mario 64 (sm64-gba)** — [Kodoque1/sm64-gba](https://github.com/Kodoque1/sm64-gba) — *Port.*
+- **Super Mario 64 (SM64-PC-Port-WebGL)** — [NotAn127/SM64-PC-Port-WebGL](https://github.com/NotAn127/SM64-PC-Port-WebGL) — *Port.*
+- **Super Mario 64 (sm64coopdx)** — [coop-deluxe/sm64coopdx](https://github.com/coop-deluxe/sm64coopdx)
+- **Super Mario 64 (sm64ex-coop)** — [djoslin0/sm64ex-coop](https://github.com/djoslin0/sm64ex-coop) — *Port. Inactive or archived.*
+- **Super Mario 64 (sm64rt)** — [DarioSamo/sm64rt](https://github.com/DarioSamo/sm64rt) — *Port. Inactive or archived.*
+- **Super Mario 64 (SMUE5)** — [TheEnbyWitch/SMUE5](https://github.com/TheEnbyWitch/SMUE5) — *Port. Inactive or archived.*
+- **Super Mario 64 in Scratch (sm64-scratch)** — [naegoxdev/sm64-scratch](https://github.com/naegoxdev/sm64-scratch) — *Port.*
+- **Super Robot Wars 64** — [dyzz/srw64-recomp](https://github.com/dyzz/srw64-recomp)
+- **Super Smash Bros** — [zestydevy/smash64r](https://github.com/zestydevy/smash64r)
+- **Super Smash Bros.** — [vetritheretri/ssb-decomp-re](https://github.com/vetritheretri/ssb-decomp-re)
+- **Super Smash Bros.** — [rockenrooster/Smash64DS_Port](https://github.com/rockenrooster/Smash64DS_Port) — *Port.*
+- **Super Smash Bros.** — [beigeceleron/ssb64-dc](https://github.com/beigeceleron/ssb64-dc) — *Port.*
+- **Super Smash Bros.** — [sonicdcer/SuperSmashBrosRecomp](https://github.com/sonicdcer/SuperSmashBrosRecomp) — *Static recompilation.*
+- **Super Smash Bros. (BattleShip)** — [JRickey/BattleShip](https://github.com/JRickey/BattleShip)
+- **Super Smash Bros. (BrawlerPad)** — [chrissotraidis/brawlerpad](https://github.com/chrissotraidis/brawlerpad) — *Port.*
+- **Super Smash Bros. (n64hub)** — [n64hub/super-smash-bros-recomp](https://github.com/n64hub/super-smash-bros-recomp) — *Static recompilation.*
+- **Super Smash Bros. (SSB-X)** — [Team-Resurgent/SSB-X](https://github.com/Team-Resurgent/SSB-X) — *Port.*
+- **Superman 64** — [farisawan-2000/superman](https://github.com/farisawan-2000/superman)
+- **Superman 64** — [gcsmith/Superman64Decomp](https://github.com/gcsmith/Superman64Decomp)
+- **Superman 64 (Recomp)** — [gcsmith/Superman64Recomp](https://github.com/gcsmith/Superman64Recomp)
+- **Tetrisphere** — [djultra64/Blocksphere](https://github.com/djultra64/Blocksphere)
+- **Tony Hawk's Pro Skater** — [andrewnakas/thps64](https://github.com/andrewnakas/thps64)
+- **Tony Hawk's Pro Skater (THPS1 64)** — [THPS64Recomp/THPS1-64Recomp](https://github.com/THPS64Recomp/THPS1-64Recomp) — *Static recompilation.*
+- **Toy Story 2: Buzz Lightyear to the Rescue** — [Capridog/SpaceRanger](https://github.com/Capridog/SpaceRanger) — *Static recompilation.*
+- **Toy Story 2: Buzz Lightyear to the Rescue (SpaceRanger)** — [woodys-workshop/SpaceRanger](https://github.com/woodys-workshop/SpaceRanger) — *Static recompilation.*
+- **Tube** — [rep-stosw/tube64](https://github.com/rep-stosw/tube64)
+- **Turok 2: Seeds of Evil** — [mgrz18/turok2-decomp](https://github.com/mgrz18/turok2-decomp)
+- **Turok 3: Shadow of Oblivion** — [Drahsid/turok3](https://github.com/Drahsid/turok3)
+- **Turok: Rage Wars** — [wootbeer/PaxDino](https://github.com/wootbeer/PaxDino) — *Static recompilation.*
+- **Turok: Rage Wars** — [thejunkman9000/Turok-Rage-Wars-Decomp](https://github.com/thejunkman9000/Turok-Rage-Wars-Decomp)
+- **Turok: Rage Wars** — [JohnSams165/Turok-Rage-Wars-Decomp](https://github.com/JohnSams165/Turok-Rage-Wars-Decomp)
+- **Turok: Rage Wars (rage-wars-recompiled)** — [ArtfulRascal8/rage-wars-recompiled](https://github.com/ArtfulRascal8/rage-wars-recompiled) — *Static recompilation.*
+- **Virtual Pool 64** — [llonsit/virtualpool64](https://github.com/llonsit/virtualpool64)
+- **Virtual Pro Wrestling 2** — [jessetbh/VPW2Recomp](https://github.com/jessetbh/VPW2Recomp)
+- **Virtual Pro Wrestling 2: Ōdō Keishō** — [aki-club/vpw2](https://github.com/aki-club/vpw2)
+- **Virtual Pro Wrestling 64** — [jessetbh/VPW64Recomp](https://github.com/jessetbh/VPW64Recomp)
+- **Wave Race 64** — [llonsit/wave-race-64](https://github.com/llonsit/wave-race-64)
+- **Wave Race 64** — [chronic8000/WaveRace64Recompiled](https://github.com/chronic8000/WaveRace64Recompiled) — *Static recompilation.*
+- **Wave Race 64 (RaceWave46)** — [DomazinUS/RaceWave46](https://github.com/DomazinUS/RaceWave46)
+- **Wave Race 64 (Recomp)** — [elliotttate/wave-race-64-recomp](https://github.com/elliotttate/wave-race-64-recomp)
+- **Wave Race 64 (wave-race-64-recomp)** — [danielgomesvieira2000/wave-race-64-recomp](https://github.com/danielgomesvieira2000/wave-race-64-recomp)
+- **Wayne Gretzky's 3D Hockey** — [geno55/wg3d-recomp](https://github.com/geno55/wg3d-recomp) — *Static recompilation.*
+- **WCW vs. nWo: World Tour** — [jessetbh/WCWvsNWOWorldTourRecomp](https://github.com/jessetbh/WCWvsNWOWorldTourRecomp)
+- **WCW/nWo Revenge** — [svinsmoke212/revenge](https://github.com/svinsmoke212/revenge)
+- **WCW/nWo Revenge (Recomp)** — [jessetbh/WCWnWoRevengeRecomp](https://github.com/jessetbh/WCWnWoRevengeRecomp)
+- **WCW/nWo Thunder** — [martinbean/thunder](https://github.com/martinbean/thunder)
+- **WinBack: Covert Operations** — [RetroPulse03/WinBackRecomp](https://github.com/RetroPulse03/WinBackRecomp) — *Static recompilation.*
+- **Wonder Project J2: Josette of the Corlo Forest** — [LLONSIT-glitch/wonder](https://github.com/LLONSIT-glitch/wonder)
+- **World Driver Championship** — [alondero/worlddriverchampionship-recomp](https://github.com/alondero/worlddriverchampionship-recomp) — *Static recompilation.*
+- **The World Is Not Enough (I Could Have Given You the World)** — [riseio/TWIPE_00Sheven](https://github.com/riseio/TWIPE_00Sheven) — *Static recompilation.*
+- **WWF No Mercy** — [jessetbh/WWFNoMercyRecomp](https://github.com/jessetbh/WWFNoMercyRecomp)
+- **WWF No Mercy (Meta Quest 3)** — [VistaLargaGames/WWF-No-Mercy-Quest-3-Standalone-](https://github.com/VistaLargaGames/WWF-No-Mercy-Quest-3-Standalone-) — *Port.*
+- **WWF WrestleMania 2000** — [jessetbh/WWFWrestleMania2000Recomp](https://github.com/jessetbh/WWFWrestleMania2000Recomp)
+- **Yoshi's Story** — [decompals/yoshis-story](https://github.com/decompals/yoshis-story)
+- **Yoshi's Story (DinoTale)** — [wootbeer/dinotale](https://github.com/wootbeer/dinotale) — *Static recompilation.*
+
+## GameCube
+
+174 projects
+
+- **Aggressive Inline** — [Spaced1127/Aggressive-Inline-Static-Recomp](https://github.com/Spaced1127/Aggressive-Inline-Static-Recomp) — *Static recompilation.*
+- **Amazing Island** — [EltaleLibrarian/Amazing](https://github.com/EltaleLibrarian/Amazing)
+- **Animal Crossing** — [acreteam/ac-decomp](https://github.com/acreteam/ac-decomp)
+- **Animal Crossing** — [flyngmt/ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port) — *Port.*
+- **Animal Crossing** — [ACreTeam/forest](https://github.com/ACreTeam/forest) — *Port.*
+- **Animal Crossing ( animalcrossing-visionos)** — [chrissotraidis/bellpad](https://github.com/chrissotraidis/bellpad) — *Port.*
+- **Animal Crossing (ACGC-Android-Port)** — [zwaetschge/ACGC-Android-Port](https://github.com/zwaetschge/ACGC-Android-Port) — *Port.*
+- **Animal Crossing (Animal Crossing PC Port - Deluxe Edition)** — [imcynic/ACGC-Deluxe-PC-Port](https://github.com/imcynic/ACGC-Deluxe-PC-Port) — *Port.*
+- **Animal Crossing (gcNX, Switch port)** — [digdat0/ACGC-Switch-Port](https://github.com/digdat0/ACGC-Switch-Port) — *Port.*
+- **Animal Crossing (Nookery)** — [flyngmt/Nookery](https://github.com/flyngmt/Nookery) — *Port.*
+- **Animal Crossing (OpenCrossing-Anbernic)** — [TechProGabe/OpenCrossing-Anbernic](https://github.com/TechProGabe/OpenCrossing-Anbernic) — *Port.*
+- **Animal Crossing (OpenCrossing-Dreamcast)** — [TechProGabe/OpenCrossing-Dreamcast](https://github.com/TechProGabe/OpenCrossing-Dreamcast) — *Port.*
+- **Animal Crossing (OpenCrossing-Xbox)** — [TechProGabe/OpenCrossing-Xbox](https://github.com/TechProGabe/OpenCrossing-Xbox)
+- **Animal Forest e+** — [acreteam/afe-decomp](https://github.com/acreteam/afe-decomp)
+- **Animaniacs: The Great Edgar Hunt** — [ant0-blase/ANIMANIACS-GC-RECOMP](https://github.com/ant0-blase/ANIMANIACS-GC-RECOMP) — *Static recompilation. Inactive or archived.*
+- **Battle for Bikini Bottom (Fork: AI)** — [zcanann/bfbb](https://github.com/zcanann/bfbb)
+- **Chibi-Robo!** — [eavpsp/cbr_decomp](https://github.com/eavpsp/cbr_decomp)
+- **Crash Bandicoot: The Wrath of Cortex** — [denzi-gh/crashwoc-decomp-gc](https://github.com/denzi-gh/crashwoc-decomp-gc)
+- **Custom Robo (New 3DS)** — [alexander-clawthorne/custom-robo-recomp](https://github.com/alexander-clawthorne/custom-robo-recomp) — *Static recompilation.*
+- **Digimon Battle Chronicle / Rumble Arena 2** — [aoxzh/DigimonBattleChronicleRecomp](https://github.com/aoxzh/DigimonBattleChronicleRecomp) — *Static recompilation.*
+- **Digimon World 4** — [ivanno4317/dw4-gc](https://github.com/ivanno4317/dw4-gc)
+- **Disney Piglet's Big Game** — [tgsm/pbg](https://github.com/tgsm/pbg)
+- **Doshin the Giant** — [break-core/doshin-gc](https://github.com/break-core/doshin-gc)
+- **Eternal Darkness (PS5)** — [griches/PS5_EternalDarkness](https://github.com/griches/PS5_EternalDarkness) — *Port.*
+- **Eternal Darkness: Sanity's Requiem** — [PattyTrish/unending-occlusion](https://github.com/PattyTrish/unending-occlusion)
+- **Eternal Darkness: Sanity's Requiem** — [griches/EternalDarknessRecomp](https://github.com/griches/EternalDarknessRecomp) — *Static recompilation.*
+- **Eternal Darkness: Sanity's Requiem (Eternal-Darkness---Decompile)** — [psdwizzard/Eternal-Darkness---Decompile](https://github.com/psdwizzard/Eternal-Darkness---Decompile)
+- **F-Zero GX (F-ZERO GLINUX)** — [Mabec-games/F-ZERO-GLINUX](https://github.com/Mabec-games/F-ZERO-GLINUX) — *Port.*
+- **F-Zero GX (fzerogx-recomp)** — [ethannicholas/fzerogx-recomp](https://github.com/ethannicholas/fzerogx-recomp) — *Static recompilation.*
+- **F-Zero GX (karamzov123)** — [karamzov123/fzero-gx-decomp](https://github.com/karamzov123/fzero-gx-decomp)
+- **F-Zero GX (rayanht)** — [rayanht/fzgx](https://github.com/rayanht/fzgx)
+- **Final Fantasy Crystal Chronicles** — [zcanann/FFCC-Decomp](https://github.com/zcanann/FFCC-Decomp)
+- **Gauntlet Dark Legacy** — [sabishii-bit/Gauntlet-Dark-Legacy-Decompilation](https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation)
+- **Gauntlet: Dark Legacy (PC port)** — [sabishii-bit/Gauntlet-Dark-Legacy-PC-Port](https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-PC-Port) — *Port.*
+- **GoldenEye: Rogue Agent** — [ant0-blase/goldeneye-rag-decomp](https://github.com/ant0-blase/goldeneye-rag-decomp)
+- **Gyakuten Saiban 3 (kiosk demo)** — [atasro2/pwaa3demo](https://github.com/atasro2/pwaa3demo) — *Disassembly.*
+- **Harry Potter and the Chamber of Secrets** — [ant0-blase/HPCOS-GC-RECOMP](https://github.com/ant0-blase/HPCOS-GC-RECOMP) — *Static recompilation. Inactive or archived.*
+- **Harvest Moon: A Wonderful Life** — [ChrisNonyminus/hmawl](https://github.com/ChrisNonyminus/hmawl)
+- **The Incredibles** — [seilc/incredibles](https://github.com/seilc/incredibles)
+- **Kirby Air Ride** — [doldecomp/kar](https://github.com/doldecomp/kar)
+- **Kirby Air Ride (KAR)** — [wowjinxy/KAR](https://github.com/wowjinxy/KAR)
+- **Kirby Air Ride (sonsegajp)** — [sonsegajp/Kirby-Air-Ride-Recompiled](https://github.com/sonsegajp/Kirby-Air-Ride-Recompiled) — *Static recompilation.*
+- **The Legend of Zelda: The Wind Waker** — [zeldaret/tww](https://github.com/zeldaret/tww)
+- **The Legend of Zelda: The Wind Waker** — [centollOS/SwitchWaker](https://github.com/centollOS/SwitchWaker) — *Port.*
+- **The Legend of Zelda: The Wind Waker (BlueWake)** — [chrissotraidis/bluewake](https://github.com/chrissotraidis/bluewake)
+- **The Legend of Zelda: The Wind Waker (Deep Sea)** — [AH64-dll/DeepSea](https://github.com/AH64-dll/DeepSea) — *Port.*
+- **The Legend of Zelda: The Wind Waker (Recomp)** — [elliotttate/Wind-Waker-Recomp](https://github.com/elliotttate/Wind-Waker-Recomp)
+- **The Legend of Zelda: The Wind Waker (WindowWaker)** — [MaskeZenY/WindowWaker](https://github.com/MaskeZenY/WindowWaker) — *Port.*
+- **The Legend of Zelda: The Wind Waker (ww)** — [sp00nznet/ww](https://github.com/sp00nznet/ww)
+- **The Legend of Zelda: Twilight Princess** — [zeldaret/tp](https://github.com/zeldaret/tp) — *GameCube version.*
+- **The Legend of Zelda: Twilight Princess** — [BgbrhrWatchinOVO/dusklight-ps4](https://github.com/BgbrhrWatchinOVO/dusklight-ps4)
+- **The Legend of Zelda: Twilight Princess (dusklight (HayatoG Switch fork))** — [HayatoG/dusklight](https://github.com/HayatoG/dusklight)
+- **The Legend of Zelda: Twilight Princess (Dusklight)** — [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) — *Port.*
+- **The Legend of Zelda: Twilight Princess (tp-port (mbayonal))** — [mbayonal/tp-port](https://github.com/mbayonal/tp-port) — *Port.*
+- **LEGO Star Wars: The Video Game (lsw1-decomp)** — [ellierocks/lsw1-decomp](https://github.com/ellierocks/lsw1-decomp)
+- **Luigi's Mansion** — [sage-of-mirrors/zmansion](https://github.com/sage-of-mirrors/zmansion)
+- **Luigi's Mansion** — [sp00nznet/luigismansion](https://github.com/sp00nznet/luigismansion) — *Static recompilation.*
+- **Luigi's Mansion (lm-decomp)** — [SomeJakeGuy/lm-decomp](https://github.com/SomeJakeGuy/lm-decomp)
+- **Luigi's Mansion (Luigi's Mansion Recompiled)** — [rob646464/luigis-mansion-recompiled](https://github.com/rob646464/luigis-mansion-recompiled) — *Static recompilation.*
+- **Luigi's Mansion (PS5)** — [leafyjerk/PS5_LuigisMansion](https://github.com/leafyjerk/PS5_LuigisMansion) — *Port.*
+- **Luigi's Mansion (Switch)** — [StevensND/lm-nx](https://github.com/StevensND/lm-nx) — *Port.*
+- **Luigi's Mansion (ThePlayerRolo)** — [ThePlayerRolo/lm-decomp](https://github.com/ThePlayerRolo/lm-decomp)
+- **Mario Kart: Double Dash!!** — [doldecomp/mkdd](https://github.com/doldecomp/mkdd)
+- **Mario Kart: Double Dash!!** — [ethannicholas/mariokartdd-recomp](https://github.com/ethannicholas/mariokartdd-recomp) — *Static recompilation.*
+- **Mario Kart: Double Dash!! (project-tandem, badcompany94)** — [badcompany94-rcmp/project-tandem](https://github.com/badcompany94-rcmp/project-tandem) — *Static recompilation.*
+- **Mario Party 4** — [mariopartyrd/marioparty4](https://github.com/mariopartyrd/marioparty4)
+- **Mario Party 4** — [mariopartyrd/partyboard](https://github.com/mariopartyrd/partyboard) — *Port.*
+- **Mario Party 4 (Party Board (zeranemesis port))** — [zeranemesis/Marioparty4](https://github.com/zeranemesis/Marioparty4) — *Port.*
+- **Mario Party 5** — [mariopartyrd/marioparty5](https://github.com/mariopartyrd/marioparty5)
+- **Mario Party 6** — [mariopartyrd/marioparty6](https://github.com/mariopartyrd/marioparty6)
+- **Mario Party 6** — [iirg4x/mp6-native-port](https://github.com/iirg4x/mp6-native-port) — *Port.*
+- **Mario Party 6 (marioparty6)** — [iirg4x/marioparty6](https://github.com/iirg4x/marioparty6)
+- **Mario Party 7** — [mariopartyrd/marioparty7](https://github.com/mariopartyrd/marioparty7)
+- **Mario Superstar Baseball** — [roeming/mssb-dtk](https://github.com/roeming/mssb-dtk)
+- **Mario Superstar Baseball** — [roeming/mssbDecomp](https://github.com/roeming/mssbDecomp) — *Inactive or archived.*
+- **Mario Superstar Baseball (mssb-decomp)** — [nlopez99/mssb-decomp](https://github.com/nlopez99/mssb-decomp)
+- **Medal of Honor: Frontline** — [kyleckroeger/moh-frontline-decomp](https://github.com/kyleckroeger/moh-frontline-decomp)
+- **Medal of Honor: Frontline** — [ant0-blase/MOHFrontline-GC-RECOMP](https://github.com/ant0-blase/MOHFrontline-GC-RECOMP) — *Static recompilation. Inactive or archived.*
+- **Medal of Honor: Frontline** — [goodshepherd23/MOHFrontline-Recomp](https://github.com/goodshepherd23/MOHFrontline-Recomp) — *Static recompilation.*
+- **Medal of Honor: Rising Sun** — [lifewillbeokay/moh-rising-sun](https://github.com/lifewillbeokay/moh-rising-sun)
+- **MeleePC** — [999sian/melee-pc](https://github.com/999sian/melee-pc)
+- **Metal Gear Solid: The Twin Snakes** — [GirianSeed/mgstts](https://github.com/GirianSeed/mgstts)
+- **Metal Gear Solid: The Twin Snakes (Recomp)** — [alphanu1/msg-twinsnakes-recomp](https://github.com/alphanu1/msg-twinsnakes-recomp)
+- **Metroid Prime 1** — [primedecomp/prime](https://github.com/primedecomp/prime)
+- **Metroid Prime 2** — [primedecomp/echoes](https://github.com/primedecomp/echoes)
+- **Metroid Prime 2: Echoes** — [Odrannnn/MetroidPrime2Port](https://github.com/Odrannnn/MetroidPrime2Port) — *Port.*
+- **Metroid Prime 3: Corruption E3 Prototype** — [PrimeDecomp/corruption-proto](https://github.com/PrimeDecomp/corruption-proto)
+- **Metroid Prime Port** — [Odrannnn/MetroidPrimePort](https://github.com/Odrannnn/MetroidPrimePort) — *Port.*
+- **Mortal Kombat: Deadly Alliance** — [ShulkMaster/mk-da](https://github.com/ShulkMaster/mk-da)
+- **MVP Baseball 2005** — [mitsevox/mvp2005](https://github.com/mitsevox/mvp2005)
+- **MVP Baseball 2005 (MVP05-Plus)** — [spy-jam/MVP05-Plus](https://github.com/spy-jam/MVP05-Plus) — *Static recompilation.*
+- **Naruto: Gekitō Ninja Taisen! 4** — [doldecomp/gnt4](https://github.com/doldecomp/gnt4)
+- **NASCAR: Dirt to Daytona** — [ABadGame/dirt-to-daytona-decomp](https://github.com/ABadGame/dirt-to-daytona-decomp)
+- **NBA Street V3** — [recomp-code/street-recomp-v3](https://github.com/recomp-code/street-recomp-v3) — *Static recompilation.*
+- **NDDEMO (tech demo)** — [cualquiercosa327/nddemo](https://github.com/cualquiercosa327/nddemo) — *Inactive or archived.*
+- **NDDEMO (tech demo)** — [CelestialAmber/nddemo](https://github.com/CelestialAmber/nddemo)
+- **NFL Blitz 2003** — [8bitninja64/NFLBlitz2003-PC](https://github.com/8bitninja64/NFLBlitz2003-PC) — *Static recompilation.*
+- **NFL Street 2** — [mitsevox/nflstreet2](https://github.com/mitsevox/nflstreet2)
+- **Nintendo Puzzle Collection: Dr. Mario 64** — [NewGBAXL/drmario64-gc](https://github.com/NewGBAXL/drmario64-gc)
+- **Paper Mario: The Thousand-Year Door** — [doldecomp/ttyd](https://github.com/doldecomp/ttyd)
+- **Paper Mario: The Thousand-Year Door** — [NWPlayer123/PaperMario2](https://github.com/NWPlayer123/PaperMario2) — *Inactive or archived.*
+- **Paper Mario: The Thousand-Year Door (all seven versions)** — [LLCOOLT/ttyd](https://github.com/LLCOOLT/ttyd)
+- **Phantasy Star Online Episode I & II Plus** — [zeroz41/pso-decomp](https://github.com/zeroz41/pso-decomp)
+- **Pikmin (Open Nectar PC Port)** — [SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port](https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port)
+- **Pikmin (PS3)** — [MattyKen619/Pikmin-PS3-Port](https://github.com/MattyKen619/Pikmin-PS3-Port) — *Port.*
+- **Pikmin 1** — [projectPiki/pikmin](https://github.com/projectPiki/pikmin)
+- **Pikmin 2** — [projectPiki/pikmin2](https://github.com/projectPiki/pikmin2)
+- **Pokemon Colosseum** — [dougchansan/pkmn-colosseum](https://github.com/dougchansan/pkmn-colosseum)
+- **Pokémon Colosseum (colosseum-mb)** — [pret/colosseum-mb](https://github.com/pret/colosseum-mb) — *Inactive or archived.*
+- **Pokémon Colosseum (launcher)** — [chasem-dev/colosseum-launcher](https://github.com/chasem-dev/colosseum-launcher) — *Port.*
+- **Ratatouille** — [ZounaModding/RatDecomp](https://github.com/ZounaModding/RatDecomp)
+- **Ratatouille (January 2006 prototype)** — [seilc/rat](https://github.com/seilc/rat)
+- **Resident Evil 4** — [adonis-singh/re4](https://github.com/adonis-singh/re4)
+- **Resident Evil – Code: Veronica X** — [fmil95/recvx-gc-decomp](https://github.com/fmil95/recvx-gc-decomp)
+- **Scooby-Doo! Night of 100 Frights** — [josiahg2502-glitch/Scooby-Doo-Refrightened](https://github.com/josiahg2502-glitch/Scooby-Doo-Refrightened) — *Static recompilation.*
+- **Scooby-Doo! Unmasked** — [josiahg2502-glitch/Scooby-Doo-ReMasked](https://github.com/josiahg2502-glitch/Scooby-Doo-ReMasked) — *Static recompilation.*
+- **Shadow the Hedgehog** — [dev-camo/shadow-decomp](https://github.com/dev-camo/shadow-decomp)
+- **Shadow the Hedgehog** — [BigSnek9/ShadowRecomp](https://github.com/BigSnek9/ShadowRecomp) — *Static recompilation.*
+- **Shadow the Hedgehog (NukkoroRecomp)** — [ZenKazeX/NukkoroRecomp](https://github.com/ZenKazeX/NukkoroRecomp) — *Static recompilation.*
+- **Shadow the Hedgehog (STH-Recompiled)** — [FlyinRabit205/STH-Recompiled](https://github.com/FlyinRabit205/STH-Recompiled) — *Static recompilation.*
+- **The Sims 2** — [natebag/Sims2DECOMP](https://github.com/natebag/Sims2DECOMP)
+- **Skies of Arcadia Legends** — [rainchus/SkiesofArcadiaLegends](https://github.com/rainchus/SkiesofArcadiaLegends)
+- **Skies of Arcadia Legends** — [ogdanimal/SkiesOfArcadiaLegends-Recomp](https://github.com/ogdanimal/SkiesOfArcadiaLegends-Recomp) — *Static recompilation.*
+- **Sonic Adventure 2: Battle** — [roeming/SA2B](https://github.com/roeming/SA2B)
+- **Sonic Adventure 2: Battle (OpenSA2)** — [kittycache9/OpenSA2](https://github.com/kittycache9/OpenSA2) — *Static recompilation.*
+- **Sonic Adventure 2: Battle (sa2-nx)** — [ChanseyIsTheBest/sa2-nx](https://github.com/ChanseyIsTheBest/sa2-nx) — *Static recompilation.*
+- **Sonic CD (Sonic Gems Collection)** — [Clownacy/Sonic-CD-Decompilation](https://github.com/Clownacy/Sonic-CD-Decompilation)
+- **Sonic Riders** — [doldecomp/sonicriders](https://github.com/doldecomp/sonicriders)
+- **Sonic Riders** — [teclilla18/sonic-riders-recomp](https://github.com/teclilla18/sonic-riders-recomp) — *Static recompilation.*
+- **Sonic Riders (Tournament Edition)** — [RidersBoulevard/sonicriderste](https://github.com/RidersBoulevard/sonicriderste)
+- **Sonic the Hedgehog CD (Sonic Gems Collection version)** — [~benoitren/soniccddecompilation](https://git.sr.ht/~benoitren/soniccddecompilation)
+- **Soulcalibur II** — [jackpoison-prog/RingOut](https://github.com/jackpoison-prog/RingOut)
+- **SpongeBob SquarePants (SpongeBobRecomp)** — [Spaced1127/SpongeBobRecomp](https://github.com/Spaced1127/SpongeBobRecomp) — *Static recompilation.*
+- **The Spongebob Squarepants Movie** — [decomp.dev](https://decomp.dev/bfbbdecomp/tssm)
+- **The SpongeBob SquarePants Movie** — [bfbbdecomp/tssm](https://github.com/bfbbdecomp/tssm)
+- **SpongeBob SquarePants: Battle for Bikini Bottom** — [bfbbdecomp/bfbb](https://github.com/bfbbdecomp/bfbb)
+- **Star Fox Adventures** — [renakunisaki/sfadebug](https://github.com/renakunisaki/sfadebug)
+- **Star Fox Adventures (foxhollow)** — [JackPriceBurns/foxhollow](https://github.com/JackPriceBurns/foxhollow)
+- **Star Fox Adventures (PS Vita)** — [tchisholm20/starfox-adventures-vita](https://github.com/tchisholm20/starfox-adventures-vita) — *Port.*
+- **Star Fox Adventures (SFA-Decomp)** — [zcanann/SFA-Decomp](https://github.com/zcanann/SFA-Decomp)
+- **Star Fox: Assault** — [xSNAIRZx/star-fox-assault-recomp](https://github.com/xSNAIRZx/star-fox-assault-recomp) — *Static recompilation.*
+- **Super Mario Strikers** — [yannicksuter/smstrikers-decomp](https://github.com/yannicksuter/smstrikers-decomp)
+- **Super Mario Strikers** — [aharonahdoot/StrikersRecomp](https://github.com/aharonahdoot/StrikersRecomp) — *Static recompilation.*
+- **Super Mario Strikers (BallPad)** — [chrissotraidis/ballpad](https://github.com/chrissotraidis/ballpad) — *Port.*
+- **Super Mario Strikers (PC Port)** — [new-coke/strikers](https://github.com/new-coke/strikers)
+- **Super Mario Strikers (Quest 3 Strikers)** — [LanceSweatpants/Strikers-Quest-MR](https://github.com/LanceSweatpants/Strikers-Quest-MR)
+- **Super Mario Sunshine** — [doldecomp/sms](https://github.com/doldecomp/sms)
+- **Super Mario Sunshine** — [griches/PS5_Sunshine](https://github.com/griches/PS5_Sunshine)
+- **Super Mario Sunshine** — [chasem-dev/sms-pc-port](https://github.com/chasem-dev/sms-pc-port) — *Port.*
+- **Super Mario Sunshine** — [QbeRoot/sms](https://github.com/QbeRoot/sms) — *Inactive or archived.*
+- **Super Mario Sunshine (Android)** — [jbcgames/sms-android](https://github.com/jbcgames/sms-android) — *Port.*
+- **Super Mario Sunshine (Graffito, Japan)** — [ryanbevins/Graffito-Decomp](https://github.com/ryanbevins/Graffito-Decomp)
+- **Super Mario Sunshine (Recomp)** — [chrissotraidis/sunpad](https://github.com/chrissotraidis/sunpad)
+- **Super Mario Sunshine (SMS)** — [JimB16/SMS](https://github.com/JimB16/SMS) — *Disassembly. Inactive or archived.*
+- **Super Mario Sunshine (sms-launcher)** — [chasem-dev/sms-launcher](https://github.com/chasem-dev/sms-launcher) — *Static recompilation.*
+- **Super Mario Sunshine (sms-pc-port)** — [TekRantGaming/sms-pc-port](https://github.com/TekRantGaming/sms-pc-port) — *Port.*
+- **Super Mario Sunshine (sms-port, PAL)** — [zeranemesis/sms-port](https://github.com/zeranemesis/sms-port) — *Port.*
+- **Super Mario Sunshine (sms-switch)** — [chasem-dev/sms-switch](https://github.com/chasem-dev/sms-switch) — *Port.*
+- **Super Monkey Ball** — [camthesaxman/smb-decomp](https://github.com/camthesaxman/smb-decomp/)
+- **Super Monkey Ball 2 (libmkb)** — [ComplexPlane/libmkb](https://github.com/ComplexPlane/libmkb) — *Inactive or archived.*
+- **Super Smash Bros. Melee** — [doldecomp/melee](https://github.com/doldecomp/melee)
+- **Super Smash Bros. Melee** — [TechProGabe/Melee-X](https://github.com/TechProGabe/Melee-X) — *Port.*
+- **Super Smash Bros. Melee (FRAY)** — [PsiLupan/FRAY](https://github.com/PsiLupan/FRAY) — *Static recompilation. Inactive or archived.*
+- **Super Smash Bros. Melee (gd-melee-workspace)** — [GurekamDhillon/gd-melee-workspace](https://github.com/GurekamDhillon/gd-melee-workspace) — *Port.*
+- **Super Smash Bros. Melee (Melee Unlocked)** — [Hero88go/melee-unlocked](https://github.com/Hero88go/melee-unlocked)
+- **Super Smash Bros. Melee (melee360, Xbox 360)** — [codepdbh/melee360](https://github.com/codepdbh/melee360) — *Port.*
+- **Super Smash Bros. Melee (MeleePad)** — [chrissotraidis/meleepad](https://github.com/chrissotraidis/meleepad) — *Port.*
+- **Super Smash Bros. Melee (OpenSmash (Melee engine: opensmash-melee-pc))** — [turtlesoupy/opensmash](https://github.com/turtlesoupy/opensmash) — *Port.*
+- **Super Smash Bros. Melee (PS3)** — [Mayo1970/melee-ps3](https://github.com/Mayo1970/melee-ps3) — *Port.*
+- **Super Smash Bros. Melee (YAMPP)** — [sonsegajp/YAMPP](https://github.com/sonsegajp/YAMPP) — *Port.*
+- **Wario World** — [sabishii-bit/wwdcmp](https://github.com/sabishii-bit/wwdcmp)
+- **Wario World (BigSnek9)** — [BigSnek9/wario-world-recomp](https://github.com/BigSnek9/wario-world-recomp) — *Static recompilation.*
+- **Wave Race: Blue Storm** — [ethannicholas/bluestorm-recomp](https://github.com/ethannicholas/bluestorm-recomp) — *Static recompilation.*
+- **XD: Gale of Darkness** — [TeamOrre/xd-decomp](https://github.com/TeamOrre/xd-decomp)
+
+## Wii
+
+98 projects
+
+- **Animal Crossing: City Folk** — [ACreTeam/cf-decomp](https://github.com/ACreTeam/cf-decomp)
+- **Ben 10: Protector of Earth** — [pedrohenrique505/relogio-esquisito](https://github.com/pedrohenrique505/relogio-esquisito) — *Static recompilation.*
+- **Big Brain Academy: Wii Degree** — [vabold/bba-wd](https://github.com/vabold/bba-wd)
+- **Castlevania: The Adventure ReBirth** — [darkuni/castlevania-rebirth-recomp](https://github.com/darkuni/castlevania-rebirth-recomp) — *Static recompilation.*
+- **Contra ReBirth** — [darkuni/contra-rebirth-recomp](https://github.com/darkuni/contra-rebirth-recomp) — *Static recompilation.*
+- **de Blob** — [AdventureT/OpenToshi](https://github.com/AdventureT/OpenToshi)
+- **Donkey Kong Country Returns** — [Wexos/DKCR-Decompilation](https://github.com/Wexos/DKCR-Decompilation)
+- **Excite Truck** — [orangedude27/excite-truck](https://github.com/orangedude27/excite-truck)
+- **Forecast Channel** — [GuestDreemurr/forecast](https://github.com/GuestDreemurr/forecast)
+- **Fortune Street** — [FortuneStreetModding/boom-street-decomp](https://github.com/FortuneStreetModding/boom-street-decomp)
+- **Go Vacation** — [Moddimation/GoVacation-Decompilation](https://github.com/Moddimation/GoVacation-Decompilation)
+- **Gradius ReBirth** — [darkuni/gradius-rebirth-recomp](https://github.com/darkuni/gradius-rebirth-recomp) — *Static recompilation.*
+- **The House of the Dead: Overkill** — [darkuni/house-of-the-dead-overkill-recomp](https://github.com/darkuni/house-of-the-dead-overkill-recomp) — *Static recompilation.*
+- **Inazuma Eleven Strikers** — [SwareJonge/IEStrikers](https://github.com/SwareJonge/IEStrikers)
+- **Kirby's Dream Collection - Special Edition** — [Swiftshine/kdc](https://github.com/Swiftshine/kdc)
+- **Kirby's Epic Yarn** — [swiftshine/key](https://github.com/swiftshine/key)
+- **Kirby's Return to Dream Land** — [AP-NJA/KRTDL-Decomp](https://github.com/AP-NJA/KRTDL-Decomp)
+- **Kirby's Return to Dream Land (Kirby Wii Recomp)** — [ExpansionPak/ModernGekko](https://github.com/ExpansionPak/ModernGekko)
+- **Kirby's Return To Dreamland** — [ThePlayerRolo/KRTDLDecomp](https://github.com/ThePlayerRolo/KRTDLDecomp)
+- **The Last Story** — [vs-sr-dev/pc-thelaststory](https://github.com/vs-sr-dev/pc-thelaststory) — *Static recompilation.*
+- **The Last Story (native)** — [thebradshaw/laststory-native](https://github.com/thebradshaw/laststory-native) — *Port.*
+- **The Legend of Zelda: Ocarina of Time (Wii Virtual Console)** — [zeldaret/oot-vc](https://github.com/zeldaret/oot-vc)
+- **The Legend of Zelda: Skyward Sword** — [zeldaret/ss](https://github.com/zeldaret/ss)
+- **The Legend of Zelda: Skyward Sword (Skybreak)** — [Kyra422/skybreak](https://github.com/Kyra422/skybreak) — *Port.*
+- **Lego Star Wars III: The Clone Wars** — [decomp.dev](https://decomp.dev/ThePlayerRolo/LegoCloneWarsWii)
+- **Lego Star Wars III: The Clone Wars** — [ThePlayerRolo/LegoCloneWarsWii](https://github.com/ThePlayerRolo/LegoCloneWarsWii)
+- **Mario Kart Wii** — [riidefi/mkw](https://github.com/riidefi/mkw)
+- **Mario Kart Wii** — [dorPXP/driftdroid](https://github.com/dorPXP/driftdroid) — *Static recompilation.*
+- **Mario Kart Wii (DisMKW)** — [aplumafreak500/DisMKW](https://github.com/aplumafreak500/DisMKW) — *Disassembly. Inactive or archived.*
+- **Mario Kart Wii (doldecomp)** — [doldecomp/mkw](https://github.com/doldecomp/mkw)
+- **Mario Kart Wii (KartPad)** — [chrissotraidis/kartpad](https://github.com/chrissotraidis/kartpad)
+- **Mario Kart Wii (mkw)** — [snailspeed3/mkw](https://github.com/snailspeed3/mkw)
+- **Mario Kart Wii (mkw)** — [vabold/mkw](https://github.com/vabold/mkw)
+- **Mario Kart Wii (MKW-3DS)** — [MiniBandit/MKW-3DS](https://github.com/MiniBandit/MKW-3DS) — *Port.*
+- **Mario Kart Wii (mkw-structures)** — [SeekyCt/mkw-structures](https://github.com/SeekyCt/mkw-structures) — *Inactive or archived.*
+- **Mario Kart Wii (mkw-switch-recomp)** — [LockingFR/mkw-switch-recomp](https://github.com/LockingFR/mkw-switch-recomp) — *Static recompilation.*
+- **Mario Kart Wii (mkwii-ps5)** — [Phi1ow/mkwii-ps5](https://github.com/Phi1ow/mkwii-ps5) — *Static recompilation.*
+- **Mario Kart Wii (Recomp)** — [patchzyy/Wiicompiled](https://github.com/patchzyy/Wiicompiled)
+- **Mario Kart Wii (WiiCompiled-Switch)** — [yashin-sh/WiiCompiled-Switch](https://github.com/yashin-sh/WiiCompiled-Switch) — *Static recompilation.*
+- **Mario Kart Wii (WiiCompiled-Xbox-UWP)** — [itzjuan612/WiiCompiled-Xbox-UWP](https://github.com/itzjuan612/WiiCompiled-Xbox-UWP) — *Static recompilation.*
+- **Mario Kart Wii - Service Pack (mkw-sp)** — [mkw-sp/mkw-sp](https://github.com/mkw-sp/mkw-sp) — *Port.*
+- **Mario Party 8** — [mariopartyrd/marioparty8](https://github.com/mariopartyrd/marioparty8)
+- **Mario Party 9** — [mariopartyrd/marioparty9](https://github.com/mariopartyrd/marioparty9)
+- **Mario Party 9 (marioparty9)** — [ricky074game/marioparty9](https://github.com/ricky074game/marioparty9)
+- **Mario Sport Mix** — [EltyDev/MSM-decomp](https://github.com/EltyDev/MSM-decomp)
+- **Mario Strikers Charged** — [yannicksuter/mscharged-decomp](https://github.com/yannicksuter/mscharged-decomp)
+- **Mario Strikers Charged (mscharged-port)** — [previouslevelgames/recharged](https://github.com/previouslevelgames/recharged) — *Port.*
+- **Mario Strikers Charged (Strikers-WiiCompiled)** — [BlackAndBlue95/Strikers-WiiCompiled](https://github.com/BlackAndBlue95/Strikers-WiiCompiled) — *Static recompilation.*
+- **Martian Panic** — [darkuni/martian-panic-recomp](https://github.com/darkuni/martian-panic-recomp) — *Static recompilation.*
+- **Metroid Prime 3: Corruption** — [bonllavier/Corruption_3-PC](https://github.com/bonllavier/Corruption_3-PC) — *Static recompilation.*
+- **Muscle March** — [tmcleroy/muscle-march-recomp](https://github.com/tmcleroy/muscle-march-recomp) — *Static recompilation.*
+- **New Play Control! Pikmin** — [projectPiki/pik1wii](https://github.com/projectPiki/pik1wii)
+- **New Play Control! Pikmin 2** — [projectPiki/pik2wii](https://github.com/projectPiki/pik2wii)
+- **New Super Mario Bros. Wii** — [NSMBW-Community/NSMBW-Decomp](https://github.com/NSMBW-Community/NSMBW-Decomp)
+- **New Super Mario Bros. Wii** — [ral1009/NSMBWiicompiled](https://github.com/ral1009/NSMBWiicompiled) — *Static recompilation.*
+- **New Super Mario Bros. Wii (NSMB Wii Multiplayer Decompilation)** — [WitherBlitz/NSMB-Wii-Multiplayer-Recompilation](https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation) — *Static recompilation.*
+- **Pandora's Tower** — [RecompPort/pandora-tower-pc](https://github.com/RecompPort/pandora-tower-pc) — *Static recompilation.*
+- **Pokemon Battle Revolution** — [bgsamm/pbr-dtk](https://github.com/bgsamm/pbr-dtk)
+- **Pokemon Battle Revolution** — [pbr-ret/pbr-decomp](https://github.com/pbr-ret/pbr-decomp)
+- **Pokepark Wii: Pikachu's Adventure** — [sephdb/pokepark-wii-decomp](https://github.com/sephdb/pokepark-wii-decomp)
+- **Pokémon Battle Revolution (pokerevo)** — [pret/pokerevo](https://github.com/pret/pokerevo)
+- **Pokémon Rumble** — [KooShnoo/pokemon-rumble](https://github.com/KooShnoo/pokemon-rumble)
+- **PokéPark Wii: Pikachu's Adventure** — [MildRain479/PokePark-Wiicompiled](https://github.com/MildRain479/PokePark-Wiicompiled) — *Static recompilation.*
+- **Rabbids Go Home** — [rghdecomp/rgh](https://github.com/rghdecomp/rgh)
+- **Radio Helicopter** — [Bsquo/pcopter_wii](https://github.com/Bsquo/pcopter_wii)
+- **Resident Evil: The Umbrella Chronicles** — [solleo95/reuc-recomp](https://github.com/solleo95/reuc-recomp) — *Static recompilation.*
+- **Rhythm Heaven Fever** — [conhlee/rhf](https://github.com/conhlee/rhf)
+- **Rock Band 3** — [DarkRTA/rb3](https://github.com/DarkRTA/rb3)
+- **Sonic and the Black Knight** — [yunophilia/BlackKnightRecomp](https://github.com/yunophilia/BlackKnightRecomp) — *Static recompilation.*
+- **Sonic Riders: Zero Gravity** — [m0ester/SRZGDecomp](https://github.com/m0ester/SRZGDecomp)
+- **Sonic Unleashed (Unwiished)** — [K-r0zen/Unwiished-Recomp](https://github.com/K-r0zen/Unwiished-Recomp) — *Static recompilation.*
+- **Speed Racer** — [farisawan-2000/speedracer](https://github.com/farisawan-2000/speedracer) — *Inactive or archived.*
+- **Super Mario All-Stars 25th Anniversary Edition** — [ThePlayerRolo/Super-Mario-All-Star-Decomp](https://github.com/ThePlayerRolo/Super-Mario-All-Star-Decomp)
+- **Super Mario Galaxy ( PS4 recomp)** — [chrissotraidis/galaxypad](https://github.com/chrissotraidis/galaxypad) — *Static recompilation.*
+- **Super Mario Galaxy (Galaxy Android)** — [OpenPort-Labs/Galaxy-Android](https://github.com/OpenPort-Labs/Galaxy-Android) — *Port.*
+- **Super Mario Galaxy (GalaxyFrame)** — [PodeCaradox/GalaxyFrame](https://github.com/PodeCaradox/GalaxyFrame) — *Port.*
+- **Super Mario Galaxy (GalaxyQuest (Meta Quest 3 VR))** — [bigmak94/GalaxyQuest](https://github.com/bigmak94/GalaxyQuest)
+- **Super Mario Galaxy (MacioGalaxy)** — [classicrob/MacioGalaxy](https://github.com/classicrob/MacioGalaxy) — *Port.*
+- **Super Mario Galaxy (Nebula)** — [keepvaibin/nebula](https://github.com/keepvaibin/nebula) — *Static recompilation.*
+- **Super Mario Galaxy (Nintendo 3DS)** — [cmyksoda/SMG-3DS](https://github.com/cmyksoda/SMG-3DS) — *Port. Inactive or archived.*
+- **Super Mario Galaxy (PS2 fan port)** — [danielnuld/smg-ps2](https://github.com/danielnuld/smg-ps2) — *Port.*
+- **Super Mario Galaxy (PS5)** — [griches/PS5_MarioGalaxy](https://github.com/griches/PS5_MarioGalaxy) — *Static recompilation.*
+- **Super Mario Galaxy (SMGDecompilation)** — [snailspeed3/SMGDecompilation](https://github.com/snailspeed3/SMGDecompilation) — *Inactive or archived.*
+- **Super Mario Galaxy 1** — [SMGCommunity/Petari](https://github.com/SMGCommunity/Petari)
+- **Super Mario Galaxy 2** — [SMGCommunity/Garigari](https://github.com/SMGCommunity/Garigari)
+- **Super Paper Mario** — [SeekyCt/spm-decomp](https://github.com/SeekyCt/spm-decomp)
+- **Super Paper Mario** — [josiahg2502-glitch/NewSuperPaperBros](https://github.com/josiahg2502-glitch/NewSuperPaperBros) — *Static recompilation.*
+- **Super Smash Bros. Brawl** — [doldecomp/brawl](https://github.com/doldecomp/brawl)
+- **Super Smash Bros. Brawl (BrawlRecompiled)** — [josiahg2502-glitch/BrawlRecompiled](https://github.com/josiahg2502-glitch/BrawlRecompiled) — *Static recompilation.*
+- **Taiko No Tatsujin Wii Ketteiban** — [CalebPancake/Taiko-No-Tatsujin-Wii-Ketteiban](https://github.com/CalebPancake/Taiko-No-Tatsujin-Wii-Ketteiban)
+- **Wario Land: Shake It!** — [Swiftshine/wlsi](https://github.com/Swiftshine/wlsi)
+- **Wario Land: Shake It!** — [santiagovalencia109/Wario-Land-Shake-It-Native-PC](https://github.com/santiagovalencia109/Wario-Land-Shake-It-Native-PC) — *Static recompilation.*
+- **Wii Fit Plus** — [Tanline666/veryfat-dungeon](https://github.com/Tanline666/veryfat-dungeon)
+- **Wii Party** — [arelkair/wiiparty-recomp](https://github.com/arelkair/wiiparty-recomp) — *Static recompilation.*
+- **Wii Play** — [akiramusic000/Rhae](https://github.com/akiramusic000/Rhae)
+- **Wii Sports** — [doldecomp/ogws](https://github.com/doldecomp/ogws)
+- **World of Goo** — [Fancy2209/wog-wiiware](https://github.com/Fancy2209/wog-wiiware)
+- **Xenoblade** — [xbret/xenoblade](https://github.com/xbret/xenoblade)
+
+## Wii U
+
+27 projects
+
+- **Captain Toad: Treasure Tracker** — [Moddimation/KinokoDecomp-S](https://github.com/Moddimation/KinokoDecomp-S)
+- **The Legend of Zelda: Breath of the Wild** — [hardkiller2565123123/CafeRecomp](https://github.com/hardkiller2565123123/CafeRecomp) — *Static recompilation.*
+- **The Legend of Zelda: Breath of the Wild (BotW Recompiled)** — [IshaanKalra2103/BotWRecomp](https://github.com/IshaanKalra2103/BotWRecomp) — *Static recompilation.*
+- **The Legend of Zelda: Breath of the Wild (BotW-Native)** — [ryderclanky/BotW-Native](https://github.com/ryderclanky/BotW-Native) — *Static recompilation.*
+- **The Legend of Zelda: Breath of the Wild (macOS)** — [vasist15-source/BOTWRecomp](https://github.com/vasist15-source/BOTWRecomp) — *Static recompilation.*
+- **The Legend of Zelda: The Wind Waker HD** — [centollOS/SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) — *Static recompilation.*
+- **The Legend of Zelda: The Wind Waker HD (PS4 port of WWHD Recomp)** — [Nabiscan58/WWHD-Recomp-PS4-Port](https://github.com/Nabiscan58/WWHD-Recomp-PS4-Port) — *Static recompilation.*
+- **The Legend of Zelda: The Wind Waker HD (TLoZ:TWW HD Recompiled — Android)** — [GreenNaugahyde/ZeldaWWHDRecompAndroid](https://github.com/GreenNaugahyde/ZeldaWWHDRecompAndroid)
+- **The Legend of Zelda: The Wind Waker HD (Wind Waker HD for PlayStation 5)** — [griches/PS5_WindWakerHD](https://github.com/griches/PS5_WindWakerHD) — *Static recompilation.*
+- **The Legend of Zelda: The Wind Waker HD (Wind Waker HD Recompiled [Android] - Plus)** — [Nycolazs/WindWakerHD-Android-Plus](https://github.com/Nycolazs/WindWakerHD-Android-Plus) — *Static recompilation.*
+- **The Legend of Zelda: The Wind Waker HD (wwhd (verified decompilation))** — [ZeldaWWHDDecomp/wwhd](https://github.com/ZeldaWWHDDecomp/wwhd)
+- **The Legend of Zelda: Twilight Princess HD** — [AsadSi/twilight-princess-hd-recomp](https://github.com/AsadSi/twilight-princess-hd-recomp) — *Static recompilation.*
+- **Lego City Undercover** — [Nintendocustom/Lego-City-Undercover-Decompilation](https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation)
+- **Monster Hunter 3 Ultimate** — [glinesbdev/mh3u-port](https://github.com/glinesbdev/mh3u-port) — *Static recompilation.*
+- **Monster Hunter 3 Ultimate (Cha-Cha)** — [BoyClinton/Cha-Cha](https://github.com/BoyClinton/Cha-Cha) — *Static recompilation.*
+- **New Super Mario Bros. U** — [aboood40091/red-pro2](https://github.com/aboood40091/red-pro2)
+- **New Super Mario Bros. U** — [nsmbu-recomp/nsmbu-recomp](https://github.com/nsmbu-recomp/nsmbu-recomp) — *Static recompilation.*
+- **Sonic Lost World** — [Radfordhound/OpenLW](https://github.com/Radfordhound/OpenLW)
+- **Splatoon** — [Dexx-io/Splatoon-Decomp](https://github.com/Dexx-io/Splatoon-Decomp)
+- **Splatoon (splatoon-decomp (Splatoon Decomp Lab))** — [sdlfoundation/splatoon-decomp](https://github.com/sdlfoundation/splatoon-decomp) — *Inactive or archived.*
+- **Super Mario 3D World + Bowser's Fury** — [3DWCommunity/3dcomp](https://github.com/3DWCommunity/3dcomp)
+- **Super Smash Bros. for Wii U (Smash 4 PC)** — [josiahg2502-glitch/Smash4PC](https://github.com/josiahg2502-glitch/Smash4PC) — *Static recompilation.*
+- **Tekken Tag Tournament 2 Wii U Edition** — [Petexy/Tekken-Tag-2-Recompiled](https://github.com/Petexy/Tekken-Tag-2-Recompiled) — *Static recompilation.*
+- **Tekken Tag Tournament 2 Wii U Edition (Ultimate Edition)** — [Petexy/Tekken-Tag-2-Ultimate-Edition](https://github.com/Petexy/Tekken-Tag-2-Ultimate-Edition) — *Static recompilation.*
+- **Yoshi's Woolly World** — [Swiftshine/yww](https://github.com/Swiftshine/yww)
+- **ZeldaWWHDRecomp** — [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp)
+- **ZeldaWWHDRecompAndroid** — [SSunnKing/ZeldaWWHDRecompAndroid---ENHANCED](https://github.com/SSunnKing/ZeldaWWHDRecompAndroid---ENHANCED)
+
+## Nintendo Switch
+
+111 projects
+
+- **Animal Crossing: New Horizons (ACNHRecomp)** — [Nycolazs/ACNHRecomp](https://github.com/Nycolazs/ACNHRecomp) — *Static recompilation.*
+- **Astral Chain** — [captainj-sparrow/astral-chain-pc-recomp](https://github.com/captainj-sparrow/astral-chain-pc-recomp) — *Static recompilation.*
+- **Astral Chain (AC-Recomp)** — [swaymun/AC-Recomp](https://github.com/swaymun/AC-Recomp) — *Static recompilation.*
+- **Astral Chain (Astral Chain PC)** — [Puddz/AstralChain-PC](https://github.com/Puddz/AstralChain-PC) — *Static recompilation.*
+- **Bayonetta 2 (B2recomp)** — [K0NL/B2recomp](https://github.com/K0NL/B2recomp) — *Static recompilation.*
+- **Bayonetta 3 (B3-Express)** — [LuvAbyss/B3-Express](https://github.com/LuvAbyss/B3-Express) — *Static recompilation.*
+- **Bayonetta 3 (bayo3-recomp)** — [aoxzh/bayo3-recomp](https://github.com/aoxzh/bayo3-recomp) — *Static recompilation.*
+- **Bayonetta 3 (Witch Time)** — [Zexyen/Witch-Time](https://github.com/Zexyen/Witch-Time) — *Static recompilation.*
+- **Cruis'n Blast** — [darkuni/cruisn-blast-recomp](https://github.com/darkuni/cruisn-blast-recomp) — *Static recompilation.*
+- **Dark Souls Remastered (Android)** — [kvse/DarkSoulsDroidRecomp](https://github.com/kvse/DarkSoulsDroidRecomp) — *Static recompilation.*
+- **Dark Souls Remastered (lordran-native)** — [Nishikori-Yui/lordran-native](https://github.com/Nishikori-Yui/lordran-native) — *Port.*
+- **Diablo II: Resurrected (d2r-mobile)** — [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) — *Port.*
+- **Diablo II: Resurrected (d2r-mobile)** — [d2r-mobile/d2r-mobile](https://github.com/d2r-mobile/d2r-mobile) — *Port.*
+- **Diablo III (Android port)** — [Desm0nt/diablo3-port](https://github.com/Desm0nt/diablo3-port) — *Port.*
+- **Fire Emblem Engage** — [xgc1986/engage-pc-recomp](https://github.com/xgc1986/engage-pc-recomp) — *Static recompilation.*
+- **Fire Emblem Warriors (fefw)** — [vexcited/fefw](https://github.com/vexcited/fefw)
+- **Fire Emblem: Fortune's Weave (decomp)** — [vexcited/FireEmblemFortunesWeave](https://github.com/vexcited/FireEmblemFortunesWeave)
+- **Fire Emblem: Fortune's Weave (fefw-recomp)** — [Goldoire/fefw-recomp](https://github.com/Goldoire/fefw-recomp) — *Static recompilation.*
+- **Hyrule Warriors: Age of Imprisonment** — [Alano6678/hwaoi-recomp](https://github.com/Alano6678/hwaoi-recomp) — *Static recompilation.*
+- **Hyrule Warriors: Definitive Edition (Hyrule Warriors: Definitive Edition Recomp)** — [sonsegajp/HWDER](https://github.com/sonsegajp/HWDER) — *Static recompilation.*
+- **Kirby Air Riders (Switch 2)** — [voerasdotcom/Kirby-Air-Riders-Recomp](https://github.com/voerasdotcom/Kirby-Air-Riders-Recomp) — *Static recompilation.*
+- **The Legend of Zelda: Breath of the Wild** — [zeldaret/botw](https://github.com/zeldaret/botw) — *Wii U and Switch.*
+- **The Legend of Zelda: Breath of the Wild (Android)** — [mamcjr/BOTWRecompAndroid](https://github.com/mamcjr/BOTWRecompAndroid) — *Static recompilation.*
+- **The Legend of Zelda: Breath of the Wild (SavageWindRecomp)** — [Revivedx/SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) — *Static recompilation.*
+- **The Legend of Zelda: Echoes of Wisdom** — [Nycolazs/EoWRecomp](https://github.com/Nycolazs/EoWRecomp) — *Static recompilation.*
+- **The Legend of Zelda: Link's Awakening (LAS Recomp)** — [peiikai/LASRecomp](https://github.com/peiikai/LASRecomp) — *Static recompilation.*
+- **The Legend of Zelda: Link's Awakening (ZLAA, Android)** — [timbo722/ZLAA](https://github.com/timbo722/ZLAA) — *Static recompilation.*
+- **The Legend of Zelda: Ocarina of Time (Switch 2 remake, Hookshot)** — [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) — *Static recompilation.*
+- **The Legend of Zelda: Ocarina of Time (Switch 2, echora)** — [Mars7x/echora](https://github.com/Mars7x/echora) — *Static recompilation.*
+- **The Legend of Zelda: Ocarina of Time (Switch 2, jabroni1kanobi)** — [jabroni1kanobi/ocarina-of-time-recomp](https://github.com/jabroni1kanobi/ocarina-of-time-recomp) — *Static recompilation.*
+- **The Legend of Zelda: Ocarina of Time (Switch 2, NX2Navi)** — [ZuanCrisp/NX2Navi-Zelda-OOT-Port](https://github.com/ZuanCrisp/NX2Navi-Zelda-OOT-Port) — *Static recompilation.*
+- **The Legend of Zelda: Ocarina of Time (Switch 2, Ocarune)** — [TechHookDev/Ocarune](https://github.com/TechHookDev/Ocarune) — *Static recompilation.*
+- **The Legend of Zelda: Ocarina of Time (Switch 2, oot-pc-recomp)** — [Chiuauaa/oot-pc-recomp](https://github.com/Chiuauaa/oot-pc-recomp) — *Static recompilation.*
+- **The Legend of Zelda: Ocarina of Time (Switch 2, oot2-native)** — [RealZotto/oot2-native](https://github.com/RealZotto/oot2-native) — *Static recompilation.*
+- **The Legend of Zelda: Ocarina of Time (Switch 2, OoT2026-PC-Recomp)** — [misterrageguy-cyber/OoT2026-PC-Recomp](https://github.com/misterrageguy-cyber/OoT2026-PC-Recomp) — *Static recompilation.*
+- **The Legend of Zelda: Ocarina of Time (Switch 2, sw2re)** — [polaco1782/sw2re](https://github.com/polaco1782/sw2re) — *Static recompilation.*
+- **The Legend of Zelda: Ocarina of Time (Switch 2, Zelda-OOT-Port)** — [ZuanCrisp/Zelda-OOT-Port](https://github.com/ZuanCrisp/Zelda-OOT-Port) — *Static recompilation.*
+- **The Legend of Zelda: Skyward Sword HD (Sky Recomp)** — [Apolinario-coder/SkyRecomp](https://github.com/Apolinario-coder/SkyRecomp) — *Static recompilation.*
+- **The Legend of Zelda: Tears of the Kingdom (PS4)** — [iHaiDeeZ/TOTK-PS4](https://github.com/iHaiDeeZ/TOTK-PS4) — *Static recompilation.*
+- **The Legend of Zelda: Tears of the Kingdom (TotK Native, Android)** — [AurelioB/totk-android](https://github.com/AurelioB/totk-android) — *Port.*
+- **The Legend of Zelda: Tears of the Kingdom (totk-pc-recomp)** — [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) — *Static recompilation.*
+- **The Legend of Zelda: Tears of the Kingdom (totk-recomp, Linux/Steam Deck)** — [Muhammad1259-sigma/totk-recomp](https://github.com/Muhammad1259-sigma/totk-recomp) — *Static recompilation.*
+- **The Legend of Zelda: Tears of the Kingdom (ultratears)** — [kuraeow/ultratears](https://github.com/kuraeow/ultratears) — *Static recompilation.*
+- **The Legend of Zelda: Tears of the Kingdom (Weeping of the Empire)** — [daniel-madrid-07/weeping-of-the-empire](https://github.com/daniel-madrid-07/weeping-of-the-empire) — *Static recompilation.*
+- **The Legend of Zelda: Tears of the Kingdom (Zelda-TOTK-Port)** — [ZuanCrisp/Zelda-TOTK-Port](https://github.com/ZuanCrisp/Zelda-TOTK-Port) — *Static recompilation.*
+- **Link's Awakening (Switch)** — [Owen-Splat/las-decomp](https://github.com/Owen-Splat/las-decomp)
+- **Mario Kart 8 Deluxe** — [dougchansan/mk8-recomp](https://github.com/dougchansan/mk8-recomp)
+- **Mario Kart 8 Deluxe (HelixNX)** — [HelixNX/mk8dx](https://github.com/HelixNX/mk8dx) — *Static recompilation.*
+- **Mario Kart 8 Deluxe (mush8, iOS/macOS)** — [c22dev/mush8](https://github.com/c22dev/mush8) — *Static recompilation.*
+- **Mario Kart 8 Deluxe (Racing 8 DX Recomp)** — [galarianpikachu2021-hue/Racing-8-DX-Recomp](https://github.com/galarianpikachu2021-hue/Racing-8-DX-Recomp) — *Static recompilation.*
+- **Mario Kart World (mkw-recomp)** — [adriadam10/mkw-recomp](https://github.com/adriadam10/mkw-recomp) — *Static recompilation.*
+- **Mario Kart World (mkwrecomp)** — [visibou/mkwrecomp](https://github.com/visibou/mkwrecomp) — *Static recompilation.*
+- **Mario Kart World (Plumber Racer 2, iPhone/Mac)** — [cheemu21/plumber-racer-2](https://github.com/cheemu21/plumber-racer-2) — *Static recompilation.*
+- **Mario Kart World (Switch 2, MKW-THWOMP)** — [STS78721/MKW-THWOMP](https://github.com/STS78721/MKW-THWOMP)
+- **Mario Tennis Fever (Switch 2)** — [kayochiaradia/mtf-recomp](https://github.com/kayochiaradia/mtf-recomp) — *Static recompilation.*
+- **Metroid Dread** — [yozander2009-stack/Metroid-Dread-Recomp](https://github.com/yozander2009-stack/Metroid-Dread-Recomp) — *Static recompilation.*
+- **Metroid Prime 4: Beyond (jaigner-hub)** — [jaigner-hub/metroid-prime-4-recomp](https://github.com/jaigner-hub/metroid-prime-4-recomp) — *Static recompilation.*
+- **Metroid Prime 4: Beyond (mp4-recomp)** — [linuxopt/mp4-recomp](https://github.com/linuxopt/mp4-recomp) — *Static recompilation.*
+- **Metroid Prime Remastered (drakolordx7)** — [drakolordx7/MetroidPrimeRemasteredRecomp](https://github.com/drakolordx7/MetroidPrimeRemasteredRecomp) — *Static recompilation.*
+- **Metroid Prime Remastered (PrimeRecomp)** — [gminustwo/primerecomp](https://github.com/gminustwo/primerecomp) — *Static recompilation.*
+- **Minecraft: Nintendo Switch Edition** — [granimated/MinecraftLCE](https://github.com/granimated/MinecraftLCE)
+- **Monster Hunter Generations Ultimate** — [morerokk/MHGURecomp](https://github.com/morerokk/MHGURecomp) — *Static recompilation.*
+- **Monster Hunter Generations Ultimate (Android)** — [Kesurage/MHGURecomp-Android](https://github.com/Kesurage/MHGURecomp-Android) — *Static recompilation.*
+- **Murder House (Android)** — [Guixs232/MurderHouse-Android-Port](https://github.com/Guixs232/MurderHouse-Android-Port) — *Port.*
+- **Persona 5 Royal (Android)** — [Brandon04Gonzalez/p5r-android](https://github.com/Brandon04Gonzalez/p5r-android) — *Port.*
+- **Pokopia (Desktop Edition)** — [aleksandarsimjanoski/pokopia-desktop-edition](https://github.com/aleksandarsimjanoski/pokopia-desktop-edition) — *Port.*
+- **Pokopia (Pokopia-Recomp-Port)** — [ZuanCrisp/Pokopia-Recomp-Port](https://github.com/ZuanCrisp/Pokopia-Recomp-Port) — *Static recompilation.*
+- **Pokopia (Switch 2)** — [drakolordx7/switch2-recomp](https://github.com/drakolordx7/switch2-recomp) — *Static recompilation.*
+- **Pokémon Brilliant Diamond (Strahlender XNU)** — [Veemyu/strahlender-xnu](https://github.com/Veemyu/strahlender-xnu) — *Port.*
+- **Pokémon Legends: Arceus (Arceuszada)** — [CarlosExabyte/Arceuszada](https://github.com/CarlosExabyte/Arceuszada) — *Static recompilation.*
+- **Pokémon Legends: Z-A (ZA Recomp)** — [Hexveil404/PokeZ-ARecomp](https://github.com/Hexveil404/PokeZ-ARecomp) — *Static recompilation.*
+- **Pokémon Scarlet (Tera-recomp)** — [tukidev-lgtm/Tera-recomp](https://github.com/tukidev-lgtm/Tera-recomp) — *Static recompilation.*
+- **Pokémon Shield (Android, Galar Native)** — [simipoB/Galar-Native-Android](https://github.com/simipoB/Galar-Native-Android) — *Static recompilation.*
+- **Pokémon Sword** — [charlieduzstuf/pokesword](https://github.com/charlieduzstuf/pokesword)
+- **Pokémon Sword / Shield** — [raulzrrs/swsh-recomp](https://github.com/raulzrrs/swsh-recomp) — *Static recompilation.*
+- **Pokémon Violet (HelixNX)** — [HelixNX/pkmn-violet](https://github.com/HelixNX/pkmn-violet) — *Static recompilation.*
+- **Pokémon: Let's Go, Eevee!** — [raulzrrs/letsgo-recomp](https://github.com/raulzrrs/letsgo-recomp) — *Static recompilation.*
+- **Scott Pilgrim vs. The World: The Game - Complete Edition** — [jwfeniello/scott-pilgrim-switch-decomp](https://github.com/jwfeniello/scott-pilgrim-switch-decomp)
+- **Splatoon 2 3.1.0** — [YoshiCrystal9/Blitz_MasterVer22-Decomp](https://github.com/YoshiCrystal9/Blitz_MasterVer22-Decomp) — *Inactive or archived.*
+- **Star Fox (Switch 2 remake, SpaceAnimalsRecomp)** — [SerenityG4K/SpaceAnimalsRecomp](https://github.com/SerenityG4K/SpaceAnimalsRecomp) — *Static recompilation.*
+- **Star Fox (Switch 2)** — [sasantos/starfox-recomp](https://github.com/sasantos/starfox-recomp) — *Static recompilation.*
+- **Super Kirby Clash** — [xtamqispeak/KirbyRecomp](https://github.com/xtamqispeak/KirbyRecomp) — *Static recompilation.*
+- **Super Mario 3D World + Bowser's Fury** — [shibbo/3DWDecomp](https://github.com/shibbo/3DWDecomp)
+- **Super Mario 3D World + Bowser's Fury (RedCarpet-S)** — [fruityloops1/RedCarpet-S](https://github.com/fruityloops1/RedCarpet-S) — *Inactive or archived.*
+- **Super Mario Bros. 35** — [sm35recomp/sm35recomp](https://github.com/sm35recomp/sm35recomp) — *Static recompilation.*
+- **Super Mario Bros. Wonder** — [BelmanteGu/SuperMarioWonderRecomp](https://github.com/BelmanteGu/SuperMarioWonderRecomp) — *Static recompilation.*
+- **Super Mario Bros. Wonder** — [BluetufieBugado/SuperMarioWonderRecomp](https://github.com/BluetufieBugado/SuperMarioWonderRecomp) — *Static recompilation.*
+- **Super Mario Bros. Wonder (PS4)** — [iHaiDeeZ/SMW](https://github.com/iHaiDeeZ/SMW) — *Static recompilation.*
+- **Super Mario Bros. Wonder (SuperWonders)** — [vfjoo888/SuperWonders](https://github.com/vfjoo888/SuperWonders) — *Static recompilation.*
+- **Super Mario Maker 2** — [smm2recomp/smm2recomp](https://github.com/smm2recomp/smm2recomp) — *Static recompilation.*
+- **Super Mario Maker 2 (MushroomMakerRecomp)** — [Apolinario-coder/MushroomMakerRecomp](https://github.com/Apolinario-coder/MushroomMakerRecomp) — *Static recompilation.*
+- **Super Mario Odyssey** — [MonsterDruide1/OdysseyDecomp](https://github.com/MonsterDruide1/OdysseyDecomp)
+- **Super Mario Odyssey** — [Coz-0/smo-recomp](https://github.com/Coz-0/smo-recomp) — *Static recompilation.*
+- **Super Mario Odyssey (Quest VR, Project Plumb)** — [2whitelol/project-plumb-vr](https://github.com/2whitelol/project-plumb-vr) — *Port.*
+- **Super Mario Odyssey 1.0.0** — [odyssey-modding/odyssey](https://github.com/odyssey-modding/odyssey) — *Inactive or archived.*
+- **Super Smash Bros. Ultimate** — [sbergeron42/ssbu-decomp](https://github.com/sbergeron42/ssbu-decomp)
+- **Super Smash Bros. Ultimate (OpenSmash-Ultimate)** — [OpenSmash-Ultimate/OpenSmash-Ultimate](https://github.com/OpenSmash-Ultimate/OpenSmash-Ultimate) — *Static recompilation.*
+- **Super Smash Bros. Ultimate (PS4)** — [iHaiDeeZ/SSBU](https://github.com/iHaiDeeZ/SSBU) — *Static recompilation.*
+- **Super Smash Bros. Ultimate (ssbu-recomp)** — [Denkishi/ssbu-recomp](https://github.com/Denkishi/ssbu-recomp) — *Static recompilation.*
+- **Super Smash Bros. Ultimate (ssbu-recomp)** — [OpenSmash-Ultimate/ssbu-recomp](https://github.com/OpenSmash-Ultimate/ssbu-recomp) — *Static recompilation.*
+- **Super Smash Bros. Ultimate (WindowSmash)** — [OpenSmash-Ultimate/WindowSmash](https://github.com/OpenSmash-Ultimate/WindowSmash) — *Static recompilation.*
+- **Tomodachi Life: Living the Dream** — [kuosuko/tomodachi-native](https://github.com/kuosuko/tomodachi-native) — *Port.*
+- **Tomodachi Life: Living the Dream** — [josiahg2502-glitch/TomodachiLife-recomp](https://github.com/josiahg2502-glitch/TomodachiLife-recomp) — *Static recompilation.*
+- **Tomodachi Life: Living the Dream (iOS)** — [herrtenma/tomodachi-life-ios](https://github.com/herrtenma/tomodachi-life-ios) — *Static recompilation.*
+- **Tomodachi Life: Living the Dream (Tomodachi LTD Recomp)** — [RussoPhone/tomodachi-ltd-recomp](https://github.com/RussoPhone/tomodachi-ltd-recomp) — *Static recompilation.*
+- **Touhou Hayarigami (hayarigami-recomp)** — [ACGNnsj/hayarigami-recomp](https://github.com/ACGNnsj/hayarigami-recomp) — *Static recompilation.*
+- **Xenoblade Chronicles 2** — [KevinBonnoron/xc2-decomp](https://github.com/KevinBonnoron/xc2-decomp)
+- **Xenoblade Chronicles 2 (XC2 Recomp)** — [AksharDP/xc2-recomp](https://github.com/AksharDP/xc2-recomp) — *Static recompilation.*
+- **Xenoblade Chronicles series (XenobladeChroniclesRecompiled)** — [Glitxhhh/XenobladeChroniclesRecompiled](https://github.com/Glitxhhh/XenobladeChroniclesRecompiled) — *Static recompilation.*
+- **Xenoblade Chronicles X (XCX Recomp)** — [jmars125/xcx-recomp](https://github.com/jmars125/xcx-recomp) — *Static recompilation.*
+- **Yo-kai Watch 4++** — [ILFforever/YW4Recomp](https://github.com/ILFforever/YW4Recomp) — *Static recompilation.*
+
+## Game Boy
+
+66 projects
+
+- **Batman** — [alex-west/batGB](https://github.com/alex-west/batGB) — *Disassembly. Inactive or archived.*
+- **Battle Arena Toshinden** — [omegakatana92/Battle-Arena-Toshinden-GB-Recomp](https://github.com/omegakatana92/Battle-Arena-Toshinden-GB-Recomp)
+- **Donkey Kong '94** — [CelestialAmber/DKGBDisasm](https://github.com/CelestialAmber/DKGBDisasm)
+- **Elite (demo)** — [Villagerjj/Elite-GB-Decomp](https://github.com/Villagerjj/Elite-GB-Decomp) — *Inactive or archived.*
+- **Final Fantasy Adventure (FFA-Disassembly)** — [daid/FFA-Disassembly](https://github.com/daid/FFA-Disassembly) — *Disassembly.*
+- **Final Fantasy Legend II** — [Bananattack/fflsaga2](https://github.com/Bananattack/fflsaga2) — *Disassembly. Inactive or archived.*
+- **Flipull** — [tobiasvl/flipull-disassembly](https://github.com/tobiasvl/flipull-disassembly) — *Disassembly. Inactive or archived.*
+- **FX Hammer (sound driver)** — [DevEd2/FXHammer-Disasm](https://github.com/DevEd2/FXHammer-Disasm) — *Disassembly. Inactive or archived.*
+- **Harvest Moon GB** — [H0smax/HMGB-Disassembly](https://github.com/H0smax/HMGB-Disassembly) — *Disassembly.*
+- **JPN Pokémon Blue** — [Narishma-gb/pokeblue](https://github.com/Narishma-gb/pokeblue)
+- **JPN Pokémon Gold/Silver** — [Narishma-gb/pokesilver](https://github.com/Narishma-gb/pokesilver)
+- **JPN Pokémon Red/Green** — [Narishma-gb/pokegreen](https://github.com/Narishma-gb/pokegreen)
+- **The Jungle Book** — [not-chciken/jungle-book-gb-disassembly](https://github.com/not-chciken/jungle-book-gb-disassembly) — *Disassembly.*
+- **Ketō Transformers Beast Wars** — [adi182/Ket-Transformers-Beast-Wars-Gameboy-decomp](https://github.com/adi182/Ket-Transformers-Beast-Wars-Gameboy-decomp)
+- **Kirby's Dream Land** — [omegakatana92/Kirby-Dream-Land-Recomp](https://github.com/omegakatana92/Kirby-Dream-Land-Recomp)
+- **Kirby's Dream Land** — [Cleverking2003/kdreamlanddis](https://github.com/Cleverking2003/kdreamlanddis) — *Disassembly. Inactive or archived.*
+- **Kirby's Dream Land** — [ElectroDeoxys/kirbydreamland](https://github.com/ElectroDeoxys/kirbydreamland) — *Disassembly.*
+- **Kirby's Dream Land (kirbydreamland)** — [huderlem/kirbydreamland](https://github.com/huderlem/kirbydreamland)
+- **Kirby's Pinball Land** — [omegakatana92/Kirby-Pinball-Land-Recomp](https://github.com/omegakatana92/Kirby-Pinball-Land-Recomp)
+- **The Legend of Zelda: Link's Awakening** — [alexsteb/zelda_gb_disassembly](https://github.com/alexsteb/zelda_gb_disassembly) — *Disassembly. Inactive or archived.*
+- **Little Sound Dj (LSDisJ)** — [rbong/LSDisJ](https://github.com/rbong/LSDisJ) — *Disassembly. Inactive or archived.*
+- **Medarot** — [Medabots/medarot1](https://github.com/Medabots/medarot1) — *Disassembly.*
+- **Medarot** — [Sanqui/medarot](https://github.com/Sanqui/medarot) — *Disassembly. Inactive or archived.*
+- **Medarot Parts Collection** — [Medabots/medarot1-pc](https://github.com/Medabots/medarot1-pc) — *Disassembly.*
+- **Mega Man II (rw2)** — [Kak2X/rw2](https://github.com/Kak2X/rw2) — *Disassembly.*
+- **Mega Man: Dr. Wily's Revenge** — [iimarckus/megaman](https://github.com/iimarckus/megaman) — *Disassembly. Inactive or archived.*
+- **Metroid II: Return Of Samus** — [Vashy777/metroid2](https://github.com/Vashy777/metroid2)
+- **Metroid II: Return of Samus (M2RoS)** — [metroidret/M2RoS](https://github.com/metroidret/M2RoS)
+- **Mole Mania** — [froggestspirit/mmania](https://github.com/froggestspirit/mmania)
+- **Nettou King of Fighters '95** — [Kak2X/kof95](https://github.com/Kak2X/kof95) — *Disassembly.*
+- **Nettou King of Fighters '96** — [Kak2X/kof96](https://github.com/Kak2X/kof96) — *Disassembly.*
+- **Pocket Love** ✦ — [RussianManSMWC/Pocket-Love-Disassembly](https://github.com/RussianManSMWC/Pocket-Love-Disassembly)
+- **Pokemon Gold SpaceWorld Demo** — [pret/pokegold-spaceworld](https://github.com/pret/pokegold-spaceworld)
+- **Pokemon RBY / GSC / FRLF / RSE (G1R Deluxe)** — [bryanthaboi/gen1recomp](https://github.com/bryanthaboi/gen1recomp)
+- **Pokemon Red** — [pret/pokered](https://github.com/pret/pokered)
+- **Pokemon Yellow** — [pret/pokeyellow](https://github.com/pret/pokeyellow)
+- **Pokémon Red / Blue / Yellow** — [sp00nznet/pokemon](https://github.com/sp00nznet/pokemon) — *Static recompilation.*
+- **Pokémon Red and Blue** — [jayceekaycee/RedPlusPlus](https://github.com/jayceekaycee/RedPlusPlus) — *Inactive or archived.*
+- **Pokémon Red and Blue (pokemon-claude-red)** — [levy-street/pokemon-claude-red](https://github.com/levy-street/pokemon-claude-red)
+- **Pokémon Red and Blue (PokemonRedAndBlueRecomp)** — [mstan/PokemonRedAndBlueRecomp](https://github.com/mstan/PokemonRedAndBlueRecomp) — *Static recompilation.*
+- **Pokémon Red and Blue (pokered-fr)** — [einstein95/pokered-fr](https://github.com/einstein95/pokered-fr) — *Disassembly.*
+- **Pokémon Red and Blue (pokered-gbc)** — [dannye/pokered-gbc](https://github.com/dannye/pokered-gbc)
+- **Pokémon Red and Blue (pokered-jp)** — [luckytyphlosion/pokered-jp](https://github.com/luckytyphlosion/pokered-jp) — *Disassembly. Inactive or archived.*
+- **Pokémon Red and Blue (Pokered-Pro)** — [Kamy41/Pokered-Pro](https://github.com/Kamy41/Pokered-Pro) — *Disassembly.*
+- **Pokémon Red and Blue (Pokémon Anniversary Red)** — [TwitchPlaysPokemon/pokemonAnniversaryRed](https://github.com/TwitchPlaysPokemon/pokemonAnniversaryRed) — *Inactive or archived.*
+- **Pokémon Yellow** — [mstan/PokemonYellowRecomp](https://github.com/mstan/PokemonYellowRecomp) — *Static recompilation.*
+- **Pokémon Yellow (Japan)** — [Narishma-gb/pokeyellow-jp](https://github.com/Narishma-gb/pokeyellow-jp) — *Disassembly.*
+- **Shi Kong Xing Shou** — [pizdex/shi-kong-xing-shou](https://github.com/pizdex/shi-kong-xing-shou) — *Disassembly. Inactive or archived.*
+- **Super Mario Land** — [kaspermeerts/supermarioland](https://github.com/kaspermeerts/supermarioland)
+- **Super Mario Land 2: 6 Golden Coins** — [stag019/marioland2](https://github.com/stag019/marioland2) — *Disassembly. Inactive or archived.*
+- **Super Mario Land 2: 6 Golden Coins (SuperMarioLand2Recomp)** — [mstan/SuperMarioLand2Recomp](https://github.com/mstan/SuperMarioLand2Recomp) — *Static recompilation.*
+- **Super Mario Land 2: Six Golden Coins** — [froggestspirit/marioland2](https://github.com/froggestspirit/marioland2)
+- **Super Mario Land 3: Wario Land** — [Kak2X/wl](https://github.com/Kak2X/wl)
+- **Super Mario Land 3: Wario Land (Recomp)** — [omegakatana92/Super-Mario-Land-3-Wario-Land-Recomp-](https://github.com/omegakatana92/Super-Mario-Land-3-Wario-Land-Recomp-)
+- **Tetris** — [osnr/tetris](https://github.com/osnr/tetris) — *Disassembly. Inactive or archived.*
+- **Tetris** — [h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris](https://github.com/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris) — *Disassembly. Inactive or archived.*
+- **Tetris** — [kaspermeerts/tetris](https://github.com/kaspermeerts/tetris) — *Disassembly. Inactive or archived.*
+- **Tetris** — [dctucker/gb-tetris](https://github.com/dctucker/gb-tetris) — *Disassembly. Inactive or archived.*
+- **Tetris (GAME BOY)** — [alexsteb/tetris_disassembly](https://github.com/alexsteb/tetris_disassembly)
+- **Tetris (gbtetris)** — [meithecatte/gbtetris](https://github.com/meithecatte/gbtetris) — *Disassembly. Inactive or archived.*
+- **Tetris (Kirpich)** — [etroimcasso/Kirpich](https://github.com/etroimcasso/Kirpich) — *Port.*
+- **Tetris (tetris-disassembly (davFaithid))** — [davFaithid/tetris-disassembly](https://github.com/davFaithid/tetris-disassembly) — *Disassembly. Inactive or archived.*
+- **Tetris (tetris-gb-disasm)** — [vinheim3/tetris-gb-disasm](https://github.com/vinheim3/tetris-gb-disasm) — *Disassembly. Inactive or archived.*
+- **Wario Land: Super Mario Land 3** — [GABRIELNNK/Bigodao](https://github.com/GABRIELNNK/Bigodao) — *Static recompilation.*
+- **X / Lunar Chase** — [2Tie/X-disasm](https://github.com/2Tie/X-disasm) — *Disassembly. Inactive or archived.*
+- **Yu-Gi-Oh! Duel Monsters** — [ElectroDeoxys/ygodm](https://github.com/ElectroDeoxys/ygodm) — *Disassembly.*
+
+## Game Boy Color
+
+51 projects
+
+- **BattleTanx** — [TheGh0stShip/BattleTanx-GBC](https://github.com/TheGh0stShip/BattleTanx-GBC) — *Disassembly.*
+- **Blue's Clues: Blue's Alphabet Book** — [tvlubub-coder/BluesAlphabetBookRecomp](https://github.com/tvlubub-coder/BluesAlphabetBookRecomp) — *Static recompilation.*
+- **Bugsite** — [telefang/bugsite](https://github.com/telefang/bugsite) — *Disassembly.*
+- **Deja Vu I & II: The Casebooks of Ace Harding** ✦ — [Hoshiruna/djv1-2disasm](https://github.com/Hoshiruna/djv1-2disasm)
+- **Dragon Warrior III (GBC) (dragon-warrior-3-gbc)** — [VariantXYZ/dragon-warrior-3-gbc](https://github.com/VariantXYZ/dragon-warrior-3-gbc) — *Disassembly. Inactive or archived.*
+- **Dragon Warrior Monsters** — [NiyaDev/DWM](https://github.com/NiyaDev/DWM)
+- **Dragon Warrior Monsters** — [Mallos31/dwm](https://github.com/Mallos31/dwm) — *Disassembly. Inactive or archived.*
+- **Dragon Warrior Monsters** — [ketsuban/dwm1](https://github.com/ketsuban/dwm1) — *Disassembly. Inactive or archived.*
+- **Dragon Warrior Monsters (German)** — [Ebernacher90/DragonQuestMonstersGerman](https://github.com/Ebernacher90/DragonQuestMonstersGerman)
+- **Dragon Warrior Monsters 2** — [NiyaDev/DWM2](https://github.com/NiyaDev/DWM2) — *Inactive or archived.*
+- **Hamtaro: Ham-Hams Unite! (hamtaro-in-pieces)** — [obskyr/hamtaro-in-pieces](https://github.com/obskyr/hamtaro-in-pieces) — *Disassembly. Inactive or archived.*
+- **Harry Potter and the Sorcerer's Stone (HPSS-Disassembly)** — [terinjokes/HPSS-Disassembly](https://github.com/terinjokes/HPSS-Disassembly) — *Disassembly.*
+- **Harvest Moon 3 GBC (hm3)** — [Sanqui/hm3](https://github.com/Sanqui/hm3) — *Disassembly. Inactive or archived.*
+- **Keitai Denjuu Telefang** — [telefang/telefang](https://github.com/telefang/telefang) — *Disassembly.*
+- **Keitai Denjuu Telefang (telefang_gb)** — [PikalaxALT/telefang_gb](https://github.com/PikalaxALT/telefang_gb) — *Disassembly. Inactive or archived.*
+- **Kirby Tilt 'n' Tumble** — [davFaithid/tilt-n-tumble](https://github.com/davFaithid/tilt-n-tumble) — *Disassembly. Inactive or archived.*
+- **The Legend of Zelda Links Awakening DX** — [zladx/LADX-Disassembly](https://github.com/zladx/LADX-Disassembly) · [PC Port](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated)
+- **The Legend of Zelda Oracle of Ages & Seasons** — [Drenn1/oracles-disasm](https://github.com/Drenn1/oracles-disasm)
+- **The Legend of Zelda: Link's Awakening DX** — [sp00nznet/LinksAwakening](https://github.com/sp00nznet/LinksAwakening) — *Static recompilation.*
+- **The Legend of Zelda: Link's Awakening DX (portable)** — [sp00nznet/linksawakening-portable](https://github.com/sp00nznet/linksawakening-portable) — *Static recompilation.*
+- **The Legend of Zelda: Oracle of Ages / Oracle of Seasons** — [ZakyPew/epoch-equinox](https://github.com/ZakyPew/epoch-equinox)
+- **The Legend of Zelda: Oracle of Ages / Oracle of Seasons (Oracles Decomp)** — [kirby-letsgo/oracles-decomp](https://github.com/kirby-letsgo/oracles-decomp)
+- **The Legend of Zelda: Oracle of Ages / Seasons (oracles-nx)** — [toniisound/oracles-nx](https://github.com/toniisound/oracles-nx) — *Port.*
+- **The Legend of Zelda: Oracle of Ages/Seasons** — [thibautbus/top](https://github.com/thibautbus/top) — *Port.*
+- **Looney Tunes: Carrot Crazy** — [huderlem/carrotcrazy](https://github.com/huderlem/carrotcrazy)
+- **Magi-Nation** — [GauChoob/magination](https://github.com/GauChoob/magination) — *Disassembly. Inactive or archived.*
+- **Mario Golf** — [DarkRTA/mgolf](https://github.com/DarkRTA/mgolf)
+- **Mario Tennis (Game Boy Color)** ✦ — [gerbiljames/mario-tennis-gbc-disasm](https://github.com/gerbiljames/mario-tennis-gbc-disasm)
+- **Medarot 3** — [Medabots/medarot3](https://github.com/Medabots/medarot3) — *Disassembly.*
+- **Medarot 4** — [Medabots/medarot4](https://github.com/Medabots/medarot4) — *Disassembly.*
+- **Oracle of Ages and Seasons** — [Stewmath/oracles-disasm](https://github.com/Stewmath/oracles-disasm)
+- **Pokemon Crystal** — [pret/pokecrystal](https://github.com/pret/pokecrystal)
+- **Pokemon Gold** — [pret/pokegold](https://github.com/pret/pokegold)
+- **Pokemon Gold / Silver / Crystal (Gen2Recomped)** — [UNDERdecoded/Gen2Recomped](https://github.com/UNDERdecoded/Gen2Recomped) — *Static recompilation.*
+- **Pokemon Pinball** — [pret/pokepinball](https://github.com/pret/pokepinball)
+- **Pokemon Puzzle Challenge** — [pret/pokepuzzle](https://github.com/pret/pokepuzzle)
+- **Pokemon TCG 1** — [pret/poketcg](https://github.com/pret/poketcg)
+- **Pokemon TCG 2** — [pret/poketcg2](https://github.com/pret/poketcg2)
+- **Pokémon Crystal (pokekuristaru)** — [PikalaxALT/pokekuristaru](https://github.com/PikalaxALT/pokekuristaru) — *Disassembly. Inactive or archived.*
+- **Pokémon Crystal (Spanish)** — [erosunica/pokecrystal-es](https://github.com/erosunica/pokecrystal-es) — *Disassembly. Inactive or archived.*
+- **Pokémon Gold and Silver (debug ROMs)** — [pizdex/pokegold-debug](https://github.com/pizdex/pokegold-debug) — *Disassembly. Inactive or archived.*
+- **Pokémon Gold and Silver (Korea)** — [Greatpriceman/pokegold-ko](https://github.com/Greatpriceman/pokegold-ko) — *Disassembly. Inactive or archived.*
+- **Pokémon Gold and Silver (Pokémon Polished Crystal)** — [Rangi42/polishedcrystal](https://github.com/Rangi42/polishedcrystal)
+- **Resident Evil Gaiden** — [sergiomanzur/regaiden-recomp](https://github.com/sergiomanzur/regaiden-recomp)
+- **Resident Evil Gaiden** — [wowjinxy/RE-Gaiden](https://github.com/wowjinxy/RE-Gaiden) — *Disassembly.*
+- **Robot Poncots (Robopon) Sun / Star** — [PikalaxALT/robopon](https://github.com/PikalaxALT/robopon)
+- **Sakura Wars GB** — [vinheim3/sakuraWars1-disasm](https://github.com/vinheim3/sakuraWars1-disasm) — *Disassembly. Inactive or archived.*
+- **Shantae** — [vibecodekun/shantaerecomp](https://github.com/vibecodekun/shantaerecomp)
+- **Star Ocean: Blue Sphere** — [animaone/star-ocean-blue-sphere-source-code](https://github.com/animaone/star-ocean-blue-sphere-source-code)
+- **Wario Land 3** — [froggestspirit/wland3](https://github.com/froggestspirit/wland3)
+- **Wario Land 3 (warioland3)** — [ElectroDeoxys/warioland3](https://github.com/ElectroDeoxys/warioland3)
+
+## Game Boy Advance
+
+131 projects
+
+- **Advance Wars** — [ketsuban/advancewars](https://github.com/ketsuban/advancewars) — *Inactive or archived.*
+- **Advance Wars 2: Black Hole Rising** — [Eebit/aw2bhr](https://github.com/Eebit/aw2bhr)
+- **Ancient Empires** — [Atomk/ancient-empires-1-decompilation](https://github.com/Atomk/ancient-empires-1-decompilation)
+- **Animal Crossing multiboot ROM (needle-loader)** — [BluRosie/needle-loader-mb](https://github.com/BluRosie/needle-loader-mb) — *Disassembly.*
+- **Armored Unit** — [Normmatt/unarmoredunit](https://github.com/Normmatt/unarmoredunit)
+- **Banjo-Kazooie: Grunty's Revenge** — [jellees/bkgr](https://github.com/jellees/bkgr)
+- **Berry Fix Program** — [PikalaxALT/berry_fix_program](https://github.com/PikalaxALT/berry_fix_program) — *Disassembly. Inactive or archived.*
+- **Berry Fix Program included in Pokémon Emerald and FireRed/LeafGreen** — [pret/berry-fix](https://github.com/pret/berry-fix)
+- **Beyblade VForce: Ultimate Blader Jam** — [marijnvdwerf/gba-beyblade-vforce](https://github.com/marijnvdwerf/gba-beyblade-vforce)
+- **Boktai 2: Solar Boy Django** ✦ — [akatsuki105/boktai2](https://github.com/akatsuki105/boktai2) — *Japanese version 1.1.*
+- **Breath Of Fire** — [Normmatt/bof](https://github.com/Normmatt/bof)
+- **Breath of Fire** — [StanHash/bof_old](https://github.com/StanHash/bof_old) — *Inactive or archived.*
+- **Butt-Ugly Martians: B.K.M. Battles** ✦ — [CasualYT31/BKMBattles](https://github.com/CasualYT31/BKMBattles)
+- **Castlevania: Aria of Sorrow** — [testyourmine/cvaos](https://github.com/testyourmine/cvaos)
+- **Crash Bandicoot: XS (The Huge Adventure)** — [Almamu/CrashBandicootXS-decomp](https://github.com/Almamu/CrashBandicootXS-decomp)
+- **Custom Robo GX** — [pizdex/robogx](https://github.com/pizdex/robogx)
+- **Dragon Ball Z: Buu's Fury** — [mstan/DragonBallZBuusFuryRecomp](https://github.com/mstan/DragonBallZBuusFuryRecomp)
+- **Dragon Ball Z: Buu's Fury** — [FMB237/DragonBallZBuusFuryRecomp](https://github.com/FMB237/DragonBallZBuusFuryRecomp) — *Static recompilation.*
+- **Dragon Ball Z: The Legacy of Goku** — [mstan/DragonBallZLegacyOfGokuRecomp](https://github.com/mstan/DragonBallZLegacyOfGokuRecomp) — *Static recompilation.*
+- **Dragon Ball Z: The Legacy of Goku II** — [mstan/DragonBallZLegacyofGokuIIRecomp](https://github.com/mstan/DragonBallZLegacyofGokuIIRecomp)
+- **Final Fantasy Tactics Advance** — [Jorge262007/FFTARecomp](https://github.com/Jorge262007/FFTARecomp) — *Static recompilation.*
+- **Final Fantasy Tactics Advance** — [james2doyle/ffta-recomp](https://github.com/james2doyle/ffta-recomp) — *Static recompilation.*
+- **Fire Emblem MultiBoot Payload** — [StanHash/mgfembp](https://github.com/StanHash/mgfembp) — *Inactive or archived.*
+- **Fire Emblem: Seima no Kouseki** — [laqieer/fireemblem8j](https://github.com/laqieer/fireemblem8j)
+- **Fire Emblem: The Binding Blade** — [StanHash/fe6](https://github.com/StanHash/fe6)
+- **Fire Emblem: The Binding Blade** — [FireEmblemUniverse/fireemblem6j](https://github.com/FireEmblemUniverse/fireemblem6j)
+- **Fire Emblem: The Blazing Blade** — [MokhaLeee/FireEmblem7J](https://github.com/MokhaLeee/FireEmblem7J)
+- **Fire Emblem: The Blazing Blade (fe7_us)** — [StanHash/fe7_us](https://github.com/StanHash/fe7_us) — *Disassembly. Inactive or archived.*
+- **Fire Emblem: The Sacred Stones** — [FireEmblemUniverse/fireemblem8u](https://github.com/FireEmblemUniverse/fireemblem8u)
+- **Fire Emblem: The Sacred Stones** — [Lordingard/SacredStonesRecomp](https://github.com/Lordingard/SacredStonesRecomp) — *Static recompilation.*
+- **Fire Emblem: The Sacred Stones (fireemblem8u)** — [laqieer/fireemblem8u](https://github.com/laqieer/fireemblem8u)
+- **Frogger's Adventures: Temple of the Frog** — [JRickey/frog-adv-temple-decomp](https://github.com/JRickey/frog-adv-temple-decomp)
+- **GAX sound engine (Shin'en)** — [beanieaxolotl/shinen-gax-decomp](https://github.com/beanieaxolotl/shinen-gax-decomp)
+- **Golden Sun** — [gsret/goldensun](https://github.com/gsret/goldensun)
+- **Golden Sun (alchemy)** — [PascalPixel/alchemy](https://github.com/PascalPixel/alchemy)
+- **Golden Sun (Android)** — [wootbeer/gsrandroid](https://github.com/wootbeer/gsrandroid) — *Static recompilation.*
+- **Golden Sun (GSRecomp (Golden Sun Recompiled))** — [Shmargus/GSRecomp](https://github.com/Shmargus/GSRecomp) — *Static recompilation.*
+- **Golden Sun: The Broken Seal** — [Coaltergeist/goldensun-decomp](https://github.com/Coaltergeist/goldensun-decomp)
+- **GT Advance 3: Pro Concept Racing** — [722rsr/gtadv3-decomp](https://github.com/722rsr/gtadv3-decomp)
+- **Gundam SEED: Battle Assault** — [omegakatana92/Gundam-Seed-Battle-Assault-Recomp](https://github.com/omegakatana92/Gundam-Seed-Battle-Assault-Recomp) — *Static recompilation.*
+- **Hamtaro: Ham-Ham Games** — [XOlifreX/hhg-decompilation](https://github.com/XOlifreX/hhg-decompilation) — *Inactive or archived.*
+- **Harry Potter and the Prisoner of Azkaban** — [holly-hacker/hp3-gba-decomp](https://github.com/holly-hacker/hp3-gba-decomp)
+- **Harvest Moon: Friends Of Mineral Town** — [StanHash/fomt](https://github.com/StanHash/fomt)
+- **Harvest Moon: Friends of Mineral Town (hmfomt)** — [not-alons/hmfomt](https://github.com/not-alons/hmfomt) — *Disassembly. Inactive or archived.*
+- **Kingdom Hearts: Chain of Memories** — [Pheenoh/khcom](https://github.com/Pheenoh/khcom)
+- **Kingdom Hearts: Chain of Memories** — [MatyMeatBoy/ReKHCoM](https://github.com/MatyMeatBoy/ReKHCoM)
+- **Kingdom Hearts: Chain of Memories (KH_COM_VITA)** — [ggdrn/KH_COM_VITA](https://github.com/ggdrn/KH_COM_VITA)
+- **Kirby & The Amazing Mirror** — [jiangzhengwenjz/katam](https://github.com/jiangzhengwenjz/katam)
+- **Kirby: Nightmare in Dream Land** — [overjt/knidl](https://github.com/overjt/knidl)
+- **Klonoa: Empire of Dreams** — [Dream-Atelier/kl-eod-decomp](https://github.com/Dream-Atelier/kl-eod-decomp)
+- **Klonoa: Empire of Dreams (kleod)** — [testyourmine/kleod](https://github.com/testyourmine/kleod)
+- **The Legend of Zelda: A Link to the Past & Four Swords (zeldaalttp)** — [camthesaxman/zeldaalttp](https://github.com/camthesaxman/zeldaalttp) — *Disassembly. Inactive or archived.*
+- **The Legend of Zelda: The Minish Cap** — [zeldaret/tmc](https://github.com/zeldaret/tmc)
+- **The Legend of Zelda: The Minish Cap** — [EstebanPdN/zelda-tmc-3ds](https://github.com/EstebanPdN/zelda-tmc-3ds)
+- **The Legend of Zelda: The Minish Cap** — [MatheoVignaud/tmc](https://github.com/MatheoVignaud/tmc)
+- **The Legend of Zelda: The Minish Cap** — [HayatoG/tmc](https://github.com/HayatoG/tmc)
+- **The Legend of Zelda: The Minish Cap (Project Picori)** — [999sian/tmc](https://github.com/999sian/tmc)
+- **The Legend of Zelda: The Minish Cap (Recomp)** — [mstan/MinishCapRecomp](https://github.com/mstan/MinishCapRecomp)
+- **Mario & Luigi: Superstar Saga** — [jellees/mlss](https://github.com/jellees/mlss)
+- **Mario & Luigi: The Superstar Saga** — [nstearns96/MLSuperstarSaga](https://github.com/nstearns96/MLSuperstarSaga)
+- **Mario Kart: Super Circuit** — [jellees/mksc](https://github.com/jellees/mksc)
+- **Mario Kart: Super Circuit (mksc-decompilation)** — [XOlifreX/mksc-decompilation](https://github.com/XOlifreX/mksc-decompilation) — *Inactive or archived.*
+- **Mario Kart: Super Circuit (Recomp)** — [mstan/MarioKartSuperCircuitRecomp](https://github.com/mstan/MarioKartSuperCircuitRecomp)
+- **Mario VS Donkey Kong** — [camthesaxman/mariovsdk](https://github.com/camthesaxman/mariovsdk)
+- **Mega Man Battle Network** — [Silenthal/bn1](https://github.com/Silenthal/bn1) — *Disassembly.*
+- **Mega Man Battle Network 6** — [dism-exe/bn6f](https://github.com/dism-exe/bn6f)
+- **Mega Man Zero** — [mstan/MegaManZeroRecomp](https://github.com/mstan/MegaManZeroRecomp)
+- **Megaman Zero 3** — [mmzret/rmz3](https://github.com/mmzret/rmz3)
+- **Metroid Fusion** — [metroidret/mf](https://github.com/metroidret/mf)
+- **Metroid: Zero Mission** — [metroidret/mzm](https://github.com/metroidret/mzm)
+- **Mother 1+2 (Japan)** — [Normmatt/m12](https://github.com/Normmatt/m12)
+- **Mother 3** ✦ — [Kurausukun/mother3](https://github.com/Kurausukun/mother3)
+- **MOTHER 3** — [josiahg2502-glitch/Mother3Recomp](https://github.com/josiahg2502-glitch/Mother3Recomp) — *Static recompilation.*
+- **Mother 3 (Recomp)** — [agray0425/Mother3Recomp](https://github.com/agray0425/Mother3Recomp)
+- **NASCAR Heat 2002** — [shohamc1/heat2002](https://github.com/shohamc1/heat2002)
+- **Phoenix Wright: Ace Attorney** — [atasro2/pwaa1](https://github.com/atasro2/pwaa1)
+- **Phoenix Wright: Ace Attorney – Justice for All** — [atasro2/pwaa2](https://github.com/atasro2/pwaa2)
+- **Pokemon Emerald** — [pret/pokeemerald](https://github.com/pret/pokeemerald)
+- **Pokemon Emerald (JP)** — [pret/pokeemerald-jp](https://github.com/pret/pokeemerald-jp)
+- **Pokemon Emerald 3D (pokeemerald-3d)** — [tripplyons/pokeemerald-3d](https://github.com/tripplyons/pokeemerald-3d) — *Static recompilation.*
+- **Pokemon FireRed** — [pret/pokefirered](https://github.com/pret/pokefirered)
+- **Pokemon MD Red** — [pret/pmd-red](https://github.com/pret/pmd-red)
+- **Pokemon Pinball Ruby & Sapphire** — [pret/pokepinballrs](https://github.com/pret/pokepinballrs)
+- **Pokemon Ruby** — [pret/pokeruby](https://github.com/pret/pokeruby)
+- **Pokémon Aurora Ticket distribution cartridge** — [jiangzhengwenjz/auroraticket](https://github.com/jiangzhengwenjz/auroraticket) — *Inactive or archived.*
+- **Pokémon Emerald** — [mstan/EmeraldRecomp](https://github.com/mstan/EmeraldRecomp)
+- **Pokémon Emerald** — [ZallaxDev/emerald-3ds](https://github.com/ZallaxDev/emerald-3ds) — *Port.*
+- **Pokémon Emerald (3DS port)** — [kovarridev/emerald-3ds](https://github.com/kovarridev/emerald-3ds) — *Port.*
+- **Pokémon Emerald (macOS port)** — [dbut2/emerald](https://github.com/dbut2/emerald) — *Port.*
+- **Pokémon Emerald (PlayStation 2)** — [dnllnoe/pokeemerald-ps2](https://github.com/dnllnoe/pokeemerald-ps2) — *Port.*
+- **Pokémon Emerald (pokeemerald-rogue)** — [Pokabbie/pokeemerald-rogue](https://github.com/Pokabbie/pokeemerald-rogue)
+- **Pokémon FireRed (early disassembly)** — [cosarara/pokefirered](https://github.com/cosarara/pokefirered) — *Disassembly. Inactive or archived.*
+- **Pokémon FireRed and LeafGreen (DisFire)** — [shinyquagsire23/DisFire](https://github.com/shinyquagsire23/DisFire) — *Disassembly. Inactive or archived.*
+- **Pokémon FireRed and Pokémon LeafGreen** — [mstan/FireRedLeafGreenRecomp](https://github.com/mstan/FireRedLeafGreenRecomp)
+- **Pokémon Mystery Dungeon: Red Rescue Team** — [Asphaltian/pmd-green](https://github.com/Asphaltian/pmd-green) — *Static recompilation.*
+- **Pokémon Mystery Dungeon: Red Rescue Team (pokemdred)** — [PikalaxALT/pokemdred](https://github.com/PikalaxALT/pokemdred) — *Disassembly. Inactive or archived.*
+- **Pokémon Pinball: Ruby & Sapphire (Pokemon-Pinball-RS-Disassembly-Project)** — [Normmatt/Pokemon-Pinball-RS-Disassembly-Project](https://github.com/Normmatt/Pokemon-Pinball-RS-Disassembly-Project) — *Disassembly. Inactive or archived.*
+- **Pokémon Ruby and Pokémon Sapphire** — [mstan/RubySapphireRecomp](https://github.com/mstan/RubySapphireRecomp)
+- **Rayman 3: Hoodlum Havoc** — [RayCarrot/Rayman3Readvanced](https://github.com/RayCarrot/Rayman3Readvanced)
+- **RockMan EXE 4** — [dism-exe/exe4rs](https://github.com/dism-exe/exe4rs)
+- **RockMan EXE 6** — [dism-exe/exe6f](https://github.com/dism-exe/exe6f)
+- **Shin Bokura no Taiyou: Gyakushuu no Sabata** — [moozilla/boktai3-decomp](https://github.com/moozilla/boktai3-decomp)
+- **The Sims 2** — [tssoret/S2GBADecomp](https://github.com/tssoret/S2GBADecomp) — *Inactive or archived.*
+- **The Sims 2 (GBA)** — [SimsAdvanceRet/S2GBADecomp](https://github.com/SimsAdvanceRet/S2GBADecomp)
+- **The Sims: Bustin' Out** — [SimsAdvanceRet/BustinOutGBADecomp](https://github.com/SimsAdvanceRet/BustinOutGBADecomp)
+- **Sonic Advance** — [smiluredev/SonicAdvanceRecomp](https://github.com/smiluredev/SonicAdvanceRecomp)
+- **Sonic Advance (Sonic GBA (sonicgba))** — [ImmutableOctet/sonicgba](https://github.com/ImmutableOctet/sonicgba) — *Inactive or archived.*
+- **Sonic Advance 1** — [SAT-R/sa1](https://github.com/SAT-R/sa1)
+- **Sonic Advance 2** — [SAT-R/sa2](https://github.com/SAT-R/sa2)
+- **Sonic Advance 2** — [froggestspirit/SoAdvance2](https://github.com/froggestspirit/SoAdvance2) — *Disassembly. Inactive or archived.*
+- **Sonic Advance 3** — [SAT-R/sa3](https://github.com/SAT-R/sa3)
+- **Sonic Battle** — [cypressru/SonicBattleDecomp](https://github.com/cypressru/SonicBattleDecomp)
+- **Summon Night Swordcraft Story 3** — [jiangzhengwenjz/csm3](https://github.com/jiangzhengwenjz/csm3)
+- **Super Mario Advance 2: Super Mario World** — [atasro2/sma2](https://github.com/atasro2/sma2)
+- **Super Mario Advance 2: Super Mario World** — [KarisaAdvynia/sma2-disasm](https://github.com/KarisaAdvynia/sma2-disasm) — *Disassembly. Inactive or archived.*
+- **Super Mario Advance 2: Super Mario World (Recomp)** — [mstan/SuperMarioAdvance2Recomp](https://github.com/mstan/SuperMarioAdvance2Recomp)
+- **Super Mario Advance 4: Super Mario Bros. 3** — [mstan/SuperMarioAdvance4Recomp](https://github.com/mstan/SuperMarioAdvance4Recomp)
+- **Super Mario Advance 4: Super Mario Bros. 3 (sma4-disasm)** — [KarisaAdvynia/sma4-disasm](https://github.com/KarisaAdvynia/sma4-disasm)
+- **Tactics Ogre: The Knight of Lodis** — [jiangzhengwenjz/totkol](https://github.com/jiangzhengwenjz/totkol)
+- **The Urbz: Sims in the City** — [SimsAdvanceRet/UrbzGBADecomp](https://github.com/SimsAdvanceRet/UrbzGBADecomp)
+- **Wario Land 4** — [lilDavid/warioland4](https://github.com/lilDavid/warioland4)
+- **Wario Land 4** — [wario-land/warioland4](https://github.com/wario-land/warioland4)
+- **Wario Land 4 (warioland4)** — [TsilaAllaoui/warioland4](https://github.com/TsilaAllaoui/warioland4)
+- **WarioWare, Inc.: Mega Microgames!** ✦ — [ShaffySwitcher/wariowareinc](https://github.com/ShaffySwitcher/wariowareinc)
+- **WarioWare: Twisted!** — [mstan/WarioWareTwistedRecomp](https://github.com/mstan/WarioWareTwistedRecomp)
+- **Winx Club** — [Matt-Hurd/WinxClub](https://github.com/Matt-Hurd/WinxClub) — *Disassembly.*
+- **Yoshi's Island: Super Mario Advance 3** — [KarisaAdvynia/sma3-disasm](https://github.com/KarisaAdvynia/sma3-disasm) — *Disassembly.*
+- **Yoshi's Island: Super Mario Advance 3 (SMA3 Recomp Android – Yoshi's Island: Super Mario Advance 3 PC port)** — [Edwin2929/sma3-recomp-android.](https://github.com/Edwin2929/sma3-recomp-android.) — *Static recompilation.*
+- **Yu-Gi-Oh! Reshef of Destruction** — [shinny456/ygodm8](https://github.com/shinny456/ygodm8)
+- **Yu-Gi-Oh! The Eternal Duelist Soul** — [CosmicScribe64/eds-decomp](https://github.com/CosmicScribe64/eds-decomp)
+- **Zoids Legacy** ✦ — [jmacato/ZoidsLegacyDecomp](https://github.com/jmacato/ZoidsLegacyDecomp)
+
+## Nintendo DS
+
+82 projects
+
+- **Advance Wars: Dual Strike** — [sturmds/advance-wars-dual-strike-decomp](https://github.com/sturmds/advance-wars-dual-strike-decomp)
+- **Air Traffic Chaos** — [sasja-san/atc](https://github.com/sasja-san/atc)
+- **Alice in Wonderland** — [Alice-2010/Decomp](https://github.com/Alice-2010/Decomp)
+- **Animal Crossing: Wild World** — [6elphegor/acww-decomp](https://github.com/6elphegor/acww-decomp)
+- **Animal Crossing: Wild World** — [7ucina/acww-decomp](https://github.com/7ucina/acww-decomp)
+- **Animal Crossing: Wild World (Korea)** — [banatic/acww-decomp](https://github.com/banatic/acww-decomp)
+- **Are You Smarter Than a 5th Grader: Make the Grade** — [Gmon20/makethedecomp](https://github.com/Gmon20/makethedecomp)
+- **Black** — [squiddonaut/pokeblack](https://github.com/squiddonaut/pokeblack)
+- **Bomberman Land Touch 2** — [gamemasterplc/bltouch2](https://github.com/gamemasterplc/bltouch2)
+- **Castlevania: Order of Ecclesia** — [lagolunatic/ooe](https://github.com/lagolunatic/ooe)
+- **Chrono Trigger (egg-of-time)** — [power-pudu/egg-of-time](https://github.com/power-pudu/egg-of-time) — *Static recompilation.*
+- **Digimon World DS** — [ReGame-Labs/dwds_decomp](https://github.com/ReGame-Labs/dwds_decomp)
+- **Dragon Quest IV** — [GoldieLeGenie/DQIV-DECOMP](https://github.com/GoldieLeGenie/DQIV-DECOMP)
+- **Dragon Quest IV: Chapters of the Chosen (DQIV-Recompiled)** — [GoldieLeGenie/DQIV-Recompiled](https://github.com/GoldieLeGenie/DQIV-Recompiled) — *Static recompilation.*
+- **Dragon Quest IX** — [DQIX/dqix-decomp](https://github.com/DQIX/dqix-decomp)
+- **Dragon Quest IX: Sentinels of the Starry Skies** — [0bAndyWirus/DQ9-Decomp](https://github.com/0bAndyWirus/DQ9-Decomp) — *Static recompilation.*
+- **Dragon Quest IX: Sentinels of the Starry Skies** — [dq9-remastered/DQ9-Remastered](https://github.com/dq9-remastered/DQ9-Remastered) — *Static recompilation.*
+- **Dragon Quest Monsters: Joker** ✦ — [FantasmaGlad/DQMJ1_Ultimate_Decompilation](https://github.com/FantasmaGlad/DQMJ1_Ultimate_Decompilation)
+- **DS Protect** — [taxicat1/dsprot](https://github.com/taxicat1/dsprot)
+- **Final Fantasy Crystal Chronicles: Echoes of Time** — [JonathanDC64/FFCCEOT-Recomp](https://github.com/JonathanDC64/FFCCEOT-Recomp) — *Static recompilation.*
+- **Final Fantasy IV (3D Remake)** — [GlitchedDeveloper/Babil-Decompilation-Project](https://github.com/GlitchedDeveloper/Babil-Decompilation-Project)
+- **Fire Emblem: Shadow Dragon** — [Eebit/fe11-us](https://github.com/Eebit/fe11-us)
+- **Fire Emblem: Shadow Dragon** — [MokhaLeee/fe11us-arm9](https://github.com/MokhaLeee/fe11us-arm9)
+- **Ghost Trick: Phantom Detective (code reference)** — [Ed-1T/GTPD-Code-Reference](https://github.com/Ed-1T/GTPD-Code-Reference) — *Inactive or archived.*
+- **Grand Theft Auto: Chinatown Wars** — [official-kryo-to/ctw-native](https://github.com/official-kryo-to/ctw-native/tree/main/port) · [PC Port](https://github.com/official-kryo-to/ctw-native)
+- **Inazuma Eleven 3 - Sekai e no Chousen: The Ogre!!** — [CacaBueno64/ie3ogres](https://github.com/CacaBueno64/ie3ogres)
+- **Inazuma Eleven 3: The Ogre** — [matheus2x/ie3ogre-nds-recomp](https://github.com/matheus2x/ie3ogre-nds-recomp) — *Static recompilation.*
+- **Iriya no Sora UFO no Natsu (PC port)** — [Kumiko7/iriya-port](https://github.com/Kumiko7/iriya-port) — *Port.*
+- **Jump Ultimate Stars** — [piuzera/JUSDecomp](https://github.com/piuzera/JUSDecomp) — *Static recompilation.*
+- **Kingdom Hearts 358/2 Days** ✦ — [Yokimitsuro/khdays-decomp](https://github.com/Yokimitsuro/khdays-decomp)
+- **Kingdom Hearts 358/2 Days** — [Yokimitsuro/khdays-port](https://github.com/Yokimitsuro/khdays-port) — *Port.*
+- **Kingdom Hearts 358/2 Days (khdays-vita)** — [ggdrn/KH-DAYS-VITA](https://github.com/ggdrn/KH-DAYS-VITA)
+- **Kingdom Hearts Re:coded** — [kh-recoded-decomp/kh-recoded-decomp](https://github.com/kh-recoded-decomp/kh-recoded-decomp)
+- **Kingdom Hearts Re:coded** — [Yokimitsuro/khrecoded-decomp](https://github.com/Yokimitsuro/khrecoded-decomp)
+- **The Legend of Zelda: Phantom Hourglass** — [zeldaret/ph](https://github.com/zeldaret/ph)
+- **The Legend of Zelda: Phantom Hourglass** — [dguillot-gh/phantom-hourglass-recomp](https://github.com/dguillot-gh/phantom-hourglass-recomp) — *Static recompilation.*
+- **The Legend of Zelda: Spirit Tracks** — [yanis002/st](https://github.com/yanis002/st)
+- **The Legend of Zelda: Spirit Tracks (st)** — [zeldaret/st](https://github.com/zeldaret/st)
+- **Lego Battles** — [LiruJ/Lego-Battles-Decomp](https://github.com/LiruJ/Lego-Battles-Decomp)
+- **LEGO Star Wars II: The Original Trilogy** — [liolu/lego-star-wars-ii-the-original-trilogy-decomp](https://github.com/liolu/lego-star-wars-ii-the-original-trilogy-decomp)
+- **Lock's Quest** — [redraincatching/locksmith](https://github.com/redraincatching/locksmith)
+- **Mario & Luigi - Partners in Time** — [rainchus/partnersintime-decomp](https://github.com/rainchus/partnersintime-decomp)
+- **Mario & Luigi: Bowser's Inside Story** — [istornz/bowsers-inside-story-decomp](https://github.com/istornz/bowsers-inside-story-decomp)
+- **Mario Kart DS** — [XorTroll/mkds-re](https://github.com/XorTroll/mkds-re)
+- **Mario Kart DS** — [AlonsoTlol/DS-Kart-Recompiled](https://github.com/AlonsoTlol/DS-Kart-Recompiled) — *Static recompilation.*
+- **Mario Party DS** — [mariopartyrd/mariopartyds](https://github.com/mariopartyrd/mariopartyds)
+- **Metroid Prime Hunters** — [mstan/MetroidPrimeHuntersRecomp](https://github.com/mstan/MetroidPrimeHuntersRecomp)
+- **Metroid Prime Hunters (HuntersRecomp (AYN Thor))** — [aabrole/HuntersRecomp](https://github.com/aabrole/HuntersRecomp) — *Static recompilation.*
+- **New Super Mario Bros.** — [NSMB-Decomp/nsmb](https://github.com/NSMB-Decomp/nsmb)
+- **New Super Mario Bros. (code reference)** — [MammaMiaTeam/NSMB-Code-Reference](https://github.com/MammaMiaTeam/NSMB-Code-Reference)
+- **Osu! Tatakae! Ouendan / Moero (ossu-moero-recomp)** — [Flezzonkeys/ossu-moero-recomp](https://github.com/Flezzonkeys/ossu-moero-recomp) — *Static recompilation.*
+- **Plants vs Zombies GOTY** — [Bamcane/re-plants-vs-zombies](https://github.com/Bamcane/re-plants-vs-zombies)
+- **Pokemon Diamond** — [pret/pokediamond](https://github.com/pret/pokediamond)
+- **Pokemon HeartGold** — [pret/pokeheartgold](https://github.com/pret/pokeheartgold)
+- **Pokemon MD Sky** — [pret/pmd-sky](https://github.com/pret/pmd-sky)
+- **Pokemon Platinum** — [pret/pokeplatinum](https://github.com/pret/pokeplatinum)
+- **Pokemon Platinum (pokeplatinum)** — [cybervisi0n/pokeplatinum](https://github.com/cybervisi0n/pokeplatinum)
+- **Pokémon Black** — [pokemodding/pokeblack](https://github.com/pokemodding/pokeblack)
+- **Pokémon Black 2 and White 2** — [fuddlesworth/pokebw2](https://github.com/fuddlesworth/pokebw2)
+- **Pokémon Black 2 and White 2 (Frigate)** — [CallanCampos/Frigate](https://github.com/CallanCampos/Frigate) — *Port.*
+- **Pokémon Diamond and Pearl (Wii connection program)** — [PikalaxALT/eoo](https://github.com/PikalaxALT/eoo) — *Disassembly. Inactive or archived.*
+- **Pokémon HeartGold and SoulSilver (portemon)** — [portemon-nitro/portemon](https://github.com/portemon-nitro/portemon) — *Port.*
+- **Pokémon HeartGold and SoulSilver (single-screen build)** — [ClickingMaster/pokeheartgold-single-screen](https://github.com/ClickingMaster/pokeheartgold-single-screen) — *Port.*
+- **Pokémon Mystery Dungeon: Explorers of Sky (pmdsky-debug (symbol database))** — [UsernameFodder/pmdsky-debug](https://github.com/UsernameFodder/pmdsky-debug)
+- **Pokémon Mystery Dungeon: Explorers of Sky (SkyRecompiled)** — [DarthMDev/pmd-sky-recomp](https://github.com/DarthMDev/pmd-sky-recomp) — *Static recompilation.*
+- **Pokémon Platinum** — [JimB16/PokePlat](https://github.com/JimB16/PokePlat)
+- **Pokémon Platinum (Nintendo 3DS)** — [GabeSud0/pokeplatinum-3ds](https://github.com/GabeSud0/pokeplatinum-3ds) — *Port.*
+- **Pokémon Platinum and SoulSilver (PSP)** — [IbrahimIrfan/pspoke](https://github.com/IbrahimIrfan/pspoke) — *Port.*
+- **Pokémon Ranger: Shadows of Almia** — [Kuruyia/pokeranger2](https://github.com/Kuruyia/pokeranger2)
+- **Pokémon SoulSilver** — [ClickingMaster/ssrecomp](https://github.com/ClickingMaster/ssrecomp) — *Static recompilation.*
+- **Rhythm Heaven** — [patataofcourse/rhgold](https://github.com/patataofcourse/rhgold)
+- **Rock Band 3 (Nintendo DS)** — [ieee802dot11ac/rb3ds](https://github.com/ieee802dot11ac/rb3ds)
+- **The Sims 3 (OpenTS3-DS)** — [luispolis124/OpenTS3-DS](https://github.com/luispolis124/OpenTS3-DS)
+- **Sonic Rush** — [Tekkra-Pi/rushrecomp](https://github.com/Tekkra-Pi/rushrecomp) — *Static recompilation.*
+- **Sonic Rush Adventure** — [RushRE/SonicRushAdventure-Decomp](https://github.com/RushRE/SonicRushAdventure-Decomp)
+- **Star Fox Command (native)** — [SerenityG4K/starfox-command-native](https://github.com/SerenityG4K/starfox-command-native) — *Static recompilation.*
+- **Super Mario 64 DS** — [matty45/sm64ds-decomp](https://github.com/matty45/sm64ds-decomp)
+- **Super Mario 64 DS** — [mstan/supermario64dsrecomp](https://github.com/mstan/supermario64dsrecomp) — *Static recompilation.*
+- **Super Mario 64 DS (sm64ds-decomp)** — [tangosdev/sm64ds-decomp](https://github.com/tangosdev/sm64ds-decomp)
+- **The World Ends with You** — [Yotona/twewy](https://github.com/Yotona/twewy)
+- **Yu-Gi-Oh! GX Spirit Caller** — [cntrl-alt-lenny/gx-spirit-caller](https://github.com/cntrl-alt-lenny/gx-spirit-caller)
+- **Ōkamiden** — [dothacktranslate/okamiden-decomp](https://github.com/dothacktranslate/okamiden-decomp)
+
+## Nintendo 3DS
+
+31 projects
+
+- **3DS games for Linux handhelds (pocket-native)** — [whovian64/pocket-native](https://github.com/whovian64/pocket-native) — *Static recompilation.*
+- **Animal Crossing: New Leaf** — [AlgebraManiacABC/acnlwa-decomp](https://github.com/AlgebraManiacABC/acnlwa-decomp)
+- **Animal Crossing: New Leaf - Welcome amiibo** — [RedShyGuy/acnl-decomp](https://github.com/RedShyGuy/acnl-decomp)
+- **Dragon Ball Z: Extreme Butōden (ExtremeFighters)** — [kensaiken/ExtremeFighters](https://github.com/kensaiken/ExtremeFighters) — *Static recompilation.*
+- **Ikachan** — [hax0kartik/ikachan](https://github.com/hax0kartik/ikachan)
+- **The Legend of Zelda: A Link Between Worlds** — [7akeem0/albw-decomp-ai](https://github.com/7akeem0/albw-decomp-ai)
+- **The Legend of Zelda: Majora's Mask 3D (mm3d-dekui)** — [tgacquin/mm3d-dekui](https://github.com/tgacquin/mm3d-dekui) — *Port.*
+- **The Legend of Zelda: Majora's Mask 3D (Project Restoration)** — [leoetlino/project-restoration](https://github.com/leoetlino/project-restoration) — *Inactive or archived.*
+- **The Legend of Zelda: Ocarina of Time 3D** — [zeldaret/oot3d](https://github.com/zeldaret/oot3d)
+- **The Legend of Zelda: Ocarina of Time 3D** — [gamestabled/oot3d_before_public](https://github.com/gamestabled/oot3d_before_public) — *Inactive or archived.*
+- **The Legend of Zelda: Ocarina of Time 3D (Ocarina ReTuned)** — [OTPR26/Ocarina-ReTuned](https://github.com/OTPR26/Ocarina-ReTuned) — *Static recompilation.*
+- **LovePlus+** — [gage-marshall/lp-engine](https://github.com/gage-marshall/lp-engine) — *Static recompilation.*
+- **Luigi's Mansion 2 (luigis-mansion-2-recompiled)** — [Okxmir/luigis-mansion-2-recompiled](https://github.com/Okxmir/luigis-mansion-2-recompiled) — *Static recompilation.*
+- **Luigi's Mansion 2 (Mansion2Recomp)** — [LuisDevGaming/Mansion2Recomp](https://github.com/LuisDevGaming/Mansion2Recomp) — *Static recompilation.*
+- **Mario & Luigi: Dream Team (MILLI4C)** — [Mario-and-Luigi-3Ds-R-D/MILLI4C](https://github.com/Mario-and-Luigi-3Ds-R-D/MILLI4C)
+- **Metroid: Samus Returns (msr2ds)** — [gminustwo/msr2ds](https://github.com/gminustwo/msr2ds) — *Static recompilation.*
+- **Monster Hunter 4 Ultimate** — [mhvuze/mh4u-decomp](https://github.com/mhvuze/mh4u-decomp)
+- **Monster Hunter 4 Ultimate** — [CompaLarios18/MH4UltimateDC](https://github.com/CompaLarios18/MH4UltimateDC)
+- **Monster Hunter 4 Ultimate (4u-native)** — [khorne-hub/4u-native](https://github.com/khorne-hub/4u-native) — *Static recompilation.*
+- **New Super Mario Bros. 2** — [T3CHNOLOG1C/BigRed](https://github.com/T3CHNOLOG1C/BigRed)
+- **Ocarina of Time 3D (TriAevum Recomp)** — [coccofresco/TriAevum](https://github.com/coccofresco/TriAevum)
+- **Paper Mario: Sticker Star** — [darxoon/leaflitter](https://github.com/darxoon/leaflitter)
+- **Persona Q2 (Android)** — [Brandon04Gonzalez/pq2-android](https://github.com/Brandon04Gonzalez/pq2-android) — *Static recompilation.*
+- **Pilotwings Resort** — [thefixinhixon/woohoo-flight-school](https://github.com/thefixinhixon/woohoo-flight-school) — *Static recompilation.*
+- **Pokémon Moon** — [gradenGnostic/pokemoon](https://github.com/gradenGnostic/pokemoon)
+- **Shin Megami Tensei IV** — [Invictus-potens/smt4-recomp](https://github.com/Invictus-potens/smt4-recomp) — *Static recompilation.*
+- **Super Mario 3D Land** — [3dsdecomp/redpepper](https://github.com/3dsdecomp/redpepper)
+- **Tomodachi Life** — [dylanpdx/TomodachiLifeDecomp](https://github.com/dylanpdx/TomodachiLifeDecomp)
+- **Tomodachi Life** — [akiramusic000/tl](https://github.com/akiramusic000/tl)
+- **Yo-kai Watch (clockwork)** — [clockwork-recompdev/clockwork](https://github.com/clockwork-recompdev/clockwork) — *Static recompilation.*
+- **Yo-kai Watch series (Clockwork)** — [watchmakerers/clockwork](https://github.com/watchmakerers/clockwork) — *Static recompilation.*
+
+## Virtual Boy
+
+3 projects
+
+- **Mario's Tennis** — [mstan/MarioTennisVirtualBoyRecomp](https://github.com/mstan/MarioTennisVirtualBoyRecomp)
+- **SD Gundam Dimension War** — [mstan/SDGundamDimensionWarVirtualBoyRecomp](https://github.com/mstan/SDGundamDimensionWarVirtualBoyRecomp) — *Static recompilation.*
+- **Zero Racers** — [mstan/ZeroRacersVirtualBoyRecomp](https://github.com/mstan/ZeroRacersVirtualBoyRecomp)
+
+## Master System
+
+6 projects
+
+- **Alex Kidd in Miracle World** — [lhsazevedo/akmw](https://github.com/lhsazevedo/akmw)
+- **Dragon Crystal** — [trykaar/dc-sms-dasm](https://github.com/trykaar/dc-sms-dasm) — *Disassembly. Inactive or archived.*
+- **Lord of the Sword** — [Isotarge/lotsdisasm](https://github.com/Isotarge/lotsdisasm) — *Disassembly. Inactive or archived.*
+- **Power Strike (disassembly + reskin toolkit)** — [noema-lands/power-strike-teardown](https://github.com/noema-lands/power-strike-teardown) — *Disassembly.*
+- **Sonic the Hedgehog** — [mstan/SonicTheHedgehogSMSRecomp](https://github.com/mstan/SonicTheHedgehogSMSRecomp) — *Static recompilation.*
+- **Sonic the Hedgehog 2 (8-bit) (s2smsdisasm)** — [sonicretro/s2smsdisasm](https://github.com/sonicretro/s2smsdisasm) — *Disassembly. Inactive or archived.*
+
+## Sega Genesis / Mega Drive
+
+54 projects
+
+- **Aerobiz Supersonic** — [matiaszanolli/aerobiz-disasm](https://github.com/matiaszanolli/aerobiz-disasm) — *Static recompilation.*
+- **Alien Soldier** — [RetrolariumLab/alien_soldier_src](https://github.com/RetrolariumLab/alien_soldier_src)
+- **Dr. Robotnik's Mean Bean Machine** — [Scrambled-Beans/drmbm-md-disasm](https://github.com/Scrambled-Beans/drmbm-md-disasm) — *Disassembly.*
+- **Dr. Robotnik's Mean Bean Machine** — [DevsArchive/mean-bean-machine-disassembly](https://github.com/DevsArchive/mean-bean-machine-disassembly) — *Disassembly. Inactive or archived.*
+- **Dungeons & Dragons: Warriors of the Eternal Sun** — [FourEyedGeek/WotESRecomp](https://github.com/FourEyedGeek/WotESRecomp) — *Static recompilation.*
+- **Earthworm Jim** — [anatsvit/erathworm-jim-disasm](https://github.com/anatsvit/erathworm-jim-disasm) — *Disassembly.*
+- **Flicky** — [Dandaman955/Flicky-Disassembly](https://github.com/Dandaman955/Flicky-Disassembly) — *Disassembly. Inactive or archived.*
+- **Kid Chameleon** — [sonicretro/kid-chameleon-disasm](https://github.com/sonicretro/kid-chameleon-disasm)
+- **Knuckles the Echidna in Sonic the Hedgehog 2 (ktes2)** — [sonicretro/ktes2](https://github.com/sonicretro/ktes2) — *Inactive or archived.*
+- **Landstalker** — [lordmir/landstalker_disasm](https://github.com/lordmir/landstalker_disasm) — *Disassembly.*
+- **Landstalker (US)** — [LandstalkerCentral/LSUSDISASM](https://github.com/LandstalkerCentral/LSUSDISASM) — *Disassembly. Inactive or archived.*
+- **NHL '94** — [Chaos81/nhl94-disassembly](https://github.com/Chaos81/nhl94-disassembly) — *Disassembly.*
+- **Phantasy Star II** — [jon13doe/SEGA_ps2_disasm](https://github.com/jon13doe/SEGA_ps2_disasm) — *Disassembly. Inactive or archived.*
+- **Phantasy Star IV** — [squidfeatures/ps4disasm](https://github.com/squidfeatures/ps4disasm) — *Disassembly. Inactive or archived.*
+- **Phantasy Star IV (PSIVRecomp)** — [MotaviaWorks/PSIVRecomp](https://github.com/MotaviaWorks/PSIVRecomp) — *Static recompilation.*
+- **Puyo Puyo** — [Scrambled-Beans/puyo1-md-translation](https://github.com/Scrambled-Beans/puyo1-md-translation) — *Disassembly.*
+- **Puyo Puyo (puyodisasm)** — [Nasina7/puyodisasm](https://github.com/Nasina7/puyodisasm) — *Disassembly.*
+- **Puyo Puyo Tsū** — [Nasina7/puyo2disasm](https://github.com/Nasina7/puyo2disasm) — *Disassembly.*
+- **QuackShot Starring Donald Duck (quackshot_src)** — [lab313ru/quackshot_src](https://github.com/lab313ru/quackshot_src) — *Inactive or archived.*
+- **Rings of Power** — [kruzeman/RROP](https://github.com/kruzeman/RROP) — *Static recompilation.*
+- **Ristar** — [sonicretro/ristar](https://github.com/sonicretro/ristar)
+- **Road Rash trilogy** — [BTr-RJ/RoadRashTrilogy_Recomp](https://github.com/BTr-RJ/RoadRashTrilogy_Recomp) — *Static recompilation.*
+- **Scooby-Doo Mystery** — [janezkranjc/scooby-doo-mistery-mouse-version](https://github.com/janezkranjc/scooby-doo-mistery-mouse-version) — *Port.*
+- **Shining Force** — [ShiningForceCentral/SF1DISASM](https://github.com/ShiningForceCentral/SF1DISASM)
+- **Shining Force II** ✦ — [ShiningForceCentral/SF2DISASM](https://github.com/ShiningForceCentral/SF2DISASM)
+- **Sonic & Knuckles** — [sonicretro/skdisasm](https://github.com/sonicretro/skdisasm)
+- **Sonic 3 & Knuckles** — [mstan/Sonic3AndKnucklesRecomp](https://github.com/mstan/Sonic3AndKnucklesRecomp)
+- **Sonic 3 & Knuckles (Sonic Clean Engine (S.C.E.))** — [TheBlad768/Sonic-Clean-Engine-S.C.E.-](https://github.com/TheBlad768/Sonic-Clean-Engine-S.C.E.-) — *Disassembly.*
+- **Sonic 3D Blast** — [sonicretro/s3ddisasm](https://github.com/sonicretro/s3ddisasm)
+- **Sonic Pinball** — [sonicretro/spindisasm](https://github.com/sonicretro/spindisasm)
+- **Sonic the Hedgehog** ✦ — [sonicretro/s1disasm](https://github.com/sonicretro/s1disasm) — *Genesis disassembly.*
+- **Sonic the Hedgehog** — [foreverWIP/s1-port](https://github.com/foreverWIP/s1-port) — *Port.*
+- **Sonic the Hedgehog (C++ decompilation)** — [JarrettBillingsley/DecompilingSonic1](https://github.com/JarrettBillingsley/DecompilingSonic1) — *Inactive or archived.*
+- **Sonic the Hedgehog (prototype)** — [Mega-Drive-Developers-Collective/Sonic-1-Prototype](https://github.com/Mega-Drive-Developers-Collective/Sonic-1-Prototype) — *Disassembly. Inactive or archived.*
+- **Sonic the Hedgehog (prototype)** — [Filter011/s1-proto-disasm](https://github.com/Filter011/s1-proto-disasm) — *Disassembly.*
+- **Sonic the Hedgehog (prototype)** — [Iso-Kilo/Sonic-1-Prototype-Disassembly](https://github.com/Iso-Kilo/Sonic-1-Prototype-Disassembly) — *Disassembly. Inactive or archived.*
+- **Sonic the Hedgehog (Recomp)** — [mstan/SonicTheHedgehogRecomp](https://github.com/mstan/SonicTheHedgehogRecomp)
+- **Sonic the Hedgehog (s1disasm)** — [cvghivebrain/s1disasm](https://github.com/cvghivebrain/s1disasm)
+- **Sonic the Hedgehog (sonic-j2me-decompilation)** — [yowari/sonic-j2me-decompilation](https://github.com/yowari/sonic-j2me-decompilation)
+- **Sonic the Hedgehog 2** ✦ — [sonicretro/s2disasm](https://github.com/sonicretro/s2disasm) — *Genesis disassembly.*
+- **Sonic the Hedgehog 2 (ASM68K)** — [OrionNavattan/Sonic-2-ASM68K](https://github.com/OrionNavattan/Sonic-2-ASM68K) — *Disassembly.*
+- **Sonic the Hedgehog 2 (August 21st prototype)** — [Clownacy/Sonic-2-Aug-21st-Disassembly](https://github.com/Clownacy/Sonic-2-Aug-21st-Disassembly) — *Disassembly. Inactive or archived.*
+- **Sonic the Hedgehog 2 (Recomp)** — [mstan/SonicTheHedgehog2Recomp](https://github.com/mstan/SonicTheHedgehog2Recomp)
+- **Sonic the Hedgehog 2 (Simon Wai prototype)** — [AlexField442/Sonic-2-Simon-Wai-Disassembly](https://github.com/AlexField442/Sonic-2-Simon-Wai-Disassembly) — *Disassembly. Inactive or archived.*
+- **Sonic the Hedgehog 2 (Sonic-2-Nick-Arcade-Disassembly)** — [AlexField442/Sonic-2-Nick-Arcade-Disassembly](https://github.com/AlexField442/Sonic-2-Nick-Arcade-Disassembly) — *Disassembly.*
+- **Sonic The Hedgehog 3** — [sonicretro/skdisasm](https://github.com/sonicretro/skdisasm)
+- **Sonic the Hedgehog 3 (November 1993 prototype)** — [Awuwunya/Sonic-3-93-Nov-03](https://github.com/Awuwunya/Sonic-3-93-Nov-03) — *Disassembly. Inactive or archived.*
+- **Streets of Rage** — [RuiNelson/StreetsOfRageProject](https://github.com/RuiNelson/StreetsOfRageProject)
+- **Streets of Rage** — [Dandaman955/Streets-of-Rage-1-Disassembly-Redux](https://github.com/Dandaman955/Streets-of-Rage-1-Disassembly-Redux) — *Disassembly. Inactive or archived.*
+- **Streets of Rage** — [OriginalSwayze/Streets-Of-Rage-Recomp](https://github.com/OriginalSwayze/Streets-Of-Rage-Recomp) — *Static recompilation.*
+- **Streets Of Rage 2** — [sor2newera.com](https://www.sor2newera.com/)
+- **ToeJam & Earl (tje-disasm)** — [bstreiff/tje-disasm](https://github.com/bstreiff/tje-disasm) — *Disassembly. Inactive or archived.*
+- **Virtua Racing** — [matiaszanolli/sega-vr-disasm](https://github.com/matiaszanolli/sega-vr-disasm)
+- **X-Men 2: Clone Wars** — [crabsmack/xmen2-pc](https://github.com/crabsmack/xmen2-pc) — *Port.*
+
+## Game Gear
+
+2 projects
+
+- **Sonic Blast** — [mstan/SonicBlastGGRecomp](https://github.com/mstan/SonicBlastGGRecomp) — *Static recompilation.*
+- **Sonic the Hedgehog (Game Gear)** ✦ — [TheRavenfreak/Sonic-1-Game-Gear-Disassembly](https://github.com/TheRavenfreak/Sonic-1-Game-Gear-Disassembly)
+
+## Sega 32X
+
+2 projects
+
+- **Knuckles Chaotix** — [sonicretro/chaotix](https://github.com/sonicretro/chaotix)
+- **Knuckles' Chaotix** — [YuutaTsubasa/ChaotixRecompiled](https://github.com/YuutaTsubasa/ChaotixRecompiled)
+
+## Sega CD
+
+5 projects
+
+- **Shining Force CD** — [ShiningForceCentral/SFCDDISASM](https://github.com/ShiningForceCentral/SFCDDISASM)
+- **Snatcher** — [bgyss/snatcher-port](https://github.com/bgyss/snatcher-port) — *Port.*
+- **Sonic CD (Little Planet)** — [carlosrmz009/littleplanet](https://github.com/carlosrmz009/littleplanet) — *Static recompilation.*
+- **Sonic CD (Little Planet)** — [carl0srmz/littleplanet](https://github.com/carl0srmz/littleplanet) — *Static recompilation.*
+- **Sonic CD (scddisasm)** — [sonicretro/scddisasm](https://github.com/sonicretro/scddisasm) — *Disassembly.*
+
+## Sega Saturn
+
+7 projects
+
+- **Fighters Megamix** — [tmcleroy/fighters-megamix-recomp](https://github.com/tmcleroy/fighters-megamix-recomp) — *Static recompilation.*
+- **Guardian Heroes (GuardianRPG_Recomp)** — [ZakuroLovingDeath/GuardianRPG_Recomp](https://github.com/ZakuroLovingDeath/GuardianRPG_Recomp) — *Static recompilation.*
+- **Panzer Dragoon Saga** — [yaz0r/Azel](https://github.com/yaz0r/Azel)
+- **Panzer Dragoon Saga** — [blythos/pds-tools](https://github.com/blythos/pds-tools)
+- **Panzer Dragoon Saga (Reverse-Engineer-Azel)** — [Aeonitis/Reverse-Engineer-Azel](https://github.com/Aeonitis/Reverse-Engineer-Azel) — *Inactive or archived.*
+- **Shining Force III Scenario 1** — [mattkuhnQAAI/sfiii-native](https://github.com/mattkuhnQAAI/sfiii-native) — *Static recompilation.*
+- **Virtual Hydlide** — [vs-sr-dev/pc-virtualhydlide](https://github.com/vs-sr-dev/pc-virtualhydlide) — *Static recompilation.*
+
+## Dreamcast
+
+18 projects
+
+- **Bomberman Online** — [nvd123-YT/BombermanOnlineRecomp](https://github.com/nvd123-YT/BombermanOnlineRecomp) — *Static recompilation.*
+- **Crazy Taxi** ✦ — [consolesplayingconsoles/crazy-taxi-decomp](https://github.com/consolesplayingconsoles/crazy-taxi-decomp)
+- **Crazy Taxi** — [sp00nznet/crazytaxi](https://github.com/sp00nznet/crazytaxi) — *Static recompilation.*
+- **Hail to the King** — [killersheaven/hail-to-the-king-pc](https://github.com/killersheaven/hail-to-the-king-pc) — *Static recompilation.*
+- **Jet Grind Radio (PSP)** — [beckerd/psp_jgr_portable](https://github.com/beckerd/psp_jgr_portable) — *Port.*
+- **Mortal Kombat Gold** — [MaryNCRT/MORTAL-KOMBAT-GOLD-DECOMPILED](https://github.com/MaryNCRT/MORTAL-KOMBAT-GOLD-DECOMPILED)
+- **Rayman 2: The Great Escape (TheGreatRecomp)** — [DreaXer/TheGreatRecomp](https://github.com/DreaXer/TheGreatRecomp) — *Static recompilation.*
+- **Resident Evil - Code: Veronica** — [fmil95/recv-dc-decomp](https://github.com/fmil95/recv-dc-decomp)
+- **Resident Evil 4 (Dreamcast port, re4dc)** — [lamb2k/re4dc](https://github.com/lamb2k/re4dc) — *Port.*
+- **San Francisco Rush 2049 (Cris9870)** — [Cris9870/rush2049-recomp](https://github.com/Cris9870/rush2049-recomp) — *Static recompilation.*
+- **Sonic Adventure** — [sonicretro/sad_disasm](https://github.com/sonicretro/sad_disasm)
+- **Sonic Adventure (matching decomp)** — [reshaped/sonic-adventure](https://github.com/reshaped/sonic-adventure)
+- **Sonic Adventure (PSP)** — [countallegrex/sa1-psp](https://github.com/countallegrex/sa1-psp) — *Static recompilation.*
+- **Sonic Adventure (Recompiled)** — [sonicfreak1337/SARecomp](https://github.com/sonicfreak1337/SARecomp)
+- **SoulCalibur (voldorium)** — [enrique363/voldorium](https://github.com/enrique363/voldorium) — *Static recompilation.*
+- **Space Channel 5** — [ZoomiesZaggy/Space-Channel-5](https://github.com/ZoomiesZaggy/Space-Channel-5) — *Static recompilation.*
+- **Street Fighter Alpha 3 (Dreamcast recomp)** — [irnutsmurt/Street-Alpha-3-Dreamcast-Recomp](https://github.com/irnutsmurt/Street-Alpha-3-Dreamcast-Recomp) — *Static recompilation.*
+- **Tokyo Bus Guide** — [lhsazevedo/tbg-decomp](https://github.com/lhsazevedo/tbg-decomp)
+
+## PlayStation
+
+302 projects
+
+- **Ace Combat 3** — [sal063/Ace-Combat-3-static-recompilation](https://github.com/sal063/Ace-Combat-3-static-recompilation)
+- **Ace Combat 3: Electrosphere** — [alexbeavs-ps1-ports/ace-combat-3-electrosphere-usa-recomp](https://github.com/alexbeavs-ps1-ports/ace-combat-3-electrosphere-usa-recomp)
+- **Ace Combat 3: Electrosphere** — [vzepec/ac3-decomp](https://github.com/vzepec/ac3-decomp)
+- **Ace Combat 3: Electrosphere (ac3-remix)** — [i5han/ac3-remix](https://github.com/i5han/ac3-remix) — *Port.*
+- **Ace Combat 3: Electrosphere (Japan)** — [alexbeavs-ps1-ports/ace-combat-3-electrosphere-recomp](https://github.com/alexbeavs-ps1-ports/ace-combat-3-electrosphere-recomp) — *Static recompilation.*
+- **Akuji the Heartless** — [fuzzybark/AkujiTheHeartlessRecomp](https://github.com/fuzzybark/AkujiTheHeartlessRecomp) — *Static recompilation.*
+- **Alexbeav's PS1 recomps (psxrecomp-ports)** — [alexbeavs-ps1-ports/psxrecomp-ports](https://github.com/alexbeavs-ps1-ports/psxrecomp-ports) — *Static recompilation.*
+- **Alien Resurrection** — [Heromachine/AlienResurrection-Recompilation](https://github.com/Heromachine/AlienResurrection-Recompilation)
+- **Alien Resurrection (AlienReRecomp)** — [DiegoDeDios/AlienReRecomp](https://github.com/DiegoDeDios/AlienReRecomp) — *Static recompilation.*
+- **Alien Resurrection (Recomp)** — [alexbeavs-ps1-ports/alien-resurrection-recomp](https://github.com/alexbeavs-ps1-ports/alien-resurrection-recomp)
+- **Alien Trilogy** — [lemiur/alien-trilogy-decomp](https://github.com/lemiur/alien-trilogy-decomp)
+- **Alone in the Dark: The New Nightmare** — [alexbeavs-ps1-ports/alone-in-the-dark-the-new-nightmare-recomp](https://github.com/alexbeavs-ps1-ports/alone-in-the-dark-the-new-nightmare-recomp)
+- **Alundra** — [alexbeavs-ps1-ports/alundra-recomp](https://github.com/alexbeavs-ps1-ports/alundra-recomp)
+- **Alundra** — [aitorcachero/alundra-recomp](https://github.com/aitorcachero/alundra-recomp) — *Static recompilation.*
+- **Another Mind** — [halkuncode/anothermind-decomp](https://github.com/halkuncode/anothermind-decomp)
+- **Ape Escape** — [NVDEMU/ApeEscapeRecomp-MacWindowsLinux](https://github.com/NVDEMU/ApeEscapeRecomp-MacWindowsLinux) — *Static recompilation.*
+- **Ape Escape (nvd123-YT)** — [nvd123-YT/ApeEscapeRecompiled](https://github.com/nvd123-YT/ApeEscapeRecompiled) — *Static recompilation.*
+- **Ape Escape (Recomp)** — [mstan/ApeEscapeRecomp](https://github.com/mstan/ApeEscapeRecomp)
+- **Apocalypse** — [alexbeavs-ps1-ports/apocalypse-recomp](https://github.com/alexbeavs-ps1-ports/apocalypse-recomp)
+- **Apocalypse (Project Repocalypse)** — [MustafaSamer93/Apocalypse-PC-Native-Port](https://github.com/MustafaSamer93/Apocalypse-PC-Native-Port) — *Port.*
+- **Armored Core** — [omegakatana92/Armored-Core-Recomp](https://github.com/omegakatana92/Armored-Core-Recomp)
+- **Armored Core** — [alexbeavs-ps1-ports/armored-core-recomp](https://github.com/alexbeavs-ps1-ports/armored-core-recomp) — *Static recompilation.*
+- **Armored Core (Armored-Core-Decomp)** — [Wyrelade/Armored-Core-Decomp](https://github.com/Wyrelade/Armored-Core-Decomp)
+- **Azure Dreams** — [forestbelton/azure](https://github.com/forestbelton/azure)
+- **Battle Arena Toshinden (Battle Arena Toshinden Recompiled)** — [mstan/BattleArenaToshindenRecomp](https://github.com/mstan/BattleArenaToshindenRecomp) — *Static recompilation.*
+- **BattleTanx: Global Assault** — [TheGh0stShip/BattleTanx-Global-Assault-PS1](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PS1)
+- **Bloody Roar 2 (Recomp)** — [novapowers0/BloodyRoar2Recomp](https://github.com/novapowers0/BloodyRoar2Recomp)
+- **Bomberman Fantasy Race (Bomberman Fantasy Race Recompiled)** — [TechnicallyComputers/Bomberman-Fantasy-Race-Recomp](https://github.com/TechnicallyComputers/Bomberman-Fantasy-Race-Recomp) — *Static recompilation.*
+- **Bomberman Party Edition (Bomberman Party Edition Recomp)** — [TechnicallyComputers/BombermanPartyEditionRecomp](https://github.com/TechnicallyComputers/BombermanPartyEditionRecomp) — *Static recompilation.*
+- **Bomberman World (Bomberman World Recompiled)** — [TechnicallyComputers/Bomberman-World-Recomp](https://github.com/TechnicallyComputers/Bomberman-World-Recomp) — *Static recompilation.*
+- **Brave Fencer Musashi** — [Druthulu/BFM-decomp](https://github.com/Druthulu/BFM-decomp)
+- **Brave Fencer Musashi** — [Blizz127/Brave-Fencer-Musashi-decomp-port](https://github.com/Blizz127/Brave-Fencer-Musashi-decomp-port) — *Port.*
+- **Brave Fencer Musashi** — [saironbusatto/MusashiRecomp](https://github.com/saironbusatto/MusashiRecomp) — *Static recompilation.*
+- **Brave Fencer Musashi** — [SadBoxMan/brave-fencer-musashi-decomp](https://github.com/SadBoxMan/brave-fencer-musashi-decomp)
+- **Breath of Fire III** ✦ — [loopyd/bof3-decompilation](https://github.com/loopyd/bof3-decompilation)
+- **Breath of Fire III** — [raulcorreia7/bof3-decomp](https://github.com/raulcorreia7/bof3-decomp)
+- **Breath of Fire III (Breath of Fire III - PC Port)** — [kerokline/BreathOfFire3PCPort](https://github.com/kerokline/BreathOfFire3PCPort) — *Port.*
+- **Breath of Fire III (Recomp)** — [kerokline/BreathOfFire3Recomp](https://github.com/kerokline/BreathOfFire3Recomp)
+- **Brightis** — [Dickdebonair/Brightis-fan-translation](https://github.com/Dickdebonair/Brightis-fan-translation)
+- **Bubsy 3D - Furbitten Planet** — [EiscremeWaffle/bubsy3d-decomp](https://github.com/EiscremeWaffle/bubsy3d-decomp)
+- **Bugs Bunny: Lost in Time!** — [quantumdude836/BugsDecomp](https://github.com/quantumdude836/BugsDecomp)
+- **Bushido Blade 2** — [alexbeavs-ps1-ports/bushido-blade-2-recomp](https://github.com/alexbeavs-ps1-ports/bushido-blade-2-recomp) — *Static recompilation.*
+- **Castlevania Chronicles** — [Spicywonda/castlevania-chronicles-recomp](https://github.com/Spicywonda/castlevania-chronicles-recomp)
+- **Castlevania: Symphony of the Night** — [xeeynamo/sotn-decomp](https://github.com/xeeynamo/sotn-decomp)
+- **Castlevania: Symphony of the Night (NocturneRecomp)** — [birabittoh/NocturneRecomp](https://github.com/birabittoh/NocturneRecomp)
+- **Castlevania: Symphony of the Night (Recomp)** — [BlackLabelHQ/SymphonyRecomp](https://github.com/BlackLabelHQ/SymphonyRecomp)
+- **Chrono Cross** — [jdperos/chrono-cross-decomp](https://github.com/jdperos/chrono-cross-decomp)
+- **Colin McRae Rally 2.0** — [CMR2Decomp/CMR2Decomp](https://github.com/CMR2Decomp/CMR2Decomp)
+- **Colin McRae Rally 2.0** — [alexbeavs-ps1-ports/colin-mcrae-rally-2-0-recomp](https://github.com/alexbeavs-ps1-ports/colin-mcrae-rally-2-0-recomp) — *Static recompilation.*
+- **Colony Wars: Red Sun** — [alexbeavs-ps1-ports/colony-wars-red-sun-recomp](https://github.com/alexbeavs-ps1-ports/colony-wars-red-sun-recomp) — *Static recompilation.*
+- **Cool Boarders 2** — [jeff-1amstudios/cool-boarders-2](https://github.com/jeff-1amstudios/cool-boarders-2)
+- **Courier Crisis** — [cesarboss2022/CourierCrisisRecomp](https://github.com/cesarboss2022/CourierCrisisRecomp) — *Static recompilation.*
+- **Crash Bandicoot** — [wurlyfox/c1](https://github.com/wurlyfox/c1)
+- **Crash Bandicoot (Matteo842 Recomp)** — [Matteo842/CrashBandicoot-Launcher](https://github.com/Matteo842/CrashBandicoot-Launcher)
+- **Crash Bandicoot 2 (Recomp)** — [Zumbo06/Crash2Recomp](https://github.com/Zumbo06/Crash2Recomp)
+- **Crash Bandicoot 2: Cortex Strikes back** — [ughman/c2c](https://github.com/ughman/c2c)
+- **Crash Bandicoot 3: Warped** — [alexbeavs-ps1-ports/crash-bandicoot-3-warped-recomp](https://github.com/alexbeavs-ps1-ports/crash-bandicoot-3-warped-recomp)
+- **Crash Bash** — [mateusfavarin/crashbash](https://github.com/mateusfavarin/crashbash) — *Inactive or archived.*
+- **Crash Team Racing** — [CTR-Tools/CTR-ModSDK](https://github.com/CTR-Tools/CTR-ModSDK)
+- **Crash Team Racing** — [NyperYuhgard/CTR-PC-Port](https://github.com/NyperYuhgard/CTR-PC-Port) — *Port.*
+- **Crash Team Racing (ctr-native)** — [CTR-tools/ctr-native](https://github.com/CTR-tools/ctr-native)
+- **Crash Team Racing (High Octane)** — [Rinnegatamante/Crash-Team-Racing-High-Octane](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane)
+- **Crash Team Racing (Turbocharged)** — [CameronRedmore/Crash-Team-Racing-Turbocharged](https://github.com/CameronRedmore/Crash-Team-Racing-Turbocharged) — *Port.*
+- **Croc: Legend of the Gobbos** — [xeeynamo/croc](https://github.com/xeeynamo/croc)
+- **Dance Dance Revolution 1st Mix** — [bmbelo87/ddr-1st-recomp](https://github.com/bmbelo87/ddr-1st-recomp)
+- **Destruction Derby 2** — [alexbeavs-ps1-ports/destruction-derby-2-recomp](https://github.com/alexbeavs-ps1-ports/destruction-derby-2-recomp) — *Static recompilation.*
+- **Destruction Derby Raw** — [alexbeavs-ps1-ports/destruction-derby-raw-recomp](https://github.com/alexbeavs-ps1-ports/destruction-derby-raw-recomp) — *Static recompilation.*
+- **Detana TwinBee Yahho! Deluxe Pack** — [switchmaxfx/DetanaTwinBeeRecomp](https://github.com/switchmaxfx/DetanaTwinBeeRecomp) — *Static recompilation.*
+- **Diablo** — [alexbeavs-ps1-ports/diablo-recomp](https://github.com/alexbeavs-ps1-ports/diablo-recomp)
+- **Die Hard Trilogy** — [alexbeavs-ps1-ports/die-hard-trilogy-recomp](https://github.com/alexbeavs-ps1-ports/die-hard-trilogy-recomp)
+- **Die Hard Trilogy** — [FeverDreams420/die-hard-trilogy-decomp](https://github.com/FeverDreams420/die-hard-trilogy-decomp)
+- **Digimon Digital Card Battle** — [juandav/dcb_decomp](https://github.com/juandav/dcb_decomp)
+- **Digimon Rumble Arena** — [ReGame-Labs/dtbe_decomp](https://github.com/ReGame-Labs/dtbe_decomp)
+- **Digimon World** — [solidheron/Digimon_World_1_decompolation](https://github.com/solidheron/Digimon_World_1_decompolation)
+- **Digimon World (dw_decomp)** — [jype0/dw_decomp](https://github.com/jype0/dw_decomp)
+- **Digimon World 2** — [Wyrelade/Digimon-World-2-Decomp](https://github.com/Wyrelade/Digimon-World-2-Decomp)
+- **Digimon World 2** — [Wyrelade/DW2-PC](https://github.com/Wyrelade/DW2-PC)
+- **Digimon World 2003** — [alexbeavs-ps1-ports/digimon-world-2003-recomp](https://github.com/alexbeavs-ps1-ports/digimon-world-2003-recomp)
+- **Digimon World 2003** — [gascarcella/dw2003recomp](https://github.com/gascarcella/dw2003recomp) — *Static recompilation.*
+- **Digimon World 3** — [markisha64/ddw3](https://github.com/markisha64/ddw3)
+- **Digimon World 3 (D-W-3-Recomp)** — [Xive080/D-W-3-Recomp](https://github.com/Xive080/D-W-3-Recomp) — *Static recompilation.*
+- **Digimon World 3 (juandav)** — [juandav/dw3_decomp](https://github.com/juandav/dw3_decomp)
+- **Digimon World 3(2003)** — [ReGame-Labs/dw3_decomp](https://github.com/ReGame-Labs/dw3_decomp)
+- **Digimon: Digital Card Battle** — [ReGame-Labs/dcb_decomp](https://github.com/ReGame-Labs/dcb_decomp)
+- **Dino Crisis** — [alexbeavs-ps1-ports/dino-crisis-recomp](https://github.com/alexbeavs-ps1-ports/dino-crisis-recomp)
+- **Dino Crisis 2** — [alexbeavs-ps1-ports/dino-crisis-2-recomp](https://github.com/alexbeavs-ps1-ports/dino-crisis-2-recomp)
+- **Dino Crisis 2 (dino-crisis-2-decomp)** — [anzaldoivan/dino-crisis-2-decomp](https://github.com/anzaldoivan/dino-crisis-2-decomp)
+- **Disney's Hercules** — [obaidr1/hercules-recompiled](https://github.com/obaidr1/hercules-recompiled) — *Static recompilation.*
+- **Disruptor** — [RecompTeam/DisruptorRecomp](https://github.com/RecompTeam/DisruptorRecomp) — *Static recompilation.*
+- **Doom (PsyDoom)** — [BodbDearg/PsyDoom](https://github.com/BodbDearg/PsyDoom)
+- **DOOM PSX** — [Erick194/PSXDOOM-RE](https://github.com/Erick194/PSXDOOM-RE)
+- **Dragon Ball GT: Final Bout** — [novapowers0/DB-Final-Bout-Recomp](https://github.com/novapowers0/DB-Final-Bout-Recomp)
+- **Dragon Valor** — [victor-takai/dragon-valor-recomp](https://github.com/victor-takai/dragon-valor-recomp) — *Static recompilation.*
+- **Driver** — [alexbeavs-ps1-ports/driver-recomp](https://github.com/alexbeavs-ps1-ports/driver-recomp) — *Static recompilation.*
+- **Driver 2** — [OpenDriver2/REDRIVER2](https://github.com/OpenDriver2/REDRIVER2)
+- **Driver: You Are the Wheelman** — [olink9/driver1-decomp](https://github.com/olink9/driver1-decomp)
+- **Earthworm Jim 2 (Earthworm Jim 2 Recompiled)** — [elprogramadorloco-arch/jim2-recomp](https://github.com/elprogramadorloco-arch/jim2-recomp) — *Static recompilation.*
+- **Einhänder** — [strider973/Einhander-Recompiled](https://github.com/strider973/Einhander-Recompiled)
+- **Final Fantasy IX** — [alexbeavs-ps1-ports/final-fantasy-ix-recomp](https://github.com/alexbeavs-ps1-ports/final-fantasy-ix-recomp)
+- **Final Fantasy IX** — [maurizi/ff9-decomp](https://github.com/maurizi/ff9-decomp)
+- **Final Fantasy Tactics** — [NJH-1001/FinFanTacRecomp](https://github.com/NJH-1001/FinFanTacRecomp)
+- **Final Fantasy Tactics** — [FFT-RE/FFT-1997-Decomp](https://github.com/FFT-RE/FFT-1997-Decomp)
+- **Final Fantasy Tactics (fft_decomp)** — [adamrt/fft_decomp](https://github.com/adamrt/fft_decomp)
+- **Final Fantasy VII** — [ficed/Braver](https://github.com/ficed/Braver) · [xeeynamo/ff7-decomp](https://github.com/xeeynamo/ff7-decomp)
+- **Final Fantasy VII (ff7-coaster)** — [ergonomy-joe/ff7-coaster](https://github.com/ergonomy-joe/ff7-coaster)
+- **Final Fantasy VII (ff7-worldmap)** — [ergonomy-joe/ff7-worldmap](https://github.com/ergonomy-joe/ff7-worldmap)
+- **Final Fantasy VII (ffvii)** — [Drahsid/ffvii](https://github.com/Drahsid/ffvii)
+- **Final Fantasy VII (q-gears_reverse)** — [Akari1982/q-gears_reverse](https://github.com/Akari1982/q-gears_reverse)
+- **Final Fantasy VIII** ✦ — [roengstrom/ff8-decomp](https://github.com/roengstrom/ff8-decomp)
+- **Final Fantasy VIII (Recomp)** — [alexbeavs-ps1-ports/final-fantasy-viii-recomp](https://github.com/alexbeavs-ps1-ports/final-fantasy-viii-recomp)
+- **Frogger: He's Back!** — [HighwayFrogs/frogger-psx](https://github.com/HighwayFrogs/frogger-psx)
+- **Future Cop: L.A.P.D.** — [alexbeavs-ps1-ports/future-cop-lapd-recomp](https://github.com/alexbeavs-ps1-ports/future-cop-lapd-recomp) — *Static recompilation.*
+- **G-Police** — [Tzeentchnet/g-police-recomp](https://github.com/Tzeentchnet/g-police-recomp) — *Static recompilation.*
+- **Ghost in the Shell** — [alexbeavs-ps1-ports/ghost-in-the-shell-recomp](https://github.com/alexbeavs-ps1-ports/ghost-in-the-shell-recomp) — *Static recompilation.*
+- **Gran Turismo 2** — [ginryuoku/gt2-reversing](https://github.com/ginryuoku/gt2-reversing)
+- **Gran Turismo 2** — [GTTeancum/OpenGTPS1](https://github.com/GTTeancum/OpenGTPS1) — *Static recompilation.*
+- **Gran Turismo 2** — [CurtisSlone/GT2-Decomp](https://github.com/CurtisSlone/GT2-Decomp)
+- **Gran Turismo 2 (gt-2-pc)** — [dubrovskiy-yevhen-stakelogic/gt-2-pc](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) — *Port.*
+- **Gran Turismo 2 (gt2-multiplayer)** — [ianitsky/gt2-multiplayer](https://github.com/ianitsky/gt2-multiplayer) — *Static recompilation.*
+- **Harvest Moon: Back to Nature** — [coalslav/hmbtn-decomp](https://github.com/coalslav/hmbtn-decomp)
+- **Harvest Moon: Back to Nature** — [beruanglaut-com/backtonature-decompiled](https://github.com/beruanglaut-com/backtonature-decompiled)
+- **Hell Night** — [goodshepherd23/Hellnight-Recompiled](https://github.com/goodshepherd23/Hellnight-Recompiled) — *Static recompilation.*
+- **Hogs of War / Frontschweine** — [Nero2611/FrontschweineRecomp](https://github.com/Nero2611/FrontschweineRecomp) — *Static recompilation.*
+- **Hybrid** ✦ — [Joshua-1248/Hybrid-PS1-Decompilation](https://github.com/Joshua-1248/Hybrid-PS1-Decompilation)
+- **In Cold Blood** — [alexbeavs-ps1-ports/in-cold-blood-recomp](https://github.com/alexbeavs-ps1-ports/in-cold-blood-recomp) — *Static recompilation.*
+- **Jersey Devil** — [mstan/JerseyDevilRecomp](https://github.com/mstan/JerseyDevilRecomp) — *Static recompilation.*
+- **Jet Moto 2** — [goodshepherd23/JetMoto2-Recomp](https://github.com/goodshepherd23/JetMoto2-Recomp) — *Static recompilation.*
+- **JoJo's Bizarre Adventure: Heritage for the Future** — [MenuuTUX/jojo-hftf-native](https://github.com/MenuuTUX/jojo-hftf-native) — *Port.*
+- **Jumping Flash** — [NotExactlySiev/aloha](https://github.com/NotExactlySiev/aloha)
+- **Jumping Flash! collection** — [BluePointDigital/jumping-flash-collection](https://github.com/BluePointDigital/jumping-flash-collection) — *Static recompilation.*
+- **Kaze no Notam** — [aaaaaaaaaaway/kaze-no-notam-decomp](https://github.com/aaaaaaaaaaway/kaze-no-notam-decomp)
+- **King's Field** — [Voicedrew11/verdite2](https://github.com/Voicedrew11/verdite2)
+- **King's Field (kf1-enhanced)** — [Acranon/kf1-enhanced](https://github.com/Acranon/kf1-enhanced) — *Port.*
+- **King's Field (verdite1)** — [Voicedrew11/verdite1](https://github.com/Voicedrew11/verdite1) — *Static recompilation.*
+- **King's Field II** — [Voicedrew11/verdite3](https://github.com/Voicedrew11/verdite3) — *Port.*
+- **Klonoa: Door to Phantomile (Recomp)** — [TechnicallyComputers/Klonoa-Door-to-Phantomile](https://github.com/TechnicallyComputers/Klonoa-Door-to-Phantomile)
+- **Koudelka** — [alexbeavs-ps1-ports/koudelka-recomp](https://github.com/alexbeavs-ps1-ports/koudelka-recomp) — *Static recompilation.*
+- **Kula World** — [dezgeg/kula-world-decomp](https://github.com/dezgeg/kula-world-decomp)
+- **Legacy of Kain: Soul Reaver** — [fmil95/soul-re](https://github.com/fmil95/soul-re)
+- **Legacy of Kain: Soul Reaver** — [Gh0stBlade/KAIN2](https://github.com/Gh0stBlade/KAIN2) — *Inactive or archived.*
+- **Legacy of Kain: Soul Reaver** — [MicroTransactionsMatterToo/Kain-Disassembly](https://github.com/MicroTransactionsMatterToo/Kain-Disassembly) — *Disassembly. Inactive or archived.*
+- **Legacy of Kain: Soul Reaver (alpha)** — [0-vortex/KAIN2](https://github.com/0-vortex/KAIN2) — *Inactive or archived.*
+- **Legend of Dragoon** — [Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java)
+- **Legend of Legaia** — [dacodechick/legaia-decomp](https://github.com/dacodechick/legaia-decomp)
+- **Legend of Legaia (Recomp)** — [SamSteProjects/legend-of-legaia-recomp](https://github.com/SamSteProjects/legend-of-legaia-recomp)
+- **Legend of Mana** — [celophi/lom-decomp](https://github.com/celophi/lom-decomp)
+- **LSD Dream Emulator** — [FirecatFG/lsddecomp](https://github.com/FirecatFG/lsddecomp)
+- **LSD: Dream Emulator** — [brian-oblivion/lsddecomp](https://github.com/brian-oblivion/lsddecomp)
+- **LSD: Dream Emulator** — [cawfee/lsd_decompiled](https://github.com/cawfee/lsd_decompiled)
+- **Lunar 2: Eternal Blue** — [Zackmon/lunar2-psx-decomp](https://github.com/Zackmon/lunar2-psx-decomp)
+- **Marvel vs. Capcom: Clash of Super Heroes (Marvel vs. Capcom: Clash of Super Heroes Recompiled)** — [TechnicallyComputers/Marvel-vs.-Capcom-Clash-of-Super-Heroes-Recomp](https://github.com/TechnicallyComputers/Marvel-vs.-Capcom-Clash-of-Super-Heroes-Recomp) — *Static recompilation.*
+- **Medal of Honor** — [FractalEngineer/Medal-Of-Honor-PSX-Recomp](https://github.com/FractalEngineer/Medal-Of-Honor-PSX-Recomp) — *Static recompilation.*
+- **Medal of Honor: Underground** — [FractalEngineer/Medal-Of-Honor-Underground-PSX-Recomp](https://github.com/FractalEngineer/Medal-Of-Honor-Underground-PSX-Recomp) — *Static recompilation.*
+- **MediEvil** — [medievildecompilation/medievil-decomp](https://github.com/medievildecompilation/medievil-decomp)
+- **MediEvil** — [alexbeavs-ps1-ports/medievil-recomp](https://github.com/alexbeavs-ps1-ports/medievil-recomp) — *Static recompilation.*
+- **MediEvil II** — [alexbeavs-ps1-ports/medievil-ii-recomp](https://github.com/alexbeavs-ps1-ports/medievil-ii-recomp) — *Static recompilation.*
+- **Mega Man Legends** — [alexbeavs-ps1-ports/mega-man-legends-recomp](https://github.com/alexbeavs-ps1-ports/mega-man-legends-recomp) — *Static recompilation.*
+- **Mega Man Legends (mml1)** — [ChrisNonyminus/mml1](https://github.com/ChrisNonyminus/mml1) — *Inactive or archived.*
+- **Mega Man Legends 2** — [alexbeavs-ps1-ports/mega-man-legends-2-recomp](https://github.com/alexbeavs-ps1-ports/mega-man-legends-2-recomp) — *Static recompilation.*
+- **Mega Man X4** — [sozud/mmx4](https://github.com/sozud/mmx4)
+- **Mega Man X4 (Recomp)** — [mstan/MegaManX4Recomp](https://github.com/mstan/MegaManX4Recomp)
+- **Mega Man X5** — [mstan/MegaManX5Recomp](https://github.com/mstan/MegaManX5Recomp)
+- **Mega Man X5 (mmx5)** — [anzaldoivan/mmx5](https://github.com/anzaldoivan/mmx5)
+- **Mega Man X6** — [anzaldoivan/mmx6](https://github.com/anzaldoivan/mmx6)
+- **Mega Man X6 (Recomp)** — [mstan/MegaManX6Recomp](https://github.com/mstan/MegaManX6Recomp)
+- **Megami Ibunroku Persona** — [daanhenke/persona-psx](https://github.com/daanhenke/persona-psx)
+- **Metal Gear Solid** — [alexbeavs-ps1-ports/metal-gear-solid-recomp](https://github.com/alexbeavs-ps1-ports/metal-gear-solid-recomp)
+- **Metal Gear Solid (mgs-reintegral)** — [Drommedhar/mgs-reintegral](https://github.com/Drommedhar/mgs-reintegral) — *Port.*
+- **Metal Gear Solid (mgsone-recomp)** — [coccofresco/mgsone-recomp](https://github.com/coccofresco/mgsone-recomp) — *Static recompilation.*
+- **Metal Gear Solid (Shadow Moses Web)** — [vjravenlight/shadow-moses-web](https://github.com/vjravenlight/shadow-moses-web) — *Port.*
+- **Metal Gear Solid 1** — [FoxdieTeam/mgs_reversing](https://github.com/FoxdieTeam/mgs_reversing)
+- **Metal Slug X (Metal Slug X Recompiled)** — [TechnicallyComputers/Metal-Slug-X-Recomp](https://github.com/TechnicallyComputers/Metal-Slug-X-Recomp) — *Static recompilation.*
+- **Micro Maniacs** — [Taktloss/MicroManRecomp](https://github.com/Taktloss/MicroManRecomp) — *Static recompilation.*
+- **Mizzurna Falls (Android)** — [dguillot-gh/mizzurnafallsthechillingcut-android](https://github.com/dguillot-gh/mizzurnafallsthechillingcut-android) — *Static recompilation.*
+- **Muppet RaceMania** — [TekRantGaming/muppet-racemania-recompiled](https://github.com/TekRantGaming/muppet-racemania-recompiled) — *Static recompilation.*
+- **Need for Speed: High Stakes (PS1)** — [Caesar0007/NFSHS-PSX-decomp](https://github.com/Caesar0007/NFSHS-PSX-decomp)
+- **Nightmare Creatures II** — [alexbeavs-ps1-ports/nightmare-creatures-ii-recomp](https://github.com/alexbeavs-ps1-ports/nightmare-creatures-ii-recomp)
+- **Oddworld 1-2** — [AliveTeam/alive_reversing](https://github.com/AliveTeam/alive_reversing)
+- **Oddworld: Exodus** — [aliveteam.github.io](https://aliveteam.github.io/)
+- **OpenSpideyPS1** — [GTTeancum/SpideyPS1recomp](https://github.com/GTTeancum/SpideyPS1recomp)
+- **PaRappa the Rapper (PaRappaSource)** — [cuckydev/PaRappaSource](https://github.com/cuckydev/PaRappaSource) — *Inactive or archived.*
+- **PaRappaTheRapper** — [kirby1237/PaRappaTheRapperRecomp](https://github.com/kirby1237/PaRappaTheRapperRecomp) — *Static recompilation.*
+- **Parasite Eve** ✦ — [khasinski/parasite-eve-decomp](https://github.com/khasinski/parasite-eve-decomp)
+- **Parasite Eve** — [Blizz127/parasite-eve-decomp-port](https://github.com/Blizz127/parasite-eve-decomp-port)
+- **Parasite Eve (parasite-eve-pc)** — [khasinski/parasite-eve-pc](https://github.com/khasinski/parasite-eve-pc) — *Port.*
+- **Parasite Eve (Recomp)** — [alexbeavs-ps1-ports/parasite-eve-recomp](https://github.com/alexbeavs-ps1-ports/parasite-eve-recomp)
+- **Parasite Eve HD Remaster** — [faligame/Parasite-Eve-HD-Remaster](https://github.com/faligame/Parasite-Eve-HD-Remaster)
+- **Parasite Eve II** ✦ — [GabeRealB/parasite-eve-2-decomp](https://github.com/GabeRealB/parasite-eve-2-decomp)
+- **Parasite Eve II** — [faligame/Parasite-Eve-2-HD-Remaster](https://github.com/faligame/Parasite-Eve-2-HD-Remaster) — *Static recompilation.*
+- **Parasite Eve II (Android)** — [dguillot-gh/parasite-eve2-android](https://github.com/dguillot-gh/parasite-eve2-android) — *Static recompilation.*
+- **Parasite Eve II (khasinski)** — [khasinski/parasite-eve-ii-pc](https://github.com/khasinski/parasite-eve-ii-pc) — *Port.*
+- **Parasite Eve II (pe2-pc-port)** — [Snaity-CORE/pe2-pc-port](https://github.com/Snaity-CORE/pe2-pc-port) — *Port.*
+- **Persona 2: Eternal Punishment (Android)** — [dguillot-gh/persona2-android](https://github.com/dguillot-gh/persona2-android) — *Static recompilation.*
+- **Point Blank** — [TekRantGaming/point-blank-recompiled](https://github.com/TekRantGaming/point-blank-recompiled) — *Static recompilation.*
+- **Pop'N Music** — [Erizur/slpm86183](https://github.com/Erizur/slpm86183)
+- **PSX USA MediEvil** — [BlackLabelHQ/MediEvilRecomp](https://github.com/BlackLabelHQ/MediEvilRecomp)
+- **Puyo Puyo BOX** — [kirby1237/PuyoPuyoBoxRecomp](https://github.com/kirby1237/PuyoPuyoBoxRecomp) — *Static recompilation.*
+- **R4: Ridge Racer Type 4** — [omegakatana92/RidgeRacer4Recomp](https://github.com/omegakatana92/RidgeRacer4Recomp) — *Static recompilation.*
+- **Rage Racer** — [khasinski/rage-racer-decomp](https://github.com/khasinski/rage-racer-decomp)
+- **Rage Racer (Rage Racer PC)** — [khasinski/rage-racer-pc](https://github.com/khasinski/rage-racer-pc)
+- **Rampage Through Time (Rampage Through Time Recompiled)** — [TechnicallyComputers/Rampage---Through-Time-Recomp](https://github.com/TechnicallyComputers/Rampage---Through-Time-Recomp) — *Static recompilation.*
+- **Resident Evil (resident-evil-pc-decomp)** — [ecruells/resident-evil-pc-decomp](https://github.com/ecruells/resident-evil-pc-decomp)
+- **Resident Evil 2** — [OpenBiohazard2/OpenBiohazard2](https://github.com/OpenBiohazard2/OpenBiohazard2)
+- **Resident Evil 2 Dual Shock Ver. (bio2-ds)** — [MeganGrass/bio2-ds](https://github.com/MeganGrass/bio2-ds)
+- **Resident Evil 3: Nemesis** — [alexbeavs-ps1-ports/resident-evil-3-recomp](https://github.com/alexbeavs-ps1-ports/resident-evil-3-recomp)
+- **Resident Evil 3: Nemesis** — [BrazilianHobbyist/Project-RE-Visited-RE3](https://github.com/BrazilianHobbyist/Project-RE-Visited-RE3) — *Static recompilation.*
+- **Resident Evil: Director's Cut Dual Shock Ver.** — [ThePerfectVale/Resident-Evil-Directors-Cut-Dualshock-Decompilation](https://github.com/ThePerfectVale/Resident-Evil-Directors-Cut-Dualshock-Decompilation)
+- **Ridge Racer** — [kazuyette/rr-decomp](https://github.com/kazuyette/rr-decomp)
+- **Ridge Racer** — [kazuyette/rr-pc-port](https://github.com/kazuyette/rr-pc-port) — *Port.*
+- **Ridge Racer Type 4 (decomp)** — [khasinski/ridge-racer-type-4-decomp](https://github.com/khasinski/ridge-racer-type-4-decomp)
+- **Rockman Dash** — [Rainchus/RockmanDash-Recompiled](https://github.com/Rainchus/RockmanDash-Recompiled) — *Static recompilation.*
+- **Roll Away** — [Bitsandbreakpoints/roll-away-psx-pc-recomp](https://github.com/Bitsandbreakpoints/roll-away-psx-pc-recomp) — *Static recompilation.*
+- **Samurai Shodown: Warriors Rage** — [omegakatana92/Samuai-Shodown-Warriors-Rage-Recomp](https://github.com/omegakatana92/Samuai-Shodown-Warriors-Rage-Recomp) — *Static recompilation.*
+- **Serial Experiments Lain** — [Y0oshi/lain-psx-decompiled](https://github.com/Y0oshi/lain-psx-decompiled)
+- **Sexy Parodius** — [NJH-1001/SexyParoRecomp](https://github.com/NJH-1001/SexyParoRecomp) — *Static recompilation.*
+- **Shadow Tower (reshadowtower)** — [JFryy/reshadowtower](https://github.com/JFryy/reshadowtower) — *Static recompilation.*
+- **Sheep Dog n' Wolf / Sheep Raider** — [lace22l/sheep-dog-n-wolf-decomp](https://github.com/lace22l/sheep-dog-n-wolf-decomp)
+- **Sheep, Dog 'n' Wolf / Sheep Raider** — [SheepStealer2001/sdw-decomp](https://github.com/SheepStealer2001/sdw-decomp)
+- **Shin Megami Tensei** — [TheCommandoChicken/smt-decomp](https://github.com/TheCommandoChicken/smt-decomp) — *Inactive or archived.*
+- **Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2** — [tolotratlt/rival-schools-nekketsu-seishun-nikki-2-recomp](https://github.com/tolotratlt/rival-schools-nekketsu-seishun-nikki-2-recomp) — *Static recompilation.*
+- **Silent Hill** — [Vatuu/silent-hill-decomp](https://github.com/Vatuu/silent-hill-decomp)
+- **Silent Hill** — [Sezzary/SilentEngine](https://github.com/Sezzary/SilentEngine) — *Port.*
+- **Silent Hill** — [nikita600/SHDecompilation](https://github.com/nikita600/SHDecompilation) — *Inactive or archived.*
+- **Silent Hill (shdecompilations)** — [shdecompilations/silent-hill-decomp](https://github.com/shdecompilations/silent-hill-decomp)
+- **Silent Hill (silent-hill-decomp)** — [SlickAmogus/silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp)
+- **Silent Hill (silent-hill-pc-nightly)** — [SlickAmogus/silent-hill-pc-nightly](https://github.com/SlickAmogus/silent-hill-pc-nightly)
+- **Simpsons Wrestling Recompiled** — [TekRantGaming/simpsons-wrestling-recompiled](https://github.com/TekRantGaming/simpsons-wrestling-recompiled)
+- **Soul Blade** — [fabioap-cpu/SoulBlade_Recomp](https://github.com/fabioap-cpu/SoulBlade_Recomp)
+- **Spider-Man** — [krystalgamer/spidey-decomp](https://github.com/krystalgamer/spidey-decomp)
+- **Spider-Man 2: Enter Electro** — [alexbeavs-ps1-ports/spider-man-2-enter-electro-recomp](https://github.com/alexbeavs-ps1-ports/spider-man-2-enter-electro-recomp) — *Static recompilation.*
+- **Spyro 2: Ripto's Rage!** ✦ — [TheMobyCollective/spyro-2](https://github.com/TheMobyCollective/spyro-2)
+- **Spyro the Dragon** — [TheMobyCollective/spyro-1](https://github.com/TheMobyCollective/spyro-1)
+- **Spyro the Dragon (open-spyro)** — [theMagicalKarp/open-spyro](https://github.com/theMagicalKarp/open-spyro)
+- **Spyro the Dragon (psx-spyro)** — [SomeoneIsWorking/psx-spyro](https://github.com/SomeoneIsWorking/psx-spyro) — *Static recompilation.*
+- **Spyro the Dragon (spyro1-reverse-engineering)** — [C0mposer/spyro1-reverse-engineering](https://github.com/C0mposer/spyro1-reverse-engineering)
+- **Spyro: Year of the Dragon** ✦ — [TheMobyCollective/spyro-3](https://github.com/TheMobyCollective/spyro-3)
+- **Star wars - Episode I - Jedi Power Battles** — [TechnicallyComputers/Star-wars---Episode-I---Jedi-Power-Battles-Recomp](https://github.com/TechnicallyComputers/Star-wars---Episode-I---Jedi-Power-Battles-Recomp)
+- **Star Wars: Masters of Teräs Käsi (MastersOfTerasKasiRecomp)** — [TechnicallyComputers/MastersOfTerasKasiRecomp](https://github.com/TechnicallyComputers/MastersOfTerasKasiRecomp) — *Static recompilation.*
+- **Street Fighter Alpha 3** — [TechnicallyComputers/Street-Fighter-Alpha-3-Recomp](https://github.com/TechnicallyComputers/Street-Fighter-Alpha-3-Recomp)
+- **Street Fighter EX 2 Plus** — [strider973/Street-Fighter-EX2-Plus-Recompiled](https://github.com/strider973/Street-Fighter-EX2-Plus-Recompiled)
+- **Street Fighter EX Plus Alpha** — [guimaraf/plusalpha-recomp](https://github.com/guimaraf/plusalpha-recomp)
+- **Strider 2 (Recomp)** — [strider973/STRIDER-2-Recompiled](https://github.com/strider973/STRIDER-2-Recompiled)
+- **Suikoden** — [alexbeavs-ps1-ports/suikoden-recomp](https://github.com/alexbeavs-ps1-ports/suikoden-recomp)
+- **Suikoden II** — [alexbeavs-ps1-ports/suikoden-ii-recomp](https://github.com/alexbeavs-ps1-ports/suikoden-ii-recomp)
+- **Syphon Filter (PC Recomp)** — [Madxbio97/SF-pc-port](https://github.com/Madxbio97/SF-pc-port)
+- **Syphon Filter 2** — [alexbeavs-ps1-ports/syphon-filter-2-recomp](https://github.com/alexbeavs-ps1-ports/syphon-filter-2-recomp)
+- **Team Buddies** — [hcbt/tbuddies-decomp](https://github.com/hcbt/tbuddies-decomp)
+- **Tekken 3** — [FishB0nes98/Tekken3Recompiled](https://github.com/FishB0nes98/Tekken3Recompiled)
+- **Tekken 3** — [Muqaddas12/Tekken3-PC](https://github.com/Muqaddas12/Tekken3-PC) — *Static recompilation.*
+- **Tekken 3 (Linux)** — [Mabec-games/Tekken-3-for-Linux](https://github.com/Mabec-games/Tekken-3-for-Linux) — *Static recompilation.*
+- **Tekken 3 (Recomp)** — [fabioap-cpu/Tekken3Recomp](https://github.com/fabioap-cpu/Tekken3Recomp)
+- **Tenchu: Stealth Assassins** — [Heromachine/Tenchu-SA-Recomp](https://github.com/Heromachine/Tenchu-SA-Recomp)
+- **Tokimeki Memorial: Forever with You** — [CosmicScribe64/tokimemo-ps1-decomp](https://github.com/CosmicScribe64/tokimemo-ps1-decomp)
+- **Tomb Raider: Chronicles** — [TOMB5/TOMB5](https://github.com/TOMB5/TOMB5)
+- **Tomba!** — [hansbonini/psx_tomba](https://github.com/hansbonini/psx_tomba)
+- **Tomba! (Recomp)** — [mstan/TombaRecomp](https://github.com/mstan/TombaRecomp)
+- **Tomba! 2: The Evil Swine Return** — [mstan/Tomba2Recomp](https://github.com/mstan/Tomba2Recomp)
+- **Tombi!** — [afsenovilla/Tombi-Decomp](https://github.com/afsenovilla/Tombi-Decomp)
+- **Tony Hawk's Pro Skater** — [alexbeavs-ps1-ports/tony-hawk-s-pro-skater-recomp](https://github.com/alexbeavs-ps1-ports/tony-hawk-s-pro-skater-recomp) — *Static recompilation.*
+- **Tony Hawk's Pro Skater (PS Vita)** — [DarthSully/Tony-Hawk-Slop-Skater](https://github.com/DarthSully/Tony-Hawk-Slop-Skater) — *Port.*
+- **Tony Hawk's Pro Skater (Tony Was A Pro Skater)** — [LANCommander/TonyWasAProSkater](https://github.com/LANCommander/TonyWasAProSkater)
+- **Tony Hawk's Pro Skater 2 Demo** — [emoluvjd2/thps2-demo-decomp](https://github.com/emoluvjd2/thps2-demo-decomp)
+- **Toy Story 2** — [0danny/toy2-decomp](https://github.com/0danny/toy2-decomp)
+- **ToyStory2** — [PeriBluGaming/ToyStory2Recomp](https://github.com/PeriBluGaming/ToyStory2Recomp) — *Static recompilation.*
+- **TwinBee PARADISE in Donburi Shima** — [Jhuyghue/donburi-decomp](https://github.com/Jhuyghue/donburi-decomp)
+- **Twisted Metal** — [abelbriggs1/tm1_decomp](https://github.com/abelbriggs1/tm1_decomp)
+- **Twisted Metal** — [OpenTrac/tm1_Re-Arc](https://github.com/OpenTrac/tm1_Re-Arc)
+- **Twisted Metal 1–4** — [jcoker85/TwistedMetal1234Recomp](https://github.com/jcoker85/TwistedMetal1234Recomp) — *Static recompilation.*
+- **Twisted Metal 2** — [abelbriggs1/tm2pc-reveng](https://github.com/abelbriggs1/tm2pc-reveng)
+- **Twisted Metal 4 (TwistedMetal4 Recompiled)** — [TechnicallyComputers/TwistedMetal4Recomp](https://github.com/TechnicallyComputers/TwistedMetal4Recomp) — *Static recompilation.*
+- **Vagrant Story** — [ser-pounce/rood-reverse](https://github.com/ser-pounce/rood-reverse)
+- **Vagrant Story** — [noprompt/rood-boi](https://github.com/noprompt/rood-boi)
+- **Vagrant Story** — [riotashley81-jpg/vagrantstory_recomp](https://github.com/riotashley81-jpg/vagrantstory_recomp) — *Static recompilation.*
+- **Vagrant Story (VS-NativePort)** — [JEschete/VS-NativePort](https://github.com/JEschete/VS-NativePort) — *Port.*
+- **Valkyrie Profile (Recomp)** — [Ed1z19/ValkyrieRecomp](https://github.com/Ed1z19/ValkyrieRecomp)
+- **Vandal Hearts** — [shao113/vh](https://github.com/shao113/vh)
+- **Vandal Hearts** — [HalmyLyseas/VandalHearts-PcPort](https://github.com/HalmyLyseas/VandalHearts-PcPort) — *Port.*
+- **VIB Ribbon** — [open-ribbon/open-ribbon](https://github.com/open-ribbon/open-ribbon)
+- **Vib-Ribbon** — [Adoregabriel2005/vib-ribbon-recomp](https://github.com/Adoregabriel2005/vib-ribbon-recomp) — *Static recompilation.*
+- **Vigilante 8 / Vigilante 8: 2nd Offense** — [GTTeancum/Vigilante-8-recomp](https://github.com/GTTeancum/Vigilante-8-recomp) — *Static recompilation.*
+- **WCW Nitro** — [martinbean/nitro](https://github.com/martinbean/nitro)
+- **Wild 9** — [plinkr/Wild9-Decompilation](https://github.com/plinkr/Wild9-Decompilation)
+- **Wild 9** — [plinkr/Wild9Recomp](https://github.com/plinkr/Wild9Recomp) — *Static recompilation.*
+- **Wipeout** — [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite)
+- **Wipeout** — [jnmartin84/wipeout-dc](https://github.com/jnmartin84/wipeout-dc) — *Port.*
+- **Wipeout (Phantom Edition)** — [wipeout-phantom-edition/wipeout-phantom-edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition)
+- **Wipeout 3 Special Edition** — [mstan/Wipeout-3-Special-Edition-Recomp](https://github.com/mstan/Wipeout-3-Special-Edition-Recomp) — *Static recompilation.*
+- **Wipeout XL** — [alexbeavs-ps1-ports/wipeout-xl-recomp](https://github.com/alexbeavs-ps1-ports/wipeout-xl-recomp) — *Static recompilation.*
+- **Wipeout XL (Wipeout XL Recompiled)** — [NJH-1001/Wipeout2K97XL](https://github.com/NJH-1001/Wipeout2K97XL) — *Static recompilation.*
+- **WWF SmackDown! 2: Know Your Role** — [Comfubar/KnowYourRoleRecomp](https://github.com/Comfubar/KnowYourRoleRecomp) — *Static recompilation.*
+- **X-Men Mutant Academy 2** — [GTTeancum/xmen-mutant-academy-2-pc](https://github.com/GTTeancum/xmen-mutant-academy-2-pc)
+- **Xena: Warrior Princess** — [alexbeavs-ps1-ports/xena-warrior-princess-recomp](https://github.com/alexbeavs-ps1-ports/xena-warrior-princess-recomp) — *Static recompilation.*
+- **Xenogears** — [ladysilverberg/xenogears-decomp](https://github.com/ladysilverberg/xenogears-decomp)
+- **Xenogears (EtherAura decomp)** — [EtherAura/xenogears](https://github.com/EtherAura/xenogears)
+- **Xenogears (frioux decomp)** — [frioux/xenogears-decomp](https://github.com/frioux/xenogears-decomp)
+- **Xenogears (non-matching)** — [yaz0r/Noah](https://github.com/yaz0r/Noah)
+- **Xenogears (PC port)** — [EtherAura/xenogears-pc](https://github.com/EtherAura/xenogears-pc) — *Port.*
+- **Xenogears (Recomp)** — [OpokXeno/xenogears-recomp](https://github.com/OpokXeno/xenogears-recomp)
+- **Xenogears (xenogears-decomp-port)** — [Blizz127/xenogears-decomp-port](https://github.com/Blizz127/xenogears-decomp-port) — *Port.*
+- **Yu-Gi-Oh! Forbidden Memories** — [Unchiga/YuGiOhForbiddenMemoriesRecomp](https://github.com/Unchiga/YuGiOhForbiddenMemoriesRecomp)
+- **Yu-Gi-Oh! Forbidden Memories (memories-decomp)** — [krystalgamer/memories-decomp](https://github.com/krystalgamer/memories-decomp)
+- **Yu-Gi-Oh! Forbidden Memories (Recomp)** — [Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled](https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled)
+
+## PlayStation 2
+
+217 projects
+
+- **.hack//IMOQ** ✦ — [dothacktranslate/dothack-decompilation](https://github.com/dothacktranslate/dothack-decompilation)
+- **.hack//Infection (Recompilation)** — [dothacktranslate/dothack-recompilation](https://github.com/dothacktranslate/dothack-recompilation) — *Static recompilation.*
+- **Ace Combat 5: The Unsung War** — [sal063/Ace-Combat-5-Static-recompilation](https://github.com/sal063/Ace-Combat-5-Static-recompilation)
+- **Amplitude** — [ieee802dot11ac/amp](https://github.com/ieee802dot11ac/amp)
+- **Ar tonelico II: Melody of Metafalica** ✦ — [USED255/artonelico2-decomp](https://github.com/USED255/artonelico2-decomp)
+- **Baroque** — [Arch61s/Baroque-Decomp](https://github.com/Arch61s/Baroque-Decomp)
+- **Battle Stadium D.O.N** — [dvilelaf/battlestadium-don](https://github.com/dvilelaf/battlestadium-don) — *Static recompilation.*
+- **Biohazard Outbreak / Biohazard Outbreak File 2** — [GalaxyNostalgia/Outbreak-decomp](https://github.com/GalaxyNostalgia/Outbreak-decomp)
+- **Bounce** — [misterjdrg/Bouncer](https://github.com/misterjdrg/Bouncer)
+- **Burnout 3: Takedown (Burn3)** — [UwUCammie/Burn3](https://github.com/UwUCammie/Burn3) — *Static recompilation.*
+- **Burnout 3: Takedown (Burnout 3: Takedown - PC port)** — [danielgomesvieira2000/burnout3-pc](https://github.com/danielgomesvieira2000/burnout3-pc) — *Port.*
+- **Burnout Dominator** — [literalynn/BurnoutDominatorReversed](https://github.com/literalynn/BurnoutDominatorReversed) — *Static recompilation.*
+- **Call of Duty 2: Big Red One** — [SmokeDoggy044/CoD2-BRO-Decomp](https://github.com/SmokeDoggy044/CoD2-BRO-Decomp)
+- **Cartoon Network Racing** — [TekRantGaming/cartoon-network-racing-recompiled](https://github.com/TekRantGaming/cartoon-network-racing-recompiled) — *Static recompilation.*
+- **Castlevania: Curse of Darkness** — [fasipe/Castlevania-COD-QOL](https://github.com/fasipe/Castlevania-COD-QOL) — *Static recompilation.*
+- **Champions of Norrath** — [ensapra/champions-of-norrath](https://github.com/ensapra/champions-of-norrath)
+- **Chulip** — [aaaaaaaaaaway/chulip-decomp](https://github.com/aaaaaaaaaaway/chulip-decomp)
+- **Crash Bandicoot: The Wrath of Cortex** — [calmsacibis995/crash-ps2](https://github.com/calmsacibis995/crash-ps2)
+- **Crash Bandicoot: The Wrath of Cortex (PS2)** — [denzi-gh/crashwoc-decomp-ps2](https://github.com/denzi-gh/crashwoc-decomp-ps2)
+- **Crash Tag Team Racing** — [bluisblu/cttr](https://github.com/bluisblu/cttr)
+- **Crash Twinsanity** — [menaman123/Ps2Recomp](https://github.com/menaman123/Ps2Recomp)
+- **Crash Twinsanity** — [GioPixelGH/Crash-Twinsanity-Windows](https://github.com/GioPixelGH/Crash-Twinsanity-Windows)
+- **Crash Twinsanity** — [menaman123/NativeEE](https://github.com/menaman123/NativeEE) — *Static recompilation.*
+- **Crash Twinsanity (twinsanity-reversed)** — [Smartkin/twinsanity-reversed](https://github.com/Smartkin/twinsanity-reversed)
+- **Dark Cloud** — [adubbz/dcdecomp](https://github.com/adubbz/dcdecomp)
+- **Dark Cloud (Chronicle)** — [TheMoonPeople/Chronicle](https://github.com/TheMoonPeople/Chronicle)
+- **Dark Cloud 2** — [TheMoonPeople/ChronicleTwo](https://github.com/TheMoonPeople/ChronicleTwo)
+- **Dark Cloud 2 (DC2-PS2RECOMP)** — [Red-tv141/DC2-PS2RECOMP](https://github.com/Red-tv141/DC2-PS2RECOMP) — *Static recompilation.*
+- **Def Jam Vendetta** — [jcsix694/def-jam-vendetta-recomp](https://github.com/jcsix694/def-jam-vendetta-recomp) — *Static recompilation.*
+- **Def Jam: Fight for NY (FFNY Online)** — [sweeax-exe/ffny-online](https://github.com/sweeax-exe/ffny-online) — *Static recompilation.*
+- **Densha de Go! Final** — [resterle/ddg-recomp](https://github.com/resterle/ddg-recomp) — *Static recompilation.*
+- **Devil May Cry** — [Gui-Tora/dmc-recomp](https://github.com/Gui-Tora/dmc-recomp) — *Static recompilation.*
+- **Devil May Cry 3: Dante's Awakening** — [WadeWinningWilson/dmc3-decomp](https://github.com/WadeWinningWilson/dmc3-decomp)
+- **Devil May Cry 3: Special Edition (Android)** — [sindufha/Devil-may-cry-3-recomp](https://github.com/sindufha/Devil-may-cry-3-recomp) — *Static recompilation.*
+- **Dog's Life** — [IWILLCRAFT-M0d/dogcomp](https://github.com/IWILLCRAFT-M0d/dogcomp)
+- **Downhill Domination (downhill-revived)** — [skuza-oss/downhill-revived](https://github.com/skuza-oss/downhill-revived) — *Port.*
+- **DQ8 Recompiled** — [Sinan-Karakaya/DQ8-Recompiled](https://github.com/Sinan-Karakaya/DQ8-Recompiled)
+- **Dragon Ball Z: Budokai 2** — [TotallyNotMichael-GH/dbz2](https://github.com/TotallyNotMichael-GH/dbz2)
+- **Dragon Ball Z: Budokai Tenkaichi 2 (BT2 Recomp)** — [oric212/BT2-Recomp](https://github.com/oric212/BT2-Recomp) — *Static recompilation.*
+- **Dragon Ball Z: Budokai Tenkaichi 3** — [z3xox/BT3-Recomp](https://github.com/z3xox/BT3-Recomp)
+- **Dragon Ball Z: Budokai Tenkaichi 3 (BT3-Decompiled)** — [z3xox/BT3-Decompiled](https://github.com/z3xox/BT3-Decompiled)
+- **Dragon Ball Z: Budokai Tenkaichi 3 (Tenkaichi3Decomp)** — [z3xox/Tenkaichi3Decomp](https://github.com/z3xox/Tenkaichi3Decomp)
+- **Dragon Ball Z: Budokai Tenkaichi 4 (dbz-bt4-recomp)** — [recomp-code/dbz-bt4-recomp](https://github.com/recomp-code/dbz-bt4-recomp) — *Static recompilation.*
+- **Dragon Ball Z: Budokai Tenkaichi 4 (Tag Team Decomp)** — [NauTaro/DBZ-BT4-Tag-Team-Decomp](https://github.com/NauTaro/DBZ-BT4-Tag-Team-Decomp)
+- **Drakan: The Ancients' Gates** — [cScarletter/Drakan-The-Ancient-Gates-Decompilation-](https://github.com/cScarletter/Drakan-The-Ancient-Gates-Decompilation-)
+- **Drakan: The Ancients' Gates (Drakan2PC)** — [ChristopherVR/Drakan2PC](https://github.com/ChristopherVR/Drakan2PC) — *Static recompilation.*
+- **Extermination** ✦ — [FastestMolasses/Extermination](https://github.com/FastestMolasses/Extermination)
+- **Fahrenheit / Indigo Prophecy** — [fmil95/santamonica](https://github.com/fmil95/santamonica)
+- **Fatal Frame (MikuPan)** — [Mikompilation/MikuPan](https://github.com/Mikompilation/MikuPan)
+- **Fatal Frame 1** — [mikompilation/himuro](https://github.com/mikompilation/himuro)
+- **Fatal Frame 2** — [mikompilation/minakami](https://github.com/mikompilation/minakami)
+- **Final Fantasy X** — [Rozelette/ffx](https://github.com/Rozelette/ffx)
+- **Final Fantasy X (khasinski)** — [khasinski/final-fantasy-x-decomp](https://github.com/khasinski/final-fantasy-x-decomp)
+- **Ford Racing** — [dashr9230/Gt2](https://github.com/dashr9230/Gt2)
+- **FreQuency** ✦ — [Tatsh/resonance](https://github.com/Tatsh/resonance)
+- **Galaxy Angel II trilogy** — [ObeseCatLord/galaxy-angel-2-pc](https://github.com/ObeseCatLord/galaxy-angel-2-pc) — *Static recompilation.*
+- **George of the Jungle and the Search for the Secret** — [2gifts/george-decomp](https://github.com/2gifts/george-decomp)
+- **God Hand** — [LucasPicoli/god-hand-decomp](https://github.com/LucasPicoli/god-hand-decomp)
+- **God Hand** — [LasVola/godhand-recomp](https://github.com/LasVola/godhand-recomp) — *Static recompilation.*
+- **God Hand (Android)** — [owaissseeee/GodHandAndroidPort](https://github.com/owaissseeee/GodHandAndroidPort) — *Static recompilation.*
+- **God of War** — [KIexster/god-of-war-recomp](https://github.com/KIexster/god-of-war-recomp)
+- **God of War** — [YYOzcan/Tobiichi-Port](https://github.com/YYOzcan/Tobiichi-Port) — *Port.*
+- **God of War** — [Waffle565/God-Of-War-Native-Port](https://github.com/Waffle565/God-Of-War-Native-Port) — *Port.*
+- **God of War (GOW Native PC)** — [Vnnc1/gow-native-pc](https://github.com/Vnnc1/gow-native-pc) — *Static recompilation.*
+- **God of War (gow-pc-port)** — [danielalves96/gow-pc-port](https://github.com/danielalves96/gow-pc-port) — *Port.*
+- **God of War II** — [cxldsakeb/GoW2-nativo-PS2](https://github.com/cxldsakeb/GoW2-nativo-PS2) — *Static recompilation.*
+- **Gran Turismo 3: A-Spec** — [gustavocanepa/gt3-decomp](https://github.com/gustavocanepa/gt3-decomp)
+- **Gran Turismo 4** ✦ — [gustavocanepa/gt4-decomp](https://github.com/gustavocanepa/gt4-decomp) — *The repository describes the project as AI-assisted.*
+- **Gran Turismo 4** — [Kaezzey/gt4-staticrecomp](https://github.com/Kaezzey/gt4-staticrecomp) — *Static recompilation.*
+- **Gran Turismo 4 (gt4-native)** — [gustavocanepa/gt4-native](https://github.com/gustavocanepa/gt4-native) — *Port.*
+- **Gran Turismo 4 (gt4-staticrecomp)** — [moesuito/gt4-staticrecomp](https://github.com/moesuito/gt4-staticrecomp) — *Static recompilation.*
+- **Grand Theft Auto: Vice City Stories** — [gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp) — *Static recompilation.*
+- **Grandia III** — [GranasSabre/Grandia3-PC](https://github.com/GranasSabre/Grandia3-PC) — *Static recompilation.*
+- **Guilty Gear X Plus** — [WistfulHopes/ggx](https://github.com/WistfulHopes/ggx)
+- **Guitar Hero II (GHClassic)** — [noahbaxter/GHClassic](https://github.com/noahbaxter/GHClassic) — *Static recompilation.*
+- **Haunting Ground** — [N900x4/HauntingGround-Recomp-Project](https://github.com/N900x4/HauntingGround-Recomp-Project) — *Static recompilation.*
+- **Haunting Ground (OpenHuey)** — [ArnautDaniel/OpenHuey](https://github.com/ArnautDaniel/OpenHuey)
+- **Ico** — [rossydoubleunderscore/ico-decomp](https://github.com/rossydoubleunderscore/ico-decomp)
+- **Ico (ico)** — [nathanialf/ico](https://github.com/nathanialf/ico)
+- **Ico-PC** — [nathanialf/ico-pc](https://github.com/nathanialf/ico-pc)
+- **The Italian Job** — [dashr9230/Caper](https://github.com/dashr9230/Caper)
+- **Jak & Daxter** — [open-goal/jak-project](https://github.com/open-goal/jak-project)
+- **Jak and Daxter (ottsel)** — [chrissotraidis/ottsel](https://github.com/chrissotraidis/ottsel) — *Port.*
+- **Jak and Daxter trilogy (Precursor, Android)** — [thebardockgames/Precursor](https://github.com/thebardockgames/Precursor) — *Port.*
+- **Killzone** — [drakolordx7/KillzoneRecomp](https://github.com/drakolordx7/KillzoneRecomp) — *Static recompilation.*
+- **King's Field: The Ancient City** — [Voicedrew11/kfiv-decomp](https://github.com/Voicedrew11/kfiv-decomp)
+- **King's Field: The Ancient City (holyland)** — [Voicedrew11/holyland](https://github.com/Voicedrew11/holyland) — *Static recompilation.*
+- **Kingdom Hearts** — [ethteck/kh1](https://github.com/ethteck/kh1)
+- **Kingdom Hearts II** ✦ — [GovanifY/kh2](https://github.com/GovanifY/kh2) — *Early decompilation.*
+- **Klonoa 2: Lunatea's Veil** — [entriphy/kl2_lv_decomp](https://github.com/entriphy/kl2_lv_decomp)
+- **Kuon (Mulberry)** — [weirdbeardgame/Mulberry](https://github.com/weirdbeardgame/Mulberry)
+- **Legacy of Kain: Soul Reaver 2 (Project Soul Robber)** — [Pallypots/Project-Soul-Robber](https://github.com/Pallypots/Project-Soul-Robber) — *Static recompilation.*
+- **Marvel vs. Capcom 2** — [g-guthrie/mvc2-ps2-decomp](https://github.com/g-guthrie/mvc2-ps2-decomp)
+- **Maximo: Ghosts to Glory** — [BioRhythmicStudios/Maximo-GTG](https://github.com/BioRhythmicStudios/Maximo-GTG) — *Static recompilation.*
+- **Medal of Honor: European Assault** — [boodyandmustafa-create/MOH-EuropeanAssault-PC-Port](https://github.com/boodyandmustafa-create/MOH-EuropeanAssault-PC-Port) — *Port.*
+- **Metal Gear Solid 2** — [GirianSeed/mgs2](https://github.com/GirianSeed/mgs2)
+- **Metal Gear Solid 3** — [GirianSeed/mgs3](https://github.com/GirianSeed/mgs3)
+- **Midnight Club II** — [jcoker85/MC2Recomp](https://github.com/jcoker85/MC2Recomp) — *Static recompilation.*
+- **Mobile Suit Gundam: Federation vs. Zeon DX** — [sennett-lau/re-gvs-fvzdx](https://github.com/sennett-lau/re-gvs-fvzdx) — *Static recompilation.*
+- **Monster Hunter** — [2Tie/mh1j](https://github.com/2Tie/mh1j)
+- **Monster Hunter 2 (Dos)** — [Batenkaitos-dev/mh2-decomp](https://github.com/Batenkaitos-dev/mh2-decomp)
+- **Mortal Kombat: Deception** — [ShulkMaster/mk-deception](https://github.com/ShulkMaster/mk-deception)
+- **The Nightmare Before Christmas: Oogie's Revenge** — [Pallypots/ProjectOogie](https://github.com/Pallypots/ProjectOogie) — *Static recompilation.*
+- **Nocturne** — [NearlyTRex/NocturneDecomp](https://github.com/NearlyTRex/NocturneDecomp)
+- **Over the Hedge** ✦ — [dantekall/Over-The-Hedge---Decompilation](https://github.com/dantekall/Over-The-Hedge---Decompilation)
+- **PaRappa the Rapper 2** — [parappadev/parappa2](https://github.com/parappadev/parappa2)
+- **Persona 3 FES** ✦ — [snaku/Persona3-FES-Decompilation](https://github.com/snaku/Persona3-FES-Decompilation)
+- **Persona 3 FES** — [poopoocacacacaca/p3fes-recompiled](https://github.com/poopoocacacacaca/p3fes-recompiled) — *Static recompilation.*
+- **Persona 3 FES** — [C-GBL/P3FES-Decompilation](https://github.com/C-GBL/P3FES-Decompilation) — *Port.*
+- **Persona 4** ✦ — [Raikaru/Persona4-Decompilation](https://github.com/Raikaru/Persona4-Decompilation)
+- **Pro Evolution Soccer 6** — [Subarasheese/pes6decomp](https://github.com/Subarasheese/pes6decomp)
+- **PS2 games in WebAssembly (ps2-web-recomp)** — [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) — *Static recompilation.*
+- **PS2 OSDSYS** — [JeanxPereira/CrystalOSD](https://github.com/JeanxPereira/CrystalOSD)
+- **PS2 OSDSYS** — [JeanxPereira/CrystalOSD-Decomp-Legacy](https://github.com/JeanxPereira/CrystalOSD-Decomp-Legacy) — *Inactive or archived.*
+- **Rampage: Total Destruction (RampageRE)** — [jjmhalew/RampageRE](https://github.com/jjmhalew/RampageRE) — *Port.*
+- **Ratchet & Clank (OpenRAC (umbrella))** — [OpenRAC/OpenRAC](https://github.com/OpenRAC/OpenRAC)
+- **Ratchet & Clank (PAL)** — [OpenRAC/rac1-decomp](https://github.com/OpenRAC/rac1-decomp)
+- **Ratchet & Clank (PS2 Quadrilogy)** — [VELD-Dev/Pyrocitor](https://github.com/VELD-Dev/Pyrocitor)
+- **Ratchet & Clank (rac-rs)** — [AsobiCodes/rac-rs](https://github.com/AsobiCodes/rac-rs) — *Static recompilation.*
+- **Ratchet & Clank (rac1-native)** — [daino-selvatico/rac1-native-game](https://github.com/daino-selvatico/rac1-native-game) — *Port.*
+- **Ratchet & Clank (rac1-native)** — [RAC-Native/rac1-native-game](https://github.com/RAC-Native/rac1-native-game) — *Port.*
+- **Ratchet & Clank (Ratchet-and-Clank-Recomp)** — [MarcPique/Ratchet-and-Clank-Recomp](https://github.com/MarcPique/Ratchet-and-Clank-Recomp) — *Port.*
+- **Ratchet & Clank (USA)** — [lombyte-project/Lombyte](https://github.com/lombyte-project/Lombyte)
+- **Ratchet & Clank 1 (Lombyte)** — [mateuszklysz/Lombyte](https://github.com/mateuszklysz/Lombyte)
+- **Ratchet & Clank 1 (Lynder063)** — [Lynder063/rac1-decomp](https://github.com/Lynder063/rac1-decomp)
+- **Ratchet & Clank: Going Commando** — [OpenRAC/rac2-decomp](https://github.com/OpenRAC/rac2-decomp)
+- **Ratchet & Clank: Going Commando (RAC2Decomp)** — [platypet2217-star/RAC2Decomp](https://github.com/platypet2217-star/RAC2Decomp)
+- **Ratchet & Clank: Going Commando (USA v1.01)** — [OpenRAC/rac2-gc-decomp](https://github.com/OpenRAC/rac2-gc-decomp)
+- **Ratchet & Clank: Size Matters** — [OpenRAC/rac5-sm-decomp](https://github.com/OpenRAC/rac5-sm-decomp)
+- **Ratchet & Clank: Up Your Arsenal** — [OpenRAC/rac3-uya-decomp](https://github.com/OpenRAC/rac3-uya-decomp)
+- **Ratchet & Clank: Up Your Arsenal** — [vetusmagnus/rac3-uya-decomp](https://github.com/vetusmagnus/rac3-uya-decomp)
+- **Ratchet: Deadlocked** — [OpenRAC/rac-deadlocked-decomp](https://github.com/OpenRAC/rac-deadlocked-decomp)
+- **Ratchet: Deadlocked** — [OpenRAC/rac4-decomp](https://github.com/OpenRAC/rac4-decomp)
+- **Rayman Revolution** — [everfeel/rayman-revolution-decomp](https://github.com/everfeel/rayman-revolution-decomp)
+- **Resident Evil - Code: Veronica X** — [fmil95/recvx-decomp](https://github.com/fmil95/recvx-decomp)
+- **Resident Evil - Code: Veronica X (recvx-decomp)** — [AshfordFamily/recvx-decomp](https://github.com/AshfordFamily/recvx-decomp)
+- **Resident Evil - Code: Veronica X (recvx-enhanced-recomp)** — [aikatore/recvx-enhanced-port](https://github.com/aikatore/recvx-enhanced-port) — *Static recompilation.*
+- **Resident Evil Outbreak** — [sp00nznet/reo](https://github.com/sp00nznet/reo)
+- **Resident Evil Outbreak** — [RaccoonRecomp/ResidentEvilOutbreakRecompiled](https://github.com/RaccoonRecomp/ResidentEvilOutbreakRecompiled) — *Static recompilation.*
+- **Resident Evil Outbreak (Ninjacornix)** — [Ninjacornix/reo](https://github.com/Ninjacornix/reo) — *Static recompilation.*
+- **Resident Evil Outbreak File #2 (REOF2)** — [caprado/REOF2](https://github.com/caprado/REOF2)
+- **Resident Evil: Dead Aim** — [cakehonolulu/Bullseye](https://github.com/cakehonolulu/Bullseye)
+- **Ridge Racer V** — [danisandoval/fukami](https://github.com/danisandoval/fukami)
+- **Road Trip** — [silentsudin/RoadTripAdventure-recomp](https://github.com/silentsudin/RoadTripAdventure-recomp) — *Static recompilation.*
+- **Rogue Galaxy** — [Dorgengoa/RGDecomp](https://github.com/Dorgengoa/RGDecomp)
+- **Rogue Galaxy** — [victor-takai/rogue-galaxy-recomp](https://github.com/victor-takai/rogue-galaxy-recomp) — *Static recompilation.*
+- **Saint Seiya: The Hades** — [matpdev/SaintSeiyaRecomp](https://github.com/matpdev/SaintSeiyaRecomp)
+- **Scooby-Doo! Mystery Mayhem** — [Campfirecrucifix/scooby-doo-mystery-mayhem-pc](https://github.com/Campfirecrucifix/scooby-doo-mystery-mayhem-pc) — *Port.*
+- **Shadow Hearts** — [~benoitren/shadowheartsdecompilation](https://git.sr.ht/~benoitren/shadowheartsdecompilation)
+- **Shadow of the Colossus** — [Fantaskink/SOTC](https://github.com/Fantaskink/SOTC)
+- **Shadow of the Colossus** — [TheRealestNwah/sotc-decomp](https://github.com/TheRealestNwah/sotc-decomp)
+- **Shadow of the Colossus (celosia)** — [HenryKun55/celosia](https://github.com/HenryKun55/celosia) — *Static recompilation.*
+- **Shadow of the Colossus (dylk-sotc-decomp)** — [dylking2381/dylk-sotc-decomp](https://github.com/dylking2381/dylk-sotc-decomp)
+- **Shadow of the Colossus (Recomp)** — [InconspicuousCactus/SotCStaticRecompilation](https://github.com/InconspicuousCactus/SotCStaticRecompilation)
+- **Shadow the Hedgehog** — [nicolasserpa/shadow-the-hedgehog-recomp](https://github.com/nicolasserpa/shadow-the-hedgehog-recomp) — *Static recompilation.*
+- **Shaun Palmer's Pro Snowboarder** — [Daniel-McCarthy/SPPS](https://github.com/Daniel-McCarthy/SPPS)
+- **Shin Megami Tensei: Digital Devil Saga** — [Megami-Decomps/dds-decomp](https://github.com/Megami-Decomps/dds-decomp)
+- **Silent Hill 2** — [dreamingmoths/mirror-of-alessa](https://github.com/dreamingmoths/mirror-of-alessa)
+- **Silent Hill 2 (sh2-nx)** — [cutarev/sh2-nx](https://github.com/cutarev/sh2-nx) — *Static recompilation.*
+- **Silent Hill 3** — [dreamingmoths/memory-of-alessa](https://github.com/dreamingmoths/memory-of-alessa)
+- **Silent Hill: Origins / GTA: Vice City Stories** — [BlackLineInteractive/SHO-GTA-VCS-PS2Recomp](https://github.com/BlackLineInteractive/SHO-GTA-VCS-PS2Recomp) — *Static recompilation. Inactive or archived.*
+- **The Sims 2: Castaway** — [HaydnTrigg/Castaway](https://github.com/HaydnTrigg/Castaway)
+- **The Sims 2: Castaways** — [simdecomp/ts2c](https://github.com/simdecomp/ts2c)
+- **Sly 2: Band of Thieves (decomp)** — [Komasia/sly2-decomp](https://github.com/Komasia/sly2-decomp)
+- **Sly 2: Band of Thieves (menaman123)** — [menaman123/Sly-2-Recomp](https://github.com/menaman123/Sly-2-Recomp) — *Static recompilation.*
+- **Sly Cooper and the Thievius Raccoonus** — [TheOnlyZac/sly1](https://github.com/TheOnlyZac/sly1)
+- **Sly Cooper and the Thievius Raccoonus (ProjectCane)** — [theclub654/ProjectCane](https://github.com/theclub654/ProjectCane)
+- **Sly Cooper series (SafeHouse)** — [FridiNaTor1/SafeHouse](https://github.com/FridiNaTor1/SafeHouse) — *Port.*
+- **SOCOM II: U.S. Navy SEALs** — [Scotho/socom-unzipped](https://github.com/Scotho/socom-unzipped)
+- **SOCOM: U.S. Navy SEALs (reCOM)** — [socom-cc/reCOM](https://github.com/socom-cc/reCOM)
+- **Sonic Riders: Zero Gravity (PS2 Prototype)** — [KidWizardOfTheWeb/SR2](https://github.com/KidWizardOfTheWeb/SR2)
+- **Sonic Riders: Zero Gravity Prototype** — [KidWizardOfTheWeb/SRZGDecomp](https://github.com/KidWizardOfTheWeb/SRZGDecomp)
+- **Soulcalibur III** — [Arzaroth/SoulCaliburIII_Recomp](https://github.com/Arzaroth/SoulCaliburIII_Recomp) — *Static recompilation.*
+- **Soulcalibur III (TheBozos)** — [TheBozos/SoulCaliburIII_Recomp](https://github.com/TheBozos/SoulCaliburIII_Recomp) — *Static recompilation.*
+- **Spider-Man 2** — [saltyboosack-blip/Spider-Man-2-PS2-Recomp](https://github.com/saltyboosack-blip/Spider-Man-2-PS2-Recomp) — *Static recompilation.*
+- **Splashdown** — [CoastRedWood/splashdown](https://github.com/CoastRedWood/splashdown)
+- **Spy vs. Spy (2005)** — [BookerRues9/spy-vs.-spy-static-recomp](https://github.com/BookerRues9/spy-vs.-spy-static-recomp) — *Static recompilation.*
+- **SSX** — [ssxdecomp/ssx](https://github.com/ssxdecomp/ssx)
+- **SSX 3** — [ssxdecomp/ssx3](https://github.com/ssxdecomp/ssx3)
+- **SSX 3 (ssx3-decomp)** — [andersfischernielsen/ssx3-decomp](https://github.com/andersfischernielsen/ssx3-decomp)
+- **SSX Tricky** — [ssxdecomp/ssxdvd](https://github.com/ssxdecomp/ssxdvd)
+- **SSX Tricky (ssxtricky)** — [ssxdecomp/ssxtricky](https://github.com/ssxdecomp/ssxtricky)
+- **Star Ocean: Till the End of Time** — [celophi/so3-decomp](https://github.com/celophi/so3-decomp)
+- **Stretch Panic** — [Harskov/stretch-panic-usa](https://github.com/Harskov/stretch-panic-usa)
+- **Stuntman** — [LAB0ULANGE/stuntman-pc](https://github.com/LAB0ULANGE/stuntman-pc) — *Static recompilation.*
+- **Summoner: A Goddess Reborn** — [Charlese2/sgr](https://github.com/Charlese2/sgr)
+- **Syphon Filter: The Omega Strain** — [zm2283145/syphon-filter-omega-strain-decomp](https://github.com/zm2283145/syphon-filter-omega-strain-decomp)
+- **Syphon Filter: The Omega Strain** — [zm2283145/syphon-filter-omega-strain-playtest](https://github.com/zm2283145/syphon-filter-omega-strain-playtest) — *Port.*
+- **Tak 2: The Staff of Dreams** — [liam02k/tak2](https://github.com/liam02k/tak2)
+- **TimeSplitters** — [GTTeancum/Timesplitters](https://github.com/GTTeancum/Timesplitters) — *Static recompilation.*
+- **TimeSplitters 2 (Linux)** — [Destinity13/TimeSplitters-2-Native-Linux-Recomp](https://github.com/Destinity13/TimeSplitters-2-Native-Linux-Recomp) — *Static recompilation.*
+- **Tom and Jerry in War of the Whiskers (wotwdecomp)** — [cohaereo/wotwdecomp](https://github.com/cohaereo/wotwdecomp) — *Inactive or archived.*
+- **Tomb Raider: Legend** — [TheIndra55/cdcEngine](https://github.com/TheIndra55/cdcEngine)
+- **Tony Hawk's Underground (thug-decomp)** — [andrewnakas/thug-decomp](https://github.com/andrewnakas/thug-decomp)
+- **Tourist Trophy** — [gustavocanepa/tt-decomp](https://github.com/gustavocanepa/tt-decomp)
+- **Transformers: Armada** — [kayliox/transformers-armada-recomp](https://github.com/kayliox/transformers-armada-recomp) — *Static recompilation.*
+- **Treasure Planet** — [Colt-Zero/Thousand-Worlds](https://github.com/Colt-Zero/Thousand-Worlds)
+- **Twisted Metal: Black** — [abelbriggs1/tmb_decomp](https://github.com/abelbriggs1/tmb_decomp)
+- **Twisted Metal: Black** — [OpenTrac/tmb_Re-Arc](https://github.com/OpenTrac/tmb_Re-Arc)
+- **Twisted Metal: Black** — [TheBozos/TMB_Recomp](https://github.com/TheBozos/TMB_Recomp) — *Static recompilation.*
+- **Twisted Metal: Harbor City** — [jacobleeharris/tmhc](https://github.com/jacobleeharris/tmhc)
+- **Ty the Tasmanian Tiger** — [1superchip/ty-decomp](https://github.com/1superchip/ty-decomp)
+- **Urban Reign** — [thiagordsfx/urban-reign-recomp](https://github.com/thiagordsfx/urban-reign-recomp) — *Static recompilation.*
+- **War of the Monsters** — [yanm1103/War_of_the_Monsters_recomp](https://github.com/yanm1103/War_of_the_Monsters_recomp) — *Static recompilation.*
+- **Way of the Samurai 2** — [acklavidian/decomp_wots2](https://github.com/acklavidian/decomp_wots2)
+- **WWE SmackDown! Here Comes the Pain** — [BigDaddyJRich/hctp-recomp](https://github.com/BigDaddyJRich/hctp-recomp) — *Static recompilation.*
+- **Xenosaga Episode 1 - Der Wille zur Macht** — [squareman/xenosaga](https://github.com/squareman/xenosaga)
+- **Xenosaga Episode I: Der Wille zur Macht** — [OpokXeno/xsg-i-decomp](https://github.com/OpokXeno/xsg-i-decomp)
+- **Xenosaga Episode I: Der Wille zur Macht** — [ValakTurtle/Xenosaga-I-Decomp](https://github.com/ValakTurtle/Xenosaga-I-Decomp)
+- **Xenosaga Episode II** — [OpokXeno/xsg-ii-decomp](https://github.com/OpokXeno/xsg-ii-decomp)
+- **Yakuza** — [hamzaxx370/ogre-decomp](https://github.com/hamzaxx370/ogre-decomp)
+- **Ys VI** — [GrantBenR/YsViDecomp](https://github.com/GrantBenR/YsViDecomp)
+- **Yu-Gi-Oh! The Duelists of the Roses** — [kira-502/dotr-decomp](https://github.com/kira-502/dotr-decomp)
+- **Zone of the Enders** — [Yaz-Myst/ZOE-Recompiled](https://github.com/Yaz-Myst/ZOE-Recompiled) — *Static recompilation.*
+- **Zone of the Enders 1** — [GirianSeed/zoe1](https://github.com/GirianSeed/zoe1)
+- **Zone of the Enders 2** — [GirianSeed/zoe2](https://github.com/GirianSeed/zoe2)
+- **Zone of the Enders 3 (Guy Savage from Metal Gear Solid 3)** — [GirianSeed/zoe3](https://github.com/GirianSeed/zoe3)
+
+## PlayStation 3
+
+50 projects
+
+- **Armored Core 4 (AC4-Port)** — [SulphurS16/AC4-Port](https://github.com/SulphurS16/AC4-Port) — *Port.*
+- **Armored Core: For Answer (ACFA-Port)** — [SulphurS16/ACFA-Port](https://github.com/SulphurS16/ACFA-Port) — *Port.*
+- **Ben 10: Omniverse** — [andrebrumdev/ben10-omniverse-recomp](https://github.com/andrebrumdev/ben10-omniverse-recomp) — *Static recompilation.*
+- **Comet Crash** — [gcerkez/comet-crash-re](https://github.com/gcerkez/comet-crash-re) — *Port.*
+- **Demon's Souls** — [JonathanDC64/DemonsSoulsRecomp](https://github.com/JonathanDC64/DemonsSoulsRecomp) — *Static recompilation.*
+- **Demon's Souls (Soulbrandt)** — [JonathanDC64/Soulbrandt](https://github.com/JonathanDC64/Soulbrandt) — *Static recompilation.*
+- **Demon's Souls (timboat)** — [timboat/demons-souls-recomp](https://github.com/timboat/demons-souls-recomp) — *Static recompilation.*
+- **Dragon Ball Z: Battle of Z** — [SayaModding/battle-of-z-pc](https://github.com/SayaModding/battle-of-z-pc) — *Static recompilation.*
+- **Dragon Ball Z: Budokai HD** — [gnome41/dbz-budokai-hd](https://github.com/gnome41/dbz-budokai-hd) — *Static recompilation.*
+- **Drakengard 3 (Drakengard 3 Recompiled)** — [soyjxck/dod3-recomp](https://github.com/soyjxck/dod3-recomp) — *Static recompilation.*
+- **flOw** — [sp00nznet/flow](https://github.com/sp00nznet/flow)
+- **Folklore** — [Mava-b/folklore-decomp](https://github.com/Mava-b/folklore-decomp)
+- **Formula One Championship Edition** — [mauricristiano95-hub/F1_CE_PS3](https://github.com/mauricristiano95-hub/F1_CE_PS3) — *Static recompilation.*
+- **God of War II HD** — [andrebrumdev/gow2-recomp](https://github.com/andrebrumdev/gow2-recomp)
+- **God of War II HD** — [sethlikepie/Gow2HD-Windows](https://github.com/sethlikepie/Gow2HD-Windows) — *Static recompilation.*
+- **God of War: Ascension** — [arnaldolima1/gow-ascension-pc](https://github.com/arnaldolima1/gow-ascension-pc) — *Static recompilation.*
+- **God of War: Ascension** — [MaChInEgUn3/God-of-War-Ascension-Recompiled](https://github.com/MaChInEgUn3/God-of-War-Ascension-Recompiled) — *Static recompilation.*
+- **God of War: Ascension (gowa-pc, Linux)** — [RichardFontoura/gowa-pc](https://github.com/RichardFontoura/gowa-pc) — *Static recompilation.*
+- **God of War: Ascension (otavix010)** — [otavix010/gow-ascension-pc](https://github.com/otavix010/gow-ascension-pc) — *Static recompilation.*
+- **God of War: Ascension (YJuDeAd)** — [YJuDeAd/gow-ascension-pc-port](https://github.com/YJuDeAd/gow-ascension-pc-port) — *Static recompilation.*
+- **Gran Turismo 5 Prologue** — [sp00nznet/GT5P](https://github.com/sp00nznet/GT5P) — *Static recompilation.*
+- **Gran Turismo 5 Prologue (Tourline Prologue)** — [mathewdouglas/Tourline-Prologue](https://github.com/mathewdouglas/Tourline-Prologue) — *Static recompilation.*
+- **Haze** — [zdiemer/haze-recomp](https://github.com/zdiemer/haze-recomp) — *Static recompilation.*
+- **Imabikisou** — [yasindevs/imabikisou-pc](https://github.com/yasindevs/imabikisou-pc) — *Static recompilation.*
+- **inFamous (inFAMOUSreborn)** — [whompay/inFAMOUSreborn](https://github.com/whompay/inFAMOUSreborn) — *Static recompilation.*
+- **inFAMOUS 2 (infamous-2-recomp)** — [markers12312312/infamous-2-recomp](https://github.com/markers12312312/infamous-2-recomp) — *Static recompilation.*
+- **inFAMOUS 2 (infamous2-pc)** — [ThiagoFraga761/infamous2-pc](https://github.com/ThiagoFraga761/infamous2-pc) — *Static recompilation.*
+- **inFAMOUS 2 (infamous2-port)** — [SamiEnazi/infamous2-port](https://github.com/SamiEnazi/infamous2-port) — *Static recompilation.*
+- **inFAMOUS 2 (iOS)** — [OGVenomstone65528/resp-infamous2-ios](https://github.com/OGVenomstone65528/resp-infamous2-ios) — *Static recompilation.*
+- **inFAMOUS 2 (macOS)** — [erikomis/infamous2-recomp](https://github.com/erikomis/infamous2-recomp) — *Static recompilation.*
+- **inFAMOUS 2 (respocket PC)** — [HyperaebaseAlpha/infamous2-pc-respocket](https://github.com/HyperaebaseAlpha/infamous2-pc-respocket) — *Static recompilation.*
+- **Killzone 2 (Project Pyrrhus)** — [undecuple/project-pyrrhus](https://github.com/undecuple/project-pyrrhus) — *Static recompilation.*
+- **Killzone 3 (Project Helghast)** — [undecuple/project-helghast](https://github.com/undecuple/project-helghast) — *Static recompilation.*
+- **Let's Make a Soccer Club! (Saka Tsuku)** — [PrimeTimerer/Make-Soccer-Club-Game-Project](https://github.com/PrimeTimerer/Make-Soccer-Club-Game-Project) — *Static recompilation.*
+- **MotorStorm: Pacific Rift** — [OddTrie/MotorstormPCificRift](https://github.com/OddTrie/MotorstormPCificRift) — *Static recompilation.*
+- **NHL Legacy Edition** — [csrpfivem/PS3NHLLegacyRecomp](https://github.com/csrpfivem/PS3NHLLegacyRecomp) — *Static recompilation.*
+- **Ratchet & Clank Future: Tools of Destruction (ratchet-tod-recomp)** — [Re-TeRo17/ratchet-tod-recomp](https://github.com/Re-TeRo17/ratchet-tod-recomp) — *Static recompilation.*
+- **Ratchet & Clank: A Crack in Time (RACiT)** — [HighDrexler/RACiT](https://github.com/HighDrexler/RACiT) — *Static recompilation.*
+- **Resident Evil Code: Veronica X HD** — [kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC](https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC) — *Static recompilation.*
+- **Resistance 3** — [miroslavdanutalexandru-alt/Resistance3Port](https://github.com/miroslavdanutalexandru-alt/Resistance3Port) — *Static recompilation.*
+- **Sengoku Basara 4 Sumeragi** — [razzconnect/basara4-native-pc](https://github.com/razzconnect/basara4-native-pc) — *Static recompilation.*
+- **Shadow of the Colossus** — [sp00nznet/shadowofthecolossus](https://github.com/sp00nznet/shadowofthecolossus) — *Static recompilation.*
+- **The Simpsons Arcade Game** — [sp00nznet/simpsonsarcade-ps3](https://github.com/sp00nznet/simpsonsarcade-ps3) — *Static recompilation.*
+- **Sonic the Hedgehog (2006, Soleanna)** — [DrummingBird1/sonic06-recomp](https://github.com/DrummingBird1/sonic06-recomp) — *Static recompilation.*
+- **Tokyo Jungle** — [sp00nznet/tokyojungle](https://github.com/sp00nznet/tokyojungle) — *Static recompilation.*
+- **Twisted Metal** — [franklincg/twisted-metal-2012-ps3-native-port](https://github.com/franklincg/twisted-metal-2012-ps3-native-port) — *Port.*
+- **Twisted Metal** — [sp00nznet/twistedmetal](https://github.com/sp00nznet/twistedmetal) — *Static recompilation.*
+- **White Knight Chronicles II** — [WK2D/White-Knight-Chronicles-2-Recomp](https://github.com/WK2D/White-Knight-Chronicles-2-Recomp) — *Static recompilation.*
+- **Yakuza: Dead Souls** — [canersaka/Yakuza-Dead-Souls-EX](https://github.com/canersaka/Yakuza-Dead-Souls-EX)
+- **Yakuza: Dead Souls** — [canersaka/Yakuza-Dead-Souls-Recompiled](https://github.com/canersaka/Yakuza-Dead-Souls-Recompiled) — *Static recompilation.*
+
+## PlayStation 4
+
+53 projects
+
+- **Bloodborne** — [Yharnam-Hunters/Paleblood](https://github.com/Yharnam-Hunters/Paleblood)
+- **Bloodborne** — [deadinside28/bloodborne_pc](https://github.com/deadinside28/bloodborne_pc) — *Port.*
+- **Bloodborne** — [Awakenchan/LanternEngine](https://github.com/Awakenchan/LanternEngine) — *Static recompilation.*
+- **Bloodborne** — [bloodborne-native/bloodborne-recomp](https://github.com/bloodborne-native/bloodborne-recomp) — *Static recompilation.*
+- **Bloodborne (bbhost)** — [droogie/bbhost](https://github.com/droogie/bbhost) — *Port.*
+- **Bloodborne (bloodborne_pc_windows_port)** — [Mrsuss60/bloodborne_pc_windows_port](https://github.com/Mrsuss60/bloodborne_pc_windows_port) — *Port.*
+- **Bloodborne (Linux)** — [ayozetr/bloodborne_linux](https://github.com/ayozetr/bloodborne_linux) — *Port.*
+- **Bloodborne (windows-native-loader)** — [theitsnschool/bloodborne-windows-native-loader](https://github.com/theitsnschool/bloodborne-windows-native-loader) — *Port.*
+- **Crash Team Racing Nitro-Fueled** — [GetLostIn/CTR-NitroFueled-PC](https://github.com/GetLostIn/CTR-NitroFueled-PC) — *Port.*
+- **Crash Team Racing Nitro-Fueled (OCTR: Online CTR Nitro-Fueled PC)** — [Ryu7w7/OCTR-NitroFueled-PC](https://github.com/Ryu7w7/OCTR-NitroFueled-PC) — *Port.*
+- **Dead or Alive Xtreme 3 Fortune** — [negroISO/doax3-fortune-pc](https://github.com/negroISO/doax3-fortune-pc) — *Port.*
+- **Dead or Alive Xtreme 3 Scarlet** — [negroISO/doax3-scarlet-pc](https://github.com/negroISO/doax3-scarlet-pc) — *Port.*
+- **Deception IV: The Nightmare Princess** — [rcostanza/Deception-IV-NightmarePrincess-recomp](https://github.com/rcostanza/Deception-IV-NightmarePrincess-recomp) — *Static recompilation.*
+- **Dragon's Crown Pro** — [saulob/dragons-crown-pro-pc](https://github.com/saulob/dragons-crown-pro-pc) — *Port.*
+- **Driveclub** — [BlackLineInteractive/Driveclub-Port](https://github.com/BlackLineInteractive/Driveclub-Port) — *Port. Inactive or archived.*
+- **DriveClub (DriveClub Recomp)** — [OverkillLabs3/driveclub-recomp](https://github.com/OverkillLabs3/driveclub-recomp) — *Static recompilation.*
+- **EA Sports UFC 3** — [GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS](https://github.com/GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS) — *Port.*
+- **Fist of the North Star: Lost Paradise** — [ItalianKuze/port-ga-gotoku](https://github.com/ItalianKuze/port-ga-gotoku) — *Port.*
+- **God of War III Remastered** — [FelipePrado0/SpartanPort](https://github.com/FelipePrado0/SpartanPort) — *Port.*
+- **Gravity Rush 2** — [HayatoG/gr2_pc](https://github.com/HayatoG/gr2_pc) — *Port.*
+- **Gravity Rush Remastered (LucaPazienza)** — [LucaPazienza/gravityrush_pc](https://github.com/LucaPazienza/gravityrush_pc) — *Port.*
+- **Gravity Rush Remastered / Gravity Rush 2** — [Prathewsh/gravityrush_pc](https://github.com/Prathewsh/gravityrush_pc) — *Port.*
+- **inFAMOUS First Light** — [VantageEX/infamous-first-light-pc](https://github.com/VantageEX/infamous-first-light-pc) — *Port.*
+- **inFAMOUS Second Son** — [HayatoG/iss_pc](https://github.com/HayatoG/iss_pc) — *Port.*
+- **inFAMOUS Second Son** — [Castlesea/infamous-second-son-pc-port](https://github.com/Castlesea/infamous-second-son-pc-port) — *Port.*
+- **Killzone: Shadow Fall** — [lesca-191204/killzone-shadowfall-pc](https://github.com/lesca-191204/killzone-shadowfall-pc) — *Port.*
+- **Knack** — [AbdelmoumenDeghbouche/knack_pc](https://github.com/AbdelmoumenDeghbouche/knack_pc) — *Port.*
+- **Kyoei Toshi (PC port)** — [DavyBirth/kyoei-toshi](https://github.com/DavyBirth/kyoei-toshi) — *Port.*
+- **The Last Guardian** — [HayatoG/tlg_pc](https://github.com/HayatoG/tlg_pc) — *Port.*
+- **The Last Guardian** — [SulphurS16/TLG-Port](https://github.com/SulphurS16/TLG-Port) — *Port.*
+- **The Last of Us** — [HayatoG/tlou_pc](https://github.com/HayatoG/tlou_pc) — *Port.*
+- **The Last of Us Remastered** — [ravencaio/tlou-remastered-pc](https://github.com/ravencaio/tlou-remastered-pc) — *Port.*
+- **LEGO Dimensions** — [vascon-es/lego-dimensions-pc](https://github.com/vascon-es/lego-dimensions-pc) — *Port.*
+- **Matterfall** — [bc160201983/Matterfall-PC-port](https://github.com/bc160201983/Matterfall-PC-port) — *Port.*
+- **MediEvil** — [bc160201983/medievil_2019_pc_port](https://github.com/bc160201983/medievil_2019_pc_port) — *Port.*
+- **NHL 24 PC** — [HajDEO/nhl24pc](https://github.com/HajDEO/nhl24pc) — *Port.*
+- **Odin Sphere Leifthrasir** — [saulob/odin-sphere-leifthrasir-pc](https://github.com/saulob/odin-sphere-leifthrasir-pc) — *Port.*
+- **The Order: 1886** — [mateussmeneses/theorder1886-port](https://github.com/mateussmeneses/theorder1886-port) — *Port.*
+- **The Order: 1886** — [lxnis/Order1886-PC](https://github.com/lxnis/Order1886-PC) — *Port.*
+- **Prototype / Prototype 2** — [petrishevgeorgii-debug/prototype-pc-slop](https://github.com/petrishevgeorgii-debug/prototype-pc-slop) — *Port.*
+- **Ratchet & Clank (RatchetPort)** — [shehab4546/RatchetPort](https://github.com/shehab4546/RatchetPort) — *Port.*
+- **Resogun** — [rcostanza/resogun-recomp](https://github.com/rcostanza/resogun-recomp) — *Static recompilation.*
+- **Shadow of the Colossus** — [AjncSystem/ShadowOfTheColossus-PC](https://github.com/AjncSystem/ShadowOfTheColossus-PC) — *Port.*
+- **Shadow of the Colossus** — [Oussama268/ShadowOfTheColossus-PC](https://github.com/Oussama268/ShadowOfTheColossus-PC) — *Port.*
+- **Shadow of the Colossus (PS4, FrameGen)** — [nakaionyt/ShadowOfTheColossus-PC-FrameGen](https://github.com/nakaionyt/ShadowOfTheColossus-PC-FrameGen) — *Port.*
+- **Super Stardust Ultra** — [darkuni/super-stardust-ultra-recomp](https://github.com/darkuni/super-stardust-ultra-recomp) — *Static recompilation.*
+- **Tsukihime -A piece of blue glass moon- (Project Blue Moon)** — [Waffle631/Project-Blue-Moon](https://github.com/Waffle631/Project-Blue-Moon) — *Port.*
+- **Uncharted: The Nathan Drake Collection** — [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) — *Port.*
+- **Uncharted: The Nathan Drake Collection** — [bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port](https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port) — *Port.*
+- **Uncharted: The Nathan Drake Collection (zorde23)** — [zorde23/Uncharted_Collection_PC](https://github.com/zorde23/Uncharted_Collection_PC) — *Port.*
+- **Unicorn Overlord** — [hachi23/unicorn_overlord_pc](https://github.com/hachi23/unicorn_overlord_pc) — *Port.*
+- **Until Dawn** — [SuperCatElvis/UntilDawn_PC](https://github.com/SuperCatElvis/UntilDawn_PC) — *Port.*
+- **WipEout Omega Collection** — [AbdelmoumenDeghbouche/wipeout_pc](https://github.com/AbdelmoumenDeghbouche/wipeout_pc) — *Port.*
+
+## PlayStation 5
+
+1 project
+
+- **God of War: Sons of Sparta (Sons Of Sparta PS5 Native)** — [OverkillLabs3/SoS-PS5](https://github.com/OverkillLabs3/SoS-PS5) — *Port.*
+
+## PlayStation Portable
+
+34 projects
+
+- **The 3rd Birthday** — [BasedYuki/the-3rd-birthday-recomp](https://github.com/BasedYuki/the-3rd-birthday-recomp) — *Static recompilation.*
+- **ACE COMBAT X** — [sal063/Ace-Combat-X-Recompilation](https://github.com/sal063/Ace-Combat-X-Recompilation)
+- **Burnout Legends (Vita)** — [LAB0ULANGE/BurnoutLegends-Vita](https://github.com/LAB0ULANGE/BurnoutLegends-Vita) — *Port.*
+- **Fate/unlimited codes** — [elprogramadorloco-arch/fuc-recomp](https://github.com/elprogramadorloco-arch/fuc-recomp)
+- **God of War: Chains of Olympus** — [Simeony2007/VibeRecomp-for-GoW-CoO](https://github.com/Simeony2007/VibeRecomp-for-GoW-CoO) — *Static recompilation.*
+- **God of War: Chains of Olympus (gow-chains-of-olympus-pc)** — [arnaldolima1/gow-chains-of-olympus-pc](https://github.com/arnaldolima1/gow-chains-of-olympus-pc) — *Static recompilation.*
+- **God of War: Chains of Olympus (PSP Web Recomp)** — [snuri00/psp-web-recomp](https://github.com/snuri00/psp-web-recomp) — *Static recompilation.*
+- **God of War: Chains of Olympus / Ghost of Sparta** — [DrummingBird1/gow-psp-recomp](https://github.com/DrummingBird1/gow-psp-recomp) — *Static recompilation.*
+- **God of War: Ghost of Sparta** — [arnaldolima1/gow-ghost-of-sparta-pc](https://github.com/arnaldolima1/gow-ghost-of-sparta-pc) — *Static recompilation.*
+- **Grand Theft Auto: Liberty City Stories (Android)** — [codepdbh/PSPRecomp-LCS-Android](https://github.com/codepdbh/PSPRecomp-LCS-Android) — *Static recompilation.*
+- **Grand Theft Auto: Vice City Stories (PSPRecomp-VCS-Android)** — [codepdbh/PSPRecomp-VCS-Android](https://github.com/codepdbh/PSPRecomp-VCS-Android) — *Static recompilation.*
+- **Grand Theft Auto: Vice City Stories (Vice City Stories Recomp)** — [OverkillLabs3/vice-city-stories-recomp](https://github.com/OverkillLabs3/vice-city-stories-recomp) — *Static recompilation.*
+- **Hatsune Miku: Project DIVA** — [Rhalekey/ProjectDivaRecomp](https://github.com/Rhalekey/ProjectDivaRecomp) — *Static recompilation.*
+- **Hot Shots Tennis: Get a Grip** — [Jstar269/nakagawa-recomp](https://github.com/Jstar269/nakagawa-recomp) — *Static recompilation.*
+- **Killzone: Liberation** — [Tzeentchnet/KillzoneLiberation-Recomp](https://github.com/Tzeentchnet/KillzoneLiberation-Recomp) — *Static recompilation.*
+- **LCS Recomp** — [elmasas/lcs-recomp](https://github.com/elmasas/lcs-recomp)
+- **Metal Gear Solid: Peace Walker** — [ccbury/MGSPOStaticRecomp](https://github.com/ccbury/MGSPOStaticRecomp) — *Static recompilation.*
+- **Monster Hunter Freedom Unite** — [PateeerQ/FreedomUniteRecomp](https://github.com/PateeerQ/FreedomUniteRecomp) — *Static recompilation.*
+- **Monster Hunter Freedom Unite (MHForever)** — [Mango77x/MHForever](https://github.com/Mango77x/MHForever) — *Static recompilation.*
+- **Monster Hunter Portable 2nd G** — [tclamb/mhp2g-decomp](https://github.com/tclamb/mhp2g-decomp)
+- **Mortal Kombat: Unchained** — [ParsaBordbar/mku_native](https://github.com/ParsaBordbar/mku_native) — *Static recompilation.*
+- **Patapon 3 (pataport)** — [AlessioGiacobbe/pataport](https://github.com/AlessioGiacobbe/pataport) — *Static recompilation.*
+- **Phantasy Star Portable 2 Infinity** — [zmbkilla/PSP2I_Recomp](https://github.com/zmbkilla/PSP2I_Recomp) — *Static recompilation.*
+- **Pursuit Force** — [itasimo/Pursuit-Force-Decomp](https://github.com/itasimo/Pursuit-Force-Decomp) — *Inactive or archived.*
+- **Ridge Racer** — [SpeedyJustice2/Ridge-Racer-PSP-Static-Recomp](https://github.com/SpeedyJustice2/Ridge-Racer-PSP-Static-Recomp) — *Static recompilation.*
+- **Saru Get You: Saru Saru Daisakusen** — [jackgllghr/bigmission-recomp](https://github.com/jackgllghr/bigmission-recomp) — *Static recompilation.*
+- **Shin Megami Tensei: Persona 3 Portable (P3P3DS)** — [endercodezz/P3P3DS](https://github.com/endercodezz/P3P3DS) — *Port.*
+- **Star Wars Battlefront: Renegade Squadron** — [GTTeancum/StarWars-RenegadeSquadron-PC](https://github.com/GTTeancum/StarWars-RenegadeSquadron-PC) — *Static recompilation.*
+- **Street Fighter Alpha 3 MAX** — [theweathervane/sfa3max-decomp](https://github.com/theweathervane/sfa3max-decomp)
+- **Tekken: Dark Resurrection** — [gasparegas/tkdr-recomp](https://github.com/gasparegas/tkdr-recomp) — *Static recompilation.*
+- **Wipeout Pure** — [erreib/pure-recomp](https://github.com/erreib/pure-recomp) — *Static recompilation.*
+- **Yakumo** — [TeamGDB/Yakumo](https://github.com/TeamGDB/Yakumo) — *Static recompilation.*
+- **Yu-Gi-Oh! 5D's Tag Force 5** — [angelof-exe/ygo-tf-5-decomp](https://github.com/angelof-exe/ygo-tf-5-decomp)
+- **Yu-Gi-Oh! GX Tag Force** — [Artknighty/tagforcerecomp-preview](https://github.com/Artknighty/tagforcerecomp-preview) — *Static recompilation.*
+
+## Xbox
+
+158 projects
+
+- **007: Agent Under Fire (XBE Recomp)** — [hk21x/007-agentunderfire-recomp](https://github.com/hk21x/007-agentunderfire-recomp) — *Static recompilation.*
+- **007: Everything or Nothing (XBE Recomp)** — [hk21x/007eon-recomp](https://github.com/hk21x/007eon-recomp) — *Static recompilation.*
+- **007: From Russia with Love** — [TGP482/007FRWL-XBERecomp](https://github.com/TGP482/007FRWL-XBERecomp) — *Static recompilation.*
+- **007: Nightfire** — [stefredcore/Nightfire-Recomp](https://github.com/stefredcore/Nightfire-Recomp) — *Static recompilation.*
+- **007: NightFire (remastered fork)** — [papand7/nightfire-recomp](https://github.com/papand7/nightfire-recomp) — *Static recompilation.*
+- **Amped 2** — [bertibertig/Amped2-Recomp](https://github.com/bertibertig/Amped2-Recomp) — *Static recompilation.*
+- **Black** — [portingpete/Black-2006-Recomp](https://github.com/portingpete/Black-2006-Recomp) — *Static recompilation.*
+- **Black (Android, Black-Continue)** — [UnknuwProjects/Black-Continue](https://github.com/UnknuwProjects/Black-Continue) — *Static recompilation.*
+- **Black (Android, RanggaCasper)** — [RanggaCasper/Black-Android](https://github.com/RanggaCasper/Black-Android) — *Static recompilation.*
+- **Black (Black - XBE Recomp)** — [TGP482/BLACK-XBERecomp](https://github.com/TGP482/BLACK-XBERecomp) — *Static recompilation.*
+- **BLACK (black-pc)** — [Spark198rus/black-pc](https://github.com/Spark198rus/black-pc) — *Port.*
+- **Black (macOS)** — [elpetese/black-macos-recomp](https://github.com/elpetese/black-macos-recomp) — *Static recompilation.*
+- **Black (XBE Multiplayer)** — [Peterson047/BLACK-XBEMultiplayer](https://github.com/Peterson047/BLACK-XBEMultiplayer) — *Static recompilation.*
+- **Blinx 2: Masters of Time and Space** — [apexJCL/blinx2-recomp](https://github.com/apexJCL/blinx2-recomp) — *Static recompilation.*
+- **Blood Wake** — [minimalice92/bloodwake-recomp](https://github.com/minimalice92/bloodwake-recomp) — *Static recompilation.*
+- **Bloody Roar Extreme** — [bromurok/BloodyRoarExtremeRecomp](https://github.com/bromurok/BloodyRoarExtremeRecomp) — *Static recompilation.*
+- **Bloody Roar Extreme (Switch)** — [xsaja/brextreme-nx](https://github.com/xsaja/brextreme-nx) — *Static recompilation.*
+- **Breakdown** — [Heromachine/Breakdown-Recompilation](https://github.com/Heromachine/Breakdown-Recompilation) — *Static recompilation.*
+- **Brute Force** — [Tzeentchnet/BruteForce](https://github.com/Tzeentchnet/BruteForce) — *Static recompilation.*
+- **Buffy the Vampire Slayer** — [wiluss/btvs-recomp](https://github.com/wiluss/btvs-recomp) — *Static recompilation.*
+- **Buffy the Vampire Slayer: Chaos Bleeds** — [KaikoClanworth1/buffy-chaos-bleeds-pc](https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc) — *Port.*
+- **Burnout** — [Heromachine/Burnout-Recompilation](https://github.com/Heromachine/Burnout-Recompilation) — *Static recompilation.*
+- **Burnout 2: Point of Impact** — [timftw21/burnout2-recompilation](https://github.com/timftw21/burnout2-recompilation) — *Static recompilation.*
+- **Burnout 3** — [mxmstr/Burnout3Recomp](https://github.com/mxmstr/Burnout3Recomp)
+- **Burnout 3: Takedown** — [sp00nznet/burnout3](https://github.com/sp00nznet/burnout3)
+- **Burnout 3: Takedown** — [xenophobentx/takedawn](https://github.com/xenophobentx/takedawn) — *Static recompilation.*
+- **Burnout 3: Takedown (PS5)** — [griches/PS5_Burnout3](https://github.com/griches/PS5_Burnout3) — *Port.*
+- **Call of Duty 2: Big Red One (native loader)** — [SmokeDoggy044/CoD2-BRO-Native-Loader](https://github.com/SmokeDoggy044/CoD2-BRO-Native-Loader) — *Port.*
+- **Call of Duty: Finest Hour (Finest Hour Remastered)** — [crazyriddler/FinestHourRemastered](https://github.com/crazyriddler/FinestHourRemastered) — *Port.*
+- **Castlevania: Curse of Darkness** — [Neguchads/Castlevania-COD-Recomp](https://github.com/Neguchads/Castlevania-COD-Recomp) — *Static recompilation.*
+- **Codename: Kids Next Door – Operation: V.I.D.E.O.G.A.M.E.** — [Pallypots/Kids-Next-Door-D.E.C.O.M.P.](https://github.com/Pallypots/Kids-Next-Door-D.E.C.O.M.P.)
+- **Colin McRae Rally 2005** — [projectedan/McRae05-XBE-Recomp](https://github.com/projectedan/McRae05-XBE-Recomp) — *Static recompilation.*
+- **Conker: Live & Reloaded (Android)** — [codepdbh/conker-android-evolved](https://github.com/codepdbh/conker-android-evolved) — *Static recompilation.*
+- **Conker: Live & Reloaded (cdetv)** — [cdetv/conker-live-recompiled](https://github.com/cdetv/conker-live-recompiled) — *Static recompilation.*
+- **Conker: Live & Reloaded (conker-lr-recomp)** — [rashevskyv/conker-lr-recomp](https://github.com/rashevskyv/conker-lr-recomp) — *Static recompilation.*
+- **Conker: Live & Reloaded (live-and-recompiled)** — [giacomozama/live-and-recompiled](https://github.com/giacomozama/live-and-recompiled) — *Static recompilation.*
+- **Conker: Live & Reloaded (Recomped & Reloaded)** — [Mabec-games/Conker-Recomped-and-Reloaded](https://github.com/Mabec-games/Conker-Recomped-and-Reloaded) — *Static recompilation.*
+- **Counter-Strike (Xbox)** — [randomize6711/csx-recomp](https://github.com/randomize6711/csx-recomp) — *Static recompilation.*
+- **Crimson Skies: High Road to Revenge** — [saironbusatto/CrimsonSkiesRecomp](https://github.com/saironbusatto/CrimsonSkiesRecomp) — *Static recompilation.*
+- **Darkwatch (arizona-vamp-recomp)** — [Clergyman0013/arizona-vamp-recomp](https://github.com/Clergyman0013/arizona-vamp-recomp) — *Static recompilation.*
+- **Darkwatch (Darker Edition)** — [linkssy2/DarkwatchDarkerEdition](https://github.com/linkssy2/DarkwatchDarkerEdition) — *Static recompilation.*
+- **Dead or Alive 2 Ultimate** — [parkerallan/doa2u-recomp](https://github.com/parkerallan/doa2u-recomp) — *Static recompilation.*
+- **Dead or Alive 2 Ultimate (doa2u-re)** — [NoRain211/doa2u-re](https://github.com/NoRain211/doa2u-re) — *Static recompilation.*
+- **Dead or Alive 3** — [parkerallan/doa3-recomp](https://github.com/parkerallan/doa3-recomp) — *Static recompilation.*
+- **Dead or Alive 3** — [NoRain211/doa3-re](https://github.com/NoRain211/doa3-re) — *Static recompilation.*
+- **Dead or Alive 3 (Android)** — [Wannamingo/DOA3](https://github.com/Wannamingo/DOA3) — *Port.*
+- **Dead or Alive Xtreme Beach Volleyball** — [NoRain211/doaxvb-re](https://github.com/NoRain211/doaxvb-re)
+- **Dead or Alive Xtreme Beach Volleyball (doaxbv-re)** — [NoRain211/doaxbv-re](https://github.com/NoRain211/doaxbv-re) — *Static recompilation.*
+- **Def Jam: Fight for NY** — [vyanhursky/DefJamFFNY-recomp](https://github.com/vyanhursky/DefJamFFNY-recomp) — *Static recompilation.*
+- **Def Jam: Fight for NY** — [comoria08/defjam_recomp](https://github.com/comoria08/defjam_recomp) — *Static recompilation.*
+- **Def Jam: Fight for NY** — [R-drg/defjam-sw](https://github.com/R-drg/defjam-sw) — *Static recompilation.*
+- **Dynasty Warriors 5 (Android)** — [datfooldive/DW5-Android](https://github.com/datfooldive/DW5-Android) — *Static recompilation.*
+- **Far Cry Instincts** — [VinceIP/fci-recomp](https://github.com/VinceIP/fci-recomp) — *Static recompilation.*
+- **Far Cry Instincts** — [bassobr/Far-Cry-Instincts-Recomp](https://github.com/bassobr/Far-Cry-Instincts-Recomp) — *Static recompilation.*
+- **Forza Motorsport (Redline Recompiled)** — [DivxPlays/redline-recompiled](https://github.com/DivxPlays/redline-recompiled) — *Static recompilation.*
+- **Futurama** — [hiburn8/Futurama-The-Game-The-Recomp](https://github.com/hiburn8/Futurama-The-Game-The-Recomp) — *Static recompilation.*
+- **Genma Onimusha** — [rafaelkenedy/genma-recomp](https://github.com/rafaelkenedy/genma-recomp) — *Static recompilation.*
+- **The Godfather (Switch)** — [CYBERPUNK20/godfather-nx](https://github.com/CYBERPUNK20/godfather-nx) — *Static recompilation.*
+- **Grabbed by the Ghoulies** — [SeveerJ/Ghoulies_PC_Recomp](https://github.com/SeveerJ/Ghoulies_PC_Recomp) — *Static recompilation.*
+- **Grabbed by the Ghoulies (kingzmanh)** — [kingzmanh/grabbed-by-the-ghoulies-pc](https://github.com/kingzmanh/grabbed-by-the-ghoulies-pc) — *Static recompilation.*
+- **Gunmetal** — [dingusdev/gunmetal-decomp](https://github.com/dingusdev/gunmetal-decomp)
+- **Half-Life 2** — [sp00nznet/hl2-recomp](https://github.com/sp00nznet/hl2-recomp) — *Static recompilation.*
+- **Halo 2** ✦ — [kirklandsig/halo2-decompiled](https://github.com/kirklandsig/halo2-decompiled)
+- **Halo 2** — [TheRunaway5/Halo-2-Decompiled](https://github.com/TheRunaway5/Halo-2-Decompiled)
+- **Halo 2 (engine recovery)** — [BirchWoodGod/halo2-decomp](https://github.com/BirchWoodGod/halo2-decomp)
+- **Halo: Combat Evolved** — [halo-re/halo](https://github.com/halo-re/halo) · [punpckhdq/halo](https://github.com/punpckhdq/halo)
+- **Halo: Combat Evolved (Anbernic RG35XX H)** — [kirklandsig/halo-ce-anbernic-rg35xx](https://github.com/kirklandsig/halo-ce-anbernic-rg35xx) — *Port.*
+- **Halo: Combat Evolved (Apple Vision Pro)** — [mitchaiet/master-chef](https://github.com/mitchaiet/master-chef) — *Port.*
+- **Halo: Combat Evolved (ChupathingyCE)** — [ChupathingyCE/chupathingyce](https://github.com/ChupathingyCE/chupathingyce) — *Port.*
+- **Halo: Combat Evolved (Halo 64)** — [JackTulli/halo-64](https://github.com/JackTulli/halo-64) — *Port.*
+- **Halo: Combat Evolved (Project Reach)** — [chrissotraidis/projectreach](https://github.com/chrissotraidis/projectreach) — *Port.*
+- **Halo: Combat Evolved (PS Vita)** — [BirchWoodGod/halo-ce-vita](https://github.com/BirchWoodGod/halo-ce-vita) — *Port.*
+- **Halo: Combat Evolved (VR)** — [moistman42069/HaloCE-DecompRemix-VR-PC-Android](https://github.com/moistman42069/HaloCE-DecompRemix-VR-PC-Android) — *Port.*
+- **Halo: Combat Evolved (warthog-xbox)** — [ChupathingyCE/warthog-xbox](https://github.com/ChupathingyCE/warthog-xbox) — *Port.*
+- **Harry Potter and the Chamber of Secrets** — [MiddleDucky/HP-COS-Xbox-Recomp](https://github.com/MiddleDucky/HP-COS-Xbox-Recomp) — *Static recompilation.*
+- **Harry Potter and the Philosopher's Stone** — [MiddleDucky/HP-PS-Xbox-Recomp](https://github.com/MiddleDucky/HP-PS-Xbox-Recomp) — *Static recompilation.*
+- **The Incredible Hulk: Ultimate Destruction** — [lookingcoding/hulk-ultimate-destruction-recomp-xbox-ver-](https://github.com/lookingcoding/hulk-ultimate-destruction-recomp-xbox-ver-) — *Static recompilation.*
+- **Iron Phoenix** — [godspirit00/IronPhoenix_port](https://github.com/godspirit00/IronPhoenix_port) — *Static recompilation.*
+- **Jet Set Radio Future** — [KeybadeBlox/JSRF-Decompilation](https://codeberg.org/KeybadeBlox/JSRF-Decompilation)
+- **Jet Set Radio Future (Jet Set Radio Future Unleashed)** — [JuMatt/JetSetRadioFuture-Unleashed](https://github.com/JuMatt/JetSetRadioFuture-Unleashed) — *Port.*
+- **Jet Set Radio Future (JSRF-Recomp)** — [Miggas/JSRF-Recomp](https://github.com/Miggas/JSRF-Recomp) — *Static recompilation.*
+- **Jet Set Radio Future (Recomp)** — [andeecollard/jsrf-recomp](https://github.com/andeecollard/jsrf-recomp)
+- **Juiced (Android)** — [Ihor-Ihorevych/JuicedRecomp](https://github.com/Ihor-Ihorevych/JuicedRecomp) — *Static recompilation.*
+- **Links 2004** — [cgpartlow/Links2004-XBERecomp](https://github.com/cgpartlow/Links2004-XBERecomp) — *Static recompilation.*
+- **The Lord of the Rings: The Two Towers** — [Gumpolas/TooTawersRecomp](https://github.com/Gumpolas/TooTawersRecomp) — *Static recompilation.*
+- **Lord of the Rings; The Third Age** — [Revan67/ThirdAge-Recomp](https://github.com/Revan67/ThirdAge-Recomp) — *Static recompilation.*
+- **Marvel Nemesis: Rise of the Imperfects** — [15Cyber/marvel-nemesis-recomp](https://github.com/15Cyber/marvel-nemesis-recomp) — *Static recompilation.*
+- **Marvel vs. Capcom 2** — [dalves408/mvsc2-recomp](https://github.com/dalves408/mvsc2-recomp) — *Static recompilation.*
+- **Max Payne** — [phobos665/payne-recomp](https://github.com/phobos665/payne-recomp) — *Static recompilation.*
+- **Mercenaries: Playground of Destruction** — [KraftMacAndChee/Mercenaries-Recompiled](https://github.com/KraftMacAndChee/Mercenaries-Recompiled)
+- **Midnight Club 3: DUB Edition (mc3-web, WebAssembly)** — [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web) — *Static recompilation.*
+- **Midnight Club 3: DUB Edition Remix** — [Masterllgod/midnight-club-3-dub-edition-remix-port-nativo](https://github.com/Masterllgod/midnight-club-3-dub-edition-remix-port-nativo) — *Static recompilation.*
+- **Midtown Madness 3** — [lakshya16157/midtown-madness-3-PC-Native](https://github.com/lakshya16157/midtown-madness-3-PC-Native) — *Static recompilation.*
+- **Midtown Madness 3** — [MattSG/mm3-recomp](https://github.com/MattSG/mm3-recomp) — *Static recompilation.*
+- **Mortal Kombat: Shaolin Monks** — [OAleex/ShaolinMonksRecomp](https://github.com/OAleex/ShaolinMonksRecomp) — *Static recompilation.*
+- **Mortal Kombat: Shaolin Monks (Android)** — [RanggaCasper/ShaolinMonks-Android](https://github.com/RanggaCasper/ShaolinMonks-Android) — *Static recompilation.*
+- **Mortal Kombat: Shaolin Monks (mksm-recomp)** — [OGmidway/mksm-recomp](https://github.com/OGmidway/mksm-recomp) — *Static recompilation.*
+- **Mortal Kombat: Shaolin Monks (OpenShao)** — [OAleex/OpenShao](https://github.com/OAleex/OpenShao) — *Static recompilation.*
+- **Need for Speed: Most Wanted (Android)** — [RanggaCasper/MostWanted-Android](https://github.com/RanggaCasper/MostWanted-Android) — *Static recompilation.*
+- **Need for Speed: Underground 2 (PS5)** — [bystritskiy/reUndr2-ps5](https://github.com/bystritskiy/reUndr2-ps5) — *Static recompilation.*
+- **Need for Speed: Underground 2 (Switch port)** — [antoxa2584x/nfsu2-sw](https://github.com/antoxa2584x/nfsu2-sw) — *Port.*
+- **NHL Hitz Pro** — [dalves408/nhlhitzpro-recomp](https://github.com/dalves408/nhlhitzpro-recomp) — *Static recompilation.*
+- **The Nightmare Before Christmas: Oogie's Revenge** — [josiahg2502-glitch/OogiesRevengeRecompiled](https://github.com/josiahg2502-glitch/OogiesRevengeRecompiled) — *Static recompilation.*
+- **Ninja Gaiden Black** — [gamboozino/ngbrecomp](https://github.com/gamboozino/ngbrecomp) — *Static recompilation.*
+- **Ninja Gaiden Black / Ninja Gaiden 2** — [mehmetalinya/DECOMP__Ninja](https://github.com/mehmetalinya/DECOMP__Ninja) — *Inactive or archived.*
+- **OpenCE** — [OpenCommunityEdition/OpenCE](https://github.com/OpenCommunityEdition/OpenCE)
+- **Otogi: Myth of Demons** — [Guuzzeji/otogi-xunchain](https://github.com/Guuzzeji/otogi-xunchain) — *Static recompilation.*
+- **Outlaw Golf 2** — [projectedan/OutlawGolf2-XBE-Recomp](https://github.com/projectedan/OutlawGolf2-XBE-Recomp) — *Static recompilation.*
+- **Panzer Dragoon Orta** — [almost-drowned-rat/Orta-Recompiled](https://github.com/almost-drowned-rat/Orta-Recompiled) — *Static recompilation.*
+- **Panzer Dragoon Orta (SeveerJ)** — [SeveerJ/Orta_PC_Recomp](https://github.com/SeveerJ/Orta_PC_Recomp) — *Static recompilation.*
+- **Predator: Concrete Jungle** — [Adolini1715/Concrete-Jungle-PC](https://github.com/Adolini1715/Concrete-Jungle-PC) — *Static recompilation.*
+- **Prince of Persia: The Sands of Time (reSOT)** — [FulGerNet/rePOP](https://github.com/FulGerNet/rePOP) — *Static recompilation.*
+- **Pro Evolution Soccer 5 (Android)** — [datfooldive/PES5-Android](https://github.com/datfooldive/PES5-Android) — *Static recompilation.*
+- **Project Gotham Racing** — [hk21x/pgr1-recomp](https://github.com/hk21x/pgr1-recomp) — *Static recompilation.*
+- **Project Gotham Racing 2** — [hk21x/pgr2-recomp](https://github.com/hk21x/pgr2-recomp) — *Static recompilation.*
+- **Quantum Redshift** — [apexJCL/quantum-redshift-recomp](https://github.com/apexJCL/quantum-redshift-recomp) — *Static recompilation.*
+- **RalliSport Challenge 2 (RalliSport Challenge 2 — static recompilation)** — [Mortify7612/RallisportChallenge2-decomp](https://github.com/Mortify7612/RallisportChallenge2-decomp) — *Static recompilation.*
+- **Red Dead Revolver** — [dennisabalo18-bot/red-dead-revolver-pc](https://github.com/dennisabalo18-bot/red-dead-revolver-pc) — *Static recompilation.*
+- **Scarface: The World Is Yours** — [scarface-decomp/scarface_decomp](https://github.com/scarface-decomp/scarface_decomp)
+- **Shin Megami Tensei: NINE** — [gymzatan/smt-nine-recomp](https://github.com/gymzatan/smt-nine-recomp) — *Static recompilation.*
+- **The Simpsons: Hit & Run (Xbox recomp)** — [VetTV-Studios/simpsons-hit-and-run-recomp](https://github.com/VetTV-Studios/simpsons-hit-and-run-recomp) — *Static recompilation.*
+- **The Sims** — [abilliontokens/sims1-recomp](https://github.com/abilliontokens/sims1-recomp) — *Static recompilation.*
+- **The Sims 2** — [abilliontokens/sims2-recomp](https://github.com/abilliontokens/sims2-recomp) — *Static recompilation.*
+- **The Sims Bustin' Out** — [sombertwilight-maker/sims-bustin-out-pc-port](https://github.com/sombertwilight-maker/sims-bustin-out-pc-port) — *Static recompilation.*
+- **The Sims: Bustin' Out** — [abilliontokens/bustinout-recomp](https://github.com/abilliontokens/bustinout-recomp) — *Static recompilation.*
+- **Soulcalibur II** — [tmcleroy/soulcalibur2-recomp](https://github.com/tmcleroy/soulcalibur2-recomp) — *Static recompilation.*
+- **Spider-Man (2002)** — [xdivorex-gif/spiderman-2002-pc](https://github.com/xdivorex-gif/spiderman-2002-pc) — *Static recompilation.*
+- **Spider-Man 2** — [SirSymo/SM2-Recomp](https://github.com/SirSymo/SM2-Recomp) — *Static recompilation.*
+- **Spider-Man 2 (Switch)** — [SantiBros/SpiderMan2-2004-NX](https://github.com/SantiBros/SpiderMan2-2004-NX) — *Static recompilation.*
+- **SSX 3** — [koenhendriks/SSX3-recomp](https://github.com/koenhendriks/SSX3-recomp) — *Static recompilation.*
+- **SSX 3** — [bertibertig/SSX3-Recomp](https://github.com/bertibertig/SSX3-Recomp) — *Static recompilation.*
+- **SSX Tricky** — [GiZcesi/OpenTricky](https://github.com/GiZcesi/OpenTricky) — *Static recompilation.*
+- **SSX Tricky** — [reindance/ssx-tricky-recomp](https://github.com/reindance/ssx-tricky-recomp) — *Static recompilation.*
+- **SSX Tricky** — [MatiasRiveraC/SSX-Tricky-PC](https://github.com/MatiasRiveraC/SSX-Tricky-PC) — *Static recompilation.*
+- **Star Wars: Episode III – Revenge of the Sith (SWROTS-PC)** — [jedijosh920/SWROTS-PC](https://github.com/jedijosh920/SWROTS-PC) — *Port.*
+- **Star Wars: The Clone Wars** — [GTTeancum/StarWars-CloneWars-PC](https://github.com/GTTeancum/StarWars-CloneWars-PC) — *Static recompilation.*
+- **StarCraft: Ghost** — [aknavj/scghost-recomp](https://github.com/aknavj/scghost-recomp) — *Static recompilation.*
+- **Super Monkey Ball Deluxe** — [timftw21/smbd-recompilation](https://github.com/timftw21/smbd-recompilation) — *Static recompilation.*
+- **Tiger Woods PGA Tour 2004** — [projectedan/TigerWoods2004-XBE-Recomp](https://github.com/projectedan/TigerWoods2004-XBE-Recomp) — *Static recompilation.*
+- **TimeSplitters 2** — [phobos665/split2-recomp](https://github.com/phobos665/split2-recomp) — *Static recompilation.*
+- **TimeSplitters: Future Perfect** — [TheDoffman/timesplitters-future-perfect-pc](https://github.com/TheDoffman/timesplitters-future-perfect-pc) — *Port.*
+- **TimeSplitters: Future Perfect (TSFP-XBE)** — [navasemanuel-lab/TSFP-XBE](https://github.com/navasemanuel-lab/TSFP-XBE) — *Static recompilation.*
+- **Tom Clancy's Ghost Recon 2** — [ElKev118/ghostrecon2-recomp](https://github.com/ElKev118/ghostrecon2-recomp) — *Static recompilation.*
+- **Tom Clancy's Ghost Recon 2: Summit Strike** — [ElKev118/summitstrike-recomp](https://github.com/ElKev118/summitstrike-recomp) — *Static recompilation.*
+- **Tom Clancy's Splinter Cell: Double Agent** — [TGP482/SCDA-XBERecomp](https://github.com/TGP482/SCDA-XBERecomp) — *Static recompilation.*
+- **Tony Hawk's Pro Skater 2X** — [almost-drowned-rat/THPS2X-Recompiled](https://github.com/almost-drowned-rat/THPS2X-Recompiled) — *Static recompilation.*
+- **Top Spin (Max-Spin)** — [djultra64/Max-Spin](https://github.com/djultra64/Max-Spin) — *Static recompilation.*
+- **True Crime: New York City** — [roz1077/true-crime-new-york-city-recomp](https://github.com/roz1077/true-crime-new-york-city-recomp) — *Static recompilation.*
+- **Turok Evolution** — [MarkPremier/EvolutionRecomp](https://github.com/MarkPremier/EvolutionRecomp) — *Static recompilation.*
+- **Turok: Evolution** — [danfreitas97/turok-evolution-recomp](https://github.com/danfreitas97/turok-evolution-recomp) — *Static recompilation.*
+- **Unreal Championship 2** — [ClydeyEXE/uc2-recomp](https://github.com/ClydeyEXE/uc2-recomp) — *Static recompilation.*
+- **Urban Chaos: Riot Response (Burner Edition)** — [linkssy2/UrbanChaosRiotResponseBurnerEdition](https://github.com/linkssy2/UrbanChaosRiotResponseBurnerEdition) — *Static recompilation.*
+- **The Urbz: Sims in the City** — [abilliontokens/urbz-recomp](https://github.com/abilliontokens/urbz-recomp) — *Static recompilation.*
+- **The Warriors** — [Antriksh1984/TheWarriors-XBERecomp](https://github.com/Antriksh1984/TheWarriors-XBERecomp) — *Static recompilation.*
+- **The Warriors** — [Matt-code-d/TheWarriorsRecomp](https://github.com/Matt-code-d/TheWarriorsRecomp) — *Static recompilation.*
+- **Wreckless: The Yakuza Missions** — [sp00nznet/wreckless](https://github.com/sp00nznet/wreckless) — *Static recompilation.*
+- **X-Men Legends** — [GTTeancum/OpenXML1xbox](https://github.com/GTTeancum/OpenXML1xbox) — *Static recompilation.*
+- **X-Men Legends** — [GTTeancum/XML1-recomp](https://github.com/GTTeancum/XML1-recomp) — *Static recompilation.*
+
+## Xbox 360
+
+402 projects
+
+- **11eyes CrossOver** — [ThePlayer14/project-eleven-recomp](https://github.com/ThePlayer14/project-eleven-recomp) — *Static recompilation.*
+- **2014 FIFA World Cup Brazil** — [HossEz/fifa-world-cup-2014-recompiled](https://github.com/HossEz/fifa-world-cup-2014-recompiled) — *Static recompilation.*
+- **3 on 3 NHL Arcade** — [Wndwsqrrl/3on3NHL-recomp](https://github.com/Wndwsqrrl/3on3NHL-recomp) — *Static recompilation.*
+- **3 on 3 NHL Arcade (3on3ArcadeRecomp)** — [startupandhold/3on3ArcadeRecomp](https://github.com/startupandhold/3on3ArcadeRecomp) — *Static recompilation.*
+- **50 Cent: Blood on the Sand** — [nlwstein/skullburglar](https://github.com/nlwstein/skullburglar) — *Static recompilation.*
+- **Ace Combat 6: Fires of Liberation** — [sal063/AC6_recomp](https://github.com/sal063/AC6_recomp)
+- **Ace Combat 6: Fires of Liberation (Recomp)** — [rapidsamphire/AC6Recomp](https://github.com/rapidsamphire/AC6Recomp)
+- **After Burner Climax** — [darkuni/afterburner-climax-recomp](https://github.com/darkuni/afterburner-climax-recomp) — *Static recompilation.*
+- **Angry Birds (Re-Hatched Collection)** — [TekRantGaming/angry-birds-re-hatched-collection](https://github.com/TekRantGaming/angry-birds-re-hatched-collection) — *Static recompilation.*
+- **Army of Two** — [nikolaygorb/ArmyOfTwoRecomp](https://github.com/nikolaygorb/ArmyOfTwoRecomp)
+- **Army of Two** — [OpenPortroid/ArmyOfTwoRecompilation](https://github.com/OpenPortroid/ArmyOfTwoRecompilation) — *Static recompilation.*
+- **Army of Two (Recomp)** — [Genesis5500/ArmyOfTwo-Recomp](https://github.com/Genesis5500/ArmyOfTwo-Recomp)
+- **Army of Two: The 40th Day** — [crabscrab650-sketch/ArmyOfTwo40thDay-Recomp](https://github.com/crabscrab650-sketch/ArmyOfTwo40thDay-Recomp) — *Static recompilation.*
+- **Army of Two: The 40th Day (ArmyOfTwo40thDayRecomp)** — [crabinacrabic/ArmyOfTwo40thDayRecomp](https://github.com/crabinacrabic/ArmyOfTwo40thDayRecomp) — *Static recompilation.*
+- **Army of Two: The 40th Day (Libre40)** — [automoto/Libre40](https://github.com/automoto/Libre40) — *Static recompilation.*
+- **Army of Two: The Devil's Cartel** — [BrewSparrow/ArmyOfTwoTDC-Recomp](https://github.com/BrewSparrow/ArmyOfTwoTDC-Recomp) — *Static recompilation.*
+- **Asura's Wrath** — [PauloUbirajara/asuras-wrath-recomp](https://github.com/PauloUbirajara/asuras-wrath-recomp)
+- **Avatar Editor** — [panedivitasei/AvatarEditorRecomp](https://github.com/panedivitasei/AvatarEditorRecomp) — *Static recompilation.*
+- **Banjo-Kazooie (X360)** — [banjo360/bk360](https://github.com/banjo360/bk360)
+- **Banjo-Kazooie Nuts and Bolts** — [masterspike52/reNut](https://github.com/masterspike52/reNut)
+- **Banjo-Kazooie: Nuts & Bolts (reNut Linux fixes)** — [etonedemid/reNut_linuxfixes](https://github.com/etonedemid/reNut_linuxfixes) — *Static recompilation. Inactive or archived.*
+- **Banjo-Tooie** — [iron-jay/banjo_tooie_xbla_recomp](https://github.com/iron-jay/banjo_tooie_xbla_recomp) — *Static recompilation.*
+- **Battlefield (Recompilation Project)** — [papand7/Battlefield-Recompilation-Project](https://github.com/papand7/Battlefield-Recompilation-Project) — *Static recompilation.*
+- **Battlefield: Bad Company** — [crabinacrabic/BadCompanyRecomp](https://github.com/crabinacrabic/BadCompanyRecomp) — *Static recompilation.*
+- **Battlefield: Bad Company (erutoruru)** — [erutoruru/Battlefield-Bad-Company-Recomp-Project](https://github.com/erutoruru/Battlefield-Bad-Company-Recomp-Project) — *Static recompilation.*
+- **Battlefield: Bad Company (solidussnake95)** — [solidussnake95/battlefield-bad-company-xbox360-recomp-](https://github.com/solidussnake95/battlefield-bad-company-xbox360-recomp-) — *Static recompilation.*
+- **The Beatles: Rock Band** — [mercurialw0rld/thebeatlesrockband-pcport](https://github.com/mercurialw0rld/thebeatlesrockband-pcport) — *Static recompilation.*
+- **Beautiful Katamari (Switch)** — [ChanseyIsTheBest/katamari-nx](https://github.com/ChanseyIsTheBest/katamari-nx) — *Static recompilation.*
+- **Ben 10: Cosmic Destruction (Cosmic Recomp)** — [ExtremestoneGG/Cosmic-Recompi](https://github.com/ExtremestoneGG/Cosmic-Recompi) — *Static recompilation.*
+- **The Bigs 2** — [mdomangue26/thebigs2](https://github.com/mdomangue26/thebigs2) — *Static recompilation.*
+- **The Bigs 2** — [mdomangue26/The-Bigs-2-Recompiled](https://github.com/mdomangue26/The-Bigs-2-Recompiled) — *Static recompilation.*
+- **Blue Dragon** — [zolaware/reblue](https://github.com/zolaware/reblue)
+- **Blue Dragon (Android)** — [JayElDragon/blue-dragon-android](https://github.com/JayElDragon/blue-dragon-android) — *Static recompilation.*
+- **Blue Dragon (reblue)** — [WeiGustavo/reblue](https://github.com/WeiGustavo/reblue) — *Static recompilation.*
+- **The Bourne Conspiracy** — [thegh0sts/bourne-conspiracy-x360-recomp](https://github.com/thegh0sts/bourne-conspiracy-x360-recomp) — *Static recompilation.*
+- **The Bourne Conspiracy (Switch)** — [zhtipu/Bourne-NX](https://github.com/zhtipu/Bourne-NX) — *Static recompilation.*
+- **Bully: Scholarship Edition** — [coole42-pixel/BullyRecomp](https://github.com/coole42-pixel/BullyRecomp) — *Static recompilation.*
+- **Burnout CRASH!** — [kiesxoxo/burnout-crash-recomp](https://github.com/kiesxoxo/burnout-crash-recomp) — *Static recompilation.*
+- **Burnout Paradise** — [BurnoutHints/b5-decomp](https://github.com/BurnoutHints/b5-decomp)
+- **Burnout Paradise** — [BurnoutDecomp/b5-decomp](https://github.com/BurnoutDecomp/b5-decomp)
+- **Burnout Revenge** — [shipa-2/Xerenge](https://github.com/shipa-2/Xerenge)
+- **Burnout Revenge (macOS)** — [secretpray/burnout-revenge](https://github.com/secretpray/burnout-revenge) — *Static recompilation.*
+- **Call of Duty 3** — [FrankHUN88453/CoD3Recomp](https://github.com/FrankHUN88453/CoD3Recomp)
+- **Call of Duty 3** — [zenit2893-cmyk/project-1944](https://github.com/zenit2893-cmyk/project-1944) — *Static recompilation.*
+- **Call of Duty 3** — [jxnplays/cod3-recomp](https://github.com/jxnplays/cod3-recomp) — *Static recompilation.*
+- **Call of Duty 3 (cod3_REcomp_)** — [SirCarls/cod3_REcomp_](https://github.com/SirCarls/cod3_REcomp_) — *Static recompilation.*
+- **Call of Duty 3 (multiplayer)** — [zombiedestroyer29/Call-of-Duty-3-Recompilation](https://github.com/zombiedestroyer29/Call-of-Duty-3-Recompilation) — *Static recompilation.*
+- **Call of Duty 3 (PC Edition)** — [zenit2893-cmyk/Call-of-Duty-3-PC-Editon](https://github.com/zenit2893-cmyk/Call-of-Duty-3-PC-Editon) — *Static recompilation.*
+- **Call of Duty: Black Ops (bo1-zombies-decompiled)** — [MisaDev4/bo1-zombies-decompiled](https://github.com/MisaDev4/bo1-zombies-decompiled)
+- **Call of Duty: Black Ops II** — [officialmelon/bo2-recompiled](https://github.com/officialmelon/bo2-recompiled) — *Static recompilation.*
+- **Call of Duty: Black Ops II (Switch)** — [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) — *Static recompilation.*
+- **Call of Duty: Future Warfare** — [goshavindtburg/NX1recomp](https://github.com/goshavindtburg/NX1recomp)
+- **Call of Duty: Modern Warfare 2** — [PaulCombal/mw2-recompiled](https://github.com/PaulCombal/mw2-recompiled)
+- **Call of Duty: Modern Warfare 2 (Switch)** — [GreenieSparkles/COD6-NX](https://github.com/GreenieSparkles/COD6-NX) — *Static recompilation.*
+- **Captain America: Super Soldier** — [m1ndcrap/Captain-America-Super-Soldier-Recompiled](https://github.com/m1ndcrap/Captain-America-Super-Soldier-Recompiled) — *Static recompilation.*
+- **Cars Race-O-Rama** — [m1ndcrap/Cars-Race-O-Rama-Recompiled](https://github.com/m1ndcrap/Cars-Race-O-Rama-Recompiled) — *Static recompilation.*
+- **Castlevania: Harmony of Despair** — [BLSNCVS/Castlevania-Harmony-of-Despair-Recomp](https://github.com/BLSNCVS/Castlevania-Harmony-of-Despair-Recomp) — *Static recompilation.*
+- **Civilization Revolution** — [ReRevvedRecomp/rerevved](https://github.com/ReRevvedRecomp/rerevved) — *Static recompilation.*
+- **Comix Zone (XBLA)** — [sp00nznet/comixzone](https://github.com/sp00nznet/comixzone) — *Static recompilation.*
+- **Conan** — [crazyriddler/Conan2007Recomp](https://github.com/crazyriddler/Conan2007Recomp) — *Static recompilation.*
+- **Condemned 2: Bloodshot** — [psxrestore/Condemned2Recomp](https://github.com/psxrestore/Condemned2Recomp)
+- **Crackdown** — [SkiddyToast/Crackdown](https://github.com/SkiddyToast/Crackdown)
+- **Crackdown** — [Unowa001/crackdown-recomp](https://github.com/Unowa001/crackdown-recomp) — *Static recompilation.*
+- **Crackdown** — [saulob/crackdown-xbox360-recompiled](https://github.com/saulob/crackdown-xbox360-recompiled) — *Static recompilation.*
+- **Crackdown 2** — [matty45/Crackdown2-Recomp](https://github.com/matty45/Crackdown2-Recomp)
+- **Crackdown 2** — [matty45/Crackdown2-Decomp](https://github.com/matty45/Crackdown2-Decomp)
+- **Crash of the Titans (Definitive Edition)** — [VitoMiguelF/crashott-pc](https://github.com/VitoMiguelF/crashott-pc) — *Static recompilation.*
+- **Crash of the Titans (MojoRecomp)** — [OAleex/MojoRecomp](https://github.com/OAleex/MojoRecomp) — *Static recompilation.*
+- **Crash: Mind over Mutant** — [Maxilure/MindOver-Recomp](https://github.com/Maxilure/MindOver-Recomp)
+- **Cyber Troopers Virtual-On Oratorio Tangram** — [kitaaaaaa/Oratan-recomp](https://github.com/kitaaaaaa/Oratan-recomp) — *Static recompilation.*
+- **Dance Central 3** — [rjkiv/dc3-decomp](https://github.com/rjkiv/dc3-decomp)
+- **Dante's Inferno** — [florinp93/hells-gate-recomp](https://github.com/florinp93/hells-gate-recomp)
+- **Dante's Inferno (Nintendo Switch)** — [VasilkovND/dantes-inferno-nx](https://github.com/VasilkovND/dantes-inferno-nx) — *Static recompilation.*
+- **Dark Souls II (MajulaRecomp, Switch)** — [hazevauks/MajulaRecomp](https://github.com/hazevauks/MajulaRecomp) — *Static recompilation.*
+- **Dark Souls II: Scholar of the First Sin (DS2_switch)** — [XDASCATX/DS2_switch](https://github.com/XDASCATX/DS2_switch) — *Static recompilation.*
+- **Dark Souls II: Scholar of the First Sin (Switch)** — [KostinKD/ds2scholar-nx](https://github.com/KostinKD/ds2scholar-nx) — *Static recompilation.*
+- **The Darkness** — [portingpete/The-Darkness-Recomp](https://github.com/portingpete/The-Darkness-Recomp)
+- **The Darkness** — [nikolaygorb/TheDarknessRecomp](https://github.com/nikolaygorb/TheDarknessRecomp) — *Static recompilation.*
+- **The Darkness (Recomp)** — [invinceble55-wq/Estacado-The-Darkness-Recomp](https://github.com/invinceble55-wq/Estacado-The-Darkness-Recomp)
+- **Daytona USA** — [Subarasheese/daytona-xbla-recomp](https://github.com/Subarasheese/daytona-xbla-recomp)
+- **Dead or Alive 4** — [parkerallan/doa4-recomp](https://github.com/parkerallan/doa4-recomp) — *Static recompilation.*
+- **Dead or Alive Extreme 2** — [Revan67/DOAX2-Recomp](https://github.com/Revan67/DOAX2-Recomp) — *Static recompilation.*
+- **Dead or Alive Xtreme 2** — [hibikifukui22/Dead-or-Alive-Xtreme-2-Recompilation](https://github.com/hibikifukui22/Dead-or-Alive-Xtreme-2-Recompilation) — *Static recompilation.*
+- **Dead Rising 2: Case West** — [wivi514/Dead_Rising_2_Case_West_Xenon_Recomp](https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp)
+- **Dead Rising 2: Case Zero** — [wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp](https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp)
+- **Dead Space (Switch)** — [VasilkovND/ds1-nx](https://github.com/VasilkovND/ds1-nx) — *Static recompilation.*
+- **Dead Space 2** — [bifftannen1/Dead-Space-2-Recomp](https://github.com/bifftannen1/Dead-Space-2-Recomp) — *Static recompilation.*
+- **Dead Space 2 (Nintendo Switch)** — [VasilkovND/ds2-nx](https://github.com/VasilkovND/ds2-nx) — *Static recompilation.*
+- **Deadly Premonition (Recomp)** — [LittleBitUA/DPRecomp](https://github.com/LittleBitUA/DPRecomp)
+- **Destroy All Humans: Path of the Furon** — [masterspike52/reDAHM](https://github.com/masterspike52/reDAHM)
+- **Diablo III** — [Boron853/Souls-of-the-Reaper](https://github.com/Boron853/Souls-of-the-Reaper) — *Port.*
+- **The Dishwasher: Dead Samurai (DishSoap)** — [Hdmaniak/DishSoap](https://github.com/Hdmaniak/DishSoap) — *Port.*
+- **DoDonPachi Saidaioujou** — [eandis/SDOJ-Recomp](https://github.com/eandis/SDOJ-Recomp)
+- **Dragon Age: Origins** — [96dot/Dragon-Age-Origins-Recomp](https://github.com/96dot/Dragon-Age-Origins-Recomp) — *Static recompilation.*
+- **Dragon Age: Origins (Android)** — [mabencs/Dragon-Age-Origins-Recomp-Android-Duo](https://github.com/mabencs/Dragon-Age-Origins-Recomp-Android-Duo) — *Static recompilation.*
+- **Dragon Ball Z: Budokai 3 HD (Budokai 3 HD Recompiled)** — [novapowers0/DBZ-Budokai-3-HD-Collection](https://github.com/novapowers0/DBZ-Budokai-3-HD-Collection)
+- **Dragon Ball Z: Budokai HD** — [novapowers0/DBZ-Budokai-1-HD-Collection](https://github.com/novapowers0/DBZ-Budokai-1-HD-Collection) — *Static recompilation.*
+- **Dragon Ball Z: Budokai HD Collection** — [WistfulHopes/DBZ1](https://github.com/WistfulHopes/DBZ1)
+- **Dragon Ball Z: Burst Limit** — [iExplosiveRage/DBZ-Burst-Limit-Recompiled](https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled)
+- **Dragon Ball Z: Burst Limit (Android)** — [dfdx047/Dragon-Burst](https://github.com/dfdx047/Dragon-Burst) — *Static recompilation.*
+- **Dragon Ball: Raging Blast 2** — [WistfulHopes/RB2](https://github.com/WistfulHopes/RB2)
+- **Earthworm Jim HD Recompiled** — [TekRantGaming/earthworm-jim-hd-recompiled](https://github.com/TekRantGaming/earthworm-jim-hd-recompiled)
+- **Edge Of Time Recomp** — [goliathret/EdgeOfTimeRecomp](https://github.com/goliathret/EdgeOfTimeRecomp)
+- **Enchanted Arms** — [IAndrewJJ/EnchantedArmsRecomp](https://github.com/IAndrewJJ/EnchantedArmsRecomp) — *Static recompilation.*
+- **Espgaluda II Black Label** — [cerroverb/espgaluda2-recomp](https://github.com/cerroverb/espgaluda2-recomp) — *Static recompilation.*
+- **Eternal Sonata** — [birabittoh/EternalSonataReprise](https://github.com/birabittoh/EternalSonataReprise)
+- **Eternal Sonata (4K High Texture)** — [1vierock/Eternal-Sonata-Recomp-4k-High-Texture](https://github.com/1vierock/Eternal-Sonata-Recomp-4k-High-Texture) — *Static recompilation.*
+- **Exit / Exit 2** — [FluffyQuack/ReXGlue-EXIT](https://github.com/FluffyQuack/ReXGlue-EXIT)
+- **F.E.A.R.** — [Juansolo457/fear360-recomp](https://github.com/Juansolo457/fear360-recomp) — *Static recompilation.*
+- **F.E.A.R. (Nintendo Switch)** — [infriker/fear-nx](https://github.com/infriker/fear-nx) — *Static recompilation.*
+- **Fable 2** — [himdo/Fable-2-Recomp](https://github.com/himdo/Fable-2-Recomp)
+- **Fable II** — [Fable2Recomp/Fable2Recomp](https://github.com/Fable2Recomp/Fable2Recomp)
+- **Fable II** — [OswaldNotOz/AlbionRecomp05_03_25](https://github.com/OswaldNotOz/AlbionRecomp05_03_25) — *Static recompilation.*
+- **Fable II (Fable2Remake)** — [Fable2Recomp/Fable2Remake](https://github.com/Fable2Recomp/Fable2Remake) — *Static recompilation.*
+- **Fable II (FableDroid, Android)** — [hardsilinder/FableDroid](https://github.com/hardsilinder/FableDroid) — *Static recompilation.*
+- **Fallout: New Vegas** — [ieee802dot11ac/fnv](https://github.com/ieee802dot11ac/fnv)
+- **Fallout: New Vegas (Nintendo Switch)** — [CypherNoodle/FNV-nx](https://github.com/CypherNoodle/FNV-nx) — *Static recompilation.*
+- **The Fancy Pants Adventures** — [elripalda/adventure-pants-recomp](https://github.com/elripalda/adventure-pants-recomp) — *Static recompilation.*
+- **Far Cry 3 (Nintendo Switch)** — [barbaruiva25/fc3-nx](https://github.com/barbaruiva25/fc3-nx) — *Static recompilation.*
+- **FIFA 09** — [ChunchunQ/fifa09-recomp](https://github.com/ChunchunQ/fifa09-recomp) — *Static recompilation.*
+- **FIFA Street** — [samuelit0davila/fifa-street-pc-port](https://github.com/samuelit0davila/fifa-street-pc-port) — *Port.*
+- **Fight Night Champion** — [whompay/FNCReborn](https://github.com/whompay/FNCReborn)
+- **Fight Night Round 3** — [djultra64/Fight-Night-Round-3-Recomp](https://github.com/djultra64/Fight-Night-Round-3-Recomp) — *Static recompilation.*
+- **Five Nights at Freddy's 1–4 (Xbox 360)** — [Sergey004/FNAF1-Recomp-proj](https://github.com/Sergey004/FNAF1-Recomp-proj)
+- **FlatOut: Ultimate Carnage** — [ZackWilde27/FlatOut-UC-Decomp](https://github.com/ZackWilde27/FlatOut-UC-Decomp)
+- **Forza Horizon** — [arcanite24/pinyon-shift](https://github.com/arcanite24/pinyon-shift)
+- **Forza Horizon** — [deivid22srk/pinyon-shift-android](https://github.com/deivid22srk/pinyon-shift-android) — *Static recompilation.*
+- **Forza Horizon (ForzaHorizon1-ReImagined)** — [FH1-ReImagined/ForzaHorizon1-ReImagined](https://github.com/FH1-ReImagined/ForzaHorizon1-ReImagined) — *Static recompilation.*
+- **Forza Horizon 1** — [NerunSmarts/ForzaRecomp](https://github.com/NerunSmarts/ForzaRecomp)
+- **Forza Horizon 1** — [Dyotson/ForzaHorizon1-ReImagined](https://github.com/Dyotson/ForzaHorizon1-ReImagined) — *Static recompilation.*
+- **Forza Horizon 2** — [Gabrick75/fh2-recompiled](https://github.com/Gabrick75/fh2-recompiled) — *Static recompilation.*
+- **Forza Horizon 2** — [fabioap-cpu/Forza-Horizon-2-Recomp](https://github.com/fabioap-cpu/Forza-Horizon-2-Recomp) — *Static recompilation.*
+- **Forza Horizon 2 (Android)** — [deivid22srk/ForzaHorizon2Recomp-Android](https://github.com/deivid22srk/ForzaHorizon2Recomp-Android) — *Static recompilation.*
+- **Forza Motorsport 2 (hl360-Forza2)** — [0herculabs/hl360-Forza2](https://github.com/0herculabs/hl360-Forza2) — *Port.*
+- **Forza Motorsport 2 (ReGPU)** — [zer0ducksgiven/Forza-Motorsport-2-ReGPU](https://github.com/zer0ducksgiven/Forza-Motorsport-2-ReGPU) — *Static recompilation.*
+- **Forza Motorsport 3 (hl360-forza3)** — [0herculabs/hl360-forza3](https://github.com/0herculabs/hl360-forza3) — *Port.*
+- **Forza Motorsport 4** — [Alexbeav/fm4-recomp](https://github.com/Alexbeav/fm4-recomp)
+- **Forza Motorsport 4** — [GabrielCRadu/fm4-recomp](https://github.com/GabrielCRadu/fm4-recomp) — *Static recompilation.*
+- **Forza Motorsport 4 (fm4-static-recomp)** — [i2kiselev/fm4-static-recomp](https://github.com/i2kiselev/fm4-static-recomp) — *Static recompilation.*
+- **Forza Motorsport 4 (hl360-forza4)** — [0herculabs/hl360-forza4](https://github.com/0herculabs/hl360-forza4) — *Port.*
+- **Fracture** — [ASarafanov/fracturerecomp](https://github.com/ASarafanov/fracturerecomp) — *Static recompilation.*
+- **Fuse** — [nikolaygorb/FuseRecomp](https://github.com/nikolaygorb/FuseRecomp) — *Static recompilation.*
+- **Gears of War** — [SomeoneIsWorking/gears1](https://github.com/SomeoneIsWorking/gears1) — *Static recompilation.*
+- **Gears of War (Jauidev)** — [Jauidev/GearsRecomp](https://github.com/Jauidev/GearsRecomp) — *Static recompilation.*
+- **Gears of War 2** — [santiquiroz/gears-of-war-2-pc-port](https://github.com/santiquiroz/gears-of-war-2-pc-port) — *Static recompilation.*
+- **Gears of War 2 / 3 / Judgment (COGBox)** — [Shagg88/COGBox](https://github.com/Shagg88/COGBox) — *Static recompilation.*
+- **Gears of War 3** — [Flippage/gears-of-war-3-recomp](https://github.com/Flippage/gears-of-war-3-recomp) — *Static recompilation.*
+- **Gears of War 3 (Azura)** — [Carolux97/Azura](https://github.com/Carolux97/Azura) — *Port.*
+- **Gears of War 3 (Gears3-Azura)** — [Carolux97/Gears3-Azura](https://github.com/Carolux97/Gears3-Azura) — *Static recompilation.*
+- **Gears of War 3 (Jauidev)** — [Jauidev/Gears3Recomp](https://github.com/Jauidev/Gears3Recomp) — *Static recompilation.*
+- **Gears of War 3 (KiltedKernel)** — [KiltedKernel/gears-of-war-3-pc-port](https://github.com/KiltedKernel/gears-of-war-3-pc-port) — *Static recompilation.*
+- **Gears of War: Judgment (Gears of War: Judgement Recomp)** — [OverkillLabs3/gears-judgement-recomp](https://github.com/OverkillLabs3/gears-judgement-recomp) — *Static recompilation.*
+- **Geometry Wars: Retro Evolved 2** — [saulob/geometry-wars-retro-evolved-2-recompiled](https://github.com/saulob/geometry-wars-retro-evolved-2-recompiled) — *Static recompilation.*
+- **Geometry Wars: Retro Evolved 2** — [MissingThePixel/MTR-GWRE2](https://github.com/MissingThePixel/MTR-GWRE2) — *Static recompilation.*
+- **Goldeneye 007** — [kholdfuzion/beanRecomp](https://github.com/kholdfuzion/beanRecomp)
+- **GoldenEye 007 (XBLA Remaster)** — [SunJaycy/GoldenEye-Recomp](https://github.com/SunJaycy/GoldenEye-Recomp)
+- **GoldenEye 007 (XBLA remaster) (GoldenEye-Recomp-rexglue)** — [SunJaycy/GoldenEye-Recomp-rexglue](https://github.com/SunJaycy/GoldenEye-Recomp-rexglue) — *Static recompilation.*
+- **GoldenEye 007 (XBLA Remaster) (Recomp)** — [Fable2Recomp/beanRecomp](https://github.com/Fable2Recomp/beanRecomp)
+- **GoldenEye 007 (XBLA)** — [ericksa1417/GoldenEye-Recomp](https://github.com/ericksa1417/GoldenEye-Recomp) — *Static recompilation.*
+- **GoldenEye 007 XBLA PC Recomp** — [CaiusCodes/GoldenEye-007-XBLA-PC-Recomp](https://github.com/CaiusCodes/GoldenEye-007-XBLA-PC-Recomp) — *Static recompilation.*
+- **GoldenEye 007: Reloaded** — [nikolaygorb/GoldenEye007ReloadedRecomp](https://github.com/nikolaygorb/GoldenEye007ReloadedRecomp) — *Static recompilation.*
+- **Grand Theft Auto IV** — [KoreanSeats1/Theft4](https://github.com/KoreanSeats1/Theft4)
+- **Grand Theft Auto IV (gta4-web, WebAssembly)** — [itzzace/gta4-web](https://github.com/itzzace/gta4-web) — *Static recompilation.*
+- **Grand Theft Auto IV (LibertyFlux)** — [monstercameron/LibertyFlux](https://github.com/monstercameron/LibertyFlux)
+- **Grand Theft Auto IV (LibertyRecomp)** — [hamishakl/LibertyRecomp](https://github.com/hamishakl/LibertyRecomp) — *Static recompilation.*
+- **Grand Theft Auto IV (PS5)** — [elripalda/gta4-ps5](https://github.com/elripalda/gta4-ps5) — *Static recompilation.*
+- **Grand Theft Auto IV (Recomp)** — [luisxl15/GTA-IV-RECOMP-XBOX-360](https://github.com/luisxl15/GTA-IV-RECOMP-XBOX-360)
+- **Grand Theft Auto V** — [OZORDI/SanRecomp](https://github.com/OZORDI/SanRecomp)
+- **Grand Theft Auto V (gtav-recomp)** — [andrewnakas/gtav-recomp](https://github.com/andrewnakas/gtav-recomp) — *Static recompilation.*
+- **Green Day: Rock Band** — [mercurialw0rld/greendayrockband-recomp](https://github.com/mercurialw0rld/greendayrockband-recomp) — *Static recompilation.*
+- **Guitar Hero 2** — [YoshiCrystal9/re-gh2](https://github.com/YoshiCrystal9/re-gh2)
+- **Guitar Hero II** — [sp00nznet/gh2](https://github.com/sp00nznet/gh2) — *Static recompilation.*
+- **Guitar Hero II (reGH2)** — [jillsandwich1998/reGH2](https://github.com/jillsandwich1998/reGH2) — *Static recompilation.*
+- **Guitar Hero III: Legends of Rock** — [luisxl15/Guitar-Hero-3-Recomp-](https://github.com/luisxl15/Guitar-Hero-3-Recomp-)
+- **Guitar Hero: Metallica** — [ElGuslml/GHMetalRecomp](https://github.com/ElGuslml/GHMetalRecomp) — *Static recompilation.*
+- **Guitar Hero: Warriors of Rock** — [ronniecloud/re-wor](https://github.com/ronniecloud/re-wor)
+- **Halo 3** — [george0815/halo-3-recomp](https://github.com/george0815/halo-3-recomp) — *Static recompilation.*
+- **Halo 3 Delta** — [twist84/halo3_cache_release_recomp](https://github.com/twist84/halo3_cache_release_recomp/)
+- **Halo 3: Mythic** — [GTTeancum/OpenH3M](https://github.com/GTTeancum/OpenH3M)
+- **Halo Mega Bloks (Project Haggar)** — [kirklandsig/halo-mega-bloks-decompiled](https://github.com/kirklandsig/halo-mega-bloks-decompiled)
+- **Halo Reach** — [ChimpsAtSea/Reach](https://github.com/ChimpsAtSea/Reach)
+- **Halo: Combat Evolved Anniversary** — [surreptitiousresearch/halocea](https://github.com/surreptitiousresearch/halocea)
+- **Halo: Reach** — [Dyotson/RecompiledHaloReach](https://github.com/Dyotson/RecompiledHaloReach) — *Static recompilation.*
+- **Halo: Reach (debug build)** — [twist84/reach_cache_debug_recomp](https://github.com/twist84/reach_cache_debug_recomp) — *Static recompilation.*
+- **Hard Corps: Uprising** — [saulob/hard-corps-uprising-recompiled](https://github.com/saulob/hard-corps-uprising-recompiled) — *Static recompilation.*
+- **Hydro Thunder Hurricane** — [monscriser/HydroThunderPORT](https://github.com/monscriser/HydroThunderPORT) — *Static recompilation.*
+- **Hydro Thunder Hurricane (htrecomp)** — [visibou/htrecomp](https://github.com/visibou/htrecomp) — *Static recompilation.*
+- **Import Tuner Challenge** — [Spooky098529/ITC-Recomp](https://github.com/Spooky098529/ITC-Recomp) — *Static recompilation.*
+- **The Incredible Hulk (2008)** — [TekRantGaming/incredible-hulk-recompiled](https://github.com/TekRantGaming/incredible-hulk-recompiled) — *Static recompilation.*
+- **Infinite Undiscovery** — [doc-haz/infinite-undiscovery-recomp](https://github.com/doc-haz/infinite-undiscovery-recomp)
+- **James Bond games (007)** — [furqanagwan/007](https://github.com/furqanagwan/007) — *Static recompilation.*
+- **Juiced 2: Hot Import Nights** — [anishchandra24/Juiced2-Recompiled](https://github.com/anishchandra24/Juiced2-Recompiled) — *Static recompilation.*
+- **Kameo: Elements of Power** — [birabittoh/KameoRePowered](https://github.com/birabittoh/KameoRePowered)
+- **Kameo: Elements of Power** — [MaxDeadBear/KameoRePowered](https://github.com/MaxDeadBear/KameoRePowered) — *Static recompilation.*
+- **Kameo: Elements of Power (Switch)** — [ChanseyIsTheBest/kameo-nx](https://github.com/ChanseyIsTheBest/kameo-nx) — *Static recompilation.*
+- **Kinect Sports** — [SebaaMG/Kinect-Sports-Decomp](https://github.com/SebaaMG/Kinect-Sports-Decomp)
+- **King Kong Recompiled** — [TekRantGaming/king-kong-recompiled](https://github.com/TekRantGaming/king-kong-recompiled)
+- **The King of Fighters 2002 Unlimited Match (Switch)** — [tbittech/kof2002um-nx](https://github.com/tbittech/kof2002um-nx) — *Static recompilation.*
+- **Left 4 Dead** — [KeithKirenai/L4D-PC-Recomp](https://github.com/KeithKirenai/L4D-PC-Recomp) — *Static recompilation.*
+- **The Legend of Spyro: Dawn of the Dragon** — [Minuteworld94/Dawn-of-the-dragon-recomp](https://github.com/Minuteworld94/Dawn-of-the-dragon-recomp) — *Static recompilation.*
+- **LEGO Dimensions (DimensionsRecomp)** — [NeverCookFirst/DimensionsRecomp](https://github.com/NeverCookFirst/DimensionsRecomp)
+- **Lego Star Wars: The Complete Saga** — [opensagadev/saga](https://github.com/opensagadev/saga)
+- **Lollipop Chainsaw** — [MaxDeadBear/Re-Cherry](https://github.com/MaxDeadBear/Re-Cherry)
+- **Lost Odyssey** — [freefrank/LostOdysseyRecomp](https://github.com/freefrank/LostOdysseyRecomp)
+- **Lost Odyssey (Recomp)** — [faligame/lost-odyssey-hd-remaster](https://github.com/faligame/lost-odyssey-hd-remaster)
+- **Madden NFL 08** — [anishchandra24/MaddenNFL08-Recompiled](https://github.com/anishchandra24/MaddenNFL08-Recompiled) — *Static recompilation.*
+- **Major League Baseball 2K7** — [elripalda/mlb2k7-recomp](https://github.com/elripalda/mlb2k7-recomp) — *Static recompilation.*
+- **Marvel: Ultimate Alliance 1 and 2** — [saulob/marvel-ultimate-alliance-bundle-recompiled](https://github.com/saulob/marvel-ultimate-alliance-bundle-recompiled) — *Static recompilation.*
+- **Mass Effect (masseffect-nx)** — [nebadasSwifty/masseffect-nx](https://github.com/nebadasSwifty/masseffect-nx) — *Static recompilation.*
+- **Mass Effect 2 (Lazarus, Switch)** — [VibePorter/Lazarus](https://github.com/VibePorter/Lazarus) — *Static recompilation.*
+- **Max Payne 3** — [iHaiDeeZ/MP3-PC](https://github.com/iHaiDeeZ/MP3-PC) — *Static recompilation.*
+- **Max Payne 3 (PS4)** — [iHaiDeeZ/MP3-PS4](https://github.com/iHaiDeeZ/MP3-PS4) — *Static recompilation.*
+- **Max Payne 3 (PS5)** — [ChaosTheory1075/mp3-ps5](https://github.com/ChaosTheory1075/mp3-ps5) — *Static recompilation.*
+- **Max Payne 3 (Switch)** — [VasilkovND/mp3-nx](https://github.com/VasilkovND/mp3-nx) — *Static recompilation.*
+- **Metal Gear Rising: Revengeance (PS4)** — [iHaiDeeZ/MGR-PS4](https://github.com/iHaiDeeZ/MGR-PS4) — *Static recompilation.*
+- **Metal Gear Rising: Revengeance (RePlatinum, PS5)** — [ChaosTheory1075/mgr-ps5](https://github.com/ChaosTheory1075/mgr-ps5) — *Static recompilation.*
+- **Metal Gear Rising: Revengeance (Switch)** — [tuancapoo/mgr-nx-deko](https://github.com/tuancapoo/mgr-nx-deko) — *Static recompilation.*
+- **Metal Gear Rising: Revengeance (Zandatsu, Android)** — [dfdx047/Zandatsu](https://github.com/dfdx047/Zandatsu) — *Static recompilation.*
+- **Metal Slug XX** — [FluffyQuack/rexglue-MetalSlugXX](https://github.com/FluffyQuack/rexglue-MetalSlugXX)
+- **Midnight Club: Los Angeles** — [mzzvxm/LARecomp](https://github.com/mzzvxm/LARecomp)
+- **Midnight Club: Los Angeles** — [luisxl15/Midnight-Club-L.A-RECOMP](https://github.com/luisxl15/Midnight-Club-L.A-RECOMP) — *Static recompilation.*
+- **Midnight Club: Los Angeles** — [BeemerCodes/MidnightclubLA-Recomp](https://github.com/BeemerCodes/MidnightclubLA-Recomp) — *Static recompilation.*
+- **Midnight Club: Los Angeles (Android)** — [gabrielbskk/mcla-recomp-android-g](https://github.com/gabrielbskk/mcla-recomp-android-g) — *Static recompilation.*
+- **Midnight Club: Los Angeles (iOS)** — [KoreanSeats1/MCLA-4iOS](https://github.com/KoreanSeats1/MCLA-4iOS) — *Static recompilation.*
+- **Midnight Club: Los Angeles (MC_LA_Recompiled)** — [robertoaraujo77/MC_LA_Recompiled](https://github.com/robertoaraujo77/MC_LA_Recompiled) — *Static recompilation.*
+- **Midnight Club: Los Angeles (midnightclub)** — [zarif98/midnightclub](https://github.com/zarif98/midnightclub)
+- **Midnight Club: Los Angeles (Recomp)** — [holdmysocks/mcla-recomp](https://github.com/holdmysocks/mcla-recomp)
+- **Midnight Club: Los Angeles (rusty-mcla)** — [holdmysocks/rusty-mcla](https://github.com/holdmysocks/rusty-mcla) — *Static recompilation.*
+- **Midnight Club: Los Angeles Complete Edition (mcla-recomp)** — [RenanQueiroz/mcla-recomp](https://github.com/RenanQueiroz/mcla-recomp) — *Static recompilation.*
+- **Minecraft: Xbox 360 Edition** — [LCERD/Minecraft-Xbox-360-Decompilation](https://github.com/LCERD/Minecraft-Xbox-360-Decompilation)
+- **Minecraft: Xbox 360 Edition** — [HiroStuff/minecraft](https://github.com/HiroStuff/minecraft) — *Static recompilation. Inactive or archived.*
+- **Minecraft: Xbox 360 Edition (Recomp)** — [DevZer0D4Y/MCX360-EDITION](https://github.com/DevZer0D4Y/MCX360-EDITION)
+- **Mortal Kombat Komplete Edition (Switch)** — [Thorhax/mk9-nx](https://github.com/Thorhax/mk9-nx) — *Static recompilation.*
+- **Mortal Kombat vs. DC Universe** — [KawaiiBunga/MKVDCU-Recomp](https://github.com/KawaiiBunga/MKVDCU-Recomp)
+- **Mushihimesama Futari (Linux)** — [cerroverb/futari-linux](https://github.com/cerroverb/futari-linux) — *Static recompilation.*
+- **Naruto Shippuden: Ultimate Ninja Storm 2** — [Masterllgod/naruto-storm-2-port-nativo](https://github.com/Masterllgod/naruto-storm-2-port-nativo) — *Static recompilation.*
+- **Naruto Shippuden: Ultimate Ninja Storm Generations** — [Masterllgod/naruto-storm-generations-port-nativo](https://github.com/Masterllgod/naruto-storm-generations-port-nativo) — *Static recompilation.*
+- **Naruto Shippuden: Ultimate Ninja Storm Revolution** — [Masterllgod/naruto-storm-revolution-port-nativo](https://github.com/Masterllgod/naruto-storm-revolution-port-nativo) — *Static recompilation.*
+- **Naruto: Rise of a Ninja** — [jorjbarbosa/naruto-rise-recomp](https://github.com/jorjbarbosa/naruto-rise-recomp) — *Static recompilation.*
+- **Naruto: Rise of a Ninja** — [Masterllgod/naruto-rise-of-a-ninja-port-nativo](https://github.com/Masterllgod/naruto-rise-of-a-ninja-port-nativo) — *Static recompilation.*
+- **Naruto: The Broken Bond** — [Auremana666/Naruto-The-Broken-Bond-PC-Port](https://github.com/Auremana666/Naruto-The-Broken-Bond-PC-Port) — *Static recompilation.*
+- **Naruto: The Broken Bond (broken-bond-recomp)** — [jorjbarbosa/broken-bond-recomp](https://github.com/jorjbarbosa/broken-bond-recomp) — *Static recompilation.*
+- **Naruto: The Broken Bond / Rise of a Ninja (NarutoRevXbox)** — [wizydeka-lang/NarutoRevXbox](https://github.com/wizydeka-lang/NarutoRevXbox) — *Static recompilation.*
+- **NASCAR: The Game – Inside Line** — [ABadGame/nascar-inside-line-recomp](https://github.com/ABadGame/nascar-inside-line-recomp) — *Static recompilation.*
+- **Naughty Bear** — [MaxDeadBear/NaughtyBear_ReStuff](https://github.com/MaxDeadBear/NaughtyBear_ReStuff)
+- **Naughty Bear (Android)** — [deivid22srk/naughtybear-restuff-android](https://github.com/deivid22srk/naughtybear-restuff-android) — *Static recompilation.*
+- **NBA JAM: On Fire Edition** — [GTTeancum/OpenJam](https://github.com/GTTeancum/OpenJam)
+- **Need for Speed Carbon** — [codepdbh/NFS-CARBON-360-ANDROID-RECOMP](https://github.com/codepdbh/NFS-CARBON-360-ANDROID-RECOMP)
+- **Need for Speed: Carbon** — [Sampreeth004/nfs-carbon-recomp](https://github.com/Sampreeth004/nfs-carbon-recomp)
+- **Need for Speed: Carbon (Nintendo Switch)** — [zofo007/NFS-Carbon-NX](https://github.com/zofo007/NFS-Carbon-NX) — *Static recompilation.*
+- **Need for Speed: Carbon (SpeedBreaker: Carbon)** — [SpeedBreakerProject/speedbreaker-carbon](https://github.com/SpeedBreakerProject/speedbreaker-carbon) — *Static recompilation.*
+- **Need for Speed: Most Wanted** — [madelrandel-blip/NFSMW-Recompiled](https://github.com/madelrandel-blip/NFSMW-Recompiled)
+- **Need for Speed: Most Wanted** — [StevensND/nfsmw-nx](https://github.com/StevensND/nfsmw-nx) — *Static recompilation.*
+- **Need for Speed: Most Wanted (Android)** — [codepdbh/nfsmw-android](https://github.com/codepdbh/nfsmw-android) — *Static recompilation.*
+- **NFL Head Coach 09** — [tools81/nfl-head-coach-09-static-recomp](https://github.com/tools81/nfl-head-coach-09-static-recomp) — *Static recompilation.*
+- **NHL 2K8** — [anishchandra24/NHL2K8-Recompiled](https://github.com/anishchandra24/NHL2K8-Recompiled) — *Static recompilation.*
+- **NHL: Legacy Edition** — [puckhead73/nhl-legacy-recomp](https://github.com/puckhead73/nhl-legacy-recomp)
+- **NieR (nier-decomp)** — [NextOs-Ports/nier-decomp](https://github.com/NextOs-Ports/nier-decomp)
+- **Ninja Gaiden II (IzunaRecomp)** — [YaibaKamikaze/IzunaRecomp](https://github.com/YaibaKamikaze/IzunaRecomp) — *Static recompilation.*
+- **Ninja Gaiden II (ng2recomp)** — [gamboozino/ng2recomp](https://github.com/gamboozino/ng2recomp) — *Static recompilation.*
+- **Ninja Gaiden II (openNG2)** — [KamiTK2/openNG2](https://github.com/KamiTK2/openNG2) — *Static recompilation.*
+- **NXE Dashboard 9199** — [MVEALNG/NXE-Dashboard-Recomp](https://github.com/MVEALNG/NXE-Dashboard-Recomp)
+- **Outpost Kaloki X** — [TekRantGaming/outpost-kaloki-x-recompiled](https://github.com/TekRantGaming/outpost-kaloki-x-recompiled)
+- **OutRun Online Arcade** — [darkuni/outrun-arcade-recomp](https://github.com/darkuni/outrun-arcade-recomp) — *Static recompilation.*
+- **Pac-Man Championship Edition** — [jedeyesniv-art/Pacman-CE-PC-Recomp](https://github.com/jedeyesniv-art/Pacman-CE-PC-Recomp) — *Static recompilation.*
+- **Peggle** — [JosueMora918/peggle360-decomp](https://github.com/JosueMora918/peggle360-decomp) — *Static recompilation.*
+- **Peggle 2 (macOS)** — [macprotips/peggle2-mac](https://github.com/macprotips/peggle2-mac) — *Static recompilation.*
+- **Perfect Dark (XBLA)** — [CaiusCodes/Perfect-Dark-XBLA-PC-Recomp](https://github.com/CaiusCodes/Perfect-Dark-XBLA-PC-Recomp) — *Static recompilation.*
+- **Perfect Dark Remaster** — [nikolaygorb/PerfectDarkRemasterRecomp](https://github.com/nikolaygorb/PerfectDarkRemasterRecomp)
+- **Perfect Dark Zero** — [nikolaygorb/PerfectDarkZeroRecomp](https://github.com/nikolaygorb/PerfectDarkZeroRecomp)
+- **Pirates of the Caribbean: At World's End** — [ElGuslml/PiratesAtWorldsEndRecomp](https://github.com/ElGuslml/PiratesAtWorldsEndRecomp) — *Static recompilation.*
+- **Plants vs. Zombies** — [ITSeniy/pvz-console-edition](https://github.com/ITSeniy/pvz-console-edition) — *Static recompilation.*
+- **Project Gotham Racing 4 (MTR-PGR4)** — [MissingThePixel/MTR-PGR4](https://github.com/MissingThePixel/MTR-PGR4) — *Static recompilation.*
+- **Project Gotham Racing 4 (pgr4-native)** — [shaunsingh/pgr4-native](https://github.com/shaunsingh/pgr4-native) — *Static recompilation.*
+- **Project Gotham Racing 4 (PGR4-ReGPU)** — [zer0ducksgiven/PGR4-ReGPU](https://github.com/zer0ducksgiven/PGR4-ReGPU) — *Static recompilation.*
+- **Project Gotham Racing 4 (Recomp)** — [beatrixzy/PGR4-Recomp](https://github.com/beatrixzy/PGR4-Recomp)
+- **Prototype / Prototype 2 (Nintendo Switch)** — [fungalspores/prototype-switch](https://github.com/fungalspores/prototype-switch) — *Static recompilation.*
+- **Quake 4** — [cyberheater/Xbox-360-Quake4-decomp](https://github.com/cyberheater/Xbox-360-Quake4-decomp)
+- **Rayman 3 HD** — [MysteriousAeon/rayman3-hd-recompiled](https://github.com/MysteriousAeon/rayman3-hd-recompiled) — *Static recompilation.*
+- **Rayman Legends** — [edeegg/Legends-Recomp](https://github.com/edeegg/Legends-Recomp) — *Static recompilation.*
+- **Rayman Origins** — [XDanfr/RaymanOriginsRecomp](https://github.com/XDanfr/RaymanOriginsRecomp) — *Static recompilation.*
+- **Real Steel** — [tokeneffortports/ReCompiledSteel](https://github.com/tokeneffortports/ReCompiledSteel) — *Static recompilation.*
+- **Resident Evil Code: Veronica (VeronicaRecomp)** — [psxrestore/VeronicaRecomp](https://github.com/psxrestore/VeronicaRecomp) — *Static recompilation.*
+- **Ridge Racer 6** — [Sirhalo23/RidgeRacer6-Recompilation](https://github.com/Sirhalo23/RidgeRacer6-Recompilation) — *Static recompilation.*
+- **Ridge Racer 6** — [Alex842023/alex842023.github.io](https://github.com/Alex842023/alex842023.github.io) — *Static recompilation.*
+- **Ridge Racer 6 (Switch, rr6-nx)** — [ChanseyIsTheBest/rr6-nx](https://github.com/ChanseyIsTheBest/rr6-nx) — *Static recompilation.*
+- **Rock Band 3 (Xbox 360)** — [ihatecompvir/band3_recomp](https://github.com/ihatecompvir/band3_recomp)
+- **Rockstar Games Presents Table Tennis** — [OZORDI/tt-decomp](https://github.com/OZORDI/tt-decomp)
+- **Rockstar Table Tennis** — [davidptrssvea/Table-Tennis-Rockstar-PC](https://github.com/davidptrssvea/Table-Tennis-Rockstar-PC) — *Static recompilation.*
+- **Rumble Roses XX** — [Revan67/RumbleRosesXX-Recomp](https://github.com/Revan67/RumbleRosesXX-Recomp) — *Static recompilation.*
+- **Saints Row** — [whompay/SaintsReborn](https://github.com/whompay/SaintsReborn)
+- **Saints Row (Recomp)** — [sp00nznet/saintsrow](https://github.com/sp00nznet/saintsrow)
+- **Saints Row (stilwater-recompiled)** — [DivxPlays/stilwater-recompiled](https://github.com/DivxPlays/stilwater-recompiled) — *Static recompilation.*
+- **Saw II: Flesh & Blood** — [ant0-blase/Saw2-X360-ReXGlue](https://github.com/ant0-blase/Saw2-X360-ReXGlue)
+- **Saw II: Flesh & Blood (Matt-code-d)** — [Matt-code-d/Saw2Recomp](https://github.com/Matt-code-d/Saw2Recomp) — *Static recompilation.*
+- **Sega Superstars Tennis** — [m1ndcrap/Sega-Superstars-Tennis-ReMatch](https://github.com/m1ndcrap/Sega-Superstars-Tennis-ReMatch)
+- **Silent Hill: Downpour** — [LittleBitUA/DownpourRecomp](https://github.com/LittleBitUA/DownpourRecomp)
+- **The Simpsons Arcade** — [sp00nznet/simpsonsarcade](https://github.com/sp00nznet/simpsonsarcade) — *Static recompilation.*
+- **The Simpsons Game** — [portingpete/the-simpsons-recomp](https://github.com/portingpete/the-simpsons-recomp) — *Static recompilation.*
+- **The Simpsons Game** — [jesujaque/The-Simpsons-Game-X360-Recomp](https://github.com/jesujaque/The-Simpsons-Game-X360-Recomp) — *Static recompilation.*
+- **The Simpsons Game (Android)** — [codepdbh/the-simpsons-game-android](https://github.com/codepdbh/the-simpsons-game-android) — *Static recompilation.*
+- **The Simpsons Game (the-simpsons-game-nx)** — [R-drg/the-simpsons-game-nx](https://github.com/R-drg/the-simpsons-game-nx) — *Static recompilation.*
+- **Singularity** — [panalexeu/singularity-recomp](https://github.com/panalexeu/singularity-recomp) — *Static recompilation.*
+- **Singularity (Switch, singularity-nx)** — [panalexeu/singularity-nx](https://github.com/panalexeu/singularity-nx) — *Static recompilation.*
+- **Skate** — [Skate-Modding-Team/Skate-Decompilation-Project](https://github.com/Skate-Modding-Team/Skate-Decompilation-Project)
+- **Skate (2007)** — [cookingwithsimon/Skate1Recompiled](https://github.com/cookingwithsimon/Skate1Recompiled) — *Static recompilation.*
+- **Skate 2** — [Skate-2-Team/sk82-recomp](https://github.com/Skate-2-Team/sk82-recomp)
+- **Skate 2** — [christianortel/skate2-recompile-pc](https://github.com/christianortel/skate2-recompile-pc) — *Static recompilation.*
+- **Skate 3** — [mchughalex/skate3recomp](https://github.com/mchughalex/skate3recomp)
+- **Skate 3** — [andrewnakas/skate3-android](https://github.com/andrewnakas/skate3-android) — *Static recompilation.*
+- **Skate 3** — [HelmXGaming/Skate-3-Recompiled--Work-in-Progress-](https://github.com/HelmXGaming/Skate-3-Recompiled--Work-in-Progress-) — *Static recompilation.*
+- **Skate 3 (5C8)** — [5C8/skate3recomp](https://github.com/5C8/skate3recomp) — *Static recompilation.*
+- **Skate 3 (skate3-ios-setup)** — [andrewnakas/skate3-ios-setup](https://github.com/andrewnakas/skate3-ios-setup) — *Static recompilation.*
+- **Skate 3 (Skate3-Mobile)** — [Buku313/Skate3-Mobile](https://github.com/Buku313/Skate3-Mobile) — *Static recompilation.*
+- **Skate 3 (Skate3-Port)** — [darchap/Skate3-Port](https://github.com/darchap/Skate3-Port) — *Static recompilation.*
+- **Skate 3 (Switch)** — [SubterraneanHomesickAyan/skate3recomp_nx](https://github.com/SubterraneanHomesickAyan/skate3recomp_nx) — *Static recompilation.*
+- **Skate 3 (VR)** — [whachuvr/Skate3VR](https://github.com/whachuvr/Skate3VR) — *Port.*
+- **Skylanders: Spyro's Adventure** — [Starkka15/skylanders-sa-pc](https://github.com/Starkka15/skylanders-sa-pc) — *Static recompilation.*
+- **Sneak King / Big Bumpin' / PocketBike Racer (Whopping Recompilation Collection)** — [TekRantGaming/whopping-recompilation-collection](https://github.com/TekRantGaming/whopping-recompilation-collection) — *Static recompilation.*
+- **Snoopy Flying Ace** — [BTr-RJ/RedBaron_Recomp](https://github.com/BTr-RJ/RedBaron_Recomp) — *Static recompilation.*
+- **Sonic 06 Demo** — [PranchaD/re-Sonic06Demo](https://github.com/PranchaD/re-Sonic06Demo)
+- **Sonic Free Riders** — [YuutaTsubasa/Free-Riders-Recompiled](https://github.com/YuutaTsubasa/Free-Riders-Recompiled)
+- **Sonic Generations** — [Player124413/Sonic-Generations-Recomp](https://github.com/Player124413/Sonic-Generations-Recomp) — *Static recompilation.*
+- **Sonic Generations (Sonic-Generations-recomp-android-and-pc-edition)** — [Player124413/Sonic-Generations-recomp-android-and-pc-edition](https://github.com/Player124413/Sonic-Generations-recomp-android-and-pc-edition) — *Static recompilation.*
+- **Sonic the Fighters** — [GoGurtPrime/sonic-the-fighters-pc](https://github.com/GoGurtPrime/sonic-the-fighters-pc) — *Static recompilation.*
+- **Sonic the Fighters (FightersRecomp)** — [Rayz0rum/FightersRecomp](https://github.com/Rayz0rum/FightersRecomp) — *Static recompilation.*
+- **Sonic the Hedgehog (2006)** — [rjkiv/sonic06](https://github.com/rjkiv/sonic06)
+- **Sonic the Hedgehog (2006) (MarathonRecomp)** — [ga2mer/MarathonRecomp](https://github.com/ga2mer/MarathonRecomp) — *Static recompilation.*
+- **Sonic the Hedgehog 2006 (Marathon Recompiled)** — [sonicnext-dev/MarathonRecomp](https://github.com/sonicnext-dev/MarathonRecomp)
+- **Sonic Unleashed** — [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp)
+- **Sonic Unleashed** — [SansNope/UnleashedRecomp-Android](https://github.com/SansNope/UnleashedRecomp-Android) — *Static recompilation.*
+- **Sonic Unleashed (PS4)** — [neiove/Sonic-Unleashed-Recompiled-Ps4](https://github.com/neiove/Sonic-Unleashed-Recompiled-Ps4) — *Static recompilation.*
+- **SoulCalibur II HD Online** — [n0madic/Soulcalibur2HD-recomp](https://github.com/n0madic/Soulcalibur2HD-recomp) — *Static recompilation.*
+- **Soulcalibur IV** — [FluffyQuack/rexglue-SoulCaliburIV](https://github.com/FluffyQuack/rexglue-SoulCaliburIV)
+- **South Park: Let's Go Tower Defense Play!** — [TekRantGaming/south-park-tower-defense-recompiled](https://github.com/TekRantGaming/south-park-tower-defense-recompiled) — *Static recompilation.*
+- **South Park: Tenorman's Revenge** — [TekRantGaming/south-park-tenormans-revenge-recompiled](https://github.com/TekRantGaming/south-park-tenormans-revenge-recompiled) — *Static recompilation.*
+- **SpeedBreaker** — [SpeedBreakerProject/speedbreaker](https://github.com/SpeedBreakerProject/speedbreaker)
+- **Spider-Man 3** — [b4ttycre4se/Spider-Man-3-Recomp](https://github.com/b4ttycre4se/Spider-Man-3-Recomp) — *Static recompilation.*
+- **Spider-Man: Edge of Time** — [GenryTheFox0/Project-2099](https://github.com/GenryTheFox0/Project-2099)
+- **Spider-Man: Web of Shadows** — [toowasmir/WebOfShadowsRecomp](https://github.com/toowasmir/WebOfShadowsRecomp) — *Static recompilation.*
+- **Splatterhouse** — [0c0de/splatterhouse-decomp](https://github.com/0c0de/splatterhouse-decomp)
+- **SSX (2012)** — [pmrazor/SSX-RexGlue](https://github.com/pmrazor/SSX-RexGlue) — *Static recompilation.*
+- **SSX (2012, AmarilloNL)** — [AmarilloNL/ssx-recomp](https://github.com/AmarilloNL/ssx-recomp) — *Static recompilation.*
+- **Stranglehold (PS5)** — [ChaosTheory1075/sh-ps5](https://github.com/ChaosTheory1075/sh-ps5) — *Static recompilation.*
+- **Street Fighter III: 3rd Strike Online Edition** — [updeshxp/SF3TSOEReborn](https://github.com/updeshxp/SF3TSOEReborn) — *Static recompilation.*
+- **Stuntman: Ignition (Stunt Double: Reignition)** — [giangra/stuntdouble-reignition](https://github.com/giangra/stuntdouble-reignition) — *Static recompilation.*
+- **Super Street Fighter II Turbo HD Remix** — [saulob/ssf2t-hd-remix-recompiled](https://github.com/saulob/ssf2t-hd-remix-recompiled) — *Static recompilation.*
+- **Superman Returns** — [MrPowerUp82/superman_returns_recomp](https://github.com/MrPowerUp82/superman_returns_recomp) — *Static recompilation.*
+- **Superman Returns (darkuni)** — [darkuni/superman-returns-recomp](https://github.com/darkuni/superman-returns-recomp) — *Static recompilation.*
+- **Superman Returns (retrogameworld)** — [retrogameworld/SupermanReturnsRecomp](https://github.com/retrogameworld/SupermanReturnsRecomp) — *Static recompilation.*
+- **Tekken 6** — [GenryTheFox0/Project-Iron-6](https://github.com/GenryTheFox0/Project-Iron-6) — *Static recompilation.*
+- **Tekken 6 (native online source)** — [Ekspym/tekken6-native-online-source](https://github.com/Ekspym/tekken6-native-online-source) — *Port.*
+- **Tekken 6 (Tekken6-native-online)** — [Ekspym/Tekken6-native-online](https://github.com/Ekspym/Tekken6-native-online) — *Port.*
+- **Tekken Tag Tournament 2** — [shihabal3amri/tekken-tag-tournament-2-pc](https://github.com/shihabal3amri/tekken-tag-tournament-2-pc) — *Static recompilation.*
+- **Tekken Tag Tournament 2 (TTT2-Recomp)** — [thatcalikid760/TTT2-Recomp](https://github.com/thatcalikid760/TTT2-Recomp) — *Static recompilation.*
+- **Tenchu Z** — [Llamapixels/TenchuZRecomp](https://github.com/Llamapixels/TenchuZRecomp) — *Static recompilation.*
+- **Tenchu Z (8bitninja64)** — [8bitninja64/TenchuZ-PC](https://github.com/8bitninja64/TenchuZ-PC) — *Static recompilation.*
+- **Terraria: Xbox 360 Edition** — [dptug/TerrariaXDK](https://github.com/dptug/TerrariaXDK) — *The previous list marked this repository as broken.*
+- **Test Drive Unlimited** — [opentestdriveunlimited/OpenTestDriveUnlimited](https://github.com/opentestdriveunlimited/OpenTestDriveUnlimited)
+- **Test Drive Unlimited (TDURE)** — [testdriveupgrade/TDURE](https://github.com/testdriveupgrade/TDURE)
+- **Test Drive Unlimited (TDURecomp)** — [testdriveupgrade/TDURecomp](https://github.com/testdriveupgrade/TDURecomp) — *Static recompilation.*
+- **TMNT: Turtles in Time Re-Shelled** — [saulob/tmnt-turtles-in-time-reshelled-recompiled](https://github.com/saulob/tmnt-turtles-in-time-reshelled-recompiled) — *Static recompilation.*
+- **TNA iMPACT! (PS5)** — [kamb205/TNA-iMPACT-Reloaded-PS5](https://github.com/kamb205/TNA-iMPACT-Reloaded-PS5) — *Static recompilation.*
+- **Tom Clancy's Ghost Recon Advanced Warfighter** — [Juansolo457/graw360-recomp](https://github.com/Juansolo457/graw360-recomp) — *Static recompilation.*
+- **Tony Hawk's Project 8** — [theokyr/Project8Recomp](https://github.com/theokyr/Project8Recomp)
+- **Tony Hawk's Project 8** — [SunJaycy/Tony-Hawks-Project-8-Recomp](https://github.com/SunJaycy/Tony-Hawks-Project-8-Recomp) — *Static recompilation.*
+- **Tony Hawk's Project 8 (Project 8 Plus)** — [MaxLeiter/project-8-plus](https://github.com/MaxLeiter/project-8-plus) — *Static recompilation.*
+- **Tony Hawk's Proving Ground** — [SunJaycy/ProvingGroundRecomp](https://github.com/SunJaycy/ProvingGroundRecomp) — *Static recompilation.*
+- **Tony Hawk's Proving Ground** — [Newbie1337x/ProvingGroundRecomp](https://github.com/Newbie1337x/ProvingGroundRecomp) — *Static recompilation.*
+- **Top Spin 4** — [shaneomac1337/Top-Spin-4-Recomp](https://github.com/shaneomac1337/Top-Spin-4-Recomp) — *Static recompilation.*
+- **Torchlight** — [retrogameworld/TorchlightRecomp](https://github.com/retrogameworld/TorchlightRecomp) — *Static recompilation.*
+- **Trials HD** — [snufflyyy/trials-hd-recompiled](https://github.com/snufflyyy/trials-hd-recompiled) — *Static recompilation.*
+- **Trials HD** — [trev82usa/TrialsHD-Recomp](https://github.com/trev82usa/TrialsHD-Recomp) — *Static recompilation.*
+- **Trials HD / Evolution / Fusion (Trials ReVolution Collection)** — [TekRantGaming/Trials-ReVolution-Collection](https://github.com/TekRantGaming/Trials-ReVolution-Collection) — *Static recompilation.*
+- **UFC Undisputed 3** — [paulogaab21/ufc3recomp](https://github.com/paulogaab21/ufc3recomp)
+- **UFC Undisputed 3 (UFC3MONS)** — [monscriser/UFC3MONS](https://github.com/monscriser/UFC3MONS) — *Static recompilation.*
+- **UFC Undisputed 3 (UFC3ReX)** — [360recomper/UFC3ReX](https://github.com/360recomper/UFC3ReX) — *Static recompilation.*
+- **Ultra Street Fighter IV** — [Thorhax/usf4-nx](https://github.com/Thorhax/usf4-nx) — *Static recompilation.*
+- **Vigilante 8 Arcade** — [sp00nznet/vig8](https://github.com/sp00nznet/vig8)
+- **Viva Pinata: Trouble In Paradise** — [SolarCookies/TiP-Recomp](https://github.com/SolarCookies/TiP-Recomp)
+- **Viva Piñata** — [crabinacrabic/VivaPinataRecomp](https://github.com/crabinacrabic/VivaPinataRecomp) — *Static recompilation.*
+- **Viva Piñata** — [VivaPinataRecomp/VivaPinataRecomp](https://github.com/VivaPinataRecomp/VivaPinataRecomp) — *Static recompilation.*
+- **Wet** — [Supermedo/wet-recomp](https://github.com/Supermedo/wet-recomp)
+- **Wet (Recomp)** — [nikolaygorb/WetRecomp](https://github.com/nikolaygorb/WetRecomp)
+- **WWE '12 (wwe12-pc)** — [iMrBurn/wwe12-pc](https://github.com/iMrBurn/wwe12-pc) — *Static recompilation.*
+- **WWE '13 (WWE '13 Recomp)** — [PromethenDev/wwe13-recomp](https://github.com/PromethenDev/wwe13-recomp) — *Static recompilation.*
+- **WWE 2K14** — [Jarrodfeng/wwe2k14-recomp](https://github.com/Jarrodfeng/wwe2k14-recomp) — *Static recompilation.*
+- **WWE 2K14 (mikeflare007)** — [mikeflare007/wwe2k14-recomp](https://github.com/mikeflare007/wwe2k14-recomp) — *Static recompilation.*
+- **WWE 2K14 (WWE 2K14 Recomp)** — [PromethenDev/wwe2k14-recomp](https://github.com/PromethenDev/wwe2k14-recomp) — *Static recompilation.*
+- **WWE 2K14 (WWE2K14-PC)** — [itsbybanshee/wwe2k14-pc](https://github.com/itsbybanshee/wwe2k14-pc) — *Static recompilation.*
+- **WWE 2K15** — [iMrBurn/wwe2k15-pc](https://github.com/iMrBurn/wwe2k15-pc) — *Static recompilation.*
+- **WWE 2K16** — [itsbybanshee/wwe2k16-pc](https://github.com/itsbybanshee/wwe2k16-pc) — *Static recompilation.*
+- **WWE All Stars (WWE All Stars Recomp)** — [shaneomac1337/WWE-AllStars-Recomp](https://github.com/shaneomac1337/WWE-AllStars-Recomp) — *Static recompilation.*
+- **WWE SmackDown vs. Raw 2007** — [HollywoodAkeem/SVR07-Recomp](https://github.com/HollywoodAkeem/SVR07-Recomp)
+- **WWE SmackDown vs. Raw 2007** — [nefariousjosiah/WWE-SVR2007-RECOMP](https://github.com/nefariousjosiah/WWE-SVR2007-RECOMP) — *Static recompilation.*
+- **WWE SmackDown vs. Raw 2008** — [nefariousjosiah/WWE-SVR2008-RECOMP](https://github.com/nefariousjosiah/WWE-SVR2008-RECOMP) — *Static recompilation.*
+- **WWE SmackDown vs. Raw 2009** — [nefariousjosiah/WWE-SVR2009-RECOMP](https://github.com/nefariousjosiah/WWE-SVR2009-RECOMP) — *Static recompilation.*
+- **WWE SmackDown vs. Raw 2010** — [nefariousjosiah/WWE-SVR2010-RECOMP](https://github.com/nefariousjosiah/WWE-SVR2010-RECOMP) — *Static recompilation.*
+- **WWE SmackDown vs. Raw 2011** — [KaikoClanworth1/wwe-svr2011-pc](https://github.com/KaikoClanworth1/wwe-svr2011-pc) — *Static recompilation.*
+- **WWE SmackDown vs. Raw 2011 (SVR2011-Recomp)** — [shaneomac1337/SVR2011-Recomp](https://github.com/shaneomac1337/SVR2011-Recomp) — *Static recompilation.*
+- **X-Men: Destiny** — [florinp93/xmd-recompiled](https://github.com/florinp93/xmd-recompiled)
+- **Xbox 360 native ports collection** — [CrownParkComputing/Xbox360-Native-Ports](https://github.com/CrownParkComputing/Xbox360-Native-Ports) — *Static recompilation.*
+
+## Xbox One
+
+1 project
+
+- **UNDERTALE (Xbox One)** — [kittibyte/UndertaleDecomp](https://github.com/kittibyte/UndertaleDecomp)
+
+## PC-98
+
+2 projects
+
+- **Touhou 4: Lotus Land Story (th04 (REA showcase))** — [N0zoM1z0/th04](https://github.com/N0zoM1z0/th04)
+- **Touhou PC-98** — [nmlgc/ReC98](https://github.com/nmlgc/ReC98)
+
+## ZX Spectrum
+
+46 projects
+
+- **Back to Skool** — [skoolkid/backtoskool](https://github.com/skoolkid/backtoskool) — *Disassembly.*
+- **The Bard's Tale** — [Bedazzle/Bards-tale](https://github.com/Bedazzle/Bards-tale) — *Disassembly.*
+- **Battlezone** — [pobtastic/battlezone](https://github.com/pobtastic/battlezone) — *Disassembly. Inactive or archived.*
+- **Batty** — [pobtastic/batty](https://github.com/pobtastic/batty) — *Disassembly. Inactive or archived.*
+- **Black Mirror: Bandersnatch (ZX Spectrum code)** — [nwoeanhinnogaehr/bandersnatch](https://github.com/nwoeanhinnogaehr/bandersnatch) — *Disassembly. Inactive or archived.*
+- **Booty** — [pobtastic/booty](https://github.com/pobtastic/booty) — *Disassembly.*
+- **Castle Master II: The Crypt (santiontanon castlemaster2-disassembly)** — [santiontanon/castlemaster2-disassembly](https://github.com/santiontanon/castlemaster2-disassembly) — *Disassembly. Inactive or archived.*
+- **Chronos (music code)** — [ZoomTen/chronos-zxbeeper](https://github.com/ZoomTen/chronos-zxbeeper) — *Disassembly. Inactive or archived.*
+- **Chuckie Egg** — [mrcook/chuckie-egg-disassembly](https://github.com/mrcook/chuckie-egg-disassembly) — *Disassembly. Inactive or archived.*
+- **Chuckie Egg** — [Ritchie333/chuckie](https://github.com/Ritchie333/chuckie) — *Disassembly. Inactive or archived.*
+- **Chuckie Egg (Paul Hughes ZXSpectrumChuckieEgg)** — [Paulie68000/ZXSpectrumChuckieEgg](https://github.com/Paulie68000/ZXSpectrumChuckieEgg)
+- **Cobra (Paul Hughes ZXSpectrumCobra)** — [Paulie68000/ZXSpectrumCobra](https://github.com/Paulie68000/ZXSpectrumCobra)
+- **Deathchase (Ritchie333 deathchase)** — [Ritchie333/deathchase](https://github.com/Ritchie333/deathchase) — *Disassembly. Inactive or archived.*
+- **Dynamite Dan** — [Ritchie333/dynamitedan](https://github.com/Ritchie333/dynamitedan) — *Disassembly. Inactive or archived.*
+- **Eric and the Floaters** — [Bedazzle/EATF](https://github.com/Bedazzle/EATF) — *Disassembly.*
+- **Everyone's a Wally** — [Ritchie333/wally](https://github.com/Ritchie333/wally) — *Disassembly. Inactive or archived.*
+- **Exolon (rusarh exolon-esl)** — [rusarh/exolon-esl](https://github.com/rusarh/exolon-esl) — *Disassembly. Inactive or archived.*
+- **Fairlight** — [VilleKrumlinde/FairlightZ80](https://github.com/VilleKrumlinde/FairlightZ80) — *Disassembly.*
+- **Fred (kmatveev zx-fred-reveng)** — [kmatveev/zx-fred-reveng](https://github.com/kmatveev/zx-fred-reveng) — *Disassembly.*
+- **The Great Escape (dpt The-Great-Escape)** — [dpt/The-Great-Escape](https://github.com/dpt/The-Great-Escape) — *Disassembly. Inactive or archived.*
+- **Head Over Heels (simon-frankau head-over-heels)** — [simon-frankau/head-over-heels](https://github.com/simon-frankau/head-over-heels) — *Inactive or archived.*
+- **The Hobbit (1982, hobbit-1982-native)** — [7ucina/hobbit-1982-native](https://github.com/7ucina/hobbit-1982-native) — *Port.*
+- **The Hobbit (Paul Maddern (pobtastic) SkoolKit disassembly)** — [pobtastic/hobbit](https://github.com/pobtastic/hobbit) — *Disassembly. Inactive or archived.*
+- **Hunchback** — [Ritchie333/hunch](https://github.com/Ritchie333/hunch) — *Disassembly. Inactive or archived.*
+- **Hungry Horace** — [skoolkid/hungryhorace](https://github.com/skoolkid/hungryhorace) — *Disassembly.*
+- **Hyper Active (Paul Hughes ZXSpectrumHyperActive)** — [Paulie68000/ZXSpectrumHyperActive](https://github.com/Paulie68000/ZXSpectrumHyperActive)
+- **Jason's Gem** — [pobtastic/jasons-gem](https://github.com/pobtastic/jasons-gem) — *Disassembly. Inactive or archived.*
+- **Jet Set Willy (jetsetwilly (skoolkit.ca))** — [skoolkid/jetsetwilly](https://github.com/skoolkid/jetsetwilly) — *Disassembly.*
+- **Jetpac** — [mrcook/jetpac-disassembly](https://github.com/mrcook/jetpac-disassembly)
+- **Lode Runner** — [Bedazzle/Lode-runner](https://github.com/Bedazzle/Lode-runner) — *Disassembly.*
+- **The Lords of Midnight (mrcook lords-of-midnight-disassembly (Spectrum + DOS))** — [mrcook/lords-of-midnight-disassembly](https://github.com/mrcook/lords-of-midnight-disassembly) — *Disassembly. Inactive or archived.*
+- **Manic Miner** — [skoolkid/manicminer](https://github.com/skoolkid/manicminer)
+- **Manic Miner (mrcook manic-miner (Manic Miner: Retro!))** — [mrcook/manic-miner](https://github.com/mrcook/manic-miner) — *Port. Inactive or archived.*
+- **Manic Miner (TobyLobster ManicMiner)** — [TobyLobster/ManicMiner](https://github.com/TobyLobster/ManicMiner) — *Disassembly. Inactive or archived.*
+- **Nether Earth (santiontanon netherearth-disassembly)** — [santiontanon/netherearth-disassembly](https://github.com/santiontanon/netherearth-disassembly) — *Disassembly. Inactive or archived.*
+- **Rampage** — [pobtastic/rampage](https://github.com/pobtastic/rampage) — *Disassembly.*
+- **Rex (ultrabolido skRex)** — [ultrabolido/skRex](https://github.com/ultrabolido/skRex) — *Disassembly. Inactive or archived.*
+- **SimCity** — [suborb/simcity_z80](https://github.com/suborb/simcity_z80) — *Disassembly.*
+- **Skool Daze** — [skoolkid/skooldaze](https://github.com/skoolkid/skooldaze) — *Disassembly.*
+- **Soldier of Fortune (kmatveev zx-sof-reveng)** — [kmatveev/zx-sof-reveng](https://github.com/kmatveev/zx-sof-reveng) — *Inactive or archived.*
+- **Starquake** — [Ritchie333/starquake](https://github.com/Ritchie333/starquake) — *Disassembly. Inactive or archived.*
+- **Technician Ted** — [Ritchie333/chipfact](https://github.com/Ritchie333/chipfact) — *Disassembly. Inactive or archived.*
+- **Ultimate Play the Game titles** — [pobtastic/ultimate](https://github.com/pobtastic/ultimate) — *Disassembly. Inactive or archived.*
+- **Wanted: Monty Mole** — [Ritchie333/monty](https://github.com/Ritchie333/monty) — *Disassembly. Inactive or archived.*
+- **West Bank** — [pobtastic/westbank](https://github.com/pobtastic/westbank) — *Disassembly. Inactive or archived.*
+- **Wheelie** — [pobtastic/wheelie](https://github.com/pobtastic/wheelie) — *Disassembly.*
+
+## Commodore 64
+
+14 projects
+
+- **Attack of the Mutant Camels (Attack of the Mutant Camels (reverse engineer))** — [C64-Mark/Attack-of-the-Mutant-Camels](https://github.com/C64-Mark/Attack-of-the-Mutant-Camels) — *Inactive or archived.*
+- **Crossroads II: Pandemonium (crossroads-2-disassembly)** — [MarkRdgOx/crossroads-2-disassembly](https://github.com/MarkRdgOx/crossroads-2-disassembly) — *Disassembly.*
+- **Elite** — [markmoxon/elite-source-code-commodore-64](https://github.com/markmoxon/elite-source-code-commodore-64)
+- **Elite (elite-harmless)** — [Kroc/elite-harmless](https://github.com/Kroc/elite-harmless) — *Disassembly. Inactive or archived.*
+- **Ghost Town (Esshahn Ghost-Town)** — [Esshahn/Ghost-Town](https://github.com/Esshahn/Ghost-Town) — *Disassembly. Inactive or archived.*
+- **The Great Giana Sisters (native Rust)** — [kvnshroom/giana-sisters-native](https://github.com/kvnshroom/giana-sisters-native) — *Port.*
+- **Gridrunner (gridrunner (Llamasoft Source Code Project))** — [mwenge/gridrunner](https://github.com/mwenge/gridrunner) — *Disassembly. Inactive or archived.*
+- **Iridis Alpha (iridisalpha (Llamasoft Source Code Project))** — [mwenge/iridisalpha](https://github.com/mwenge/iridisalpha) — *Disassembly.*
+- **Maniac Mansion (Maniac.Mansion.Disassembly)** — [segrax/Maniac.Mansion.Disassembly](https://github.com/segrax/Maniac.Mansion.Disassembly) — *Disassembly. Inactive or archived.*
+- **Monty on the Run** — [Dave-Agent/monty-on-the-run](https://github.com/Dave-Agent/monty-on-the-run) — *Disassembly.*
+- **Psychedelia / Colourspace** — [mwenge/psychedelia](https://github.com/mwenge/psychedelia) — *Disassembly. Inactive or archived.*
+- **Uridium** — [mwenge/UridiumFraktion](https://github.com/mwenge/UridiumFraktion) — *Disassembly.*
+- **Uridium (uridium (+ UridiumFraktion))** — [mwenge/uridium](https://github.com/mwenge/uridium)
+- **The Way of the Exploding Fist (Paul Maddern (pobtastic) SkoolKit disassembly)** — [pobtastic/wayoftheexplodingfist](https://github.com/pobtastic/wayoftheexplodingfist) — *Disassembly. Inactive or archived.*
+
+## Commodore VIC-20
+
+2 projects
+
+- **Jetpac** — [phillipeaton/JETPAC_VIC-20_disassembly](https://github.com/phillipeaton/JETPAC_VIC-20_disassembly) — *Disassembly. Inactive or archived.*
+- **Sargon II Chess** — [jamarju/vic20-sargon-ii-chess](https://github.com/jamarju/vic20-sargon-ii-chess) — *Disassembly.*
+
+## Amiga
+
+13 projects
+
+- **Alien Breed** — [hitchhikr/alienbreed](https://github.com/hitchhikr/alienbreed) — *Disassembly.*
+- **Batman: The Movie (MarkyTurtle Batman---Amiga)** — [MarkyTurtle/Batman---Amiga](https://github.com/MarkyTurtle/Batman---Amiga) — *Disassembly.*
+- **Driller** — [hitchhikr/driller](https://github.com/hitchhikr/driller) — *Disassembly. Inactive or archived.*
+- **Dungeons of Avalon** — [tetracorp/dungeons-of-avalon](https://github.com/tetracorp/dungeons-of-avalon) — *Disassembly.*
+- **Frontier: Elite II (fe2-intro)** — [watsonmw/fe2-intro](https://github.com/watsonmw/fe2-intro)
+- **Frontier: Elite II (GLFrontier)** — [pcercuei/glfrontier](https://github.com/pcercuei/glfrontier) — *Inactive or archived.*
+- **James Pond 2: Codename RoboCod** — [griches/JamesPond2RobocodRecomp](https://github.com/griches/JamesPond2RobocodRecomp) — *Static recompilation.*
+- **K240** — [tetracorp/k240](https://github.com/tetracorp/k240) — *Disassembly.*
+- **Sensible World of Soccer 96/97 (OpenSWOS)** — [benbaker76/OpenSWOS](https://github.com/benbaker76/OpenSWOS) — *Port.*
+- **Speedball 2: Brutal Deluxe (speedball2-re-amiga)** — [simon-frankau/speedball2-re-amiga](https://github.com/simon-frankau/speedball2-re-amiga) — *Inactive or archived.*
+- **Spy vs Spy II: The Island Caper** — [hitchhikr/spyvsspy2](https://github.com/hitchhikr/spyvsspy2) — *Disassembly.*
+- **Stunt Car Racer (stunt-car-racer-ste)** — [jonathanopalise/stunt-car-racer-ste](https://github.com/jonathanopalise/stunt-car-racer-ste) — *Inactive or archived.*
+- **Stunt Car Racer (Vesuri stuntcarracer (Framerate Unleashed))** — [Vesuri/stuntcarracer](https://github.com/Vesuri/stuntcarracer)
+
+## Atari 8-bit
+
+3 projects
+
+- **Mercenary (mikedailly MercenaryDisassembly)** — [mikedailly/MercenaryDisassembly](https://github.com/mikedailly/MercenaryDisassembly) — *Disassembly.*
+- **Star Raiders** — [lwiest/StarRaiders](https://github.com/lwiest/StarRaiders) — *Disassembly.*
+- **Star Raiders (sidneycadot Atari8bit_StarRaiders)** — [sidneycadot/Atari8bit_StarRaiders](https://github.com/sidneycadot/Atari8bit_StarRaiders) — *Inactive or archived.*
+
+## Atari ST
+
+3 projects
+
+- **Dungeon Master (ReDMCSB (Christophe Fontanel))** — [gondur/ReDMCSB_Release2](https://github.com/gondur/ReDMCSB_Release2) — *Inactive or archived.*
+- **Lotus Esprit Turbo Challenge (lotus-ste)** — [jonathanopalise/lotus-ste](https://github.com/jonathanopalise/lotus-ste) — *Inactive or archived.*
+- **SunDog: Frozen Legacy** — [laanwj/sundog](https://github.com/laanwj/sundog) — *Port.*
+
+## Apple II
+
+9 projects
+
+- **Apple II games (collection)** — [Michaelangel007/apple2_games_disassembly_project](https://github.com/Michaelangel007/apple2_games_disassembly_project) — *Disassembly.*
+- **Choplifter (ChoplifterReverse (Blondihacks))** — [blondie7575/ChoplifterReverse](https://github.com/blondie7575/ChoplifterReverse)
+- **Lode Runner (lode_runner_reveng (literate programming))** — [XekriRedmane/lode_runner_reveng](https://github.com/XekriRedmane/lode_runner_reveng)
+- **Lode Runner (Piddewitt Loderunner)** — [Piddewitt/Loderunner](https://github.com/Piddewitt/Loderunner) — *Inactive or archived.*
+- **Pac-Man (Apple II)** — [coprsegrinder/PacAppleIIComp](https://github.com/coprsegrinder/PacAppleIIComp)
+- **Prince of Persia (SDLPoP-Dreamcast)** — [Memorix101/SDLPoP-Dreamcast](https://github.com/Memorix101/SDLPoP-Dreamcast) — *Disassembly.*
+- **Robotron: 2084** — [fschuhi/Robotron_2084](https://github.com/fschuhi/Robotron_2084) — *Disassembly. Inactive or archived.*
+- **Ultima IV: Quest of the Avatar (u4-decompiled)** — [ergonomy-joe/u4-decompiled](https://github.com/ergonomy-joe/u4-decompiled) — *Inactive or archived.*
+- **Ultima IV: Quest of the Avatar (u4remasteredA2)** — [sean-gugler/u4remasteredA2](https://github.com/sean-gugler/u4remasteredA2)
+
+## BBC Micro / Acorn
+
+16 projects
+
+- **Aviator (aviator-source-code-bbc-micro (Mark Moxon))** — [markmoxon/aviator-source-code-bbc-micro](https://github.com/markmoxon/aviator-source-code-bbc-micro)
+- **Boulder Dash** — [TobyLobster/Boulderdash](https://github.com/TobyLobster/Boulderdash) — *Disassembly. Inactive or archived.*
+- **Elite (c64-elite-flicker-free (Mark Moxon))** — [markmoxon/c64-elite-flicker-free](https://github.com/markmoxon/c64-elite-flicker-free)
+- **Elite (elite-a-source-code-bbc-micro (Mark Moxon))** — [markmoxon/elite-a-source-code-bbc-micro](https://github.com/markmoxon/elite-a-source-code-bbc-micro)
+- **Elite (elite-source-code-6502-second-processor (Mark Moxon))** — [markmoxon/elite-source-code-6502-second-processor](https://github.com/markmoxon/elite-source-code-6502-second-processor)
+- **Elite (elite-source-code-acorn-electron (Mark Moxon))** — [markmoxon/elite-source-code-acorn-electron](https://github.com/markmoxon/elite-source-code-acorn-electron)
+- **Elite (elite-source-code-apple-ii (Mark Moxon))** — [markmoxon/elite-source-code-apple-ii](https://github.com/markmoxon/elite-source-code-apple-ii)
+- **Elite (elite-source-code-bbc-master (Mark Moxon))** — [markmoxon/elite-source-code-bbc-master](https://github.com/markmoxon/elite-source-code-bbc-master)
+- **Elite (elite-source-code-bbc-micro-disc (Mark Moxon))** — [markmoxon/elite-source-code-bbc-micro-disc](https://github.com/markmoxon/elite-source-code-bbc-micro-disc)
+- **Exile** — [tom-seddon/exile_disassembly](https://github.com/tom-seddon/exile_disassembly) — *Disassembly. Inactive or archived.*
+- **Imogen** — [ZornsLemma/Imogen](https://github.com/ZornsLemma/Imogen) — *Disassembly. Inactive or archived.*
+- **Lander (lander-source-code-acorn-archimedes (Mark Moxon))** — [markmoxon/lander-source-code-acorn-archimedes](https://github.com/markmoxon/lander-source-code-acorn-archimedes)
+- **Repton (ajgbarnes bbc-micro-repton)** — [ajgbarnes/bbc-micro-repton](https://github.com/ajgbarnes/bbc-micro-repton) — *Inactive or archived.*
+- **Revs (revs-source-code-bbc-micro (Mark Moxon))** — [markmoxon/revs-source-code-bbc-micro](https://github.com/markmoxon/revs-source-code-bbc-micro)
+- **The Sentinel (the-sentinel-source-code-bbc-micro (Mark Moxon))** — [markmoxon/the-sentinel-source-code-bbc-micro](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro)
+- **Thrust (kieranhj thrust-disassembly)** — [kieranhj/thrust-disassembly](https://github.com/kieranhj/thrust-disassembly) — *Disassembly.*
+
+## Amstrad CPC
+
+1 project
+
+- **Head Over Heels** — [fphenix/HeadOverHeels_CPC](https://github.com/fphenix/HeadOverHeels_CPC) — *Disassembly.*
+
+## Mac
+
+8 projects
+
+- **Beyond Dark Castle** — [r41n60w/bdc_disasm](https://github.com/r41n60w/bdc_disasm) — *Disassembly. Inactive or archived.*
+- **Cyberpunk 2077 (CyPort)** — [Thijs2004/CyPort](https://github.com/Thijs2004/CyPort) — *Port.*
+- **Grand Prix Manager 2 (Mac)** — [brunocastello/GPM2-Mac](https://github.com/brunocastello/GPM2-Mac) — *Port.*
+- **Halo: Combat Evolved (Mac)** — [ChrisNonyminus/halo_mac_decomp](https://github.com/ChrisNonyminus/halo_mac_decomp) — *Inactive or archived.*
+- **Prince of Persia 2 (pop2-port)** — [dmucli/pop2-port](https://github.com/dmucli/pop2-port) — *Port.*
+- **Rocksmith 2014 Edition - Remastered (rs-rearmed)** — [bbelgg/rs-rearmed](https://github.com/bbelgg/rs-rearmed) — *Static recompilation.*
+- **The Sims 2** — [ChrisNonyminus/sims2_mac_decomp](https://github.com/ChrisNonyminus/sims2_mac_decomp) — *Inactive or archived.*
+- **Sonic Dream Team** — [dev-camo/project-lucid](https://github.com/dev-camo/project-lucid)
+
+## PC / DOS
+
+465 projects
+
+- **3D Maze** — [x86matthew/Playable3DMaze](https://github.com/x86matthew/Playable3DMaze)
+- **3D Pinball Space Cadet (Dreamcast)** — [headshot2017/3dpinball-dc](https://github.com/headshot2017/3dpinball-dc) — *Port. Inactive or archived.*
+- **3D Pinball Space Cadet (Nintendo DS)** — [headshot2017/3dpinball-nds](https://github.com/headshot2017/3dpinball-nds) — *Port. Inactive or archived.*
+- **3D Pinball Space Cadet (PlayStation 2)** — [headshot2017/3dpinball-ps2](https://github.com/headshot2017/3dpinball-ps2) — *Port. Inactive or archived.*
+- **A2 Racer II** — [berobloom/a2racer2-re](https://github.com/berobloom/a2racer2-re) — *Port.*
+- **A2 Racer IV: De Politie slaat terug** — [NostalgiaRealm/A2-Racer-4](https://github.com/NostalgiaRealm/A2-Racer-4) — *Port.*
+- **Aces of the Pacific (aces-of-the-pacific-sdl3)** — [kylofon/aces-of-the-pacific-sdl3](https://github.com/kylofon/aces-of-the-pacific-sdl3) — *Static recompilation.*
+- **Age of Wonders (aow-patch)** — [int19h/aow-patch](https://github.com/int19h/aow-patch) — *Inactive or archived.*
+- **Alien Odyssey** — [kingzmanh/alien-odyssey-pc](https://github.com/kingzmanh/alien-odyssey-pc) — *Static recompilation.*
+- **Alien vs. Predator 2** — [lemiur/AVP2-Reconstructed](https://github.com/lemiur/AVP2-Reconstructed)
+- **Alley Cat** — [petarov/alleycat.exe](https://github.com/petarov/alleycat.exe) — *Static recompilation.*
+- **Alone in the Dark (AloneInTheDarkReHaunted)** — [spacefarergames/AloneInTheDarkReHaunted](https://github.com/spacefarergames/AloneInTheDarkReHaunted) — *Static recompilation.*
+- **Ambermoon** — [Pyrdacor/Ambermoon.net](https://github.com/Pyrdacor/Ambermoon.net)
+- **Arc System Works Team Red engine (REDEngine)** — [WistfulHopes/REDEngine](https://github.com/WistfulHopes/REDEngine) — *Inactive or archived.*
+- **Arcanum: Of Steamworks and Magick Obscura** — [alexbatalov/arcanum-ce](https://github.com/alexbatalov/arcanum-ce)
+- **Area 51 (Area 51 (Source Restoration))** — [ProjectDreamland/area51](https://github.com/ProjectDreamland/area51) — *Port.*
+- **Assassin's Creed II / Brotherhood (scimitar-recomp)** — [T01iK/scimitar-recomp](https://github.com/T01iK/scimitar-recomp) — *Static recompilation.*
+- **Baldur's Gate: Enhanced Edition (EEex)** — [Bubb13/EEex](https://github.com/Bubb13/EEex)
+- **Ballance** ✦ — [doyaGu/Ballanced](https://github.com/doyaGu/Ballanced)
+- **Battlefield 2** — [kiwidoggie/breadflowerdos](https://github.com/kiwidoggie/breadflowerdos)
+- **BattleTech: The Crescent Hawk's Inception** — [Elthial/Reko-Btech](https://github.com/Elthial/Reko-Btech) — *Inactive or archived.*
+- **Beasts and Bumpkins** — [JonMagon/BBTools](https://github.com/JonMagon/BBTools)
+- **Bedlam 2: Absolute Bedlam** — [8street/Bedlam2](https://github.com/8street/Bedlam2) — *Inactive or archived.*
+- **Betrayal at Krondor** — [canassa/betrayal-at-krondor](https://github.com/canassa/betrayal-at-krondor)
+- **The Binding of Isaac (IsaacRecomp)** — [whylurking/IsaacRecomp](https://github.com/whylurking/IsaacRecomp) — *Static recompilation.*
+- **The Binding of Isaac: Rebirth (The Browsing of Isaac (tboi.online))** — [chiikabu/the-browsing-of-isaac](https://github.com/chiikabu/the-browsing-of-isaac) — *Static recompilation.*
+- **The Binding of Isaac: Repentance** — [0xl0cal/repentogxm](https://github.com/0xl0cal/repentogxm)
+- **Bio Menace** — [lethal-guitar/BioMenaceDecomp](https://github.com/lethal-guitar/BioMenaceDecomp)
+- **Black & White** — [sp00nznet/bw](https://github.com/sp00nznet/bw) — *Static recompilation.*
+- **Black and White** — [openblack/bw1-decomp](https://github.com/openblack/bw1-decomp)
+- **Blasterball Revolution 2** — [KoboDev/BBR2Decompile](https://github.com/KoboDev/BBR2Decompile)
+- **Blockland (scripts)** — [Elletra/bl-decompiled](https://github.com/Elletra/bl-decompiled) — *Inactive or archived.*
+- **Blood (Blood-RE)** — [NBlood/Blood-RE](https://github.com/NBlood/Blood-RE)
+- **BloodBorne for Windows** — [Supermedo/bloodborne_pc](https://github.com/Supermedo/bloodborne_pc)
+- **Bloons TD 5** — [NKHook/BTD5-Decomp](https://github.com/NKHook/BTD5-Decomp)
+- **BookStory** — [xraymemory/bookstory-en](https://github.com/xraymemory/bookstory-en) — *Inactive or archived.*
+- **Boss Rally** — [jeff-strutb/brally](https://github.com/jeff-strutb/brally)
+- **Buckshot Roulette** — [uncreativeCultist/buckshot-decomp-public](https://github.com/uncreativeCultist/buckshot-decomp-public)
+- **Buckshot Roulette** — [uncreativeCultist/buckshot-decomp-private](https://github.com/uncreativeCultist/buckshot-decomp-private)
+- **Caesar II (caesar2-port)** — [second-impressions/caesar2-port](https://github.com/second-impressions/caesar2-port) — *Port.*
+- **Call of Duty (1.5, Android)** — [Dr3amyBerry/callofrecomp](https://github.com/Dr3amyBerry/callofrecomp) — *Static recompilation.*
+- **Call of Duty: Black Ops II (bo2-mac)** — [adrbn/bo2-mac](https://github.com/adrbn/bo2-mac) — *Static recompilation.*
+- **Carmageddon** — [dethrace-labs/dethrace](https://github.com/dethrace-labs/dethrace)
+- **Carmageddon (Android port)** — [armac911/Carmageddon-Android-Port](https://github.com/armac911/Carmageddon-Android-Port) — *Port.*
+- **Carmageddon (dethrace-ported-to-web)** — [Carter54git/dethrace-ported-to-web](https://github.com/Carter54git/dethrace-ported-to-web)
+- **Carmageddon 2** — [Link4Electronics/Carpocalypse2](https://github.com/Link4Electronics/Carpocalypse2)
+- **Carmageddon II: Carpocalypse Now (rec2 (Carmageddon 2, revisited))** — [madebr/rec2](https://github.com/madebr/rec2)
+- **Carmageddon II: Carpocalypse Now (rec2)** — [dethrace-labs/rec2](https://github.com/dethrace-labs/rec2)
+- **Cave Story** — [gameblabla/CSE2](https://github.com/gameblabla/CSE2)
+- **Cave Story** — [GabrielRavier/Cave-Story-Decompilation](https://github.com/GabrielRavier/Cave-Story-Decompilation) — *Inactive or archived.*
+- **Cave Story (doukutsupsx)** — [fgsfdsfgs/doukutsupsx](https://github.com/fgsfdsfgs/doukutsupsx) — *Port. Inactive or archived.*
+- **Celeste** — [TheCyndaquilDecompilers/Celeste_Decompiled](https://github.com/TheCyndaquilDecompilers/Celeste_Decompiled) — *Inactive or archived.*
+- **Championship Manager: Season 01/02 (Bosman Edition)** — [maxevans60/cm0102-bosman-edition](https://github.com/maxevans60/cm0102-bosman-edition) — *Static recompilation.*
+- **Chernobyl Neighbor. Clown Gang** — [smolkrieger/nuclear-neighbor](https://github.com/smolkrieger/nuclear-neighbor)
+- **Civilization II** — [richardpenman/civ2](https://github.com/richardpenman/civ2)
+- **Colin McRae Rally 2.0** — [pablocpas/CMR2Decomp](https://github.com/pablocpas/CMR2Decomp)
+- **Colin McRae Rally 2.0 (OpenCMR2)** — [pablocpas/OpenCMR2](https://github.com/pablocpas/OpenCMR2)
+- **Colin McRae Rally 2.0 (VR)** — [DR-89/opencmr2-vr](https://github.com/DR-89/opencmr2-vr) — *Port.*
+- **Command & Conquer: Red Alert 2 & Yuri's Revenge (iPad)** — [MargeLenders/redalert2-ipad](https://github.com/MargeLenders/redalert2-ipad) — *Static recompilation.*
+- **Command & Conquer: Red Alert 2 (Ares)** — [Ares-Developers/Ares](https://github.com/Ares-Developers/Ares) — *Inactive or archived.*
+- **Command & Conquer: Red Alert 2 (Phobos)** — [Phobos-developers/Phobos](https://github.com/Phobos-developers/Phobos)
+- **Command & Conquer: Red Alert 2 (redalert2-recomp)** — [sp00nznet/redalert2-recomp](https://github.com/sp00nznet/redalert2-recomp) — *Static recompilation.*
+- **Command & Conquer: Red Alert 2 - Yuri's Revenge (gagarin)** — [r-melvin/gagarin](https://github.com/r-melvin/gagarin)
+- **Command & Conquer: Tiberian Sun (ts-patches)** — [CnCNet/ts-patches](https://github.com/CnCNet/ts-patches)
+- **Command & Conquer: Tiberian Sun (Vinifera)** — [Vinifera-Developers/Vinifera](https://github.com/Vinifera-Developers/Vinifera)
+- **Command & Conquer: Tiberian Sun and Firestorm** — [sp00nznet/tiberiansun-recomp](https://github.com/sp00nznet/tiberiansun-recomp) — *Static recompilation.*
+- **Commander Keen (Chocolate Keen)** — [jamesfmackenzie/chocolatekeen](https://github.com/jamesfmackenzie/chocolatekeen)
+- **Commander Keen (MegaRocket)** — [CrossplayGaming/megarocket](https://github.com/CrossplayGaming/megarocket) — *Port.*
+- **Commander Keen in Goodbye, Galaxy! (Keen 4-6 reconstructed source (mirror))** — [sparky4/keen4-6](https://github.com/sparky4/keen4-6) — *Inactive or archived.*
+- **Commander Keen in Goodbye, Galaxy! (keensource456tandy)** — [FrenkelS/keensource456tandy](https://github.com/FrenkelS/keensource456tandy) — *Port. Inactive or archived.*
+- **Cosmo's Cosmic Adventure** — [smitelli/cosmore](https://github.com/smitelli/cosmore)
+- **Cosmo's Cosmic Adventure** — [digows/cosmo](https://github.com/digows/cosmo) — *Port.*
+- **Counter-Strike** — [Velaron/cs16-client](https://github.com/Velaron/cs16-client)
+- **Counter-Strike (ReGameDLL_CS)** — [rehlds/ReGameDLL_CS](https://github.com/rehlds/ReGameDLL_CS)
+- **Creatures 2** — [xylolfrei/CREATURES-II-DECOMPILATION-PROJECT](https://github.com/xylolfrei/CREATURES-II-DECOMPILATION-PROJECT)
+- **Creatures 2 (Creatures-2-Decompilation)** — [adamcolquhoun/Creatures-2-Decompilation](https://github.com/adamcolquhoun/Creatures-2-Decompilation)
+- **Crimson Skies** — [sp00nznet/crimsonskies](https://github.com/sp00nznet/crimsonskies) — *Static recompilation.*
+- **Crimsonland** — [banteg/crimson](https://github.com/banteg/crimson)
+- **Cuphead** — [jmxamongusmodder/cuphead-decomp](https://github.com/jmxamongusmodder/cuphead-decomp)
+- **Cuphead** — [tanosshi/Cuphead-Decomp](https://github.com/tanosshi/Cuphead-Decomp)
+- **Curse of the Azure Bonds (coab)** — [simeonpilgrim/coab](https://github.com/simeonpilgrim/coab) — *Inactive or archived.*
+- **Cut the Rope** — [CtRHome/CutTheRope-WindowsDecomp](https://github.com/CtRHome/CutTheRope-WindowsDecomp) — *Inactive or archived.*
+- **Cut the Rope: Experiments** — [CtRHome/CtRExperiments-WindowsDecomp](https://github.com/CtRHome/CtRExperiments-WindowsDecomp) — *Inactive or archived.*
+- **Dangerous Dave in the Haunted Mansion (dangerous-dave-re)** — [gmegidish/dangerous-dave-re](https://github.com/gmegidish/dangerous-dave-re) — *Inactive or archived.*
+- **Dark Souls: Prepare to Die Edition (Mac)** — [aplaino/darksouls-mac](https://github.com/aplaino/darksouls-mac) — *Static recompilation.*
+- **Day of Defeat (DOD13-Client)** — [whamemer/dod13-client](https://github.com/whamemer/dod13-client)
+- **Deltarune** — [Team-UPD/DeltaruneDecomp](https://github.com/Team-UPD/DeltaruneDecomp)
+- **Deltarune** — [TeamBlossomDevs/DeltaruneDecomp](https://github.com/TeamBlossomDevs/DeltaruneDecomp)
+- **Deltarune (deltamodkit)** — [deltamodders/deltamodkit](https://github.com/deltamodders/deltamodkit)
+- **Deltarune (DeltaruneDecomp_beta)** — [TeamBlossomDevs/DeltaruneDecomp_beta](https://github.com/TeamBlossomDevs/DeltaruneDecomp_beta)
+- **Deus Ex: Human Revolution** — [rrika/cdcEngineDXHR](https://github.com/rrika/cdcEngineDXHR)
+- **Diablo** — [diasurgical/devilution](https://github.com/diasurgical/devilution)
+- **Diablo (DevilTouch)** — [chrissotraidis/deviltouch](https://github.com/chrissotraidis/deviltouch) — *Port.*
+- **Diablo (Devilution, original)** — [galaxyhaxz/devilution](https://github.com/galaxyhaxz/devilution) — *Inactive or archived.*
+- **Diablo (devilution-nx)** — [lantus/devilution-nx](https://github.com/lantus/devilution-nx) — *Port. Inactive or archived.*
+- **Diablo II** — [psi29a/d2decomped](https://github.com/psi29a/d2decomped)
+- **Diablo II (redivivus)** — [jaenster/redivivus](https://github.com/jaenster/redivivus)
+- **Digger (Digger Remastered (sobomax fork))** — [sobomax/digger](https://github.com/sobomax/digger)
+- **Dishonored** — [ectrc/dishonoredrecompiled](https://github.com/ectrc/dishonoredrecompiled)
+- **Doki Doki Literature Club (decompiled scripts)** — [judge2020/DokiDoki-Decompile](https://github.com/judge2020/DokiDoki-Decompile) — *Inactive or archived.*
+- **Doom95 (decomp)** — [anteroul/doom95-decomp](https://github.com/anteroul/doom95-decomp)
+- **DOS and Windows games (SR)** — [M-HT/SR](https://github.com/M-HT/SR) — *Static recompilation.*
+- **DOS demoscene productions (demoscene-recomp)** — [treylorswift/demoscene-recomp](https://github.com/treylorswift/demoscene-recomp) — *Static recompilation.*
+- **Dr. Brain Action Reaction** — [SirHenricus/DrBrainActionReaction_PackageDecomp](https://github.com/SirHenricus/DrBrainActionReaction_PackageDecomp)
+- **Dreams to Reality** — [jlagedo/dreams-to-reality-re](https://github.com/jlagedo/dreams-to-reality-re) — *Static recompilation.*
+- **Duck Game** — [TheFlyingFoool/DuckGameRebuilt](https://github.com/TheFlyingFoool/DuckGameRebuilt)
+- **Duke Nukem (1991, techbot)** — [PaulloDEC/techbot](https://github.com/PaulloDEC/techbot) — *Port.*
+- **Duke Nukem (Duke1Decomp)** — [lethal-guitar/Duke1Decomp](https://github.com/lethal-guitar/Duke1Decomp) — *Inactive or archived.*
+- **Duke Nukem II** — [lethal-guitar/Duke2Reconstructed](https://github.com/lethal-guitar/Duke2Reconstructed)
+- **Dune II** — [gameflorist/dunedynasty](https://github.com/gameflorist/dunedynasty) — *Port.*
+- **Dungeon Master II: Skullkeep (skproject)** — [gbsphenx/skproject](https://github.com/gbsphenx/skproject)
+- **DX-Ball (dx-ball (REA showcase))** — [N0zoM1z0/dx-ball](https://github.com/N0zoM1z0/dx-ball)
+- **EA Sports Cricket 07 (browser)** — [Dhaiwat10/cricket07-browser](https://github.com/Dhaiwat10/cricket07-browser) — *Static recompilation.*
+- **Echo Arena** — [N3rdL0rd/EchoDecomp](https://github.com/N3rdL0rd/EchoDecomp)
+- **eCrew Development Program (McDonald's Training Game)** — [imavie/ecdpdecomp](https://github.com/imavie/ecdpdecomp)
+- **Ecstatica (EcstaticaRecompiled)** — [spacefarergames/EcstaticaRecompiled](https://github.com/spacefarergames/EcstaticaRecompiled) — *Static recompilation.*
+- **Ecstatica 2 (co-op)** — [nasserlk99-hue/ecstatica2-coop](https://github.com/nasserlk99-hue/ecstatica2-coop)
+- **The Elder Scrolls II: Daggerfall** ✦ — [brotchie/daggerfall-decomp](https://github.com/brotchie/daggerfall-decomp) — *Matching decompilation of FALL.EXE 1.07.213.*
+- **The Elder Scrolls V: Skyrim (Android)** — [ttom795/Skyrim_Android](https://github.com/ttom795/Skyrim_Android) — *Static recompilation.*
+- **Empire Earth: The Art of Conquest** — [Protryon/empire_earth](https://github.com/Protryon/empire_earth)
+- **F-15 II** — [neuviemeporte/f15se2-re](https://github.com/neuviemeporte/f15se2-re)
+- **Fable: The Lost Chapters** — [BuffJesus/FableDecomp](https://github.com/BuffJesus/FableDecomp)
+- **Fallout** — [alexbatalov/fallout1-ce](https://github.com/alexbatalov/fallout1-ce)
+- **Fallout** — [alexbatalov/fallout1-re](https://github.com/alexbatalov/fallout1-re) — *Inactive or archived.*
+- **Fallout (F1DP)** — [Edw590/F1DP](https://github.com/Edw590/F1DP)
+- **Fallout 2** — [alexbatalov/fallout2-re](https://github.com/alexbatalov/fallout2-re)
+- **Fallout 2** — [ChrisNonyminus/fallout2](https://github.com/ChrisNonyminus/fallout2) — *Inactive or archived.*
+- **Fallout Tactics: Brotherhood of Steel (FTSE)** — [melindil/FTSE](https://github.com/melindil/FTSE)
+- **FEZ** — [dptug/FEZ](https://github.com/dptug/FEZ) — *Inactive or archived.*
+- **Final Doom (PSXFINALDOOM-RE)** — [Erick194/PSXFINALDOOM-RE](https://github.com/Erick194/PSXFINALDOOM-RE)
+- **Final Fantasy VII (Android)** — [bhuiyah/ff7-recomp-android](https://github.com/bhuiyah/ff7-recomp-android) — *Static recompilation.*
+- **Final Fantasy XI** — [rubymatrix/xi-on-anything](https://github.com/rubymatrix/xi-on-anything) — *Static recompilation.*
+- **Final Fantasy XIV (1.0)** — [swstegall/meteor-decomp](https://github.com/swstegall/meteor-decomp)
+- **Five Nights At Freddy's** — [fr3dsp/FNaF-Decomp](https://github.com/fr3dsp/FNaF-Decomp)
+- **Five Nights At Freddy's 2** — [fr3dsp/FNaF-2-Decomp](https://github.com/fr3dsp/FNaF-2-Decomp)
+- **Five Nights at Freddy's: Help Wanted** — [TechnicalFNaF/HW1Decomp](https://github.com/TechnicalFNaF/HW1Decomp)
+- **FlatOut 2** — [ZackWilde27/FlatOut-2-decomp](https://github.com/ZackWilde27/FlatOut-2-decomp)
+- **FlatOut 2 (ARM64, PortMaster)** — [badcats72/flatout2-portmaster](https://github.com/badcats72/flatout2-portmaster) — *Static recompilation.*
+- **Fortnite (OT6-Reconstruction)** — [ApfelTeeSaft/OT6-Reconstruction](https://github.com/ApfelTeeSaft/OT6-Reconstruction)
+- **Freelancer** — [FreelancerDecomp/Freelancer-Decomp](https://github.com/FreelancerDecomp/Freelancer-Decomp)
+- **Freelancer** — [HaydnTrigg/Freelancer](https://github.com/HaydnTrigg/Freelancer)
+- **FUEL** — [widberg/FUELDecompilation](https://github.com/widberg/FUELDecompilation)
+- **Full Tilt! Pinball (FullTiltPinball-Native)** — [Excelsies/FullTiltPinball-Native](https://github.com/Excelsies/FullTiltPinball-Native) — *Port.*
+- **Fun Tracks** — [Karlos-fr/fun-tracks-recomp-releases](https://github.com/Karlos-fr/fun-tracks-recomp-releases) — *Static recompilation.*
+- **Game Dev Story (1997)** — [Red-K0/GameDevStory-Decomp](https://github.com/Red-K0/GameDevStory-Decomp) — *Inactive or archived.*
+- **Geometry Dash** — [melowody/GDDecompProject](https://github.com/melowody/GDDecompProject) — *Inactive or archived.*
+- **Geometry Dash 2.11** — [Wyliemaster/GD-Decompiled](https://github.com/Wyliemaster/GD-Decompiled) — *Inactive or archived.*
+- **Geometry Dash 2.206** — [CallocGD/GD-2.206-Decompiled](https://github.com/CallocGD/GD-2.206-Decompiled)
+- **Grand Prix 4** — [leighrobertabbott/decomp-grandprix4](https://github.com/leighrobertabbott/decomp-grandprix4)
+- **Grand Theft Auto (gta1_re)** — [CriminalRETeam/gta1_re](https://github.com/CriminalRETeam/gta1_re)
+- **Grand Theft Auto / GTA: London** — [sp00nznet/gta](https://github.com/sp00nznet/gta) — *Static recompilation.*
+- **Grand Theft Auto 2** — [CriminalRETeam/gta2_re](https://github.com/CriminalRETeam/gta2_re)
+- **Grand Theft Auto 2 (gta2-native)** — [ErcouldnT/gta2-native](https://github.com/ErcouldnT/gta2-native) — *Static recompilation.*
+- **Grand Theft Auto III / Grand Theft Auto: Vice City** — [Cai1Hsu/re3](https://github.com/Cai1Hsu/re3)
+- **Grand Theft Auto IV (Liberty Pro Max, Apple silicon)** — [Awis13/liberty-pro-max](https://github.com/Awis13/liberty-pro-max) — *Static recompilation.*
+- **Grand Theft Auto V (decompiled scripts)** — [root-cause/v-decompiled-scripts](https://github.com/root-cause/v-decompiled-scripts) — *Inactive or archived.*
+- **Grand Theft Auto V (decompiled scripts)** — [calamity-inc/GTA-V-Decompiled-Scripts](https://github.com/calamity-inc/GTA-V-Decompiled-Scripts)
+- **Grand Theft Auto V (Grand-V)** — [SebasKitten/Grand-V](https://github.com/SebasKitten/Grand-V)
+- **Grand Theft Auto: San Andreas** ✦ — [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed) — *Reversed reimplementation of the PC 1.0 US version, same family of work as re3.*
+- **Grand Theft Auto: Vice City** — [mrxenginner/reVC](https://github.com/mrxenginner/reVC)
+- **Granny** — [scd5dev/GrannyDecompilationLegacy](https://github.com/scd5dev/GrannyDecompilationLegacy)
+- **Guilty Gear -Strive- (OpenRED)** — [WistfulHopes/OpenRED](https://github.com/WistfulHopes/OpenRED) — *Inactive or archived.*
+- **Half-Life (half-life1_win32_722)** — [ScriptedSnark/half-life1_win32_722](https://github.com/ScriptedSnark/half-life1_win32_722)
+- **Half-Life (halflife_dc)** — [maximqaxd/halflife_dc](https://github.com/maximqaxd/halflife_dc)
+- **Half-Life (ReHLDS)** — [rehlds/ReHLDS](https://github.com/rehlds/ReHLDS)
+- **Harry Potter And The Half Blood Prince** — [MidacoYT/HarryPotterAndTheHalfBloodPrince-Decompilation](https://github.com/MidacoYT/HarryPotterAndTheHalfBloodPrince-Decompilation)
+- **Harvest: Massive Encounter** — [banteg/harvest](https://github.com/banteg/harvest)
+- **heavymetal** — [sp00nznet/heavymetal](https://github.com/sp00nznet/heavymetal)
+- **Heroes of Might and Magic** — [sushi-shi/homm1-decomp](https://github.com/sushi-shi/homm1-decomp)
+- **Heroes of Might and Magic II** — [sushi-shi/homm2-decomp](https://github.com/sushi-shi/homm2-decomp)
+- **Heroes of Might and Magic III** — [sushi-shi/homm3-decomp](https://github.com/sushi-shi/homm3-decomp)
+- **Heroes of Might and Magic V: Tribes of the East (Android)** — [phys-winner/pc_decomp_homm5](https://github.com/phys-winner/pc_decomp_homm5) — *Static recompilation.*
+- **Hexen (ACS scripts)** — [fragglet/hexen-acs-reconstructed](https://github.com/fragglet/hexen-acs-reconstructed)
+- **Hitman: Codename 47** — [0danny/re47](https://github.com/0danny/re47)
+- **Hitman: Codename 47 (ReHitman)** — [ReGlacier/ReHitman](https://github.com/ReGlacier/ReHitman)
+- **Homeland** — [bttrdrgn/homeland](https://github.com/bttrdrgn/homeland)
+- **Homeworld 2** — [HaydnTrigg/Homeworld2Classic](https://github.com/HaydnTrigg/Homeworld2Classic)
+- **The House of the Dead (PC 1998, WebAssembly)** — [un4ckn0wl3z/house-of-the-dead-recomp-web](https://github.com/un4ckn0wl3z/house-of-the-dead-recomp-web) — *Static recompilation.*
+- **HOVER!** — [Link4Electronics/FlyingDodgem](https://github.com/Link4Electronics/FlyingDodgem)
+- **I Spy Spooky Mansion** — [AM7999/ISpy-SM-Decomp](https://github.com/AM7999/ISpy-SM-Decomp)
+- **Icewind Dale II (Icewind Dale 2 Resurrected)** — [thierbig/iwd2r](https://github.com/thierbig/iwd2r)
+- **Icewind Dale II (iwd2-re)** — [alexbatalov/iwd2-re](https://github.com/alexbatalov/iwd2-re) — *Inactive or archived.*
+- **Ikachan** — [cuckydev/Ikachan](https://github.com/cuckydev/Ikachan) — *Inactive or archived.*
+- **Ikachan** — [GabrielRavier/Ikachan-Decompilation](https://github.com/GabrielRavier/Ikachan-Decompilation) — *Inactive or archived.*
+- **Indiana Jones and the Infernal Machine** — [andrewspode/infernal-machine-decomp-public](https://github.com/andrewspode/infernal-machine-decomp-public)
+- **Indiana Jones and the Infernal Machine (OpenJones3D)** — [smlu/OpenJones3D](https://github.com/smlu/OpenJones3D)
+- **Insaniquarium** ✦ — [PopCap-Decompilations/Insaniquarium-Decompilation](https://github.com/PopCap-Decompilations/Insaniquarium-Decompilation)
+- **Insaniquarium Deluxe** — [Vindirect/WinFish](https://github.com/Vindirect/WinFish)
+- **Jazz Jackrabbit 2** — [Mustafa1177/jazzjackrabbit2-decompiled](https://github.com/Mustafa1177/jazzjackrabbit2-decompiled)
+- **Johnny Herbert's Grand Prix Championship 1998** — [danvratil/jhgpc98decomp](https://github.com/danvratil/jhgpc98decomp)
+- **The Journeyman Project Turbo!** — [disinvite/jman-decomp](https://github.com/disinvite/jman-decomp)
+- **Jurassic Park: Operation Genesis** — [AdventureT/OpenJPOG](https://github.com/AdventureT/OpenJPOG)
+- **The King of Fighters XIV** — [WistfulHopes/KOFXIVDecomp](https://github.com/WistfulHopes/KOFXIVDecomp) — *Inactive or archived.*
+- **King's Field 2** — [snzhkhd/King-s-Field-PC](https://github.com/snzhkhd/King-s-Field-PC)
+- **KKND: Krush Kill 'n Destroy** — [Wyrelade/KKND-Decomp](https://github.com/Wyrelade/KKND-Decomp)
+- **Komputerowa Gratka 3D - Magiczna Kula Papatki** — [regratka/mkp](https://github.com/regratka/mkp)
+- **Legend of Dragoon** — [Legend-of-Dragoon-Modding/Severed-Chains](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains)
+- **LEGO Batman: The Videogame** — [wasdhjklxyz/lbtvg](https://github.com/wasdhjklxyz/lbtvg)
+- **LEGO Batman: The Videogame (Android)** — [ttom795/LBM_Android](https://github.com/ttom795/LBM_Android) — *Static recompilation.*
+- **Lego Creator Knights Kingdom** — [DavidGrice/knightskingdom](https://github.com/DavidGrice/knightskingdom)
+- **Lego Island** — [isledecomp/isle](https://github.com/isledecomp/isle) · [Isle Portable](https://github.com/isledecomp/isle-portable)
+- **LEGO Island (LEGO1.DLL)** — [itsmattkc/LEGO1Disassemble](https://github.com/itsmattkc/LEGO1Disassemble) — *Disassembly. Inactive or archived.*
+- **LEGO Marvel Super Heroes (Android)** — [ttom795/LMS_Android](https://github.com/ttom795/LMS_Android) — *Static recompilation.*
+- **Lego Racers** — [marijnvdwerf/lego-racers](https://github.com/marijnvdwerf/lego-racers)
+- **Lego Racers (racers)** — [isledecomp/racers](https://github.com/isledecomp/racers)
+- **LEGO Racers (racers-portable)** — [isledecomp/racers-portable](https://github.com/isledecomp/racers-portable)
+- **LEGO Rock Raiders** — [ProjectReversio/LegoRockRaiders](https://github.com/ProjectReversio/LegoRockRaiders)
+- **LEGO Rock Raiders (OpenLRR)** — [trigger-segfault/OpenLRR](https://github.com/trigger-segfault/OpenLRR) — *Inactive or archived.*
+- **LEGO Stunt Rally (OpenLSR)** — [OpenLSR/OpenLSR](https://github.com/OpenLSR/OpenLSR)
+- **Legoland** — [marijnvdwerf/legoland](https://github.com/marijnvdwerf/legoland)
+- **Lemmings for Windows 95** — [NitrosGits/Lemmings-For-Windows-95](https://github.com/NitrosGits/Lemmings-For-Windows-95)
+- **Lemmings Paintball** — [vonhoff/lemball-decomp](https://github.com/vonhoff/lemball-decomp)
+- **LineWars II** — [fredangstadt-lang/LineWarsII-SDL](https://github.com/fredangstadt-lang/LineWarsII-SDL) — *Port.*
+- **Little Fighter 2 (LF2-decomp)** — [0xd34db8/LF2-decomp](https://github.com/0xd34db8/LF2-decomp)
+- **LucasArts SCUMM games (archive)** — [EricOakford/SCUMM-Decompilation-Archive](https://github.com/EricOakford/SCUMM-Decompilation-Archive) — *Inactive or archived.*
+- **Mafia (ARM64, TheFamilia)** — [rzrbld/TheFamilia](https://github.com/rzrbld/TheFamilia) — *Static recompilation.*
+- **Mafia: The City of Lost Heaven** — [Marvisak/mafia-re](https://github.com/Marvisak/mafia-re)
+- **Magic Carpet 2: The Netherworlds (HD)** — [thobbsinteractive/magic-carpet-2-hd](https://github.com/thobbsinteractive/magic-carpet-2-hd) — *Port.*
+- **Magic: The Gathering (microprose-shandalar-source)** — [benprew/microprose-shandalar-source](https://github.com/benprew/microprose-shandalar-source)
+- **Magic: The Gathering (Shandalar)** — [rlerrr/shandalar-decomp](https://github.com/rlerrr/shandalar-decomp)
+- **Magic: The Gathering – Shandalar (Shandalar (patched))** — [ShandalarMagic/Shandalar](https://github.com/ShandalarMagic/Shandalar) — *Inactive or archived.*
+- **MapleStory (shroom95-decomp)** — [jon-zu/shroom95-decomp](https://github.com/jon-zu/shroom95-decomp)
+- **Marble Blast Gold (OpenMBG)** — [The-New-Platinum-Team/OpenMBG](https://github.com/The-New-Platinum-Team/OpenMBG) — *Port. Inactive or archived.*
+- **Mario Teaches Typing 3** — [EliasFever/MarioTeachesTyping3Decomp](https://github.com/EliasFever/MarioTeachesTyping3Decomp)
+- **Master of Magic (ReMoM)** — [jbalcomb/ReMoM](https://github.com/jbalcomb/ReMoM)
+- **Max Payne (macOS recomp)** — [aldotoa/max-payne-recomp](https://github.com/aldotoa/max-payne-recomp) — *Static recompilation.*
+- **Max Payne 2 (Android)** — [codepdbh/maxpayne2pc-androidevolved](https://github.com/codepdbh/maxpayne2pc-androidevolved) — *Static recompilation.*
+- **Max Payne 2 (macOS)** — [rv4102/max-payne-2-recomp](https://github.com/rv4102/max-payne-2-recomp) — *Static recompilation.*
+- **Medieval II: Total War (M2TWEOP)** — [EOP-Labs/M2TWEOP-library](https://github.com/EOP-Labs/M2TWEOP-library)
+- **Metal Gear Solid Integral** — [MrSapps/msgi](https://github.com/MrSapps/msgi) — *Inactive or archived.*
+- **Metrowerks CodeWarrior for GameCube** — [rayanht/mwcc](https://github.com/rayanht/mwcc)
+- **Minecraft Classic (MinecraftC)** — [johnpayne-dev/MinecraftC](https://github.com/johnpayne-dev/MinecraftC) — *Port.*
+- **Minesweeper (ReversingMinesweeper)** — [repnz/ReversingMinesweeper](https://github.com/repnz/ReversingMinesweeper) — *Inactive or archived.*
+- **Mirror's Edge (Glassline)** — [MoonCellar-Team/Glassline](https://github.com/MoonCellar-Team/Glassline) — *Port.*
+- **Monster Truck Madness 1 and 2** — [sp00nznet/mtm](https://github.com/sp00nznet/mtm) — *Static recompilation.*
+- **Mortal Kombat 4** — [nathan-casabieille/mk4decomp](https://github.com/nathan-casabieille/mk4decomp)
+- **Motocross Madness 2** ✦ — [andrewboudreau/motocross-madness-2-decomp](https://github.com/andrewboudreau/motocross-madness-2-decomp)
+- **NavyField 2000 PC** — [rbxrootx/MissionFleet](https://github.com/rbxrootx/MissionFleet)
+- **Need For Speed 1-6** — [OpenNFS/OpenNFS](https://github.com/OpenNFS/OpenNFS)
+- **Need for Speed II: Special Edition** — [zaps166/NFSIISE](https://github.com/zaps166/NFSIISE) — *Static recompilation.*
+- **Need for Speed II: Special Edition / Need for Speed III: Hot Pursuit** — [motor-dev/nfs-recompiled](https://github.com/motor-dev/nfs-recompiled)
+- **Need for Speed III: Hot Pursuit** — [melroy89/nfs3-re](https://github.com/melroy89/nfs3-re)
+- **Need for Speed III: Hot Pursuit (Android)** — [codepdbh/NFS3-HP-AndroidEvolved](https://github.com/codepdbh/NFS3-HP-AndroidEvolved) — *Static recompilation.*
+- **Need for Speed III: Hot Pursuit (nfs3recompiled-android)** — [ZloiKILLER/nfs3recompiled-android](https://github.com/ZloiKILLER/nfs3recompiled-android) — *Static recompilation.*
+- **Need for Speed: Carbon (Android)** — [codepdbh/nfscarbonpc-androidevolved](https://github.com/codepdbh/nfscarbonpc-androidevolved) — *Static recompilation.*
+- **Need for Speed: Carbon (nfs-carbon-mac)** — [vasist15-source/nfs-carbon-mac](https://github.com/vasist15-source/nfs-carbon-mac) — *Static recompilation.*
+- **Need For Speed: High Stakes** — [OpenNFS/NFSHSX](https://github.com/OpenNFS/NFSHSX)
+- **Need for Speed: Most Wanted** — [dbalatoni13/nfsmw](https://github.com/dbalatoni13/nfsmw)
+- **Need for Speed: Most Wanted** — [codepdbh/nfsmwpc-recompiled](https://github.com/codepdbh/nfsmwpc-recompiled) — *Static recompilation.*
+- **Need for Speed: Most Wanted (Android)** — [DEBARSHI-SARKAR/nfsmw-recomp-android](https://github.com/DEBARSHI-SARKAR/nfsmw-recomp-android) — *Static recompilation.*
+- **Need for Speed: Most Wanted (nfs-most-wanted-mac)** — [elforeign/nfs-most-wanted-mac](https://github.com/elforeign/nfs-most-wanted-mac) — *Static recompilation.*
+- **Need for Speed: Most Wanted (nfsmw-ios)** — [bep1s69/nfsmw-ios](https://github.com/bep1s69/nfsmw-ios) — *Static recompilation.*
+- **Need for Speed: Most Wanted (Recomp)** — [veritr1x/nfsmw-recomp](https://github.com/veritr1x/nfsmw-recomp)
+- **Need for Speed: Most Wanted (vehicle physics)** — [Brawltendo/Most-Wanted-Vehicles-Decomp](https://github.com/Brawltendo/Most-Wanted-Vehicles-Decomp) — *Inactive or archived.*
+- **Need for Speed: Underground** — [dbalatoni13/nfsug](https://github.com/dbalatoni13/nfsug)
+- **Need for Speed: Underground** — [codepdbh/nfsu1-recompiled](https://github.com/codepdbh/nfsu1-recompiled) — *Static recompilation.*
+- **Need for Speed: Underground 2 (nfsu2-re)** — [yugecin/nfsu2-re](https://github.com/yugecin/nfsu2-re)
+- **Need for Speed: Underground 2 (nfsu2-recompiled)** — [codepdbh/nfsu2-recompiled](https://github.com/codepdbh/nfsu2-recompiled) — *Static recompilation.*
+- **Need for Speed: Underground 2 (NFSU2Recomp)** — [TalhaMudo/NFSU2Recomp](https://github.com/TalhaMudo/NFSU2Recomp) — *Static recompilation.*
+- **Need for Speed: Underground 2 (Revived, Android)** — [mininxd/NFSU2-Revived-Android](https://github.com/mininxd/NFSU2-Revived-Android) — *Port.*
+- **Need for Speed: Underground 2 (speed-re)** — [troikoss/speed-re](https://github.com/troikoss/speed-re)
+- **Neekothing (BYOND)** — [CryoSpacewalk/neekothing](https://github.com/CryoSpacewalk/neekothing)
+- **Neverwinter Nights: Enhanced Edition (NWNX:EE unified)** — [nwnxee/unified](https://github.com/nwnxee/unified)
+- **No One Lives Forever 2 (nolf2src)** — [nolffan/nolf2src](https://github.com/nolffan/nolf2src) — *Port.*
+- **Nox (nox-decomp)** — [neuromancer/nox-decomp](https://github.com/neuromancer/nox-decomp) — *Inactive or archived.*
+- **Nox (OpenNox)** — [opennox/opennox](https://github.com/opennox/opennox)
+- **Objects in Space** — [Voidless7125/OIS-Decompile](https://github.com/Voidless7125/OIS-Decompile)
+- **Okami HD** — [Shintensu/OkamiHD-Decomp](https://github.com/Shintensu/OkamiHD-Decomp)
+- **Operation Flashpoint** — [neurocontrarian/ofp-recomp](https://github.com/neurocontrarian/ofp-recomp) — *Static recompilation.*
+- **The Operative: No One Lives Forever (nolfsrc)** — [nolffan/nolfsrc](https://github.com/nolffan/nolfsrc)
+- **The Oregon Trail (Windows 95)** — [emoluvjd2/oregontrail-win32-decomp](https://github.com/emoluvjd2/oregontrail-win32-decomp)
+- **Oregon Trail II** — [katstasaph/otii](https://github.com/katstasaph/otii)
+- **The Oregon Trail II** — [ot-ii/OregonTrailII](https://github.com/ot-ii/OregonTrailII)
+- **OutRun 2006: Coast 2 Coast (outrun2-decomp)** — [r4dius/outrun2-decomp](https://github.com/r4dius/outrun2-decomp)
+- **PangYa** — [hsreina/YaPang](https://github.com/hsreina/YaPang)
+- **Peggle Deluxe** — [teampopwork/Thunderball](https://github.com/teampopwork/Thunderball)
+- **Pizza Frenzy** ✦ — [PopCap-Decompilations/PizzaFrenzy-Decompilation](https://github.com/PopCap-Decompilations/PizzaFrenzy-Decompilation)
+- **Pizza Tower** — [femloy/OpenTower](https://github.com/femloy/OpenTower)
+- **Pizza Tower (Pizza-Tower-EXtracted)** — [setupwitch/Pizza-Tower-EXtracted](https://github.com/setupwitch/Pizza-Tower-EXtracted)
+- **Plants vs Zombies GOTY** — [Patoke/re-plants-vs-zombies](https://github.com/Patoke/re-plants-vs-zombies)
+- **Plants vs. Zombies** — [ruslan831/PlantsVsZombies-decompilation](https://github.com/ruslan831/PlantsVsZombies-decompilation)
+- **Plants vs. Zombies** — [lvplay2/PvZ-Decomp](https://github.com/lvplay2/PvZ-Decomp)
+- **Plants vs. Zombies (0.9.9)** — [bluisblu/pvz](https://github.com/bluisblu/pvz)
+- **Populous: The Beginning (OpenPopTB-MacOS)** — [iagodemacedo/OpenPopTB-MacOS](https://github.com/iagodemacedo/OpenPopTB-MacOS) — *Static recompilation.*
+- **Prince of Persia (SDLPoP Android)** — [mgrz18/sdlpop-android](https://github.com/mgrz18/sdlpop-android) — *Port.*
+- **Prince of Persia 2** — [Supermedo/prince-of-persia-2-windows](https://github.com/Supermedo/prince-of-persia-2-windows)
+- **Prince of Persia 2: The Shadow and the Flame (SDLPoP2)** — [ToolAssisted-run/SDLPoP2](https://github.com/ToolAssisted-run/SDLPoP2) — *Port.*
+- **Princess Maker 4** — [Yanis002/pm4](https://github.com/Yanis002/pm4)
+- **Project Eden** — [mercat0r/Eden](https://github.com/mercat0r/Eden) — *Inactive or archived.*
+- **Project I.G.I.: I'm Going In** — [slickdaddyy/IGI-RE](https://github.com/slickdaddyy/IGI-RE)
+- **Project I.G.I.: I'm Going In (IGI-RE)** — [neonixmoddingteam/IGI-RE](https://github.com/neonixmoddingteam/IGI-RE)
+- **Prototype** — [pablopenna/prototype-decomp](https://github.com/pablopenna/prototype-decomp)
+- **Psychonauts (psychonauts-decomp)** — [DrDecki/psychonauts-decomp](https://github.com/DrDecki/psychonauts-decomp)
+- **Pump It Up: The Perfect Collection** — [bmbelo87/decomp-it-up-Perfect-Collection](https://github.com/bmbelo87/decomp-it-up-Perfect-Collection)
+- **Purble Place (PurblePlaceDecomp)** — [simontime/PurblePlaceDecomp](https://github.com/simontime/PurblePlaceDecomp) — *Inactive or archived.*
+- **Quarantine (1994)** — [ACR-GD/quarantine-recomp](https://github.com/ACR-GD/quarantine-recomp) — *Static recompilation.*
+- **Race Driver: GRID** — [PipeKnight/drig-race-driver](https://github.com/PipeKnight/drig-race-driver)
+- **Raptor: Call of the Shadows (skynettx raptor)** — [skynettx/raptor](https://github.com/skynettx/raptor) — *Port.*
+- **Rayman Arena (raymanarenadecomp)** — [zZeck/raymanarenadecomp](https://github.com/zZeck/raymanarenadecomp) — *Inactive or archived.*
+- **re-stunts** — [CommonLoon102/restunts-bb11](https://github.com/CommonLoon102/restunts-bb11) — *Static recompilation.*
+- **Real War** — [Francessco121/real-war-decomp](https://github.com/Francessco121/real-war-decomp)
+- **Red Dead Redemption 2 (decompiled scripts)** — [kepmehz/RDR3-Decompiled-Scripts](https://github.com/kepmehz/RDR3-Decompiled-Scripts) — *Inactive or archived.*
+- **Red Faction II (ReRED Faction Duo)** — [rzrbld/ReRED_Faction_Duo](https://github.com/rzrbld/ReRED_Faction_Duo) — *Static recompilation.*
+- **Redneck Rampage (Redneck-Rampage-RE)** — [NBlood/Redneck-Rampage-RE](https://github.com/NBlood/Redneck-Rampage-RE)
+- **Resident Evil (PS Vita, biohazard-vita)** — [KiddRwxSsj/biohazard-vita](https://github.com/KiddRwxSsj/biohazard-vita) — *Port.*
+- **Retro-Sonic 3D: Sky Worlds** — [RSDKModding/RSonic3D-Decompilation](https://github.com/RSDKModding/RSonic3D-Decompilation)
+- **Richman 4** — [mytbk/rich4](https://github.com/mytbk/rich4)
+- **RimWorld (alpha builds)** — [josh-m/RW-Decompile](https://github.com/josh-m/RW-Decompile) — *Inactive or archived.*
+- **Roblox (2007 client)** — [RBLXDecomp/RBXGSdecomp](https://github.com/RBLXDecomp/RBXGSdecomp)
+- **Roller** — [FatalDecomp/ROLLER](https://github.com/FatalDecomp/ROLLER)
+- **Rumble Fighter** — [Primitheus/rumbledecomp](https://github.com/Primitheus/rumbledecomp)
+- **Runescape (2003)** — [2003scape/rsc-c](https://github.com/2003scape/rsc-c)
+- **RuneScape (2006scape)** — [2006-Scape/2006Scape](https://github.com/2006-Scape/2006Scape)
+- **Saboteur II: Avenging Angel** — [petarov/saboteur2](https://github.com/petarov/saboteur2) — *Static recompilation.*
+- **San Andreas Multiplayer (SA-MP)** — [dashr9230/SA-MP](https://github.com/dashr9230/SA-MP)
+- **San Andreas Multiplayer 0.3.7** — [Dryxio/samp-source](https://github.com/Dryxio/samp-source)
+- **SCP - Containment Breach Multiplayer** — [juanjp600/SCPCB-Multiplayer-decompiled](https://github.com/juanjp600/SCPCB-Multiplayer-decompiled)
+- **SDLPoP** — [NagyD/SDLPoP](https://github.com/NagyD/SDLPoP)
+- **The Settlers I** — [freeserf/freeserf](https://github.com/freeserf/freeserf)
+- **Severance: Blade of Darkness (BldMystery)** — [smartblade/BldMystery](https://github.com/smartblade/BldMystery)
+- **Sheep Dog n Wolf: Rewooled** — [SDW-Community/Sheep-Dog-n-Wolf-Rewooled](https://github.com/SDW-Community/Sheep-Dog-n-Wolf-Rewooled)
+- **Sheep, Dog 'n' Wolf** — [SDW-Community/sdw-decomp](https://github.com/SDW-Community/sdw-decomp)
+- **Shortline Railroad** — [konovalov-aleks/reSL](https://github.com/konovalov-aleks/reSL)
+- **Sid Meier's Civilization (civd)** — [sjmelia/civd](https://github.com/sjmelia/civd)
+- **Sierra AGI games (archive)** — [EricOakford/AGI-Decompilation-Archive](https://github.com/EricOakford/AGI-Decompilation-Archive) — *Inactive or archived.*
+- **Sierra SCI games (archive)** — [EricOakford/SCI-Decompilation-Archive](https://github.com/EricOakford/SCI-Decompilation-Archive)
+- **Sierra SCI games (decompiled scripts)** — [sluicebox/sci-scripts](https://github.com/sluicebox/sci-scripts)
+- **Silent Hill 2 (sh23ds)** — [ankushKun/sh23ds](https://github.com/ankushKun/sh23ds) — *Port.*
+- **Silent Hill 3 (sh3-nx, Switch)** — [cutarev/sh3-nx](https://github.com/cutarev/sh3-nx) — *Static recompilation.*
+- **Silent Hill 4: The Room (Nintendo Switch)** — [72ak/sh4-nx](https://github.com/72ak/sh4-nx) — *Static recompilation.*
+- **Silent Storm (Silent Storm source reconstruction)** — [met-nikita/Silent-Storm-Reconstruction](https://github.com/met-nikita/Silent-Storm-Reconstruction)
+- **SimCity 2000 (sc2kfix)** — [sc2kfix/sc2kfix](https://github.com/sc2kfix/sc2kfix)
+- **The Simpsons: Hit & Run (Android)** — [Carlox33/The-Simpsons-Hit-and-Run-Android](https://github.com/Carlox33/The-Simpsons-Hit-and-Run-Android) — *Port.*
+- **The Sims (sims1_mac_decomp)** — [simdecomp/sims1_mac_decomp](https://github.com/simdecomp/sims1_mac_decomp) — *Disassembly. Inactive or archived.*
+- **SkiFree** — [yuv422/skifree_decomp](https://github.com/yuv422/skifree_decomp)
+- **SkiFree (skifree_sdl)** — [jeff-1amstudios/skifree_sdl](https://github.com/jeff-1amstudios/skifree_sdl) — *Port. Inactive or archived.*
+- **SkyRoads** — [ammaarreshi/SkyRoads-Codex](https://github.com/ammaarreshi/SkyRoads-Codex)
+- **SkyRoads (skyroads-port (1:1 C11))** — [ammaarreshi/skyroads-port](https://github.com/ammaarreshi/skyroads-port) — *Port.*
+- **SkyRoads (skyroads-sdl)** — [pedrocatalao/skyroads-sdl](https://github.com/pedrocatalao/skyroads-sdl) — *Port.*
+- **Sonic & Knuckles Collection** — [sonicretro/skc_disasm](https://github.com/sonicretro/skc_disasm)
+- **Sonic & Knuckles Collection (1997)** — [~benoitren/skccport](https://git.sr.ht/~benoitren/skccport)
+- **Sonic Adventure DX** — [doldecomp/sadx](https://github.com/doldecomp/sadx)
+- **Sonic Adventure DX (cutscenes)** — [X-Hax/SADX-cutscene-decompilation](https://github.com/X-Hax/SADX-cutscene-decompilation) — *Inactive or archived.*
+- **Sonic CD** — [Rubberduckycooly/Sonic-CD-11-Decompilation](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation)
+- **Sonic CD (2018 Retro Engine v4)** — [RifiGD/RSDKv4-CD18](https://github.com/RifiGD/RSDKv4-CD18) — *Inactive or archived.*
+- **Sonic CD (RSDKv3-Decompilation)** — [RSDKModding/RSDKv3-Decompilation](https://github.com/RSDKModding/RSDKv3-Decompilation)
+- **Sonic CD (RSDKv3-Script-Decompilation)** — [RSDKModding/RSDKv3-Script-Decompilation](https://github.com/RSDKModding/RSDKv3-Script-Decompilation)
+- **Sonic CD (scdpc_disasm)** — [sonicretro/scdpc_disasm](https://github.com/sonicretro/scdpc_disasm)
+- **Sonic Generations** — [Luigi587/GenerationsDecomp](https://github.com/Luigi587/GenerationsDecomp)
+- **Sonic Mania** — [Rubberduckycooly/Sonic-Mania-Decompilation](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation)
+- **Sonic Mania** — [RSDKModding/RSDKv5-Decompilation](https://github.com/RSDKModding/RSDKv5-Decompilation)
+- **Sonic Mania (Sonic-Mania-25MB)** — [ThisKwasior/Sonic-Mania-25MB](https://github.com/ThisKwasior/Sonic-Mania-25MB)
+- **Sonic Mania (Sonic-Mania-Decompilation)** — [RSDKModding/Sonic-Mania-Decompilation](https://github.com/RSDKModding/Sonic-Mania-Decompilation)
+- **Sonic Mania (Sonic-Mania-Decompilation)** — [DropSonic0/Sonic-Mania-Decompilation](https://github.com/DropSonic0/Sonic-Mania-Decompilation)
+- **Sonic Nexus (RSDKv2-Decompilation)** — [RSDKModding/RSDKv2-Decompilation](https://github.com/RSDKModding/RSDKv2-Decompilation)
+- **Sonic R (Sonic R Android)** — [ZinexDa/sonic-r-android](https://github.com/ZinexDa/sonic-r-android)
+- **Sonic The Hedgehog 1 & 2** — [Rubberduckycooly/Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)
+- **Space Cadet Pinball** — [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball)
+- **Space Rangers** — [pakompom/SpaceRangers1_decomp](https://github.com/pakompom/SpaceRangers1_decomp)
+- **Space Rangers HD: A War Apart** — [pakompom/SpaceRangersHD_decomp](https://github.com/pakompom/SpaceRangersHD_decomp)
+- **Space Rangers HD: A War Apart** — [pakompom/SpaceRangersHD_CPP](https://github.com/pakompom/SpaceRangersHD_CPP)
+- **Space Rangers HD: A War Apart (SpaceRangersHD_FPC)** — [pakompom/SpaceRangersHD_FPC](https://github.com/pakompom/SpaceRangersHD_FPC)
+- **Spore** — [NoahBPeterson/spore-decomp](https://github.com/NoahBPeterson/spore-decomp)
+- **Star Wars DroidWorks** — [DaCodeChick/DroidWorks-decomp](https://github.com/DaCodeChick/DroidWorks-decomp)
+- **Star Wars Episode 1: Racer** — [tim-tim707/SW_RACER_RE](https://github.com/tim-tim707/SW_RACER_RE)
+- **Star Wars Episode I: Racer** — [DeonPoncini/swep1r_decomp](https://github.com/DeonPoncini/swep1r_decomp) — *Inactive or archived.*
+- **Star Wars: Knights of the Old Republic** — [sp00nznet/kotor-recomp](https://github.com/sp00nznet/kotor-recomp) — *Static recompilation.*
+- **Star Wars: X-Wing Alliance** — [sp00nznet/xwa](https://github.com/sp00nznet/xwa) — *Static recompilation.*
+- **StarCraft: Brood War 1.16.1** — [nicodlz/starcraft-match](https://github.com/nicodlz/starcraft-match)
+- **Stardew Valley** — [Dannode36/StardewValleyDecompiled](https://github.com/Dannode36/StardewValleyDecompiled)
+- **Starflight** — [s-macke/starflight-reverse](https://github.com/s-macke/starflight-reverse)
+- **Stars!** — [sirgwain/stars-decompile](https://github.com/sirgwain/stars-decompile)
+- **Street Rod (street-rod-sdl3)** — [kylofon/street-rod-sdl3](https://github.com/kylofon/street-rod-sdl3) — *Static recompilation.*
+- **Street Rod (streetrod-enhanced)** — [kylofon/streetrod-enhanced](https://github.com/kylofon/streetrod-enhanced) — *Port.*
+- **Stronghold (1993)** — [NancyAurum/dest](https://github.com/NancyAurum/dest)
+- **Stronghold (1993) (dest)** — [NancySadkov/dest](https://github.com/NancySadkov/dest)
+- **Stronghold Crusader (Unofficial Crusader Patch)** — [UnofficialCrusaderPatch/UnofficialCrusaderPatch](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch)
+- **Stunts (4D Sports Driving)** — [xor2003/restunts](https://github.com/xor2003/restunts) — *Inactive or archived.*
+- **Stunts (Restunts)** — [4d-stunts/restunts](https://github.com/4d-stunts/restunts)
+- **Stunts (Stunts HD)** — [mr-finster/stunts-hd](https://github.com/mr-finster/stunts-hd) — *Static recompilation.*
+- **Submarine Titans** ✦ — [prykin/st-decompilation](https://github.com/prykin/st-decompilation)
+- **Summoner** — [AARosson48/SummonerDecomp](https://github.com/AARosson48/SummonerDecomp)
+- **Supaplex** — [sergiou87/open-supaplex](https://github.com/sergiou87/open-supaplex)
+- **Supaplex** — [eigenco/Supaplex](https://github.com/eigenco/Supaplex) — *Disassembly. Inactive or archived.*
+- **Supaplex (cilliemalan supaplex)** — [cilliemalan/supaplex](https://github.com/cilliemalan/supaplex) — *Disassembly. Inactive or archived.*
+- **Super ZZT (Reconstruction of Super ZZT)** — [asiekierka/reconstruction-of-super-zzt](https://github.com/asiekierka/reconstruction-of-super-zzt)
+- **Survarium (Vostok engine)** — [srp-survarium/vostok](https://github.com/srp-survarium/vostok)
+- **Syndicate (SyndicatFX)** — [swfans/syndicatfx](https://github.com/swfans/syndicatfx) — *Disassembly.*
+- **Team Fortress Classic (tfc-decomp)** — [a-adz-1/tfc-decomp](https://github.com/a-adz-1/tfc-decomp)
+- **The Temple of Elemental Evil (TemplePlus)** — [GrognardsFromHell/TemplePlus](https://github.com/GrognardsFromHell/TemplePlus)
+- **Terraria** — [PPrism/TerrariaOGC](https://github.com/PPrism/TerrariaOGC)
+- **Terraria 1.4.5.8** — [11NU0/Terraria-1.4.5.8-decomp-recomp](https://github.com/11NU0/Terraria-1.4.5.8-decomp-recomp)
+- **Test Drive (test-drive-sdl3)** — [kylofon/test-drive-sdl3](https://github.com/kylofon/test-drive-sdl3) — *Static recompilation.*
+- **Test Drive (testdrive-enhanced)** — [kylofon/testdrive-enhanced](https://github.com/kylofon/testdrive-enhanced) — *Port.*
+- **Test Drive II** — [Buyukcaglar/TD2](https://github.com/Buyukcaglar/TD2) — *Port.*
+- **Test Drive II: The Duel (test-drive-2-sdl3)** — [kylofon/test-drive-2-sdl3](https://github.com/kylofon/test-drive-2-sdl3) — *Static recompilation.*
+- **Test Drive II: The Duel (testdrive2-enhanced)** — [kylofon/testdrive2-enhanced](https://github.com/kylofon/testdrive2-enhanced) — *Port.*
+- **Thandor: Die Invasion** — [idkFoxes/open-thandor](https://github.com/idkFoxes/open-thandor)
+- **Theme Hospital** ✦ — [matteo-pacini/theme-hospital-decomp](https://github.com/matteo-pacini/theme-hospital-decomp) — *Matching decompilation of the DOS executable.*
+- **Theme Park** — [sp00nznet/themepark-recomp](https://github.com/sp00nznet/themepark-recomp) — *Static recompilation.*
+- **Thief: Deadly Shadows** — [Veradictus/Thief3-Decomp](https://github.com/Veradictus/Thief3-Decomp)
+- **Titanic: Adventure Out of Time (titanic-godot)** — [itskenny0/titanic-godot](https://github.com/itskenny0/titanic-godot) — *Port.*
+- **Tomb Raider 1-5** — [XProger/OpenLara](https://github.com/XProger/OpenLara)
+- **Tomb Raider Chronicles (TOMB5)** — [Trxyebeep/TOMB5](https://github.com/Trxyebeep/TOMB5) — *Inactive or archived.*
+- **Tomb Raider I & II** — [LostArtefacts/TRX](https://github.com/LostArtefacts/TRX)
+- **Tomb Raider II (TR2X)** — [LostArtefacts/TR2X](https://github.com/LostArtefacts/TR2X) — *Inactive or archived.*
+- **Tomb Raider III (tomb3)** — [Trxyebeep/tomb3](https://github.com/Trxyebeep/tomb3) — *Inactive or archived.*
+- **Tomb Raider: The Last Revelation (TOMB4)** — [Trxyebeep/TOMB4](https://github.com/Trxyebeep/TOMB4) — *Inactive or archived.*
+- **Tomb Raider: The Last Revelation (TombEngine (TEN))** — [TombEngine/TombEngine](https://github.com/TombEngine/TombEngine)
+- **Toontown Online (2013)** — [open-toontown/toontown-online-2013-decompiled](https://github.com/open-toontown/toontown-online-2013-decompiled) — *Inactive or archived.*
+- **Torchlight (Torchlight Rekindled)** — [GreenSwampDweller/torchlight-rekindled](https://github.com/GreenSwampDweller/torchlight-rekindled) — *Port.*
+- **Total Annihilation (TA: Byte Tactics)** — [HectorBailey/byte-tactics](https://github.com/HectorBailey/byte-tactics)
+- **Total Overdose (TOD_tools)** — [Michael0ne/TOD_tools](https://github.com/Michael0ne/TOD_tools) — *Inactive or archived.*
+- **Touhou 08: Imperishable Night** — [GensokyoClub/th08](https://github.com/GensokyoClub/th08)
+- **Touhou 10.5: Scarlet Weather Rhapsody (th105)** — [N0zoM1z0/th105](https://github.com/N0zoM1z0/th105)
+- **Touhou 10: Mountain of Faith** — [N0zoM1z0/th10](https://github.com/N0zoM1z0/th10)
+- **Touhou 6: The Embodiment of Scarlet Devil (EoSDecomp)** — [wearrrrr/EoSDecomp](https://github.com/wearrrrr/EoSDecomp) — *Inactive or archived.*
+- **Touhou 6: The Embodiment of Scarlet Devil (th06-sdl2)** — [CNTianQi233/th06-sdl2](https://github.com/CNTianQi233/th06-sdl2)
+- **Touhou 7: Perfect Cherry Blossom** — [N0zoM1z0/th07](https://github.com/N0zoM1z0/th07)
+- **Touhou 8: Imperishable Night (th08)** — [N0zoM1z0/th08](https://github.com/N0zoM1z0/th08)
+- **Touhou 8: Imperishable Night (th08-web)** — [N0zoM1z0/th08-web](https://github.com/N0zoM1z0/th08-web)
+- **Touhou 9.5: Shoot the Bullet (th095)** — [N0zoM1z0/th095](https://github.com/N0zoM1z0/th095)
+- **Touhou 9: Phantasmagoria of Flower View** — [N0zoM1z0/th09](https://github.com/N0zoM1z0/th09)
+- **Touhou Koumakyou ~ The Embodiment of Scarlet Devil** — [GensokyoClub/th06](https://github.com/GensokyoClub/th06)
+- **Touhou Koumakyou ~ the Embodiment of Scarlet Devil (Wii port)** — [niko1official/th06-wii](https://github.com/niko1official/th06-wii) — *Port.*
+- **Touhou Koumakyou: The Embodiment of Scarlet Devil** — [happyhavoc/th06](https://github.com/happyhavoc/th06)
+- **Touhou Youyoumu ~ Perfect Cherry Blossom** — [some100/th07](https://github.com/some100/th07)
+- **Toy Story 2: Buzz Lightyear to the Rescue** — [woodys-workshop/toy2-pc-decomp](https://github.com/woodys-workshop/toy2-pc-decomp)
+- **Transport Tycoon Deluxe (TTDPatch)** — [ttdpatch/ttdpatch](https://github.com/ttdpatch/ttdpatch) — *Inactive or archived.*
+- **Tribes 2 (TribesPad)** — [chrissotraidis/tribespad](https://github.com/chrissotraidis/tribespad) — *Static recompilation.*
+- **Tube** — [rep-stosw/tube-game-dos](https://github.com/rep-stosw/tube-game-dos) — *Inactive or archived.*
+- **Ultima Online (OUO)** — [draxinar/ouo](https://github.com/draxinar/ouo)
+- **Ultima Online (uo-client)** — [xrip/uo-client](https://github.com/xrip/uo-client)
+- **Ultima V: Warriors of Destiny** ✦ — [wonst719/u5d](https://github.com/wonst719/u5d)
+- **Ultima Underworld (Pocket PC recomp)** — [Interrupt/ultima-underworld](https://github.com/Interrupt/ultima-underworld) — *Static recompilation.*
+- **Ultima V: Warriors of Destiny** — [raldi/u5-decomp](https://github.com/raldi/u5-decomp) — *Inactive or archived.*
+- **Ultima VI: The False Prophet (u6-decompiled)** — [ergonomy-joe/u6-decompiled](https://github.com/ergonomy-joe/u6-decompiled) — *Inactive or archived.*
+- **Ultima VII: The Black Gate (UltimaHacks)** — [JohnGlassmyer/UltimaHacks](https://github.com/JohnGlassmyer/UltimaHacks) — *Inactive or archived.*
+- **UnderTale Yellow** — [burnedpopcorn/UnderTale-Yellow-Decompilation](https://github.com/burnedpopcorn/UnderTale-Yellow-Decompilation)
+- **Underworld Exhumed** — [abedegno/underworld-exhumed](https://github.com/abedegno/underworld-exhumed)
+- **Unreal Tournament (UTP, iOS)** — [chrissotraidis/utp](https://github.com/chrissotraidis/utp) — *Port.*
+- **Urban Assault (UA_source)** — [Marisa-Chan/UA_source](https://github.com/Marisa-Chan/UA_source)
+- **Vette!** — [PlasticCog/Vette2026](https://github.com/PlasticCog/Vette2026) — *Source port, PC / DOS.*
+- **Vice City Multiplayer 0.3z** — [dashr9230/VC-MP](https://github.com/dashr9230/VC-MP)
+- **VVVVV** — [TerryCavanagh/VVVVVV](https://github.com/TerryCavanagh/VVVVVV) — *Port.*
+- **Warblade** — [bbepis/WarbladeSR](https://github.com/bbepis/WarbladeSR)
+- **Warhammer 40,000: Darktide (decompiled scripts)** — [Aussiemon/Darktide-Source-Code](https://github.com/Aussiemon/Darktide-Source-Code)
+- **Warhammer: End Times - Vermintide (decompiled scripts)** — [Aussiemon/Vermintide-1-Source-Code](https://github.com/Aussiemon/Vermintide-1-Source-Code) — *Inactive or archived.*
+- **Warhammer: Vermintide 2 (decompiled scripts)** — [Aussiemon/Vermintide-2-Source-Code](https://github.com/Aussiemon/Vermintide-2-Source-Code)
+- **Warlords II** ✦ — [itpick/warlords2-decompile](https://github.com/itpick/warlords2-decompile)
+- **wc2-re** — [neuromancer/wc2-re](https://github.com/neuromancer/wc2-re)
+- **Windows x86 games (BottleShip)** — [jenissimo/bottleship](https://github.com/jenissimo/bottleship) — *Static recompilation to WebAssembly.*
+- **Wizardry 6: Bane of the Cosmic Forge** — [martydill/Wizardry-6-reverse-engineering](https://github.com/martydill/Wizardry-6-reverse-engineering)
+- **Wizardry 8** ✦ — [agluszak/wizardry-8-decomp](https://github.com/agluszak/wizardry-8-decomp)
+- **World of Tanks (decompiled scripts)** — [StranikS-Scan/WorldOfTanks-Decompiled](https://github.com/StranikS-Scan/WorldOfTanks-Decompiled)
+- **World of Warcraft** — [SatyPardus/wowdecomp](https://github.com/SatyPardus/wowdecomp)
+- **World of Warcraft 4.3.4** — [SatyPardus/wowdecomp15595](https://github.com/SatyPardus/wowdecomp15595)
+- **X-Men Legends II: Rise of Apocalypse** — [SomeoneIsWorking/xmen2](https://github.com/SomeoneIsWorking/xmen2) — *Static recompilation.*
+- **Yandere Simulator** — [LordEnma/YandereSimulatorDecompiled](https://github.com/LordEnma/YandereSimulatorDecompiled)
+- **Ys Book I & II (YsRecomp)** — [Fabiano-Gelain/YsRecomp](https://github.com/Fabiano-Gelain/YsRecomp) — *Static recompilation.*
+- **Zeliard** — [nolanvenhola/zeliard](https://github.com/nolanvenhola/zeliard) — *Port.*
+- **Zuma Deluxe** — [alula/CircleShootApp](https://github.com/alula/CircleShootApp)
+- **Zuma Deluxe (ZumaTAS)** — [9933fa/Zuma-Deluxe-TAS](https://github.com/9933fa/Zuma-Deluxe-TAS) — *Port.*
+- **ZZT (reconstruction)** — [asiekierka/reconstruction-of-zzt](https://github.com/asiekierka/reconstruction-of-zzt)
+- **ZZT (ZZT Disassembly Project)** — [cknave/zztasm](https://github.com/cknave/zztasm) — *Disassembly. Inactive or archived.*
+
+## Mobile
+
+107 projects
+
+- **After Burner Climax (PS Vita)** — [Rinnegatamante/afterburner-vita](https://github.com/Rinnegatamante/afterburner-vita) — *Port.*
+- **Age of Speed 2** — [Llamaware/age-of-speed2](https://github.com/Llamaware/age-of-speed2)
+- **Angry Birds** — [jooapa/Angry_Birds_Decompilation](https://github.com/jooapa/Angry_Birds_Decompilation)
+- **Angry Birds (1.4.2, ARM64)** — [WhiteMsf/angry-birds-arm64](https://github.com/WhiteMsf/angry-birds-arm64)
+- **Ashen (N-Gage)** — [nenikitov/ashen-decomp](https://github.com/nenikitov/ashen-decomp)
+- **Asphalt 5 HD (Asphalt5-Native)** — [mrbaazzman/Asphalt5-Native](https://github.com/mrbaazzman/Asphalt5-Native) — *Static recompilation.*
+- **AstroSmash (J2ME)** — [EXL/AstroSmash](https://github.com/EXL/AstroSmash) — *Port. Inactive or archived.*
+- **Backstab HD (BackStabRecomp (AndroidRecomp))** — [jessicanataliagta/BackStabRecomp](https://github.com/jessicanataliagta/BackStabRecomp) — *Static recompilation.*
+- **Bejeweled Live+ (Windows Phone 7)** — [bognarit80/BejeweledLivePlusDecomp-MonoGame](https://github.com/bognarit80/BejeweledLivePlusDecomp-MonoGame) — *Port.*
+- **Bookworm (Enhanced)** — [aidrum/bookworm-enhanced](https://github.com/aidrum/bookworm-enhanced) — *Port.*
+- **Bounce (nokia-bounce-decomp)** — [rndtrash/nokia-bounce-decomp](https://github.com/rndtrash/nokia-bounce-decomp) — *Inactive or archived.*
+- **Bounce Evolution (Redbound)** — [alox-dev/redbound](https://github.com/alox-dev/redbound) — *Port.*
+- **Bounce Tales** — [HelloOO7/BounceTales](https://github.com/HelloOO7/BounceTales) — *Inactive or archived.*
+- **Brave Frontier** — [decompfrontier/client](https://github.com/decompfrontier/client)
+- **Call of Mini: Dino Hunter** — [Decomp-And-Recomp/Call-Of-Mini-Dino-Hunter](https://github.com/Decomp-And-Recomp/Call-Of-Mini-Dino-Hunter)
+- **Call of Mini: Squad** — [Decomp-And-Recomp/Call-Of-Mini-Squad](https://github.com/Decomp-And-Recomp/Call-Of-Mini-Squad)
+- **Call of Mini: Zombies** — [Decomp-And-Recomp/Call-of-Mini-Zombies](https://github.com/Decomp-And-Recomp/Call-of-Mini-Zombies)
+- **Castlevania: Grimoire of Souls** — [BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp](https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp) — *Static recompilation.*
+- **Castlevania: Grimoire of Souls** — [GoodLuckTrying/Castlevania-Grimoire-of-Souls-Recomp](https://github.com/GoodLuckTrying/Castlevania-Grimoire-of-Souls-Recomp) — *Static recompilation.*
+- **Castlevania: Symphony of the Night (PS Vita)** — [Rinnegatamante/sotn-vita](https://github.com/Rinnegatamante/sotn-vita) — *Port.*
+- **Chiki's Chase** — [gays-studio/ChikisChaseAPK](https://github.com/gays-studio/ChikisChaseAPK)
+- **Cut The Rope** — [Bingies24/CtRCrossPlatform](https://github.com/Bingies24/CtRCrossPlatform)
+- **Cut the Rope (Cut the Rope: DX)** — [yell0wsuit/cuttherope-dx](https://github.com/yell0wsuit/cuttherope-dx)
+- **Cut The Rope (cuttherope-dx)** — [Bingies24/cuttherope-dx](https://github.com/Bingies24/cuttherope-dx)
+- **DARIUSBURST SP (PS Vita)** — [Rinnegatamante/dariusburst-vita](https://github.com/Rinnegatamante/dariusburst-vita) — *Port.*
+- **Death Road to Canada (PS Vita)** — [Rinnegatamante/Death-Road-to-Canada-Lite](https://github.com/Rinnegatamante/Death-Road-to-Canada-Lite) — *Port. Inactive or archived.*
+- **Defenders & Dragons** — [Lindarychwalski/Defenders-Dragons](https://github.com/Lindarychwalski/Defenders-Dragons)
+- **Destroy All Humans! (mobile)** ✦ — [Zippingrocks/DAH-Mobile-Decomp](https://github.com/Zippingrocks/DAH-Mobile-Decomp) — *2005 mobile game.*
+- **Diamond Rush** — [palaceswitcher/Diamond-Rush-Decomp](https://github.com/palaceswitcher/Diamond-Rush-Decomp)
+- **Diamond Rush (DiamondRushSource)** — [kubikaugustyn/DiamondRushSource](https://github.com/kubikaugustyn/DiamondRushSource)
+- **Digimon Linkz** — [astiob/digimon-linkz-client](https://github.com/astiob/digimon-linkz-client) — *Inactive or archived.*
+- **Doki Doki Literature Club Plus (mobile)** — [HiroStuff/DDLC-Plus-Mobile](https://github.com/HiroStuff/DDLC-Plus-Mobile)
+- **Doom II RPG (DoomIIRPG-RE)** — [Erick194/DoomIIRPG-RE](https://github.com/Erick194/DoomIIRPG-RE)
+- **Doom RPG (DoomRPG-RE)** — [Erick194/DoomRPG-RE](https://github.com/Erick194/DoomRPG-RE)
+- **Dragon Ball Legends** — [GodkuHacking/Dragon-Ball-Legends](https://github.com/GodkuHacking/Dragon-Ball-Legends)
+- **F1 Race (MediaTek)** — [EXL/F1-Race](https://github.com/EXL/F1-Race) — *Port. Inactive or archived.*
+- **Fahrenheit: Indigo Prophecy (PS Vita)** — [Rinnegatamante/fahrenheit-vita](https://github.com/Rinnegatamante/fahrenheit-vita) — *Port.*
+- **Final Fantasy Dimensions (PS Vita)** — [Rinnegatamante/ffd-vita](https://github.com/Rinnegatamante/ffd-vita) — *Port. Inactive or archived.*
+- **Final Fantasy IV (PS Vita)** — [Rinnegatamante/ff4_vita](https://github.com/Rinnegatamante/ff4_vita) — *Port. Inactive or archived.*
+- **Final Fantasy IV: The After Years (PS Vita)** — [Rinnegatamante/ff4a_vita](https://github.com/Rinnegatamante/ff4a_vita) — *Port. Inactive or archived.*
+- **Flappy Bird** — [fr3dsp/FlappyBird-Decomp](https://github.com/fr3dsp/FlappyBird-Decomp)
+- **Flappy Bird (reFlappy)** — [THEN00P/reFlappy](https://github.com/THEN00P/reFlappy) — *Static recompilation.*
+- **Geometry Dash** — [aloaf812/GD](https://github.com/aloaf812/GD)
+- **Geometry Dash (gdp)** — [camila314/gdp](https://github.com/camila314/gdp)
+- **Grand Theft Auto: San Andreas (PS Vita)** — [TheOfficialFloW/gtasa_vita](https://github.com/TheOfficialFloW/gtasa_vita) — *Port. Inactive or archived.*
+- **Granny** — [scd5dev/GrannyDecompilation](https://github.com/scd5dev/GrannyDecompilation)
+- **Green Farm 3** — [SmithGoll/Greenier-Farm-3-Decomp](https://github.com/SmithGoll/Greenier-Farm-3-Decomp)
+- **Green Farm 3 (Samsung Jet)** — [IceburgLettuce17/Greenier-Farm-3-NEW](https://github.com/IceburgLettuce17/Greenier-Farm-3-NEW)
+- **Heroes Lore: Wind of Soltia (J2ME decomp port)** — [Dima353/heroes_lore_decomp](https://github.com/Dima353/heroes_lore_decomp) — *Port.*
+- **Hollow Knight (HK: Dual Souls)** — [igawa6/dualsouls](https://github.com/igawa6/dualsouls) — *Port.*
+- **Hollow Knight: Silksong (Silksong Android)** — [jakobkhansen/SilksongAndroid](https://github.com/jakobkhansen/SilksongAndroid) — *Port.*
+- **Hopmon** — [Teofil98/OpenHopmon](https://github.com/Teofil98/OpenHopmon)
+- **Ice Rage (Linux ARM)** — [EapRules/icerage-native-arm](https://github.com/EapRules/icerage-native-arm) — *Port.*
+- **Idle Office Tycoon** — [Avenze/ios_reverse_engineering](https://github.com/Avenze/ios_reverse_engineering)
+- **The Impossible Game** — [fr3dsp/TheImpossibleGame-Decomp](https://github.com/fr3dsp/TheImpossibleGame-Decomp)
+- **KA3D engine (Rovio, Fusion)** — [RebirdEngineering/Fusion](https://github.com/RebirdEngineering/Fusion)
+- **Magic Sushi (MediaTek)** — [EXL/Magic-Sushi](https://github.com/EXL/Magic-Sushi) — *Port. Inactive or archived.*
+- **Max Payne (Nintendo Switch)** — [fgsfdsfgs/max_nx](https://github.com/fgsfdsfgs/max_nx) — *Port.*
+- **Max Payne (PS Vita)** — [fgsfdsfgs/max_vita](https://github.com/fgsfdsfgs/max_vita) — *Port. Inactive or archived.*
+- **Metal Gear Solid 2 HD (Android)** — [luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android](https://github.com/luisxl15/METAL-GEAR-SOLID-2-Sons-of-Liberty-for-Android) — *Static recompilation.*
+- **Minecraft Pocket Edition Lite** — [Koichive/mcpelite-decomp](https://github.com/Koichive/mcpelite-decomp) — *Inactive or archived.*
+- **Minecraft: Pocket Edition** — [BrentDaMage/mcpe-engine](https://github.com/BrentDaMage/mcpe-engine)
+- **Minecraft: Pocket Edition 0.1.3 (NBCraft)** — [nbcraft-org/nbcraft](https://github.com/nbcraft-org/nbcraft)
+- **Minigore 2: Zombies (Linux ARM)** — [EapRules/minigore2-native-arm](https://github.com/EapRules/minigore2-native-arm) — *Port.*
+- **Mixels Rush** — [Nugetinc/MixelsRushDecompilation](https://github.com/Nugetinc/MixelsRushDecompilation)
+- **Modern Combat 2: Black Pegasus ( BackStabRecomp)** — [jessicanataliagta/AndroidRecomp](https://github.com/jessicanataliagta/AndroidRecomp) — *Static recompilation.*
+- **On The Run 2** — [caramelcupcakes842/On-The-Run-2-Decomp](https://github.com/caramelcupcakes842/On-The-Run-2-Decomp)
+- **On The Run Vegas** — [caramelcupcakes842/On-The-Run-Vegas-Decomp](https://github.com/caramelcupcakes842/On-The-Run-Vegas-Decomp)
+- **On The Run: The Getaway** — [caramelcupcakes842/On-The-Run-The-Getaway](https://github.com/caramelcupcakes842/On-The-Run-The-Getaway)
+- **Pac'N-Jump (PacNJumpNative)** — [heyjonanderson/PacNJumpNative](https://github.com/heyjonanderson/PacNJumpNative) — *Port.*
+- **Peggle (Enhanced)** — [aidrum/peggle-enhanced](https://github.com/aidrum/peggle-enhanced) — *Port.*
+- **Plants vs. Zombies (TV edition, PvZ-TV-Touch)** — [WuDi-ZhanShen/PvZ-TV-Touch](https://github.com/WuDi-ZhanShen/PvZ-TV-Touch)
+- **Plants vs. Zombies 2 (pvzge_web)** — [Gzh0821/pvzge_web](https://github.com/Gzh0821/pvzge_web) — *Port.*
+- **Professor Layton and Pandora's Box HD (PS Vita)** — [Rinnegatamante/layton2-vita](https://github.com/Rinnegatamante/layton2-vita) — *Port. Inactive or archived.*
+- **Professor Layton and the Curious Village HD (PS Vita)** — [Rinnegatamante/layton-vita](https://github.com/Rinnegatamante/layton-vita) — *Port. Inactive or archived.*
+- **Professor Layton and the Lost Future HD (PS Vita)** — [Rinnegatamante/layton3-vita](https://github.com/Rinnegatamante/layton3-vita) — *Port. Inactive or archived.*
+- **Ratchet & Clank: Going Mobile (J2ME)** — [Clank700/going-mobile-decomp](https://github.com/Clank700/going-mobile-decomp)
+- **Rockman EXE Phantom of Network (PoN PC)** — [StraDaMa/PoN_PC](https://github.com/StraDaMa/PoN_PC) — *Port.*
+- **RollerCoaster Tycoon Classic (PS Vita)** — [Rinnegatamante/rct-vita](https://github.com/Rinnegatamante/rct-vita) — *Port.*
+- **Samurai Vs Zombies** — [Decomp-And-Recomp/Samurai-Vs-Zombies](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies)
+- **Samurai vs Zombies 2** — [Decomp-And-Recomp/Samurai-Vs-Zombies-2](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies-2)
+- **Skylanders Cloud Patrol** — [spyrosadventure/cloud-patrol-decomp](https://github.com/spyrosadventure/cloud-patrol-decomp)
+- **Sonic 4: Episode I (Windows Phone)** — [tge-was-taken/Sonic4Ep1-WindowsPhone-Decompilation](https://github.com/tge-was-taken/Sonic4Ep1-WindowsPhone-Decompilation) — *Inactive or archived.*
+- **Sonic CD (Windows Phone)** — [tge-was-taken/SonicCD-WindowsPhone-Decompilation](https://github.com/tge-was-taken/SonicCD-WindowsPhone-Decompilation) — *Inactive or archived.*
+- **Sonic Runners** — [itsmattkc/RunnersDecomp](https://github.com/itsmattkc/RunnersDecomp)
+- **Sonic the Hedgehog (2013) (RSDKv4-Script-Decompilation)** — [RSDKModding/RSDKv4-Script-Decompilation](https://github.com/RSDKModding/RSDKv4-Script-Decompilation)
+- **Sonic the Hedgehog (J2ME)** — [Iso-Kilo/Sonic-1-J2ME-Decompilation](https://github.com/Iso-Kilo/Sonic-1-J2ME-Decompilation)
+- **Sonic the Hedgehog / Sonic the Hedgehog 2** — [RSDKModding/RSDKv4-Decompilation](https://github.com/RSDKModding/RSDKv4-Decompilation)
+- **Sonic the Hedgehog 4 (Ep 1)** — [fr3dsp/Sonic4Ep1-Decomp](https://github.com/fr3dsp/Sonic4Ep1-Decomp)
+- **Soulcalibur (PS Vita)** — [Rinnegatamante/soulcalibur_vita](https://github.com/Rinnegatamante/soulcalibur_vita) — *Port.*
+- **SpongeBob Moves In!** — [Juanen100/SBMI-Decomp](https://github.com/Juanen100/SBMI-Decomp)
+- **Star Warfare** — [Decomp-And-Recomp/Star-Warfare](https://github.com/Decomp-And-Recomp/Star-Warfare)
+- **Subway Surfers** — [PatoFlamejanteTV/OpenSubway](https://github.com/PatoFlamejanteTV/OpenSubway)
+- **Super Cat Tales: PAWS** — [heathercat123/PAWS-Decomp](https://codeberg.org/heathercat123/PAWS-Decomp)
+- **Super Monkey Ball 2: Sakura Edition (PS Vita)** — [Rinnegatamante/smb2se-vita](https://github.com/Rinnegatamante/smb2se-vita) — *Port.*
+- **Swordigo (PS Vita)** — [Rinnegatamante/swordigo-vita](https://github.com/Rinnegatamante/swordigo-vita) — *Port.*
+- **Teeter (HTC)** — [honoz/Teeter](https://github.com/honoz/Teeter)
+- **Temple Run** — [SnesFX/Temple-De-Run](https://github.com/SnesFX/Temple-De-Run)
+- **Thimbleweed Park (PS Vita)** — [Rinnegatamante/thimbleweed-vita](https://github.com/Rinnegatamante/thimbleweed-vita) — *Port.*
+- **Tomb Raider I and II Classic (PS Vita)** — [Rinnegatamante/raider-vita](https://github.com/Rinnegatamante/raider-vita) — *Port. Inactive or archived.*
+- **Ultimate MK3 iOS** — [MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Recomp](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Recomp)
+- **Ultimate MK3 iOS** — [MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled) — *Static recompilation.*
+- **Unreal Tournament (PS Vita)** — [Rinnegatamante/UT99-Vita](https://github.com/Rinnegatamante/UT99-Vita) — *Port.*
+- **Valiant Hearts: The Great War (PS Vita)** — [Rinnegatamante/valiant-vita](https://github.com/Rinnegatamante/valiant-vita) — *Port.*
+- **Wolfenstein RPG (WolfensteinRPG-RE)** — [Erick194/WolfensteinRPG-RE](https://github.com/Erick194/WolfensteinRPG-RE)
+- **World of Goo (PS Vita)** — [Rinnegatamante/goo_vita](https://github.com/Rinnegatamante/goo_vita) — *Port. Inactive or archived.*
+- **Zombie Farm** — [jeb495/Zombie-Farm-Decompiled](https://github.com/jeb495/Zombie-Farm-Decompiled) — *Inactive or archived.*
+
+## Web / Flash
+
+3 projects
+
+- **Habbo Hotel (client archive)** — [Quackster/habbo_src](https://github.com/Quackster/habbo_src)
+- **Happy Wheels** — [Afterflash/HappyWheels](https://github.com/Afterflash/HappyWheels)
+- **Happy Wheels** — [acnbhop/HappyWheels](https://github.com/acnbhop/HappyWheels)
+
+## Arcade
+
+69 projects
+
+- **Arcade games in JavaScript (arcade-js)** — [qarl/arcade-js](https://github.com/qarl/arcade-js)
+- **Asteroids (asteroids-disassembly)** — [nmikstas/asteroids-disassembly](https://github.com/nmikstas/asteroids-disassembly) — *Disassembly. Inactive or archived.*
+- **Capcom CPS-2 games (cps2recomp)** — [tmcleroy/cps2recomp](https://github.com/tmcleroy/cps2recomp) — *Static recompilation.*
+- **Commando** — [mikeybabes/commando](https://github.com/mikeybabes/commando) — *Disassembly. Inactive or archived.*
+- **Cybattler** — [omegakatana92/Cybattler-Recomp](https://github.com/omegakatana92/Cybattler-Recomp) — *Static recompilation.*
+- **Darius Gaiden** — [omegakatana92/Darius-Gaiden-Recomp](https://github.com/omegakatana92/Darius-Gaiden-Recomp) — *Static recompilation.*
+- **Daytona Arcade Recomp** — [alphanu1/daytona-arcade-recomp](https://github.com/alphanu1/daytona-arcade-recomp)
+- **Daytona USA (model2recomp)** — [sp00nznet/model2recomp](https://github.com/sp00nznet/model2recomp) — *Static recompilation.*
+- **Daytona USA (web)** — [johannruiz/Daytona-USA-Web](https://github.com/johannruiz/Daytona-USA-Web) — *Port.*
+- **Dead or Alive ++ (Jiggle-or-Physics)** — [3dge7161/Jiggle-or-Physics](https://github.com/3dge7161/Jiggle-or-Physics) — *Static recompilation.*
+- **Defender (Defender-Source-Code)** — [AaronBottegal/Defender-Source-Code](https://github.com/AaronBottegal/Defender-Source-Code) — *Inactive or archived.*
+- **Defender (Falcon)** — [therealsark02/defender](https://github.com/therealsark02/defender) — *Port.*
+- **Die Hard Arcade** — [dnb4ever/diehard-arcade-decomp](https://github.com/dnb4ever/diehard-arcade-decomp)
+- **Dig Dug** — [TekRantGaming/digdug-native](https://github.com/TekRantGaming/digdug-native) — *Port.*
+- **Donkey Kong (dkdasm)** — [furrykef/dkdasm](https://github.com/furrykef/dkdasm) — *Disassembly. Inactive or archived.*
+- **Double Dragon (double-dragon-snes)** — [rumbleminze/double-dragon-snes](https://github.com/rumbleminze/double-dragon-snes) — *Port.*
+- **F-Zero AX** — [TheInfiniteLegend/f-0-ax](https://github.com/TheInfiniteLegend/f-0-ax)
+- **Fighting Layer (ReLayer)** — [QuietClubGames/ReLayer](https://github.com/QuietClubGames/ReLayer) — *Port.*
+- **Galaga** — [neiderm/arcade](https://github.com/neiderm/arcade) — *Disassembly.*
+- **Green Beret (cadaver greenberet-disassembly)** — [cadaver/greenberet-disassembly](https://github.com/cadaver/greenberet-disassembly) — *Disassembly.*
+- **Green Beret (Paul Hughes ZXSpectrumGreenBeret)** — [Paulie68000/ZXSpectrumGreenBeret](https://github.com/Paulie68000/ZXSpectrumGreenBeret)
+- **Gunlock / RayForce** — [omegakatana92/Gunlock-Rayforce-Recomp-](https://github.com/omegakatana92/Gunlock-Rayforce-Recomp-) — *Static recompilation.*
+- **Hydro Thunder / H2Overdrive (Riptide)** — [solarfren69420/Riptide](https://github.com/solarfren69420/Riptide)
+- **Initial D Arcade Stage Ver.3** — [distilledorion-sketch/Initial-D-Arcade-Stage-3-Native-SH-4-Recompilation-WIP-](https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Native-SH-4-Recompilation-WIP-)
+- **Jackal (NES-Jackal_Disassembly_Fully_Commented)** — [RayofJay/NES-Jackal_Disassembly_Fully_Commented](https://github.com/RayofJay/NES-Jackal_Disassembly_Fully_Commented) — *Disassembly. Inactive or archived.*
+- **Jackal (UEFI_Jackal)** — [MikeWuPing/UEFI_Jackal](https://github.com/MikeWuPing/UEFI_Jackal)
+- **Killer Instinct (UltraCombo)** — [thefixinhixon/UltraCombo](https://github.com/thefixinhixon/UltraCombo) — *Port.*
+- **Konami BEMANI Firebeat / DJ Main (HIRAKU)** — [Roganis/HIRAKU](https://github.com/Roganis/HIRAKU) — *Static recompilation.*
+- **The Lost World: Arcade** — [snicolast/LostWorldNative](https://github.com/snicolast/LostWorldNative) — *Port.*
+- **Major Havoc** — [historicalsource/major-havoc-dasm](https://github.com/historicalsource/major-havoc-dasm) — *Disassembly. Inactive or archived.*
+- **Mario Kart Arcade GP 2** ✦ — [naari3/mkgp2-decomp](https://github.com/naari3/mkgp2-decomp) — *Triforce arcade board.*
+- **Moon Patrol (Amiga port)** — [jotd666/mpatrol](https://github.com/jotd666/mpatrol) — *Port.*
+- **OutRunners** — [cheviman/outrunners-port](https://github.com/cheviman/outrunners-port) — *Port.*
+- **Pac-Man** — [Wilson-Flores/PacmanRecomp](https://github.com/Wilson-Flores/PacmanRecomp) — *Static recompilation.*
+- **Power Drift (LikeTheWind)** — [hojoworks/likethewind](https://github.com/hojoworks/likethewind) — *Port.*
+- **Pump It Up NX2: Next Xenesis** — [bmbelo87/decomp-it-up-NX2](https://github.com/bmbelo87/decomp-it-up-NX2)
+- **Pump It Up NX: New Xenesis** — [bmbelo87/decomp-it-up-New-Xenesis](https://github.com/bmbelo87/decomp-it-up-New-Xenesis)
+- **SEGA Rally Championship 96** — [xandoxan65/segarally95-recomp](https://github.com/xandoxan65/segarally95-recomp)
+- **SegaSonic the Hedgehog** — [cheviman/segasonic-decomp](https://github.com/cheviman/segasonic-decomp)
+- **SegaSonic the Hedgehog** — [cheviman/segasonic-port](https://github.com/cheviman/segasonic-port) — *Port.*
+- **Sinistar** — [synamaxmusic/sinistar](https://github.com/synamaxmusic/sinistar)
+- **Sonic The Fighters** — [cglmrfreeman/stfdisasm](https://github.com/cglmrfreeman/stfdisasm)
+- **Sonic The Fighters (stfdecomp)** — [biggestsonicfan/stfdecomp](https://github.com/biggestsonicfan/stfdecomp)
+- **Sonic The Fighters (stfdisasm)** — [biggestsonicfan/stfdisasm](https://github.com/biggestsonicfan/stfdisasm)
+- **Star Wars (arcade)** — [darkuni/starwars-arcade-recomp](https://github.com/darkuni/starwars-arcade-recomp) — *Static recompilation.*
+- **Star Wars (audio firmware)** — [nmikstas/star-wars-arcade-audio](https://github.com/nmikstas/star-wars-arcade-audio) — *Disassembly. Inactive or archived.*
+- **Street Fighter Alpha 2 (Street Fighter Alpha 2 Recomp)** — [tmcleroy/sfa2-recomp](https://github.com/tmcleroy/sfa2-recomp) — *Static recompilation.*
+- **Street Fighter II** — [sp00nznet/sf2](https://github.com/sp00nznet/sf2) — *Static recompilation.*
+- **Street Fighter II** — [omegakatana92/Street-Fighter-2-Recomp](https://github.com/omegakatana92/Street-Fighter-2-Recomp) — *Static recompilation.*
+- **Street Fighter III: 2nd Impact (CPS3 port)** — [gibletto/sfIII2-cps3-port](https://github.com/gibletto/sfIII2-cps3-port) — *Port.*
+- **Street Fighter III: 3rd Strike** — [crowded-street/3s-decomp](https://github.com/crowded-street/3s-decomp)
+- **Street Fighter III: 3rd Strike** — [gibletto/sfIII3-cps3-decomp](https://github.com/gibletto/sfIII3-cps3-decomp)
+- **Street Fighter III: 3rd Strike (CPS3 port)** — [gibletto/sfiii3-cps3-port](https://github.com/gibletto/sfiii3-cps3-port) — *Port.*
+- **Street Fighter III: New Generation (CPS3 port)** — [gibletto/sfIII-cps3-port](https://github.com/gibletto/sfIII-cps3-port) — *Port.*
+- **Tekken 6 (tekken6-recomp)** — [mahmoud-mess/tekken6-recomp](https://github.com/mahmoud-mess/tekken6-recomp) — *Static recompilation.*
+- **Tetris (Atari, Amiga port)** — [jotd666/tetris](https://github.com/jotd666/tetris) — *Port.*
+- **Thrill Drive 2 (konami-viper-recomp)** — [spita90/konami-viper-recomp](https://github.com/spita90/konami-viper-recomp) — *Static recompilation.*
+- **Time Crisis (Time Crisis VR)** — [DR-89/time-crisis-vr](https://github.com/DR-89/time-crisis-vr)
+- **Time Crisis II (namco22-decompile)** — [spacestate1/namco22-decompile](https://github.com/spacestate1/namco22-decompile)
+- **Time Crisis II (VR)** — [DR-89/time-crisis-2-vr](https://github.com/DR-89/time-crisis-2-vr) — *Port.*
+- **Time Pilot** — [darkuni/time-pilot-arcade-landscape-recomp](https://github.com/darkuni/time-pilot-arcade-landscape-recomp) — *Static recompilation.*
+- **Vampire Savior: The Lord of Vampire** — [tmcleroy/vampire-savior-recomp](https://github.com/tmcleroy/vampire-savior-recomp) — *Static recompilation.*
+- **Virtua Cop 2 (re-virtua-cop-2)** — [jevarg/re-virtua-cop-2](https://github.com/jevarg/re-virtua-cop-2)
+- **Virtua Fighter (Virtua Fighter Recomp)** — [mr-finster/vf1-recomp](https://github.com/mr-finster/vf1-recomp) — *Static recompilation.*
+- **Virtua Fighter 2** — [celsowm/vf2-decomp](https://github.com/celsowm/vf2-decomp)
+- **Virtua Fighter 2** — [mr-finster/vf2-recomp](https://github.com/mr-finster/vf2-recomp) — *Static recompilation.*
+- **Virtua Fighter 3** — [mr-finster/vf3-recomp](https://github.com/mr-finster/vf3-recomp) — *Static recompilation.*
+- **Wizard of Wor (dabadab wizardofwor)** — [dabadab/wizardofwor](https://github.com/dabadab/wizardofwor) — *Disassembly. Inactive or archived.*
+- **Xevious (xevious (arcade -> 68k transcode))** — [jotd666/xevious](https://github.com/jotd666/xevious) — *Port.*
+
+## Neo Geo
+
+2 projects
+
+- **Metal Slug (mslug-disasm)** — [neogeodev/mslug-disasm](https://github.com/neogeodev/mslug-disasm) — *Disassembly. Inactive or archived.*
+- **Metal Slug X** — [AlmazProud/metal-slug-x-recomp](https://github.com/AlmazProud/metal-slug-x-recomp) — *Static recompilation.*
+
+## Atari 2600
+
+5 projects
+
+- **Atari 2600 and Atari 8-bit games (collection)** — [DNSDEBRO/Disassemblies](https://github.com/DNSDEBRO/Disassemblies) — *Disassembly.*
+- **Atari 2600 games (collection)** — [milnak/atari-vcs-disassembly](https://github.com/milnak/atari-vcs-disassembly) — *Disassembly.*
+- **Donkey Kong [Atari 2600]** — [atariage.com](https://atariage.com/forums/topic/286583-donkey-kong-disassembly-take-2/)
+- **Haunted House** — [brandonrobertz/haunted_house_disassembly](https://github.com/brandonrobertz/haunted_house_disassembly) — *Disassembly. Inactive or archived.*
+- **River Raid (river-raid-disasm (Sergei Morozov))** — [river-raid/river-raid-disasm](https://github.com/river-raid/river-raid-disasm) — *Disassembly.*
+
+## Atari Jaguar
+
+4 projects
+
+- **Alien vs Predator** ✦ — [Joshua-1248/Alien-V.S.-Predator-Atari-Jaguar-Decompilation](https://github.com/Joshua-1248/Alien-V.S.-Predator-Atari-Jaguar-Decompilation)
+- **Doom** — [viciious/d32xr](https://github.com/viciious/d32xr) — *Port.*
+- **Rayman (rayman-ps1-decomp)** — [fuerchter/rayman-ps1-decomp](https://github.com/fuerchter/rayman-ps1-decomp)
+- **Rayman (Rayverse)** — [Falcury/rayverse](https://github.com/Falcury/rayverse) — *Port.*
+
+## Atari Lynx
+
+1 project
+
+- **Chip's Challenge (CHIPS.EXE)** — [magical/CHIPS.EXE](https://github.com/magical/CHIPS.EXE) — *Disassembly. Inactive or archived.*
+
+## ColecoVision
+
+1 project
+
+- **Donkey Kong [ColecoVision]** — [atariage.com](https://atariage.com/forums/topic/229669-colecovision-donkey-kong-disassembly/)
+
+## MSX
+
+9 projects
+
+- **Antarctic Adventure** — [ricbit/antarctic](https://github.com/ricbit/antarctic) — *Disassembly.*
+- **Antarctic Adventure** — [antxiko/AntarcticAdventure-disassembly](https://github.com/antxiko/AntarcticAdventure-disassembly) — *Disassembly.*
+- **Arkanoid** — [mcolom/arkanoid_msx_disasm](https://github.com/mcolom/arkanoid_msx_disasm)
+- **Booga-Boo** — [mcolom/boogaboo_disasm_msx](https://github.com/mcolom/boogaboo_disasm_msx)
+- **Colt 36** — [antxiko/Colt36-disassembly](https://github.com/antxiko/Colt36-disassembly) — *Disassembly.*
+- **Elite** — [ricbit/elite](https://github.com/ricbit/elite) — *Disassembly.*
+- **Metal Gear** — [GuillianSeed/MetalGear](https://github.com/GuillianSeed/MetalGear)
+- **Pyramid Warp Ex** — [theNestruo/msx-pyramidwarpex](https://github.com/theNestruo/msx-pyramidwarpex) — *Disassembly. Inactive or archived.*
+- **Road Fighter** — [howprice/road-fighter-msx](https://github.com/howprice/road-fighter-msx) — *Disassembly.*
+
+## 3DO
+
+1 project
+
+- **Road Rash** — [trapexit/3do-decomp-road-rash](https://github.com/trapexit/3do-decomp-road-rash)
+
+## Philips CD-i
+
+5 projects
+
+- **Hotel Mario** — [mstan/HotelMarioRecomp](https://github.com/mstan/HotelMarioRecomp) — *Static recompilation.*
+- **Hotel Mario (tools81)** — [tools81/hotel-mario-static-recomp](https://github.com/tools81/hotel-mario-static-recomp) — *Static recompilation.*
+- **Link: The Faces of Evil** — [tools81/link-faces-of-evil-static-recomp](https://github.com/tools81/link-faces-of-evil-static-recomp) — *Static recompilation.*
+- **Mutant Rampage: Bodyslam** — [tools81/mutant-rampage-bodyslam-static-recomp](https://github.com/tools81/mutant-rampage-bodyslam-static-recomp) — *Static recompilation.*
+- **Zelda's Adventure** — [tools81/zelda-adventures-static-recomp](https://github.com/tools81/zelda-adventures-static-recomp) — *Static recompilation.*
+
+## System software and emulators
+
+36 projects
+
+Firmware and emulators that were shipped with a game, or that a project decompiles on their own.
+
+- **agl (Nintendo graphics library)** — [open-ead/agl](https://github.com/open-ead/agl)
+- **AGS Aging Cartridge 7.0 (GBA)** — [Normmatt/ags_aging](https://github.com/Normmatt/ags_aging) — *Inactive or archived.*
+- **ares** — [ares-emulator/ares](https://github.com/ares-emulator/ares)
+- **Card e-Reader+ (GBA)** — [PikalaxALT/ereader](https://github.com/PikalaxALT/ereader) — *Disassembly. Inactive or archived.*
+- **Character Pipeline SDK April 2001 (GameCube)** — [doldecomp/dolcp-apr2001](https://github.com/doldecomp/dolcp-apr2001) — *Inactive or archived.*
+- **Dolphin SDK 2001 (GameCube)** — [doldecomp/dolsdk2001](https://github.com/doldecomp/dolsdk2001)
+- **Dolphin SDK 2001 (GameCube, dolsdk2001-dec)** — [doldecomp/dolsdk2001-dec](https://github.com/doldecomp/dolsdk2001-dec)
+- **Dolphin SDK April 2004 (GameCube)** — [doldecomp/dolsdk2004](https://github.com/doldecomp/dolsdk2004)
+- **EGG library (Wii)** — [vabold/EGG](https://github.com/vabold/EGG)
+- **EventFlow (Nintendo)** — [open-ead/EventFlow](https://github.com/open-ead/EventFlow)
+- **F3DEX2 / F3DZEX2 microcode (N64)** — [Mr-Wiseguy/f3dex2](https://github.com/Mr-Wiseguy/f3dex2) — *Disassembly.*
+- **Forecast Channel (Wii)** — [doldecomp/forecast](https://github.com/doldecomp/forecast)
+- **GameCube NetworkBasePackage** — [Cuyler36/dolnetbp](https://github.com/Cuyler36/dolnetbp)
+- **Gamecube Nintendo 64 Emulator** — [zeldaret/oot-gc](https://github.com/zeldaret/oot-gc)
+- **GameCube SocketLibrary** — [Cuyler36/dolsocketlibrary](https://github.com/Cuyler36/dolsocketlibrary)
+- **Hagi (GameCube & Wii emulator from Super Mario 3D All-Stars)** — [GRAnimated/Hagi](https://github.com/GRAnimated/Hagi)
+- **libultra (N64, libreultra)** — [n64decomp/libreultra](https://github.com/n64decomp/libreultra) — *Inactive or archived.*
+- **libultra (N64, ultralib)** — [decompals/ultralib](https://github.com/decompals/ultralib)
+- **Nintendo 64 SDK tools** — [n64decomp/sdk-tools](https://github.com/n64decomp/sdk-tools) — *Inactive or archived.*
+- **NintendoWare for Cafe Eft (Wii U)** — [open-ead/NW4F-Eft](https://github.com/open-ead/NW4F-Eft) — *Inactive or archived.*
+- **NintendoWare for Cafe G3d (Wii U)** — [nw4f/G3d](https://github.com/nw4f/G3d)
+- **NintendoWare for CTR (NW4C, 3DS)** — [ctrdecomp/NintendoWare4Ctr](https://github.com/ctrdecomp/NintendoWare4Ctr)
+- **NitroSDK (Nintendo DS)** — [nitro-decomp/nitro](https://github.com/nitro-decomp/nitro)
+- **nnsdk (Nintendo 3DS)** — [3dsdecomp/nnsdk](https://github.com/3dsdecomp/nnsdk) — *Inactive or archived.*
+- **PictoChat (Nintendo DSi)** — [tangOS-decomps/pictochat-decomp](https://github.com/tangOS-decomps/pictochat-decomp)
+- **Pokéwalker firmware (pw_firm)** — [UnrealPowerz/pw_firm](https://github.com/UnrealPowerz/pw_firm)
+- **PS1 Psy-Q SDK Libraries** — [sozud/psy-q-decomp](https://github.com/sozud/psy-q-decomp)
+- **RFL Mii library (Wii)** — [koopthekoopa/RFL](https://github.com/koopthekoopa/RFL)
+- **RVL SDK (Wii, open_rvl)** — [kiwi515/open_rvl](https://github.com/kiwi515/open_rvl) — *Inactive or archived.*
+- **Satellaview BS-X BIOS** — [LuigiBlood/bsxbios_dis](https://github.com/LuigiBlood/bsxbios_dis) — *Disassembly. Inactive or archived.*
+- **sead (Nintendo EAD, aboood40091)** — [aboood40091/sead](https://github.com/aboood40091/sead)
+- **sead (Nintendo, open-ead)** — [open-ead/sead](https://github.com/open-ead/sead)
+- **SNESStation (PS2 emulator)** — [ReyFxck/SNESstation-Decomp](https://github.com/ReyFxck/SNESstation-Decomp)
+- **Wii Menu** — [koopthekoopa/wii-ipl](https://github.com/koopthekoopa/wii-ipl)
+- **Xbox 360 Kernel** — [AleBello7276/xkrnl-decomp](https://github.com/AleBello7276/xkrnl-decomp)
+- **Xbox Dashboard (build 3944)** — [sp00nznet/xboxdashboard](https://github.com/sp00nznet/xboxdashboard) — *Static recompilation.*
+
+## Multiplatform
+
+26 projects
+
+These repositories cover more than one release, so they are not filed under a single console.
+
+- **Bakugan: Defenders of the Core** — [Vawlpe/BakuganDotC-decomp](https://github.com/Vawlpe/BakuganDotC-decomp)
+- **Barnyard** — [InfiniteC0re/OpenBarnyard](https://github.com/InfiniteC0re/OpenBarnyard)
+- **Computer Archeology (classic arcade, console and computer games)** — [topherCantrell/computerarcheology](https://github.com/topherCantrell/computerarcheology) — *Disassembly.*
+- **Costume Quest** — [Costume-Quest-Modding/CostumeQuest-Decomp](https://github.com/Costume-Quest-Modding/CostumeQuest-Decomp)
+- **Fate EXTELLA** — [bIue9076r/fate-extella-decompilation](https://github.com/bIue9076r/fate-extella-decompilation)
+- **Freedom Fighters** — [andresj-sanchez/frfi-decomp](https://github.com/andresj-sanchez/frfi-decomp) · [kaustubhxd/ReFreedomFighters](https://github.com/kaustubhxd/ReFreedomFighters)
+- **Guitar Hero: Warriors of Rock** — [kernaltrap8/WoR-Plus](https://github.com/kernaltrap8/WoR-Plus)
+- **The Incredibles** — [seilweiss/incredibles](https://github.com/seilweiss/incredibles)
+- **The Legend of Zelda: Majora's Mask (2 Ship 2 Harkinian)** — [2ship2harkinian/2ship2harkinian](https://github.com/2ship2harkinian/2ship2harkinian)
+- **The Legend of Zelda: Ocarina of Time (Ship of Harkinian)** — [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright)
+- **LEGO Batman: The Videogame** — [mariopossamato/LEGO-Batman](https://github.com/mariopossamato/LEGO-Batman)
+- **The Lord of the Rings: Return of the King** — [crimsonmagick/lotr-rotk](https://github.com/crimsonmagick/lotr-rotk)
+- **The Lord of the Rings: The Return of the King (Athelas)** — [Shagg88/Athelas](https://github.com/Shagg88/Athelas) — *Port.*
+- **Minecraft: Legacy Console Edition (LCERenewed)** — [Patoke/LCERenewed](https://github.com/Patoke/LCERenewed)
+- **Mortal Kombat: Deadly Alliance** — [cScarletter/MK-3D-Era-Decompilation](https://github.com/cScarletter/MK-3D-Era-Decompilation)
+- **Need for Speed: Underground 2** — [cobanov/nfsu2-decomp](https://github.com/cobanov/nfsu2-decomp)
+- **Ratatouille** — [ZounaDecomp/RatDecomp](https://github.com/ZounaDecomp/RatDecomp)
+- **The Simpsons Game (Recomp)** — [YesterMester/TheSimpsonsGameRecomp](https://github.com/YesterMester/TheSimpsonsGameRecomp)
+- **The Simpsons: Hit & Run (Web Port)** — [Vheissu/hit-and-run-web](https://github.com/Vheissu/hit-and-run-web)
+- **Sonic Heroes** — [Jovinull/sonicheroes](https://github.com/Jovinull/sonicheroes)
+- **Soulcalibur II** — [Soulcalibur-II-Research-Group/scII_re](https://github.com/Soulcalibur-II-Research-Group/scII_re)
+- **SpongeBob's Truth or Square** — [spongeis5/ToS-Decomp](https://github.com/spongeis5/ToS-Decomp)
+- **Spyro: A Hero's Tail** — [LivewireCB/Hero-s-Tail-Decomp](https://github.com/LivewireCB/Hero-s-Tail-Decomp)
+- **Terminator Salvation** — [connieprice/Terminator-Salvation-Lua](https://github.com/connieprice/Terminator-Salvation-Lua)
+- **Tiger Woods PGA Tour 2004** — [mitsevox/tw2004](https://github.com/mitsevox/tw2004)
+- **Video game music drivers (vgm-disasm)** — [loveemu/vgm-disasm](https://github.com/loveemu/vgm-disasm) — *Disassembly.*
+
+## Other
+
+39 projects
+
+The target hardware was not clear from the repository. They are listed here instead of being guessed.
+
+- **Aironauts** — [bismurphy/Aironauts-decomp](https://github.com/bismurphy/Aironauts-decomp)
+- **Alphabet Park Adventure** — [unspDecomp/abcParkDecomp](https://github.com/unspDecomp/abcParkDecomp)
+- **Armored Core: For Answer** — [flashfire199/Armored-core-ReAnswered](https://github.com/flashfire199/Armored-core-ReAnswered) — *Port. Target platform not stated in the repository.*
+- **Bakugan Battle Brawlers (Nintendo Switch)** — [Wiredlainn-afk/Bakugan-NX](https://github.com/Wiredlainn-afk/Bakugan-NX) — *Port. Target platform not stated in the repository.*
+- **Bumpy's Arcade Fantasy** — [GeReV/bumpy-reverse](https://github.com/GeReV/bumpy-reverse)
+- **Burnout 2: Point of Impact** — [b3dllc/burnout2](https://github.com/b3dllc/burnout2) — *Target platform not stated in the repository.*
+- **Call of Duty: United Offensive (Multiplayer)** — [opencoduo/coduomp](https://github.com/opencoduo/coduomp)
+- **DOMA Days** — [iestyn129/DOMADays](https://github.com/iestyn129/DOMADays)
+- **Dungeons of Daggorath (Dungeons of Daggorath PC-Port)** — [gondur/dungeons-of-daggorath](https://github.com/gondur/dungeons-of-daggorath) — *Port. Inactive or archived.*
+- **Flame** — [DiaLight/Flame](https://github.com/DiaLight/Flame)
+- **Ghosts And Graves** — [AnthonyBongers/GhostsAndGraves](https://github.com/AnthonyBongers/GhostsAndGraves)
+- **Hazard 1998** — [EuclidVsGauss/HazardRevenge](https://github.com/EuclidVsGauss/HazardRevenge)
+- **Legends of Future Past (lofp)** — [metavert-io/lofp](https://github.com/metavert-io/lofp)
+- **LEGO The Hobbit (HobbitRecompiled)** — [itsdunintime104/HobbitRecompiled](https://github.com/itsdunintime104/HobbitRecompiled) — *Static recompilation. Target platform not stated in the repository.*
+- **Lost (iPodClickWheelRecomps)** — [DogParty/iPodClickWheelRecomps](https://github.com/DogParty/iPodClickWheelRecomps) — *Static recompilation.*
+- **Mickey Saves the Day 3D Adventure** — [Japabu/mickey-saves-the-day-3d-adventure](https://github.com/Japabu/mickey-saves-the-day-3d-adventure)
+- **Midnight Club 3: DUB Edition** — [laureladastra/mcdub3-nx](https://github.com/laureladastra/mcdub3-nx) — *Static recompilation. Target platform not stated in the repository.*
+- **MLB Power Pros 2008** — [HopeAero/MLBPowerPros2008Recomp](https://github.com/HopeAero/MLBPowerPros2008Recomp) — *Static recompilation. Target platform not stated in the repository.*
+- **Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst** — [Masterllgod/naruto-storm-3-full-burst-port-nativo](https://github.com/Masterllgod/naruto-storm-3-full-burst-port-nativo) — *Static recompilation. Target platform not stated in the repository.*
+- **Ninja Master - Shinobi III** — [krazyjakee/ninja-master](https://github.com/krazyjakee/ninja-master)
+- **Open Annihilation** — [open-annihilation/open-annihilation](https://github.com/open-annihilation/open-annihilation)
+- **OpenTIE** — [elyosh/OpenTIE](https://github.com/elyosh/OpenTIE)
+- **OpenXvT** — [elyosh/OpenXvT](https://github.com/elyosh/OpenXvT)
+- **OpenXW** — [elyosh/OpenXW](https://github.com/elyosh/OpenXW)
+- **OpenXWA** — [elyosh/OpenXWA](https://github.com/elyosh/OpenXWA)
+- **PlayStunts** — [ACatWithEbola/playstunts](https://github.com/ACatWithEbola/playstunts)
+- **Pokémon games (PokeRecomp)** — [sonsegajp/PokeRecomp](https://github.com/sonsegajp/PokeRecomp) — *Static recompilation. Target platform not stated in the repository.*
+- **Pokéwalker (firmware/minigames) (pw)** — [lumirth/pw](https://github.com/lumirth/pw) — *Disassembly.*
+- **Snail Mail** — [banteg/snail](https://github.com/banteg/snail)
+- **Sonic the Hedgehog (DIDJ)** — [ArchiverXP/sncdecomp](https://github.com/ArchiverXP/sncdecomp)
+- **Sonic the Hedgehog (LeapFrog Didj)** — [IamMrUnemployed/sonic-the-hedgehog-didj-pc](https://github.com/IamMrUnemployed/sonic-the-hedgehog-didj-pc) — *Static recompilation.*
+- **Sonic X (LeapFrog Leapster)** — [IamMrUnemployed/sonic-x-leapster-pc](https://github.com/IamMrUnemployed/sonic-x-leapster-pc) — *Static recompilation.*
+- **Top Spin 4** — [g-guthrie/topspin4-decomp](https://github.com/g-guthrie/topspin4-decomp) — *Target platform not stated in the repository.*
+- **TwinBee PARADISE in Donburi Shima** — [Jhuyghue/donburi-recomp](https://github.com/Jhuyghue/donburi-recomp) — *Static recompilation.*
+- **Ultima 7 Decomp** — [Kitrinx/Ultima7_Decomp](https://github.com/Kitrinx/Ultima7_Decomp)
+- **wc1-re** — [neuromancer/wc1-re](https://github.com/neuromancer/wc1-re)
+- **White Album 2 (iOS)** — [galhack/WhiteAlbum2_iOS](https://github.com/galhack/WhiteAlbum2_iOS) — *Port. Target platform not stated in the repository.*
+- **White Album 2 (whitealbum2-Android)** — [dorakyuraduang/whitealbum2-Android](https://github.com/dorakyuraduang/whitealbum2-Android) — *Static recompilation. Target platform not stated in the repository.*
+- **Woody Woodpecker: Escape from Buzz Buzzard Park (PSP)** — [wendersondiazx/Woody-Portable](https://github.com/wendersondiazx/Woody-Portable) — *Port. Target platform not stated in the repository.*
+
+## Open-source reimplementations
+
+These are not matching decompilations. They are open engines written by reading the original game. They are listed separately so they are not mixed up with the projects above.
+
+- **4D Sports Boxing (Open4DBoxing)** — [ToolAssisted-run/Open4DBoxing](https://github.com/ToolAssisted-run/Open4DBoxing) — *Engine reimplementation, PC / DOS.*
+- **Alone in the Dark 1–3 (Dream in the Dark)** — [Corbachu/DITD](https://github.com/Corbachu/DITD) — *Engine reimplementation, Dreamcast.*
+- **Alone in the Dark 1–3 (Free in the Dark)** — [yaz0r/FITD](https://github.com/yaz0r/FITD) — *Engine reimplementation, PC / DOS.*
+- **Chrono Cross: The Radical Dreamers Edition (OpenCross)** — [sp-hy/OpenCross](https://github.com/sp-hy/OpenCross) — *Engine reimplementation, PlayStation.*
+- **Chrono Trigger (Belthasar Project)** — [TemplarServant/BelthasarProject](https://github.com/TemplarServant/BelthasarProject) — *Engine reimplementation, SNES.*
+- **Command & Conquer: Tiberian Sun (OpenTS)** — [OpenTS-Developers/OpenTS](https://github.com/OpenTS-Developers/OpenTS) — *Engine reimplementation, PC / DOS.*
+- **Countdown to Doomsday (brctd-port)** — [abnotus/brctd-port](https://github.com/abnotus/brctd-port) — *Engine reimplementation, PC / DOS.*
+- **Diablo II: Lord of Destruction (D2RUST)** — [Nugwa628/d2gamma](https://github.com/Nugwa628/d2gamma) — *Engine reimplementation, PC / DOS.*
+- **The Elder Scrolls: Arena (tes-arena-rs)** — [7ucina/tes-arena-rs](https://github.com/7ucina/tes-arena-rs) — *Engine reimplementation, PC / DOS.*
+- **Gran Turismo 3 A-Spec (GT3 Revisited)** — [matt-pulsipher/GT3-revisited](https://github.com/matt-pulsipher/GT3-revisited) — *Engine reimplementation, PlayStation 2.*
+- **Heroes of Might and Magic IV (free-heroes4)** — [tallowmere/free-heroes4](https://github.com/tallowmere/free-heroes4) — *Engine reimplementation, PC / DOS.*
+- **The House of the Dead (ReWrithe)** — [TawhidI-602/The-House-of-the-Dead-ReWrithe](https://github.com/TawhidI-602/The-House-of-the-Dead-ReWrithe) — *Engine reimplementation, Arcade.*
+- **Incubation: Time Is Running Out (IncubationRemake)** — [n0madic/IncubationRemake](https://github.com/n0madic/IncubationRemake) — *Engine reimplementation, PC / DOS.*
+- **Jade Cocoon: Story of the Tamamayu (Bevy)** — [ufodriverr/jade-cocoon-bevy-public-v1](https://github.com/ufodriverr/jade-cocoon-bevy-public-v1) — *Engine reimplementation, PlayStation.*
+- **Lemmings (lem_port)** — [sectroyer/lem_port](https://github.com/sectroyer/lem_port) — *Engine reimplementation, PC / DOS.*
+- **Lemmings (ohmylemmings)** — [edwardkim/ohmylemmings](https://github.com/edwardkim/ohmylemmings) — *Engine reimplementation, PC / DOS.*
+- **MechCommander 2 (mc2-rust)** — [justinbukoski/mc2-rust](https://github.com/justinbukoski/mc2-rust) — *Engine reimplementation, PC / DOS.*
+- **Minecraft Classic (ClassiCube)** — [ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) — *Engine reimplementation, PC / DOS.*
+- **Motocross Madness 2 (OpenMCM2)** — [crspytopgn/openmcm2](https://github.com/crspytopgn/openmcm2) — *Engine reimplementation, PC / DOS.*
+- **Need for Speed: Porsche Unleashed (Open Unleashed)** — [Second-Boot/Open-Unleashed](https://github.com/Second-Boot/Open-Unleashed) — *Engine reimplementation, PC / DOS.*
+- **Project I.G.I.: I'm Going In (OpenIGI)** — [OpenIGI/OpenIGI](https://github.com/OpenIGI/OpenIGI) — *Engine reimplementation, PC / DOS.*
+- **Purble Place** — [Areshkew/purble-place-decomp](https://github.com/Areshkew/purble-place-decomp) — *Engine reimplementation, PC / DOS.*
+- **Railroad Tycoon II** — [pedryvo/rrt2-decomp](https://github.com/pedryvo/rrt2-decomp) — *Engine reimplementation, PC / DOS.*
+- **RollerCoaster Tycoon 2** ✦ — [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) — *Open-source reimplementation.*
+- **Caesar III** ✦ — [bvschaik/julius](https://github.com/bvschaik/julius) — *Open-source reimplementation.*
+- **Pharaoh and Cleopatra** ✦ — [Keriew/augustus](https://github.com/Keriew/augustus) — *Open-source reimplementation.*
+- **Blood** ✦ — [NBlood/NBlood](https://github.com/NBlood/NBlood) — *Reverse-engineered Build-engine port.*
+- **RPG Maker 3 (pc-rpgmaker3-resp)** — [Ariasmaze29819/pc-rpgmaker3-resp](https://github.com/Ariasmaze29819/pc-rpgmaker3-resp) — *Engine reimplementation, PlayStation 2.*
+- **Screamer (openscreamer)** — [ItsDanik/openscreamer](https://github.com/ItsDanik/openscreamer) — *Engine reimplementation, PC / DOS.*
+- **Screen Antics: Johnny Castaway (open-scrantic)** — [glauberlima/open-scrantic](https://github.com/glauberlima/open-scrantic) — *Engine reimplementation, PC / DOS.*
+- **SSI Gold Box games (SilverMachine)** — [DrEvil-TitaniumHelix/silver-machine](https://github.com/DrEvil-TitaniumHelix/silver-machine) — *Engine reimplementation, PC / DOS.*
+- **Star Wars Jedi Knight: Dark Forces II (OpenJKDF2)** — [shinyquagsire23/OpenJKDF2](https://github.com/shinyquagsire23/OpenJKDF2) — *Engine reimplementation, PC / DOS.*
+- **Star Wars: Battlefront I & II (openbf)** — [sprucey149/openbf](https://github.com/sprucey149/openbf) — *Engine reimplementation, PC / DOS.*
+- **Star Wars: Dark Forces** ✦ — [TheForceEngine/TheForceEngine](https://github.com/TheForceEngine/TheForceEngine) — *Open-source Jedi engine reimplementation.*
+- **1oom** — [1oom-fork/1oom](https://github.com/1oom-fork/1oom) — *Engine reimplementation.*
+- **Abyss Engine** — [AbyssEngine/AbyssEngine](https://github.com/AbyssEngine/AbyssEngine) — *Engine reimplementation. Inactive or archived.*
+- **Aces of the Pacific Enhanced** — [kylofon/acesofthepacific-enhanced](https://github.com/kylofon/acesofthepacific-enhanced) — *Engine reimplementation, PC / DOS.*
+- **Aleph One** — [Aleph-One-Marathon/alephone](https://github.com/Aleph-One-Marathon/alephone) — *Engine reimplementation, Mac.*
+- **AM2R: Another Metroid 2 Remake (AM2R (Android))** — [am2r-android/AM2R-Autopatcher-Android](https://github.com/am2r-android/AM2R-Autopatcher-Android) — *Engine reimplementation, PC / DOS.*
+- **Anachronox** — [hogsy/chronon](https://github.com/hogsy/chronon) — *Engine reimplementation, PC / DOS.*
+- **Another World (aw64)** — [jnmartin84/aw64](https://github.com/jnmartin84/aw64) — *Engine reimplementation, Nintendo 64. Inactive or archived.*
+- **Another World (rawpsx)** — [fgsfdsfgs/rawpsx](https://github.com/fgsfdsfgs/rawpsx) — *Engine reimplementation, PlayStation. Inactive or archived.*
+- **Antares** — [arescentral/antares](https://github.com/arescentral/antares) — *Engine reimplementation.*
+- **Awesome Open Source Games** — [michelpereira/awesome-open-source-games](https://github.com/michelpereira/awesome-open-source-games) — *Engine reimplementation.*
+- **Bagman (bagman (arcade -> 68k transcode))** — [jotd666/bagman](https://github.com/jotd666/bagman) — *Engine reimplementation, Arcade.*
+- **Bak-Again** — [stellargames/bakagain](https://github.com/stellargames/bakagain) — *Engine reimplementation, PC / DOS.*
+- **Barony** — [TurningWheel/Barony](https://github.com/TurningWheel/Barony) — *Engine reimplementation.*
+- **Battle City (Browser reimplementation)** — [vgrichina/battlecity](https://github.com/vgrichina/battlecity) — *Browser port, NES / Famicom.*
+- **Battlefield 2 (OpenBattlefield2)** — [Moxnatiy/OpenBattlefield2](https://github.com/Moxnatiy/OpenBattlefield2) — *Engine reimplementation, PC / DOS.*
+- **BetterSpades** — [xtreme8000/BetterSpades](https://github.com/xtreme8000/BetterSpades) — *Engine reimplementation, PC / DOS.*
+- **Bloodborne PSX (BBPSX-Decompilation)** — [SonyEntertainmentNetwork/BBPSX-Decompilation](https://github.com/SonyEntertainmentNetwork/BBPSX-Decompilation) — *Engine reimplementation, PC / DOS. Inactive or archived.*
+- **BStone** — [bibendovsky/bstone](https://github.com/bibendovsky/bstone) — *Engine reimplementation, PC / DOS.*
+- **BtBuilder** — [dulsi/btbuilder](https://github.com/dulsi/btbuilder) — *Engine reimplementation.*
+- **C-Dogs SDL** — [cxong/cdogs-sdl](https://github.com/cxong/cdogs-sdl) — *Engine reimplementation.*
+- **Caesar II (caesar2-reconstruction)** — [second-impressions/caesar2-reconstruction](https://github.com/second-impressions/caesar2-reconstruction) — *Engine reimplementation, PC / DOS.*
+- **Call of Duty: Black Ops (WebGPU))** — [SwagSoftware/KisakBlack](https://github.com/SwagSoftware/KisakBlack) — *Engine reimplementation, Xbox 360.*
+- **Call of Duty: Modern Warfare 2 (IW4L)** — [vladtrc/iw4L](https://github.com/vladtrc/iw4L) — *Engine reimplementation, PC / DOS.*
+- **Carnage3D** — [codenamecpp/carnage3d](https://github.com/codenamecpp/carnage3d) — *Engine reimplementation.*
+- **Cave Story (doukutsu-rs)** — [doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) — *Engine reimplementation, PC / DOS.*
+- **Celeste 64: Fragments of the Mountain** — [EXOK/Celeste64](https://github.com/EXOK/Celeste64) — *Engine reimplementation, PC / DOS.*
+- **Chasm-Reverse** — [Panzerschrek/Chasm-Reverse](https://github.com/Panzerschrek/Chasm-Reverse) — *Engine reimplementation.*
+- **Chrono Trigger (chrono-trigger-reimplemented)** — [zdiemer/chrono-trigger-reimplemented](https://github.com/zdiemer/chrono-trigger-reimplemented) — *Engine reimplementation, SNES / Super Famicom.*
+- **CivOne** — [Solen1985/CivOne](https://github.com/Solen1985/CivOne) — *Engine reimplementation. Inactive or archived.*
+- **Club Penguin (Waddle Forever)** — [nhaar/Waddle-Forever](https://github.com/nhaar/Waddle-Forever) — *Engine reimplementation, PC / DOS.*
+- **Command & Conquer: Red Alert (Chronoshift)** — [TheAssemblyArmada/Chronoshift](https://github.com/TheAssemblyArmada/Chronoshift) — *Engine reimplementation, PC / DOS. Inactive or archived.*
+- **Command & Conquer: Red Alert 2** — [cookgreen/ChronoStorm](https://github.com/cookgreen/ChronoStorm) — *Engine reimplementation, PC / DOS.*
+- **Counter-Strike (cs16-client)** — [FWGS/cs16-client](https://github.com/FWGS/cs16-client) — *Engine reimplementation, PC / DOS.*
+- **Daggerfall Unity** — [Interkarma/daggerfall-unity](https://github.com/Interkarma/daggerfall-unity) — *Engine reimplementation, PC / DOS.*
+- **DGEngine** — [dgcor/DGEngine](https://github.com/dgcor/DGEngine) — *Engine reimplementation.*
+- **Diablo (DevilutionX)** — [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) — *Engine reimplementation, PC / DOS.*
+- **Diablo (diabloweb)** — [d07RiV/diabloweb](https://github.com/d07RiV/diabloweb) — *Browser port, PC / DOS.*
+- **Diablo II (D2MOO)** — [ThePhrozenKeep/D2MOO](https://github.com/ThePhrozenKeep/D2MOO) — *Engine reimplementation, PC / DOS.*
+- **donut** — [plowteam/donut](https://github.com/plowteam/donut) — *Engine reimplementation. Inactive or archived.*
+- **Doom (doom-wasm)** — [cloudflare/doom-wasm](https://github.com/cloudflare/doom-wasm) — *Browser port, PC / DOS. Inactive or archived.*
+- **Doom (doom.wasm)** — [jacobenget/doom.wasm](https://github.com/jacobenget/doom.wasm) — *Browser port, PC / DOS.*
+- **Doom RPG (Mobile RPG Pack)** — [andreyvelsk/com.mobilerpgpack.phone](https://github.com/andreyvelsk/com.mobilerpgpack.phone) — *Engine reimplementation, Mobile.*
+- **DOOM64-EX-Plus-Enhanced** — [Styd051/DOOM64-EX-Plus-Enhanced](https://github.com/Styd051/DOOM64-EX-Plus-Enhanced) — *Engine reimplementation, Nintendo 64.*
+- **dRally** — [urxp/dRally](https://github.com/urxp/dRally) — *Engine reimplementation, PC / DOS. Inactive or archived.*
+- **DreeRally** — [enriquesomolinos/DreeRally](https://github.com/enriquesomolinos/DreeRally) — *Engine reimplementation. Inactive or archived.*
+- **Dune-II---The-Maker** — [stefanhendriks/Dune-II---The-Maker](https://github.com/stefanhendriks/Dune-II---The-Maker) — *Engine reimplementation.*
+- **Dungeon Keeper Remake** — [Themperror/Dungeon-Keeper-Remake](https://github.com/Themperror/Dungeon-Keeper-Remake) — *Engine reimplementation.*
+- **Earthsiege 2 (Herculan)** — [kevinfoley/Herculan](https://github.com/kevinfoley/Herculan) — *Engine reimplementation, PC / DOS.*
+- **The Elder Scrolls III: Morrowind (OpenMW)** — [OpenMW/openmw](https://github.com/OpenMW/openmw) — *Engine reimplementation, PC / DOS.*
+- **Emperor: Rise of the Middle Kingdom (OpenEmperor)** — [oliverjessner/OpenEmperor](https://github.com/oliverjessner/OpenEmperor) — *Engine reimplementation, PC / DOS.*
+- **EmperorReborn** — [azmawee/EmperorReborn](https://github.com/azmawee/EmperorReborn) — *Engine reimplementation, PC / DOS.*
+- **Evolution-RTS** — [EvolutionRTS/Evolution-RTS](https://github.com/EvolutionRTS/Evolution-RTS) — *Engine reimplementation. Inactive or archived.*
+- **Exult** — [exult/exult](https://github.com/exult/exult) — *Engine reimplementation, PC / DOS.*
+- **ezQuake** — [QW-Group/ezquake-source](https://github.com/QW-Group/ezquake-source) — *Engine reimplementation.*
+- **F-15 II Enhanced** — [neuviemeporte/f15se2-ex](https://github.com/neuviemeporte/f15se2-ex) — *Engine reimplementation, PC / DOS.*
+- **Falltergeist** — [falltergeist/falltergeist](https://github.com/falltergeist/falltergeist) — *Engine reimplementation. Inactive or archived.*
+- **Fatal Frame II: Crimson Butterfly (Mikompilation (FF2 engine))** — [Mikompilation/Mikompilation](https://github.com/Mikompilation/Mikompilation) — *Engine reimplementation, PlayStation 2. Inactive or archived.*
+- **fheroes2** — [ihhub/fheroes2](https://github.com/ihhub/fheroes2) — *Engine reimplementation.*
+- **Flipendo** — [kroplabeskidu/flipendo](https://github.com/kroplabeskidu/flipendo) — *Engine reimplementation, PC / DOS.*
+- **ForsakenX** — [ForsakenX/forsaken](https://github.com/ForsakenX/forsaken) — *Engine reimplementation, PC / DOS. Inactive or archived.*
+- **Freeablo** — [wheybags/freeablo](https://github.com/wheybags/freeablo) — *Engine reimplementation. Inactive or archived.*
+- **freeciv** — [freeciv/freeciv](https://github.com/freeciv/freeciv) — *Engine reimplementation.*
+- **Freedoom** — [freedoom/freedoom](https://github.com/freedoom/freedoom) — *Engine reimplementation.*
+- **FreeFT** — [nadult/FreeFT](https://github.com/nadult/FreeFT) — *Engine reimplementation.*
+- **freeserf.net** — [Pyrdacor/freeserf.net](https://github.com/Pyrdacor/freeserf.net) — *Engine reimplementation.*
+- **FreeSO** — [riperiperi/FreeSO](https://github.com/riperiperi/FreeSO) — *Engine reimplementation, Mobile.*
+- **GemRB** — [gemrb/gemrb](https://github.com/gemrb/gemrb) — *Engine reimplementation.*
+- **Glider PRO (Aerofoil)** — [elasota/Aerofoil](https://github.com/elasota/Aerofoil) — *Engine reimplementation, PC / DOS.*
+- **GLKeeper** — [codenamecpp/GLKeeper](https://github.com/codenamecpp/GLKeeper) — *Engine reimplementation.*
+- **GLSMAC** — [afwbkbc/glsmac](https://github.com/afwbkbc/glsmac) — *Engine reimplementation.*
+- **Gran Turismo 4 (OpenGT4)** — [MrGoodGuy2144/OpenGT4](https://github.com/MrGoodGuy2144/OpenGT4) — *Engine reimplementation, PlayStation 2.*
+- **The Great Escape in C** — [dpt/The-Great-Escape-in-C](https://github.com/dpt/The-Great-Escape-in-C) — *Engine reimplementation, PC / DOS.*
+- **Half-Life (hl (Xash3D FWGS Emscripten port))** — [Pixelsuft/hl](https://github.com/Pixelsuft/hl) — *Browser port, PC / DOS. Inactive or archived.*
+- **Half-Life (Xash3D-Emscripten)** — [btarg/Xash3D-Emscripten](https://github.com/btarg/Xash3D-Emscripten) — *Browser port, PC / DOS. Inactive or archived.*
+- **heretic2** — [0lvin/heretic2](https://github.com/0lvin/heretic2) — *Engine reimplementation.*
+- **Heretic2R** — [m-x-d/Heretic2R](https://github.com/m-x-d/Heretic2R) — *Engine reimplementation, PC / DOS.*
+- **Heroes of Might and Magic III (VCMI)** — [vcmi/vcmi](https://github.com/vcmi/vcmi) — *Engine reimplementation, PC / DOS.*
+- **ironwail** — [andrei-drexler/ironwail](https://github.com/andrei-drexler/ironwail) — *Engine reimplementation, PC / DOS.*
+- **Jackie Chan Stuntmaster (ReChan)** — [SilverwireGames/ReChan](https://github.com/SilverwireGames/ReChan) — *Engine reimplementation, PlayStation.*
+- **Jagged Alliance Stracciatella** — [ja2-stracciatella/ja2-stracciatella](https://github.com/ja2-stracciatella/ja2-stracciatella) — *Engine reimplementation, PC / DOS.*
+- **Jazz Jackrabbit 2** — [deathkiller/jazz2-native](https://github.com/deathkiller/jazz2-native) — *Engine reimplementation, PC / DOS.*
+- **Jazz² Resurrection** — [deathkiller/jazz2](https://github.com/deathkiller/jazz2) — *Engine reimplementation, Mobile.*
+- **KaM Remake** — [Kromster80/kam_remake](https://github.com/Kromster80/kam_remake) — *Engine reimplementation. Inactive or archived.*
+- **KeeperFX** — [dkfans/keeperfx](https://github.com/dkfans/keeperfx) — *Engine reimplementation, PC / DOS.*
+- **KeeperRL** — [miki151/keeperrl](https://github.com/miki151/keeperrl) — *Engine reimplementation.*
+- **Knytt Stories (YKnytt)** — [youkaicountry/yknytt](https://github.com/youkaicountry/yknytt) — *Engine reimplementation, PC / DOS.*
+- **lba2remake** — [LBALab/lba2remake](https://github.com/LBALab/lba2remake) — *Browser port, PC / DOS.*
+- **Legend of Legaia** — [AndrewAltimit/legend-of-legaia-re](https://github.com/AndrewAltimit/legend-of-legaia-re) — *Engine reimplementation, PlayStation.*
+- **Legend of Sword and Fairy (SDLPal)** — [sdlpal/sdlpal](https://github.com/sdlpal/sdlpal) — *Engine reimplementation, PC / DOS.*
+- **The Legend of Zelda: Oracle of Ages (ooa-godot)** — [SHOEGAZEssb/ooa-godot](https://github.com/SHOEGAZEssb/ooa-godot) — *Engine reimplementation, Game Boy Color.*
+- **Legendary Wings** — [retroreplay82/Legendary-Wings-NES-to-PC](https://github.com/retroreplay82/Legendary-Wings-NES-to-PC) — *Engine reimplementation, NES / Famicom.*
+- **LEGO Island (isle.pizza (Emscripten build of isle-portable))** — [isledecomp/isle.pizza](https://github.com/isledecomp/isle.pizza) — *Browser port, PC / DOS.*
+- **Librelancer** — [Librelancer/Librelancer](https://github.com/Librelancer/Librelancer) — *Engine reimplementation. Inactive or archived.*
+- **lilium-voyager** — [clover-moe/lilium-voyager](https://github.com/clover-moe/lilium-voyager) — *Engine reimplementation.*
+- **Lionheart Remake** — [b3dgs/lionheart-remake](https://github.com/b3dgs/lionheart-remake) — *Engine reimplementation, Mobile.*
+- **Little Big Adventure 2 (Twinsen's Odyssey)** — [LBALab/lba2-classic-community](https://github.com/LBALab/lba2-classic-community) — *Engine reimplementation.*
+- **machines** — [WiredForWar/machines](https://github.com/WiredForWar/machines) — *Engine reimplementation, PC / DOS.*
+- **Magic Carpet (remc1)** — [turican0/remc1](https://github.com/turican0/remc1) — *Engine reimplementation, PC / DOS. Inactive or archived.*
+- **maxr** — [maxr-dot-org/maxr](https://github.com/maxr-dot-org/maxr) — *Engine reimplementation.*
+- **mc2** — [alariq/mc2](https://github.com/alariq/mc2) — *Engine reimplementation, PC / DOS.*
+- **MDK (mdk-sdl)** — [nautilusbits/mdk-sdl](https://github.com/nautilusbits/mdk-sdl) — *Engine reimplementation, PC / DOS.*
+- **MDK Sdl** — [nemo22/mdk-sdl](https://github.com/nemo22/mdk-sdl) — *Engine reimplementation, PC / DOS.*
+- **MegaGlest** — [MegaGlest/megaglest-source](https://github.com/MegaGlest/megaglest-source) — *Engine reimplementation, PC / DOS.*
+- **Metroid Prime** — [AxioDL/metaforce](https://github.com/AxioDL/metaforce) — *Engine reimplementation, GameCube.*
+- **Midnight Club II (OpenMC2)** — [OpenMC2/OpenMC2](https://github.com/OpenMC2/OpenMC2) — *Engine reimplementation, PlayStation 2. Inactive or archived.*
+- **Midtown Madness (Open1560)** — [0x1F9F1/Open1560](https://github.com/0x1F9F1/Open1560) — *Engine reimplementation, PC / DOS.*
+- **mint-arena** — [clover-moe/mint-arena](https://github.com/clover-moe/mint-arena) — *Engine reimplementation.*
+- **Moon Child (Moon Child FE)** — [MorsGames/MoonChildFE](https://github.com/MorsGames/MoonChildFE) — *Engine reimplementation, PC / DOS.*
+- **Mr.Boom** — [Javanaise/mrboom-libretro](https://github.com/Javanaise/mrboom-libretro) — *Engine reimplementation.*
+- **Ms. Pac-Man (mspacman500 (arcade -> 68k transcode))** — [jotd666/mspacman500](https://github.com/jotd666/mspacman500) — *Engine reimplementation, Arcade.*
+- **Need for Speed: Most Wanted (nfs-mw, Rust)** — [47PADO47/nfs-mw](https://github.com/47PADO47/nfs-mw) — *Engine reimplementation, PC / DOS.*
+- **NXEngine-evo** — [nxengine/nxengine-evo](https://github.com/nxengine/nxengine-evo) — *Engine reimplementation.*
+- **O21** — [ForNeVeR/O21](https://github.com/ForNeVeR/O21) — *Engine reimplementation.*
+- **OmegA-engine** — [Bishop-333/OmegA-engine](https://github.com/Bishop-333/OmegA-engine) — *Engine reimplementation, PC / DOS.*
+- **Omnispeak** — [sulix/omnispeak](https://github.com/sulix/omnispeak) — *Engine reimplementation.*
+- **Open Fodder** — [OpenFodder/openfodder](https://github.com/OpenFodder/openfodder) — *Engine reimplementation, Amiga.*
+- **Open Kick-Off** — [ssenegas/kickoff](https://github.com/ssenegas/kickoff) — *Engine reimplementation. Inactive or archived.*
+- **Open Panzer** — [nicupavel/openpanzer](https://github.com/nicupavel/openpanzer) — *Engine reimplementation. Inactive or archived.*
+- **openage** — [SFTtech/openage](https://github.com/SFTtech/openage) — *Engine reimplementation.*
+- **OpenApocalypse** — [OpenApoc/OpenApoc](https://github.com/OpenApoc/OpenApoc) — *Engine reimplementation, PC / DOS.*
+- **openblack** — [openblack/openblack](https://github.com/openblack/openblack) — *Engine reimplementation.*
+- **OpenChasm** — [alexey-lysiuk/OpenChasm](https://github.com/alexey-lysiuk/OpenChasm) — *Engine reimplementation. Inactive or archived.*
+- **OpenCiv3** — [C7-Game/OpenCiv3](https://github.com/C7-Game/OpenCiv3) — *Engine reimplementation, PC / DOS.*
+- **OpenCrystalCaves** — [OpenCrystalCaves/OpenCrystalCaves](https://github.com/OpenCrystalCaves/OpenCrystalCaves) — *Engine reimplementation, PC / DOS.*
+- **OpenDUNE** — [OpenDUNE/OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) — *Engine reimplementation.*
+- **OpenE2140** — [OpenE2140/OpenE2140](https://github.com/OpenE2140/OpenE2140) — *Engine reimplementation.*
+- **OpenEnroth** — [OpenEnroth/OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) — *Engine reimplementation, PC / DOS.*
+- **OpenGothic** — [Try/OpenGothic](https://github.com/Try/OpenGothic) — *Engine reimplementation.*
+- **OpenJazz** — [AlisterT/openjazz](https://github.com/AlisterT/openjazz) — *Engine reimplementation, PC / DOS.*
+- **OpenKeeper** — [tonihele/OpenKeeper](https://github.com/tonihele/OpenKeeper) — *Engine reimplementation.*
+- **OpenKrush** — [IceReaper/OpenKrush](https://github.com/IceReaper/OpenKrush) — *Engine reimplementation.*
+- **OpenLoco** — [OpenLoco/OpenLoco](https://github.com/OpenLoco/OpenLoco) — *Engine reimplementation, PC / DOS.*
+- **OpenMB** — [cookgreen/OpenMB](https://github.com/cookgreen/OpenMB) — *Engine reimplementation.*
+- **OpenMoHAA** — [openmoh/openmohaa](https://github.com/openmoh/openmohaa) — *Engine reimplementation.*
+- **OpenNox** — [noxworld-dev/opennox](https://github.com/noxworld-dev/opennox) — *Engine reimplementation. Inactive or archived.*
+- **openomf** — [omf2097/openomf](https://github.com/omf2097/openomf) — *Engine reimplementation, PC / DOS.*
+- **OpenRA** — [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) — *Engine reimplementation, PC / DOS.*
+- **OpenReliant** — [OpenReliant/openreliant](https://github.com/OpenReliant/openreliant) — *Engine reimplementation.*
+- **OpenSA** — [Dzierzan/OpenSA](https://github.com/Dzierzan/OpenSA) — *Engine reimplementation. Inactive or archived.*
+- **OpenSAGE** — [OpenSAGE/OpenSAGE](https://github.com/OpenSAGE/OpenSAGE) — *Engine reimplementation.*
+- **OpenSC2K** — [OpenSC2K/OpenSC2K](https://github.com/OpenSC2K/OpenSC2K) — *Engine reimplementation, PC / DOS.*
+- **OpenSpades** — [yvt/openspades](https://github.com/yvt/openspades) — *Engine reimplementation. Inactive or archived.*
+- **OpenTESArena** — [afritz1/OpenTESArena](https://github.com/afritz1/OpenTESArena) — *Engine reimplementation.*
+- **OpenTPW** — [OpenTPW/OpenTPW](https://github.com/OpenTPW/OpenTPW) — *Engine reimplementation.*
+- **OpenTTD (OpenTTD-patches)** — [JGRennison/OpenTTD-patches](https://github.com/JGRennison/OpenTTD-patches) — *Engine reimplementation, PC / DOS.*
+- **OpenTyrian** — [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) — *Engine reimplementation, PC / DOS.*
+- **OpenVIII** — [MaKiPL/OpenVIII-monogame](https://github.com/MaKiPL/OpenVIII-monogame) — *Engine reimplementation, Mobile. Inactive or archived.*
+- **OpenXcom** — [OpenXcom/OpenXcom](https://github.com/OpenXcom/OpenXcom) — *Engine reimplementation.*
+- **OPHD** — [OutpostUniverse/OPHD](https://github.com/OutpostUniverse/OPHD) — *Engine reimplementation.*
+- **Out Run** — [djyt/cannonball](https://github.com/djyt/cannonball) — *Engine reimplementation, Arcade. Inactive or archived.*
+- **OutRun** — [ZgzInfinity/OutRun](https://github.com/ZgzInfinity/OutRun) — *Engine reimplementation, PC / DOS.*
+- **OutRun (CannonBall DX)** — [Endprodukt/cannonball-dx](https://github.com/Endprodukt/cannonball-dx) — *Engine reimplementation, Arcade.*
+- **P.T. (P.T. for PC)** — [LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc) — *Engine reimplementation, PlayStation 4.*
+- **parabellum** — [andreapavoni/parabellum](https://github.com/andreapavoni/parabellum) — *Engine reimplementation.*
+- **permafrost-engine** — [eduard-permyakov/permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) — *Engine reimplementation.*
+- **Pinball Fantasies (Encore)** — [pedrocatalao/pinball-fantasies-encore](https://github.com/pedrocatalao/pinball-fantasies-encore) — *Engine reimplementation, PC / DOS.*
+- **Pokémon Emerald (pokeemerald-wasm)** — [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) — *Browser port, Game Boy Advance.*
+- **Pokémon Red (pokemon-red-sdl2)** — [zacharyvincze/pokemon-red-sdl2](https://github.com/zacharyvincze/pokemon-red-sdl2) — *Engine reimplementation, Game Boy. Inactive or archived.*
+- **Pokémon Red/Blue/Gold/Silver (pokerecomp)** — [Decryptu/pokerecomp](https://github.com/Decryptu/pokerecomp) — *Engine reimplementation, Game Boy Color.*
+- **Prince-Monogame** — [salvadorc17/Prince-Monogame](https://github.com/salvadorc17/Prince-Monogame) — *Engine reimplementation.*
+- **Q2RTXPerimental** — [PolyhedronStudio/Q2RTXPerimental](https://github.com/PolyhedronStudio/Q2RTXPerimental) — *Engine reimplementation.*
+- **q2tools-220** — [qbism/q2tools-220](https://github.com/qbism/q2tools-220) — *Engine reimplementation.*
+- **qfusion** — [Warsow/qfusion](https://github.com/Warsow/qfusion) — *Engine reimplementation.*
+- **quakeforge** — [quakeforge/quakeforge](https://github.com/quakeforge/quakeforge) — *Engine reimplementation.*
+- **Raiders of the Lost Ark (Raiders2600 (fully co…)** — [halkuncode/Raiders2600](https://github.com/halkuncode/Raiders2600) — *Engine reimplementation, Atari 2600.*
+- **Railroad Tycoon** — [bluddy/rails](https://github.com/bluddy/rails) — *Engine reimplementation, PC / DOS.*
+- **Ratchet & Clank** — [re-rac/rerac-launcher](https://github.com/re-rac/rerac-launcher) — *Engine reimplementation, PlayStation 2.*
+- **RBDOOM-3-BFG** — [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) — *Engine reimplementation, PC / DOS.*
+- **Realms of Arkania: Blade of Destiny ( Bright-Eyes)** — [Henne/BrightEyes](https://github.com/Henne/BrightEyes) — *Engine reimplementation, PC / DOS.*
+- **rebellion2** — [davidadas/rebellion2](https://github.com/davidadas/rebellion2) — *Engine reimplementation, PC / DOS.*
+- **Reburn 3** — [reburndev/reburn3](https://github.com/reburndev/reburn3) — *Engine reimplementation. Inactive or archived.*
+- **REGoth** — [REGoth-project/REGoth-bs](https://github.com/REGoth-project/REGoth-bs) — *Engine reimplementation. Inactive or archived.*
+- **remc2** — [turican0/remc2](https://github.com/turican0/remc2) — *Engine reimplementation, PC / DOS.*
+- **Return To The Roots** — [Return-To-The-Roots/s25client](https://github.com/Return-To-The-Roots/s25client) — *Engine reimplementation.*
+- **Rigel Engine** — [lethal-guitar/RigelEngine](https://github.com/lethal-guitar/RigelEngine) — *Engine reimplementation, PC / DOS.*
+- **Riiablo** — [collinsmith/riiablo](https://github.com/collinsmith/riiablo) — *Engine reimplementation, Mobile.*
+- **Romanov's Vengeance** — [MustaphaTR/Romanovs-Vengeance](https://github.com/MustaphaTR/Romanovs-Vengeance) — *Engine reimplementation.*
+- **Rotp-Fusion** — [BrokenRegistry/Rotp-Fusion](https://github.com/BrokenRegistry/Rotp-Fusion) — *Engine reimplementation.*
+- **Ryzom Core** — [ryzom/ryzomcore](https://github.com/ryzom/ryzomcore) — *Engine reimplementation.*
+- **San Andreas Unity** — [in0finite/SanAndreasUnity](https://github.com/in0finite/SanAndreasUnity) — *Engine reimplementation. Inactive or archived.*
+- **ScummVM** — [scummvm/scummvm](https://github.com/scummvm/scummvm) — *Engine reimplementation.*
+- **Serious Sam: The First Encounter / Serious Sam: The Second Encounter** — [tx00100xt/SeriousSamClassic](https://github.com/tx00100xt/SeriousSamClassic) — *Engine reimplementation, PC / DOS.*
+- **SeriousSamAlphaRemake** — [tx00100xt/SeriousSamAlphaRemake](https://github.com/tx00100xt/SeriousSamAlphaRemake) — *Engine reimplementation.*
+- **SeriousSamClassic-VK** — [tx00100xt/SeriousSamClassic-VK](https://github.com/tx00100xt/SeriousSamClassic-VK) — *Engine reimplementation, PC / DOS.*
+- **sfall** — [sfall-team/sfall](https://github.com/sfall-team/sfall) — *Engine reimplementation.*
+- **Shattered Paradise** — [ABrandau/Shattered-Paradise-SDK](https://github.com/ABrandau/Shattered-Paradise-SDK) — *Engine reimplementation.*
+- **Shockolate** — [Interrupt/systemshock](https://github.com/Interrupt/systemshock) — *Engine reimplementation, PC / DOS.*
+- **Sid Meier's SimGolf (OpenSGolf)** — [crspytopgn/opensgolf](https://github.com/crspytopgn/opensgolf) — *Engine reimplementation, PC / DOS.*
+- **simutrans** — [simutrans/simutrans](https://github.com/simutrans/simutrans) — *Engine reimplementation.*
+- **Skate 3 (Skate 3 Rust Engine)** — [SK8-ENGINE/skate-3-rust-engine](https://github.com/SK8-ENGINE/skate-3-rust-engine) — *Engine reimplementation, Xbox 360.*
+- **Sonic 3 & Knuckles** — [Eukaryot/sonic3air](https://github.com/Eukaryot/sonic3air) — *Engine reimplementation, Sega Genesis / Mega Drive.*
+- **Sonic and the Secret Rings (Project Reignition)** — [kumapauz/project-reignition](https://github.com/kumapauz/project-reignition) — *Engine reimplementation, Wii.*
+- **Sonic R (sonic-r (jnmartin84))** — [jnmartin84/sonic-r](https://github.com/jnmartin84/sonic-r) — *Engine reimplementation, Sega Saturn.*
+- **Sopwith (SDL Sopwith)** — [fragglet/sdl-sopwith](https://github.com/fragglet/sdl-sopwith) — *Engine reimplementation, PC / DOS.*
+- **Sourcehold** — [sourcehold/Sourcehold](https://github.com/sourcehold/Sourcehold) — *Engine reimplementation. Inactive or archived.*
+- **Space Invaders** — [loadzero/si78c](https://github.com/loadzero/si78c) — *Engine reimplementation, Arcade. Inactive or archived.*
+- **Space Station 14** — [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) — *Engine reimplementation.*
+- **spearmint** — [clover-moe/spearmint](https://github.com/clover-moe/spearmint) — *Engine reimplementation.*
+- **Star Wars Episode I: The Phantom Menace (OpenPhantom)** — [OpenPhantom/OpenPhantom](https://github.com/OpenPhantom/OpenPhantom) — *Engine reimplementation, PC / DOS.*
+- **Star Wars: Empire at War (Browser Edition)** — [Glenn332/Empire-At-War-Browser-Edition](https://github.com/Glenn332/Empire-At-War-Browser-Edition) — *Engine reimplementation, PC / DOS.*
+- **Star Wars: Knights of the Old Republic (reone)** — [seedhartha/reone](https://github.com/seedhartha/reone) — *Engine reimplementation, Xbox.*
+- **Street Fighter III: 3rd Strike [3SX]** — [crowded-street/3sx](https://github.com/crowded-street/3sx) — *Engine reimplementation, PlayStation 2.*
+- **Street Fighter III: 3rd Strike [3SXW]** — [guimaraf/3sxw](https://github.com/guimaraf/3sxw) — *Engine reimplementation, PlayStation 2.*
+- **Stronghold Crusader (OpenSHC)** — [sourcehold/OpenSHC](https://github.com/sourcehold/OpenSHC) — *Engine reimplementation, PC / DOS.*
+- **Super Mario 64 [Infinite Mario 64 Ever]** — [Brawmario/infinite-mario-64-ever](https://github.com/Brawmario/infinite-mario-64-ever) — *Engine reimplementation, Nintendo 64.*
+- **Super Mario Bros. [Remastered]** — [JHDev2006/Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) — *Engine reimplementation, NES / Famicom.*
+- **Super Mario World (Super Mario World Remastered)** — [JHDev2006/Super-Mario-World-Remastered-Public](https://github.com/JHDev2006/Super-Mario-World-Remastered-Public) — *Engine reimplementation, SNES / Super Famicom. Inactive or archived.*
+- **Super Smash Bros. Brawl (BrawlModules)** — [Sammi-Husky/BrawlModules](https://github.com/Sammi-Husky/BrawlModules) — *Engine reimplementation, Wii.*
+- **SurrealEngine** — [dpjudas/SurrealEngine](https://github.com/dpjudas/SurrealEngine) — *Engine reimplementation.*
+- **Sword of the Samurai (OpenSamurai)** — [ToolAssisted-run/OpenSamurai](https://github.com/ToolAssisted-run/OpenSamurai) — *Engine reimplementation, PC / DOS.*
+- **Syndicate Wars** — [swfans/syndwarsfx](https://github.com/swfans/syndwarsfx) — *Engine reimplementation.*
+- **Tails Adventure (Tails Adventure Remake)** — [mechakotik/tails-adventure](https://github.com/mechakotik/tails-adventure) — *Engine reimplementation, Game Gear.*
+- **The Terminator: SkyNET / Future Shock (skynet-godot)** — [nautilusbits/skynet-godot](https://github.com/nautilusbits/skynet-godot) — *Engine reimplementation, PC / DOS.*
+- **Test Drive III** — [kylofon/test-drive-3-sdl3](https://github.com/kylofon/test-drive-3-sdl3) — *Engine reimplementation, PC / DOS.*
+- **Test Drive III Enhanced** — [kylofon/testdrive3-enhanced](https://github.com/kylofon/testdrive3-enhanced) — *Engine reimplementation, PC / DOS.*
+- **Tetris (agbtetris)** — [Normmatt/agbtetris](https://github.com/Normmatt/agbtetris) — *Engine reimplementation, Game Boy. Inactive or archived.*
+- **Theme Hospital (CorsixTH)** — [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) — *Engine reimplementation, PC / DOS.*
+- **thinker** — [induktio/thinker](https://github.com/induktio/thinker) — *Engine reimplementation, PC / DOS.*
+- **Thirdeye** — [psi29a/thirdeye](https://github.com/psi29a/thirdeye) — *Engine reimplementation.*
+- **Total Annihilation (Nanolathe)** — [nanolathe-gg/nanolathe](https://github.com/nanolathe-gg/nanolathe) — *Engine reimplementation, PC / DOS.*
+- **Total Annihilation: Kingdoms** — [OpenKingdoms/OpenKingdoms](https://github.com/OpenKingdoms/OpenKingdoms) — *Engine reimplementation, PC / DOS.*
+- **Transport Tycoon Deluxe (OpenTTD)** — [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) — *Engine reimplementation, PC / DOS.*
+- **triplea** — [triplea-game/triplea](https://github.com/triplea-game/triplea) — *Engine reimplementation.*
+- **twin-e** — [LBALab/twin-e](https://github.com/LBALab/twin-e) — *Engine reimplementation.*
+- **Tyrian 2000 (OpenTyrian2000)** — [andyvand/opentyrian2000](https://github.com/andyvand/opentyrian2000) — *Engine reimplementation, PC / DOS.*
+- **UAlbion** — [csinkers/ualbion](https://github.com/csinkers/ualbion) — *Engine reimplementation.*
+- **Ultima V (ultima5)** — [synthwave-pixel/ultima5](https://github.com/synthwave-pixel/ultima5) — *Engine reimplementation, PC / DOS.*
+- **Underworld Revisited** — [PQMarine/UnderworldRevisited](https://github.com/PQMarine/UnderworldRevisited) — *Engine reimplementation, PC / DOS.*
+- **UnderworldGodot** — [hankmorgan/UnderworldGodot](https://github.com/hankmorgan/UnderworldGodot) — *Engine reimplementation.*
+- **Unity Underground** — [Kweepa/OpenUnderground](https://github.com/Kweepa/OpenUnderground) — *Engine reimplementation.*
+- **Unvanquished** — [Unvanquished/Unvanquished](https://github.com/Unvanquished/Unvanquished) — *Engine reimplementation.*
+- **Urban Chaos (OpenChaos)** — [UltimaBeaR/OpenChaos](https://github.com/UltimaBeaR/OpenChaos) — *Engine reimplementation, PC / DOS.*
+- **Urban Terror (ut.pieter.com (ioUrbanTerror -> WebAssembly))** — [FrozenSand/ioq3-for-UrbanTerror-4](https://github.com/FrozenSand/ioq3-for-UrbanTerror-4) — *Browser port, PC / DOS. Inactive or archived.*
+- **Vange-rs** — [kvark/vange-rs](https://github.com/kvark/vange-rs) — *Engine reimplementation.*
+- **vera20k** — [YuriPlanet/vera20k](https://github.com/YuriPlanet/vera20k) — *Engine reimplementation.*
+- **VorpalFix** — [Wemino/VorpalFix](https://github.com/Wemino/VorpalFix) — *Engine reimplementation.*
+- **war1** — [acoto87/war1](https://github.com/acoto87/war1) — *Engine reimplementation.*
+- **Warcraft: Orcs & Humans (War1gus)** — [Wargus/war1gus](https://github.com/Wargus/war1gus) — *Engine reimplementation, PC / DOS.*
+- **Wargus** — [Wargus/wargus](https://github.com/Wargus/wargus) — *Engine reimplementation, PC / DOS.*
+- **Weltendämmerung (weltendaemmerung (spec-driven RE + web port))** — [s-macke/weltendaemmerung](https://github.com/s-macke/weltendaemmerung) — *Browser port, Commodore 64.*
+- **The Wing of Madoola** — [nfroggy/openmadoola](https://github.com/nfroggy/openmadoola) — *Engine reimplementation, NES / Famicom.*
+- **Woody Woodpecker: Escape from Buzz Buzzard Park** — [jjmhalew/WoodyRE](https://github.com/jjmhalew/WoodyRE) — *Engine reimplementation, PC / DOS.*
+- **World of Warcraft 1.12 (benilla)** — [samwhosung/benilla](https://github.com/samwhosung/benilla) — *Engine reimplementation, PC / DOS.*
+- **xash3d-fwgs** — [FWGS/xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) — *Engine reimplementation, PC / DOS.*
+- **Xenogears (Weltall)** — [Roman215/Weltall](https://github.com/Roman215/Weltall) — *Engine reimplementation, PlayStation.*
+- **xoreos** — [xoreos/xoreos](https://github.com/xoreos/xoreos) — *Engine reimplementation.*
+- **Z (OpenZ)** — [playopenz/OpenZ](https://github.com/playopenz/OpenZ) — *Engine reimplementation, PC / DOS.*
+- **Zelda Classic** — [ArmageddonGames/ZeldaClassic](https://github.com/ArmageddonGames/ZeldaClassic) — *Engine reimplementation.*
+- **Zelda II: The Adventure of Link (z2rs)** — [troyedwardsjr/z2rs](https://github.com/troyedwardsjr/z2rs) — *Engine reimplementation, NES / Famicom.*
+- **Zero-K** — [ZeroK-RTS/Zero-K](https://github.com/ZeroK-RTS/Zero-K) — *Engine reimplementation.*
+- **Zoo Tycoon 1 engine (zt1-engine)** — [AlexC1991/zt1-engine](https://github.com/AlexC1991/zt1-engine) — *Engine reimplementation, PC / DOS.*
+
+## Source ports
+
+Ports and forks of games whose source code was officially released (Doom, Quake, Duke Nukem 3D and similar). They are not decompilations, but people looking for a playable native version often want them too.
+
+- **Abuse** — [antrad/Abuse_1996](https://github.com/antrad/Abuse_1996) — *Source port, PC / DOS. Inactive or archived.*
+- **Abuse (Abuse Vita)** — [Rinnegatamante/abuse-vita](https://github.com/Rinnegatamante/abuse-vita) — *Source port, PC / DOS. Inactive or archived.*
+- **Anodyne ( AnodyneFNA)** — [PixieCatSupreme/AnodyneSharp](https://github.com/PixieCatSupreme/AnodyneSharp) — *Source port, PC / DOS.*
+- **Arx Fatalis (Arxwasm)** — [gabrielcuvillier/arxwasm](https://github.com/gabrielcuvillier/arxwasm) — *Source port, PC / DOS. Inactive or archived.*
+- **Arx Libertatis** — [arx/ArxLibertatis](https://github.com/arx/ArxLibertatis) — *Source port, PC / DOS. Inactive or archived.*
+- **Barony (Barony Android Port)** — [DifferentNet/barony-android-port](https://github.com/DifferentNet/barony-android-port) — *Source port, PC / DOS.*
+- **Barrett** — [lunarmeadow/barrett](https://github.com/lunarmeadow/barrett) — *Source port, PC / DOS.*
+- **Beats of Rage (OpenBOR)** — [DCurrent/openbor](https://github.com/DCurrent/openbor) — *Source port, PC / DOS.*
+- **Billy Frontier** — [jorio/BillyFrontier](https://github.com/jorio/BillyFrontier) — *Source port, Mac.*
+- **Bugdom** — [jorio/Bugdom](https://github.com/jorio/Bugdom) — *Source port, Mac.*
+- **Bugdom 2** — [jorio/Bugdom2](https://github.com/jorio/Bugdom2) — *Source port, Mac.*
+- **Call of Duty 4: Modern Warfare (kisakcod-port (web))** — [slqntdevss/kisakcod-port](https://github.com/slqntdevss/kisakcod-port) — *Source port, PC / DOS.*
+- **CatacombGL** — [ArnoAnsems/CatacombGL](https://github.com/ArnoAnsems/CatacombGL) — *Source port, PC / DOS.*
+- **Chocolate Doom** — [chocolate-doom/chocolate-doom](https://github.com/chocolate-doom/chocolate-doom) — *Source port, PC / DOS.*
+- **Chocolate Quake** — [Henrique194/chocolate-quake](https://github.com/Henrique194/chocolate-quake) — *Source port, PC / DOS.*
+- **Command & Conquer: Generals Zero Hour (NewShoes)** — [Agusx1211/NewShoes](https://github.com/Agusx1211/NewShoes) — *Source port, PC / DOS.*
+- **Command & Conquer: Red Alert (ra-port)** — [dk8827/ra-port](https://github.com/dk8827/ra-port) — *Source port, PC / DOS.*
+- **Cortex Command Community Project Source** — [cortex-command-community/Cortex-Command-Community-Project-Source](https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source) — *Source port. Inactive or archived.*
+- **Crispy Doom** — [fabiangreffrath/crispy-doom](https://github.com/fabiangreffrath/crispy-doom) — *Source port, PC / DOS.*
+- **Cro-Mag Rally** — [jorio/CroMagRally](https://github.com/jorio/CroMagRally) — *Source port, Mac.*
+- **Crusader: No Remorse (Crusader: No Remorse - SDL port)** — [sebsebseb1982/crusader-no-remorse-decomp](https://github.com/sebsebseb1982/crusader-no-remorse-decomp) — *Source port, PC / DOS.*
+- **Cube 2: Sauerbraten (BananaBread)** — [kripken/BananaBread](https://github.com/kripken/BananaBread) — *Source port, PC / DOS. Inactive or archived.*
+- **D/Generation (DGenerationPort)** — [uosdwashi/DGenerationPort](https://github.com/uosdwashi/DGenerationPort) — *Source port, PC / DOS.*
+- **Daikatana (Daikatana Restoration Project)** — [atsb/daikatana-restoration-project](https://github.com/atsb/daikatana-restoration-project) — *Source port, PC / DOS.*
+- **Descent (D1X 3DS)** — [iNdioNicarao/dxx-3ds](https://github.com/iNdioNicarao/dxx-3ds) — *Source port, PC / DOS.*
+- **Descent (DXX 3DS)** — [RossMeikleham/DXX-3DS](https://github.com/RossMeikleham/DXX-3DS) — *Source port, PC / DOS. Inactive or archived.*
+- **Descent (DXX Retro)** — [CDarrow/DXX-Retro](https://github.com/CDarrow/DXX-Retro) — *Source port, PC / DOS. Inactive or archived.*
+- **Descent 3** — [InsanityBringer/PiccuEngine](https://github.com/InsanityBringer/PiccuEngine) — *Source port, PC / DOS.*
+- **Descent 3** — [DescentDevelopers/Descent3](https://github.com/DescentDevelopers/Descent3) — *Source port, PC / DOS.*
+- **dhewm3** — [dhewm/dhewm3](https://github.com/dhewm/dhewm3) — *Source port, PC / DOS.*
+- **Diablo (diablo_web))** — [JohnImril/diablo_web](https://github.com/JohnImril/diablo_web) — *Source port, PC / DOS.*
+- **Doom** — [dsda-org/dsda-doom](https://github.com/dsda-org/dsda-doom) — *Source port, PC / DOS.*
+- **Doom** — [fabiangreffrath/woof](https://github.com/fabiangreffrath/woof) — *Source port, PC / DOS.*
+- **Doom (64doom)** — [jnmartin84/64doom](https://github.com/jnmartin84/64doom) — *Source port, PC / DOS. Inactive or archived.*
+- **Doom (Calico (Jaguar Doom backport))** — [team-eternity/calico-doom](https://github.com/team-eternity/calico-doom) — *Source port, PC / DOS. Inactive or archived.*
+- **Doom (QuestZDoom)** — [Team-Beef-Studios/QuestZDoom](https://github.com/Team-Beef-Studios/QuestZDoom) — *Source port, PC / DOS.*
+- **Doom (Silent Space Marine)** — [GMH-Code/Dwasm](https://github.com/GMH-Code/Dwasm) — *Source port, PC / DOS.*
+- **Doom / Heretic / Hexen** — [Russian-Doom/russian-doom](https://github.com/Russian-Doom/russian-doom) — *Source port, PC / DOS.*
+- **Doom 3** — [Rinnegatamante/ldhewm3-rearmed](https://github.com/Rinnegatamante/ldhewm3-rearmed) — *Source port, PC / DOS.*
+- **Doom 3 (d3es-multithread)** — [emileb/d3es-multithread](https://github.com/emileb/d3es-multithread) — *Source port, PC / DOS.*
+- **Doom 3 (Doom3Quest)** — [Team-Beef-Studios/Doom3Quest](https://github.com/Team-Beef-Studios/Doom3Quest) — *Source port, PC / DOS.*
+- **DoomRetro** — [bradharding/doomretro](https://github.com/bradharding/doomretro) — *Source port, PC / DOS.*
+- **Doomsday Engine** — [skyjake/Doomsday-Engine](https://github.com/skyjake/Doomsday-Engine) — *Source port, PC / DOS. Inactive or archived.*
+- **Duke Nukem 3D (duke3d (icculus.org port))** — [icculus/duke3d](https://github.com/icculus/duke3d) — *Source port, PC / DOS. Inactive or archived.*
+- **Duke Nukem 3D (JFDuke3D)** — [jonof/jfduke3d](https://github.com/jonof/jfduke3d) — *Source port, PC / DOS.*
+- **Duke Nukem 3D: 20th Anniversary World Tour (EDuke32 (AWO wrapper))** — [Hendricks266/e32wt](https://github.com/Hendricks266/e32wt) — *Source port, PC / DOS. Inactive or archived.*
+- **DXX-Rebirth** — [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) — *Source port, PC / DOS.*
+- **dxx-redux** — [dxx-redux/dxx-redux](https://github.com/dxx-redux/dxx-redux) — *Source port, PC / DOS.*
+- **Eastern Front (1941) (eastern-front-1941 (TypeScript port))** — [patricksurry/eastern-front-1941](https://github.com/patricksurry/eastern-front-1941) — *Source port, Atari 8-bit.*
+- **EDGE-classic** — [edge-classic/EDGE-classic](https://github.com/edge-classic/EDGE-classic) — *Source port, PC / DOS.*
+- **The Eternity Engine** — [team-eternity/eternity](https://github.com/team-eternity/eternity) — *Source port, PC / DOS.*
+- **Fallout 2** — [alexbatalov/fallout2-ce](https://github.com/alexbatalov/fallout2-ce) — *Source port, PC / DOS.*
+- **FS2Open** — [scp-fs2open/fs2open.github.com](https://github.com/scp-fs2open/fs2open.github.com) — *Source port, PC / DOS.*
+- **GeneralsGameCode** — [TheSuperHackers/GeneralsGameCode](https://github.com/TheSuperHackers/GeneralsGameCode) — *Source port, PC / DOS.*
+- **Gish (freegish)** — [freegish/freegish](https://github.com/freegish/freegish) — *Source port, PC / DOS.*
+- **Gish (Gish (Android))** — [EXL/Gish](https://github.com/EXL/Gish) — *Source port, PC / DOS. Inactive or archived.*
+- **Gish (gish (blinry fork))** — [blinry/gish](https://github.com/blinry/gish) — *Source port, PC / DOS. Inactive or archived.*
+- **Grand Theft Auto III (re3)** — [leanndroguedes/re3-19feb21](https://github.com/leanndroguedes/re3-19feb21) — *Source port, PC / DOS. Inactive or archived.*
+- **GZDoom** — [ZDoom/gzdoom](https://github.com/ZDoom/gzdoom) — *Source port, PC / DOS.*
+- **Habitat (NeoHabitat)** — [frandallfarmer/neohabitat](https://github.com/frandallfarmer/neohabitat) — *Source port, Commodore 64.*
+- **Half-Life (Lambda1VR (Xash3D VR port))** — [Team-Beef-Studios/Lambda1VR](https://github.com/Team-Beef-Studios/Lambda1VR) — *Source port, PC / DOS.*
+- **Half-Life (webXash))** — [x8BitRain/webXash](https://github.com/x8BitRain/webXash) — *Source port, PC / DOS.*
+- **Heavy Metal: F.A.K.K. 2 (fakk2-rework)** — [Sporesirius/fakk2-rework](https://github.com/Sporesirius/fakk2-rework) — *Source port, PC / DOS. Inactive or archived.*
+- **Hexen II (uHexen2 (Hammer of Thyrion))** — [sezero/uhexen2](https://github.com/sezero/uhexen2) — *Source port, PC / DOS.*
+- **Homeworld (HomeworldSDL)** — [HomeworldSDL/HomeworldSDL](https://github.com/HomeworldSDL/HomeworldSDL) — *Source port, PC / DOS. Inactive or archived.*
+- **idTech4A++ (Harmattan Edition)** — [glKarin/com.n0n3m4.diii4a](https://github.com/glKarin/com.n0n3m4.diii4a) — *Source port, PC / DOS.*
+- **In Pursuit of Greed (xGreed)** — [jval1972/xGreed](https://github.com/jval1972/xGreed) — *Source port, PC / DOS. Inactive or archived.*
+- **ioquake3** — [ioquake/ioq3](https://github.com/ioquake/ioq3) — *Source port, PC / DOS.*
+- **iortcw** — [iortcw/iortcw](https://github.com/iortcw/iortcw) — *Source port, PC / DOS. Inactive or archived.*
+- **jfsw** — [jonof/jfsw](https://github.com/jonof/jfsw) — *Source port, PC / DOS.*
+- **jftekwar** — [jonof/jftekwar](https://github.com/jonof/jftekwar) — *Source port, PC / DOS.*
+- **jfwhaven** — [jonof/jfwhaven](https://github.com/jonof/jfwhaven) — *Source port, PC / DOS.*
+- **Knightmare (KnightmareAmiga (h0ffman))** — [djh0ffman/KnightmareAmiga](https://github.com/djh0ffman/KnightmareAmiga) — *Source port, Amiga. Inactive or archived.*
+- **Legend of Doom (legend-of-doom-3ds)** — [EstebanPdN/legend-of-doom-3ds](https://github.com/EstebanPdN/legend-of-doom-3ds) — *Source port.*
+- **MadnessPatch** — [Wemino/MadnessPatch](https://github.com/Wemino/MadnessPatch) — *Source port, PC / DOS.*
+- **Marathon (Marathon (Android))** — [daniele-rapagnani/alephone-android](https://github.com/daniele-rapagnani/alephone-android) — *Source port, Mac. Inactive or archived.*
+- **Marble Blast Gold** — [RandomityGuy/MBHaxe](https://github.com/RandomityGuy/MBHaxe) — *Source port, PC / DOS.*
+- **Meridian 59** — [Meridian59/Meridian59](https://github.com/Meridian59/Meridian59) — *Source port, PC / DOS.*
+- **Mighty Mike** — [jorio/MightyMike](https://github.com/jorio/MightyMike) — *Source port, Mac.*
+- **Minecraft: Java Edition (Minecraft PSP)** — [Pencea-Flavius/Minecraft-PE-PSP](https://github.com/Pencea-Flavius/Minecraft-PE-PSP) — *Source port, PC / DOS.*
+- **Nanosaur 2: Hatchling (Nanosaur 2 (jorio))** — [jorio/Nanosaur2](https://github.com/jorio/Nanosaur2) — *Source port, Mac.*
+- **NearChuckle** — [rohit-n/NearChuckle](https://github.com/rohit-n/NearChuckle) — *Source port, PC / DOS.*
+- **NetHack (NetHack (Android))** — [gurrhack/NetHack-Android](https://github.com/gurrhack/NetHack-Android) — *Source port, PC / DOS.*
+- **Odamex** — [odamex/odamex](https://github.com/odamex/odamex) — *Source port, PC / DOS.*
+- **OpenJK** — [JACoders/OpenJK](https://github.com/JACoders/OpenJK) — *Source port, PC / DOS.*
+- **openQ4** — [themuffinator/openQ4](https://github.com/themuffinator/openQ4) — *Source port, PC / DOS.*
+- **Otto Matic** — [jorio/OttoMatic](https://github.com/jorio/OttoMatic) — *Source port, Mac.*
+- **Plants vs. Zombies (pvz-ps2-wii)** — [OptiJuegos/pvz-ps2-wii](https://github.com/OptiJuegos/pvz-ps2-wii) — *Source port, PC / DOS.*
+- **Prehistorik 2 (missingno7 pre2_port (dos_re))** — [missingno7/pre2_port](https://github.com/missingno7/pre2_port) — *Source port, PC / DOS.*
+- **Quake** — [DarkPlacesEngine/DarkPlaces](https://github.com/DarkPlacesEngine/DarkPlaces) — *Source port, PC / DOS.*
+- **Quake** — [fte-team/fteqw](https://github.com/fte-team/fteqw) — *Source port, PC / DOS.*
+- **Quake** — [sezero/quakespasm](https://github.com/sezero/quakespasm) — *Source port, PC / DOS.*
+- **Quake** — [Rinnegatamante/vitaQuake](https://github.com/Rinnegatamante/vitaQuake) — *Source port, PC / DOS.*
+- **Quake (QuakeQuest)** — [Team-Beef-Studios/QuakeQuest](https://github.com/Team-Beef-Studios/QuakeQuest) — *Source port, PC / DOS.*
+- **Quake (Qwasm)** — [GMH-Code/Qwasm](https://github.com/GMH-Code/Qwasm) — *Source port, PC / DOS.*
+- **Quake II** — [kondrak/vkQuake2](https://github.com/kondrak/vkQuake2) — *Source port, PC / DOS.*
+- **Quake II (Quake2Quest)** — [Team-Beef-Studios/Quake2Quest](https://github.com/Team-Beef-Studios/Quake2Quest) — *Source port, PC / DOS.*
+- **Quake II (Qwasm2)** — [GMH-Code/Qwasm2](https://github.com/GMH-Code/Qwasm2) — *Source port, PC / DOS.*
+- **Quake II (Three Wave Capture The Flag for Yamagi Quake II)** — [yquake2/ctf](https://github.com/yquake2/ctf) — *Source port, PC / DOS.*
+- **Quake II Mission Pack: The Reckoning (Ground Zero for Yamagi Quake II)** — [yquake2/rogue](https://github.com/yquake2/rogue) — *Source port, PC / DOS.*
+- **Quake II Mission Pack: The Reckoning (The Reckoning for Yamagi Quake II)** — [yquake2/xatrix](https://github.com/yquake2/xatrix) — *Source port, PC / DOS.*
+- **Quake II: Zaero (Zaero for Yamagi Quake II)** — [yquake2/zaero](https://github.com/yquake2/zaero) — *Source port, PC / DOS.*
+- **Quake III Arena (Batocera port package 'vkquake3')** — [suijingfeng/vkQuake3](https://github.com/suijingfeng/vkQuake3) — *Source port, PC / DOS.*
+- **Quake III Arena (Kenny Edition)** — [kennyalive/Quake-III-Arena-Kenny-Edition](https://github.com/kennyalive/Quake-III-Arena-Kenny-Edition) — *Source port, PC / DOS. Inactive or archived.*
+- **Quake III Arena (quakejs)** — [inolen/quakejs](https://github.com/inolen/quakejs) — *Source port, PC / DOS. Inactive or archived.*
+- **Quake3e** — [ec-/Quake3e](https://github.com/ec-/Quake3e) — *Source port, PC / DOS.*
+- **Race into Space** — [raceintospace/raceintospace](https://github.com/raceintospace/raceintospace) — *Source port, PC / DOS.*
+- **Raptor: Call of the Shadows (Raptor Enhanced)** — [Alexbeav/raptor-enhanced](https://github.com/Alexbeav/raptor-enhanced) — *Source port, PC / DOS.*
+- **Raze** — [ZDoom/Raze](https://github.com/ZDoom/Raze) — *Source port, PC / DOS.*
+- **Return to Castle Wolfenstein (rtcw.pieter.com (iortcw + Wwasm))** — [GMH-Code/Wwasm](https://github.com/GMH-Code/Wwasm) — *Source port, PC / DOS.*
+- **Return to Castle Wolfenstein (RTCWQuest)** — [Team-Beef-Studios/RTCWQuest](https://github.com/Team-Beef-Studios/RTCWQuest) — *Source port, PC / DOS.*
+- **Rise of the Triad (rottexpr)** — [LTCHIPS/rottexpr](https://github.com/LTCHIPS/rottexpr) — *Source port, PC / DOS. Inactive or archived.*
+- **Sensible World of Soccer 96/97 (swos-port)** — [zlatkok/swos-port](https://github.com/zlatkok/swos-port) — *Source port, Amiga.*
+- **Serious Sam (Serious Engine)** — [Croteam-official/Serious-Engine](https://github.com/Croteam-official/Serious-Engine) — *Source port, PC / DOS.*
+- **Signus: The Artefact Wars** — [signus-game/signus](https://github.com/signus-game/signus) — *Source port, PC / DOS. Inactive or archived.*
+- **SimCity (micropolis-java)** — [jason17055/micropolis-java](https://github.com/jason17055/micropolis-java) — *Source port, Mac. Inactive or archived.*
+- **SimCity (micropolisJS)** — [graememcc/micropolisJS](https://github.com/graememcc/micropolisJS) — *Source port, Mac.*
+- **Sonic CD (SonicCD-DC)** — [DCRSDK/SonicCD-DC](https://github.com/DCRSDK/SonicCD-DC) — *Source port, PC / DOS.*
+- **Speed-Academy** — [kugelrund/Speed-Academy](https://github.com/kugelrund/Speed-Academy) — *Source port, PC / DOS.*
+- **Speed-Outcast** — [kugelrund/Speed-Outcast](https://github.com/kugelrund/Speed-Outcast) — *Source port, PC / DOS.*
+- **Spelunky (ported build from released source))** — [yancharkin/SpelunkyClassicHD](https://github.com/yancharkin/SpelunkyClassicHD) — *Source port, PC / DOS.*
+- **Star Trek: Voyager - Elite Force (Star Trek: Voyager - Elite Force (Android))** — [imjustadudegamer/VoyagerSP-Android](https://github.com/imjustadudegamer/VoyagerSP-Android) — *Source port, PC / DOS.*
+- **Star Trek: Voyager - Elite Force (Star Trek: Voyager - Elite Force Holomatch)** — [imjustadudegamer/VoyagerHM-Android](https://github.com/imjustadudegamer/VoyagerHM-Android) — *Source port, PC / DOS.*
+- **Star Wars Jedi Knight II: Jedi Outcast (JK XR)** — [Team-Beef-Studios/JKXR](https://github.com/Team-Beef-Studios/JKXR) — *Source port, PC / DOS.*
+- **Starbound (OpenStarbound Mobile)** — [RohanBhattacharyya/oSBM](https://github.com/RohanBhattacharyya/oSBM) — *Source port, PC / DOS.*
+- **Super Mario Bros. X (TheXTech)** — [TheXTech/TheXTech](https://github.com/TheXTech/TheXTech) — *Source port, PC / DOS.*
+- **Taradino** — [fabiangreffrath/taradino](https://github.com/fabiangreffrath/taradino) — *Source port, PC / DOS.*
+- **The Terminator: SkyNET (skynet-godot)** — [nemo22/skynet-godot](https://github.com/nemo22/skynet-godot) — *Source port, PC / DOS.*
+- **Tribal Trouble** — [Tribal-Trouble/tribaltrouble](https://github.com/Tribal-Trouble/tribaltrouble) — *Source port, PC / DOS.*
+- **Tyrian (opentyrian-nx)** — [theflippedbit/opentyrian-nx](https://github.com/theflippedbit/opentyrian-nx) — *Source port, PC / DOS. Inactive or archived.*
+- **Tyrquake** — [libretro/tyrquake](https://github.com/libretro/tyrquake) — *Source port, PC / DOS.*
+- **Unreal (unreal_nx)** — [fgsfdsfgs/unreal_nx](https://github.com/fgsfdsfgs/unreal_nx) — *Source port, PC / DOS. Inactive or archived.*
+- **Vangers** — [KranX/Vangers](https://github.com/KranX/Vangers) — *Source port, PC / DOS.*
+- **VanillaConquer** — [TheAssemblyArmada/Vanilla-Conquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer) — *Source port, PC / DOS.*
+- **vkQuake** — [Novum/vkQuake](https://github.com/Novum/vkQuake) — *Source port, PC / DOS.*
+- **Warzone 2100** — [Warzone2100/warzone2100](https://github.com/Warzone2100/warzone2100) — *Source port, PC / DOS.*
+- **Wolfenstein 3D (ECWolf)** — [ECWolfEngine/ECWolf](https://github.com/ECWolfEngine/ECWolf) — *Source port, PC / DOS.*
+- **Wolfenstein 3D (Iron Wolf)** — [Ragnaroek/iron-wolf](https://github.com/Ragnaroek/iron-wolf) — *Source port, PC / DOS.*
+- **Wolfenstein 3D (ReflectionHLE (Reflection Keen))** — [ReflectionHLE/ReflectionHLE](https://github.com/ReflectionHLE/ReflectionHLE) — *Source port, PC / DOS.*
+- **Wolfenstein 3D (Wolf4SDL)** — [fabiangreffrath/wolf4sdl](https://github.com/fabiangreffrath/wolf4sdl) — *Source port, PC / DOS.*
+- **Yamagi Quake II** — [yquake2/yquake2](https://github.com/yquake2/yquake2) — *Source port, PC / DOS.*
+- **Zero Hour Reforged** — [olcayseygan/CnCGeneralsZH-Reforged](https://github.com/olcayseygan/CnCGeneralsZH-Reforged) — *Source port, PC / DOS.*
