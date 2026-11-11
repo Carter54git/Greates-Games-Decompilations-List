@@ -5,7 +5,7 @@
 
 Games with a public decompilation, disassembly, or static recompilation, grouped by the platform that project actually targets.
 
-**4004 projects in total** · **3577** across 55 platforms · **285 reimplementations** and **142 source ports** at the bottom · last updated November 10, 2026
+**4071 projects in total** · **3644** across 55 platforms · **285 reimplementations** and **142 source ports** at the bottom · last updated November 11, 2026
 
 A game that shipped on several machines is listed under the version the repository is reversing. Inside each platform, names are alphabetical and a leading "The" is ignored.
 
@@ -18,18 +18,18 @@ A game that shipped on several machines is listed under the version the reposito
 
 **Nintendo**
 
-- [NES / Famicom](#nes--famicom) · 106
-- [SNES / Super Famicom](#snes--super-famicom) · 132
-- [Nintendo 64](#nintendo-64) · 364
-- [GameCube](#gamecube) · 174
-- [Wii](#wii) · 98
+- [NES / Famicom](#nes--famicom) · 107
+- [SNES / Super Famicom](#snes--super-famicom) · 135
+- [Nintendo 64](#nintendo-64) · 365
+- [GameCube](#gamecube) · 176
+- [Wii](#wii) · 100
 - [Wii U](#wii-u) · 27
-- [Nintendo Switch](#nintendo-switch) · 111
+- [Nintendo Switch](#nintendo-switch) · 118
 - [Game Boy](#game-boy) · 66
 - [Game Boy Color](#game-boy-color) · 51
 - [Game Boy Advance](#game-boy-advance) · 131
 - [Nintendo DS](#nintendo-ds) · 82
-- [Nintendo 3DS](#nintendo-3ds) · 31
+- [Nintendo 3DS](#nintendo-3ds) · 32
 - [Virtual Boy](#virtual-boy) · 3
 
 **Sega**
@@ -44,47 +44,47 @@ A game that shipped on several machines is listed under the version the reposito
 
 **Sony**
 
-- [PlayStation](#playstation) · 302
-- [PlayStation 2](#playstation-2) · 217
-- [PlayStation 3](#playstation-3) · 50
+- [PlayStation](#playstation) · 306
+- [PlayStation 2](#playstation-2) · 227
+- [PlayStation 3](#playstation-3) · 54
 - [PlayStation 4](#playstation-4) · 53
 - [PlayStation 5](#playstation-5) · 1
 - [PlayStation Portable](#playstation-portable) · 34
 
 **Microsoft**
 
-- [Xbox](#xbox) · 158
-- [Xbox 360](#xbox-360) · 402
+- [Xbox](#xbox) · 163
+- [Xbox 360](#xbox-360) · 411
 - [Xbox One](#xbox-one) · 1
 
 **Computer, mobile, and web**
 
 - [PC-98](#pc-98) · 2
-- [ZX Spectrum](#zx-spectrum) · 46
+- [ZX Spectrum](#zx-spectrum) · 47
 - [Commodore 64](#commodore-64) · 14
 - [Commodore VIC-20](#commodore-vic-20) · 2
-- [Amiga](#amiga) · 13
+- [Amiga](#amiga) · 14
 - [Atari 8-bit](#atari-8-bit) · 3
 - [Atari ST](#atari-st) · 3
 - [Apple II](#apple-ii) · 9
 - [BBC Micro / Acorn](#bbc-micro--acorn) · 16
 - [Amstrad CPC](#amstrad-cpc) · 1
 - [Mac](#mac) · 8
-- [PC / DOS](#pc--dos) · 465
-- [Mobile](#mobile) · 107
-- [Web / Flash](#web--flash) · 3
+- [PC / DOS](#pc--dos) · 472
+- [Mobile](#mobile) · 108
+- [Web / Flash](#web--flash) · 4
 
 **Arcade, other hardware, and tools**
 
-- [Arcade](#arcade) · 69
+- [Arcade](#arcade) · 72
 - [Neo Geo](#neo-geo) · 2
 - [Atari 2600](#atari-2600) · 5
 - [Atari Jaguar](#atari-jaguar) · 4
 - [Atari Lynx](#atari-lynx) · 1
 - [ColecoVision](#colecovision) · 1
-- [MSX](#msx) · 9
+- [MSX](#msx) · 10
 - [3DO](#3do) · 1
-- [Philips CD-i](#philips-cd-i) · 5
+- [Philips CD-i](#philips-cd-i) · 7
 - [System software and emulators](#system-software-and-emulators) · 36
 - [Multiplatform](#multiplatform) · 26
 - [Other](#other) · 39
@@ -94,7 +94,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## NES / Famicom
 
-106 projects
+107 projects
 
 - **Adventure Island II** — [Junior-Jones/Adventure-Island-II-NES-Static-Recomp](https://github.com/Junior-Jones/Adventure-Island-II-NES-Static-Recomp)
 - **Atlantis no Nazo** — [Xkeeper0/atlantis-no-nazo](https://github.com/Xkeeper0/atlantis-no-nazo) — *Disassembly.*
@@ -126,6 +126,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Earthbound Beginnings** — [GrasonHumphrey/Earthbound-Zero-Decomp](https://github.com/GrasonHumphrey/Earthbound-Zero-Decomp)
 - **Elite** — [markmoxon/elite-source-code-nes](https://github.com/markmoxon/elite-source-code-nes)
 - **ExciteBike** — [cyneprepou4uk/NES-Games-Disassembly](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Excitebike)
+- **Excitebike (Decompilation)** — [Tenome/Excitebike-Decompilation](https://github.com/Tenome/Excitebike-Decompilation)
 - **Faxanadu** — [mstan/FaxanaduRecomp](https://github.com/mstan/FaxanaduRecomp)
 - **Final Fantasy** — [Entroper/FF1Disassembly](https://github.com/Entroper/FF1Disassembly)
 - **Final Fantasy (FF1-MMC5)** — [JiggeryPonkery/FF1-MMC5](https://github.com/JiggeryPonkery/FF1-MMC5) — *Disassembly. Inactive or archived.*
@@ -205,13 +206,15 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## SNES / Super Famicom
 
-132 projects
+135 projects
 
 - **ActRaiser** — [DerrickGold/ar-recomp](https://github.com/DerrickGold/ar-recomp)
 - **Arcana** — [SarahShinespark/arcana-disassembly](https://github.com/SarahShinespark/arcana-disassembly) — *Disassembly.*
 - **Beavis and Butt-Head** — [rac08241988/BeavisAndButtHead-Recomp](https://github.com/rac08241988/BeavisAndButtHead-Recomp) — *Static recompilation.*
+- **Blackthorne** — [Bentley734/Blackthorne-SNES-Recomp](https://github.com/Bentley734/Blackthorne-SNES-Recomp) — *Static recompilation.*
 - **BS Zelda no Densetsu (BS-Zelda-no-Densetsu-Disassembly)** — [Yoshifanatic1/BS-Zelda-no-Densetsu-Disassembly](https://github.com/Yoshifanatic1/BS-Zelda-no-Densetsu-Disassembly) — *Disassembly. Inactive or archived.*
 - **Chrono Trigger** — [dscotton/ct_disassembly](https://github.com/dscotton/ct_disassembly) — *Disassembly.*
+- **Daffy Duck: The Marvin Missions** — [Gummygamer/daffy-recomp](https://github.com/Gummygamer/daffy-recomp) — *Disassembly.*
 - **Demons Crest** — [FredYeye/various-game-disassembly](https://github.com/FredYeye/various-game-disassembly/blob/main/SNES/demons_crest.asm)
 - **Donkey Kong Country** — [Yoshifanatic1/Donkey-Kong-Country-1-Disassembly](https://github.com/Yoshifanatic1/Donkey-Kong-Country-1-Disassembly)
 - **Donkey Kong Country (Recomp)** — [elliotttate/DKC1Recomp](https://github.com/elliotttate/DKC1Recomp)
@@ -230,6 +233,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **EarthBound / Mother 2** — [Herringway/ebsrc](https://github.com/Herringway/ebsrc)
 - **Earthbound Companion** — [rages4calm/earthbound-companion](https://github.com/rages4calm/earthbound-companion) — *Static recompilation.*
 - **Earthworm Jim 2** — [Yoshifanatic1/Earthworm-Jim-2-Disassembly](https://github.com/Yoshifanatic1/Earthworm-Jim-2-Disassembly) — *Disassembly. Inactive or archived.*
+- **Excitebike: Bun Bun Mario Battle** — [Tenome/Excitebike--Bun-Bun-Mario-Battle](https://github.com/Tenome/Excitebike--Bun-Bun-Mario-Battle)
 - **F-Zero** — [mstan/FZeroSNESRecomp](https://github.com/mstan/FZeroSNESRecomp)
 - **F-Zero** — [RetroPortingToolKit/FZeroSNESRecomp](https://github.com/RetroPortingToolKit/FZeroSNESRecomp) — *Static recompilation.*
 - **F-Zero (Recomp)** — [craigshaw/FZeroRecomp](https://github.com/craigshaw/FZeroRecomp)
@@ -342,7 +346,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Nintendo 64
 
-364 projects
+365 projects
 
 - **1080° Snowboarding** — [bigyoshi51/1080-decomp](https://github.com/bigyoshi51/1080-decomp)
 - **1080° Snowboarding** — [djsaunde/1080-decomp](https://github.com/djsaunde/1080-decomp)
@@ -528,6 +532,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Mario Kart 64 (Mario-Kart-64-X)** — [Team-Resurgent/Mario-Kart-64-X](https://github.com/Team-Resurgent/Mario-Kart-64-X) — *Port.*
 - **Mario Kart 64 (mk64-dc)** — [jnmartin84/mk64-dc](https://github.com/jnmartin84/mk64-dc)
 - **Mario Kart 64 (MK64Recomp)** — [arefdsg/MK64Recomp](https://github.com/arefdsg/MK64Recomp) — *Static recompilation.*
+- **Mario Kart 64 (PS3)** — [stingziz0u/mk64-ps3](https://github.com/stingziz0u/mk64-ps3) — *Port.*
 - **Mario Kart 64 (PSP)** — [beckerd/psp_mk64_portable](https://github.com/beckerd/psp_mk64_portable) — *Port.*
 - **Mario Kart 64 (SpaghettiKart [Android Port])** — [izzy2lost/SpaghettiKart](https://github.com/izzy2lost/SpaghettiKart) — *Port.*
 - **Mario Kart 64 (SpaghettiPad)** — [chrissotraidis/spaghettipad](https://github.com/chrissotraidis/spaghettipad) — *Port.*
@@ -711,7 +716,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## GameCube
 
-174 projects
+176 projects
 
 - **Aggressive Inline** — [Spaced1127/Aggressive-Inline-Static-Recomp](https://github.com/Spaced1127/Aggressive-Inline-Static-Recomp) — *Static recompilation.*
 - **Amazing Island** — [EltaleLibrarian/Amazing](https://github.com/EltaleLibrarian/Amazing)
@@ -809,6 +814,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **NBA Street V3** — [recomp-code/street-recomp-v3](https://github.com/recomp-code/street-recomp-v3) — *Static recompilation.*
 - **NDDEMO (tech demo)** — [cualquiercosa327/nddemo](https://github.com/cualquiercosa327/nddemo) — *Inactive or archived.*
 - **NDDEMO (tech demo)** — [CelestialAmber/nddemo](https://github.com/CelestialAmber/nddemo)
+- **Need for Speed: Underground 2 (GameCube)** — [octavioCuatrochio/nfsu2-gcpc](https://github.com/octavioCuatrochio/nfsu2-gcpc)
 - **NFL Blitz 2003** — [8bitninja64/NFLBlitz2003-PC](https://github.com/8bitninja64/NFLBlitz2003-PC) — *Static recompilation.*
 - **NFL Street 2** — [mitsevox/nflstreet2](https://github.com/mitsevox/nflstreet2)
 - **Nintendo Puzzle Collection: Dr. Mario 64** — [NewGBAXL/drmario64-gc](https://github.com/NewGBAXL/drmario64-gc)
@@ -821,6 +827,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Pikmin 1** — [projectPiki/pikmin](https://github.com/projectPiki/pikmin)
 - **Pikmin 2** — [projectPiki/pikmin2](https://github.com/projectPiki/pikmin2)
 - **Pokemon Colosseum** — [dougchansan/pkmn-colosseum](https://github.com/dougchansan/pkmn-colosseum)
+- **Pokémon Channel** — [imyourhuckleberryponcho/Pokemon-Channel-Decomp](https://github.com/imyourhuckleberryponcho/Pokemon-Channel-Decomp)
 - **Pokémon Colosseum (colosseum-mb)** — [pret/colosseum-mb](https://github.com/pret/colosseum-mb) — *Inactive or archived.*
 - **Pokémon Colosseum (launcher)** — [chasem-dev/colosseum-launcher](https://github.com/chasem-dev/colosseum-launcher) — *Port.*
 - **Ratatouille** — [ZounaModding/RatDecomp](https://github.com/ZounaModding/RatDecomp)
@@ -890,7 +897,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Wii
 
-98 projects
+100 projects
 
 - **Animal Crossing: City Folk** — [ACreTeam/cf-decomp](https://github.com/ACreTeam/cf-decomp)
 - **Ben 10: Protector of Earth** — [pedrohenrique505/relogio-esquisito](https://github.com/pedrohenrique505/relogio-esquisito) — *Static recompilation.*
@@ -988,7 +995,9 @@ A game that shipped on several machines is listed under the version the reposito
 - **Wii Party** — [arelkair/wiiparty-recomp](https://github.com/arelkair/wiiparty-recomp) — *Static recompilation.*
 - **Wii Play** — [akiramusic000/Rhae](https://github.com/akiramusic000/Rhae)
 - **Wii Sports** — [doldecomp/ogws](https://github.com/doldecomp/ogws)
+- **Wii Sports Resort** — [frootloops-1/SlopSportsResort](https://github.com/frootloops-1/SlopSportsResort)
 - **World of Goo** — [Fancy2209/wog-wiiware](https://github.com/Fancy2209/wog-wiiware)
+- **WWE '12 (PS Vita)** — [Arfatnaik0/CLN-WWE-12-psvita](https://github.com/Arfatnaik0/CLN-WWE-12-psvita) — *Static recompilation.*
 - **Xenoblade** — [xbret/xenoblade](https://github.com/xbret/xenoblade)
 
 ## Wii U
@@ -1025,7 +1034,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Nintendo Switch
 
-111 projects
+118 projects
 
 - **Animal Crossing: New Horizons (ACNHRecomp)** — [Nycolazs/ACNHRecomp](https://github.com/Nycolazs/ACNHRecomp) — *Static recompilation.*
 - **Astral Chain** — [captainj-sparrow/astral-chain-pc-recomp](https://github.com/captainj-sparrow/astral-chain-pc-recomp) — *Static recompilation.*
@@ -1042,6 +1051,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Diablo II: Resurrected (d2r-mobile)** — [d2r-mobile/d2r-mobile](https://github.com/d2r-mobile/d2r-mobile) — *Port.*
 - **Diablo III (Android port)** — [Desm0nt/diablo3-port](https://github.com/Desm0nt/diablo3-port) — *Port.*
 - **Fire Emblem Engage** — [xgc1986/engage-pc-recomp](https://github.com/xgc1986/engage-pc-recomp) — *Static recompilation.*
+- **Fire Emblem Engage (imalti0r)** — [imalti0r/engage-pc-recomp](https://github.com/imalti0r/engage-pc-recomp) — *Static recompilation.*
 - **Fire Emblem Warriors (fefw)** — [vexcited/fefw](https://github.com/vexcited/fefw)
 - **Fire Emblem: Fortune's Weave (decomp)** — [vexcited/FireEmblemFortunesWeave](https://github.com/vexcited/FireEmblemFortunesWeave)
 - **Fire Emblem: Fortune's Weave (fefw-recomp)** — [Goldoire/fefw-recomp](https://github.com/Goldoire/fefw-recomp) — *Static recompilation.*
@@ -1051,12 +1061,15 @@ A game that shipped on several machines is listed under the version the reposito
 - **The Legend of Zelda: Breath of the Wild** — [zeldaret/botw](https://github.com/zeldaret/botw) — *Wii U and Switch.*
 - **The Legend of Zelda: Breath of the Wild (Android)** — [mamcjr/BOTWRecompAndroid](https://github.com/mamcjr/BOTWRecompAndroid) — *Static recompilation.*
 - **The Legend of Zelda: Breath of the Wild (SavageWindRecomp)** — [Revivedx/SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp) — *Static recompilation.*
+- **The Legend of Zelda: Breath of the Wild (VR)** — [guideahon/BOTW-VR-RECOMP](https://github.com/guideahon/BOTW-VR-RECOMP) — *Port.*
 - **The Legend of Zelda: Echoes of Wisdom** — [Nycolazs/EoWRecomp](https://github.com/Nycolazs/EoWRecomp) — *Static recompilation.*
+- **The Legend of Zelda: Link's Awakening (969981)** — [969981/LASRecomp](https://github.com/969981/LASRecomp) — *Static recompilation.*
 - **The Legend of Zelda: Link's Awakening (LAS Recomp)** — [peiikai/LASRecomp](https://github.com/peiikai/LASRecomp) — *Static recompilation.*
 - **The Legend of Zelda: Link's Awakening (ZLAA, Android)** — [timbo722/ZLAA](https://github.com/timbo722/ZLAA) — *Static recompilation.*
 - **The Legend of Zelda: Ocarina of Time (Switch 2 remake, Hookshot)** — [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) — *Static recompilation.*
 - **The Legend of Zelda: Ocarina of Time (Switch 2, echora)** — [Mars7x/echora](https://github.com/Mars7x/echora) — *Static recompilation.*
 - **The Legend of Zelda: Ocarina of Time (Switch 2, jabroni1kanobi)** — [jabroni1kanobi/ocarina-of-time-recomp](https://github.com/jabroni1kanobi/ocarina-of-time-recomp) — *Static recompilation.*
+- **The Legend of Zelda: Ocarina of Time (Switch 2, Longshot)** — [Recomper/Longshot](https://github.com/Recomper/Longshot) — *Static recompilation.*
 - **The Legend of Zelda: Ocarina of Time (Switch 2, NX2Navi)** — [ZuanCrisp/NX2Navi-Zelda-OOT-Port](https://github.com/ZuanCrisp/NX2Navi-Zelda-OOT-Port) — *Static recompilation.*
 - **The Legend of Zelda: Ocarina of Time (Switch 2, Ocarune)** — [TechHookDev/Ocarune](https://github.com/TechHookDev/Ocarune) — *Static recompilation.*
 - **The Legend of Zelda: Ocarina of Time (Switch 2, oot-pc-recomp)** — [Chiuauaa/oot-pc-recomp](https://github.com/Chiuauaa/oot-pc-recomp) — *Static recompilation.*
@@ -1065,11 +1078,13 @@ A game that shipped on several machines is listed under the version the reposito
 - **The Legend of Zelda: Ocarina of Time (Switch 2, sw2re)** — [polaco1782/sw2re](https://github.com/polaco1782/sw2re) — *Static recompilation.*
 - **The Legend of Zelda: Ocarina of Time (Switch 2, Zelda-OOT-Port)** — [ZuanCrisp/Zelda-OOT-Port](https://github.com/ZuanCrisp/Zelda-OOT-Port) — *Static recompilation.*
 - **The Legend of Zelda: Skyward Sword HD (Sky Recomp)** — [Apolinario-coder/SkyRecomp](https://github.com/Apolinario-coder/SkyRecomp) — *Static recompilation.*
+- **The Legend of Zelda: Skyward Sword HD (SkyRecomp-Android)** — [printfFriendo/SkyRecomp-Android](https://github.com/printfFriendo/SkyRecomp-Android) — *Static recompilation.*
 - **The Legend of Zelda: Tears of the Kingdom (PS4)** — [iHaiDeeZ/TOTK-PS4](https://github.com/iHaiDeeZ/TOTK-PS4) — *Static recompilation.*
 - **The Legend of Zelda: Tears of the Kingdom (TotK Native, Android)** — [AurelioB/totk-android](https://github.com/AurelioB/totk-android) — *Port.*
 - **The Legend of Zelda: Tears of the Kingdom (totk-pc-recomp)** — [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) — *Static recompilation.*
 - **The Legend of Zelda: Tears of the Kingdom (totk-recomp, Linux/Steam Deck)** — [Muhammad1259-sigma/totk-recomp](https://github.com/Muhammad1259-sigma/totk-recomp) — *Static recompilation.*
 - **The Legend of Zelda: Tears of the Kingdom (ultratears)** — [kuraeow/ultratears](https://github.com/kuraeow/ultratears) — *Static recompilation.*
+- **The Legend of Zelda: Tears of the Kingdom (VR)** — [guideahon/TOTK-VR-RECOMP](https://github.com/guideahon/TOTK-VR-RECOMP) — *Port.*
 - **The Legend of Zelda: Tears of the Kingdom (Weeping of the Empire)** — [daniel-madrid-07/weeping-of-the-empire](https://github.com/daniel-madrid-07/weeping-of-the-empire) — *Static recompilation.*
 - **The Legend of Zelda: Tears of the Kingdom (Zelda-TOTK-Port)** — [ZuanCrisp/Zelda-TOTK-Port](https://github.com/ZuanCrisp/Zelda-TOTK-Port) — *Static recompilation.*
 - **Link's Awakening (Switch)** — [Owen-Splat/las-decomp](https://github.com/Owen-Splat/las-decomp)
@@ -1120,6 +1135,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Super Mario Maker 2 (MushroomMakerRecomp)** — [Apolinario-coder/MushroomMakerRecomp](https://github.com/Apolinario-coder/MushroomMakerRecomp) — *Static recompilation.*
 - **Super Mario Odyssey** — [MonsterDruide1/OdysseyDecomp](https://github.com/MonsterDruide1/OdysseyDecomp)
 - **Super Mario Odyssey** — [Coz-0/smo-recomp](https://github.com/Coz-0/smo-recomp) — *Static recompilation.*
+- **Super Mario Odyssey (OdysseyRecomp)** — [rwwo8/OdysseyRecomp](https://github.com/rwwo8/OdysseyRecomp) — *Static recompilation.*
 - **Super Mario Odyssey (Quest VR, Project Plumb)** — [2whitelol/project-plumb-vr](https://github.com/2whitelol/project-plumb-vr) — *Port.*
 - **Super Mario Odyssey 1.0.0** — [odyssey-modding/odyssey](https://github.com/odyssey-modding/odyssey) — *Inactive or archived.*
 - **Super Smash Bros. Ultimate** — [sbergeron42/ssbu-decomp](https://github.com/sbergeron42/ssbu-decomp)
@@ -1491,12 +1507,13 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Nintendo 3DS
 
-31 projects
+32 projects
 
 - **3DS games for Linux handhelds (pocket-native)** — [whovian64/pocket-native](https://github.com/whovian64/pocket-native) — *Static recompilation.*
 - **Animal Crossing: New Leaf** — [AlgebraManiacABC/acnlwa-decomp](https://github.com/AlgebraManiacABC/acnlwa-decomp)
 - **Animal Crossing: New Leaf - Welcome amiibo** — [RedShyGuy/acnl-decomp](https://github.com/RedShyGuy/acnl-decomp)
 - **Dragon Ball Z: Extreme Butōden (ExtremeFighters)** — [kensaiken/ExtremeFighters](https://github.com/kensaiken/ExtremeFighters) — *Static recompilation.*
+- **Dragon Quest Monsters: Joker 3** — [YggdrasziI/dqmj3-decomp](https://github.com/YggdrasziI/dqmj3-decomp)
 - **Ikachan** — [hax0kartik/ikachan](https://github.com/hax0kartik/ikachan)
 - **The Legend of Zelda: A Link Between Worlds** — [7akeem0/albw-decomp-ai](https://github.com/7akeem0/albw-decomp-ai)
 - **The Legend of Zelda: Majora's Mask 3D (mm3d-dekui)** — [tgacquin/mm3d-dekui](https://github.com/tgacquin/mm3d-dekui) — *Port.*
@@ -1664,7 +1681,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## PlayStation
 
-302 projects
+306 projects
 
 - **Ace Combat 3** — [sal063/Ace-Combat-3-static-recompilation](https://github.com/sal063/Ace-Combat-3-static-recompilation)
 - **Ace Combat 3: Electrosphere** — [alexbeavs-ps1-ports/ace-combat-3-electrosphere-usa-recomp](https://github.com/alexbeavs-ps1-ports/ace-combat-3-electrosphere-usa-recomp)
@@ -1708,6 +1725,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Bubsy 3D - Furbitten Planet** — [EiscremeWaffle/bubsy3d-decomp](https://github.com/EiscremeWaffle/bubsy3d-decomp)
 - **Bugs Bunny: Lost in Time!** — [quantumdude836/BugsDecomp](https://github.com/quantumdude836/BugsDecomp)
 - **Bushido Blade 2** — [alexbeavs-ps1-ports/bushido-blade-2-recomp](https://github.com/alexbeavs-ps1-ports/bushido-blade-2-recomp) — *Static recompilation.*
+- **C-12: Final Resistance** — [spartaque12/c12-recomp](https://github.com/spartaque12/c12-recomp) — *Static recompilation.*
 - **Castlevania Chronicles** — [Spicywonda/castlevania-chronicles-recomp](https://github.com/Spicywonda/castlevania-chronicles-recomp)
 - **Castlevania: Symphony of the Night** — [xeeynamo/sotn-decomp](https://github.com/xeeynamo/sotn-decomp)
 - **Castlevania: Symphony of the Night (NocturneRecomp)** — [birabittoh/NocturneRecomp](https://github.com/birabittoh/NocturneRecomp)
@@ -1761,6 +1779,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Dragon Valor** — [victor-takai/dragon-valor-recomp](https://github.com/victor-takai/dragon-valor-recomp) — *Static recompilation.*
 - **Driver** — [alexbeavs-ps1-ports/driver-recomp](https://github.com/alexbeavs-ps1-ports/driver-recomp) — *Static recompilation.*
 - **Driver 2** — [OpenDriver2/REDRIVER2](https://github.com/OpenDriver2/REDRIVER2)
+- **Driver 2 (N64)** — [Sunshinin11/Driver-2-N64](https://github.com/Sunshinin11/Driver-2-N64) — *Port.*
 - **Driver: You Are the Wheelman** — [olink9/driver1-decomp](https://github.com/olink9/driver1-decomp)
 - **Earthworm Jim 2 (Earthworm Jim 2 Recompiled)** — [elprogramadorloco-arch/jim2-recomp](https://github.com/elprogramadorloco-arch/jim2-recomp) — *Static recompilation.*
 - **Einhänder** — [strider973/Einhander-Recompiled](https://github.com/strider973/Einhander-Recompiled)
@@ -1876,6 +1895,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Ridge Racer** — [kazuyette/rr-decomp](https://github.com/kazuyette/rr-decomp)
 - **Ridge Racer** — [kazuyette/rr-pc-port](https://github.com/kazuyette/rr-pc-port) — *Port.*
 - **Ridge Racer Type 4 (decomp)** — [khasinski/ridge-racer-type-4-decomp](https://github.com/khasinski/ridge-racer-type-4-decomp)
+- **Road Rash: Jailbreak** — [Hotwire114/jailbreak-recomp](https://github.com/Hotwire114/jailbreak-recomp) — *Static recompilation.*
 - **Rockman Dash** — [Rainchus/RockmanDash-Recompiled](https://github.com/Rainchus/RockmanDash-Recompiled) — *Static recompilation.*
 - **Roll Away** — [Bitsandbreakpoints/roll-away-psx-pc-recomp](https://github.com/Bitsandbreakpoints/roll-away-psx-pc-recomp) — *Static recompilation.*
 - **Samurai Shodown: Warriors Rage** — [omegakatana92/Samuai-Shodown-Warriors-Rage-Recomp](https://github.com/omegakatana92/Samuai-Shodown-Warriors-Rage-Recomp) — *Static recompilation.*
@@ -1928,6 +1948,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Tony Hawk's Pro Skater (PS Vita)** — [DarthSully/Tony-Hawk-Slop-Skater](https://github.com/DarthSully/Tony-Hawk-Slop-Skater) — *Port.*
 - **Tony Hawk's Pro Skater (Tony Was A Pro Skater)** — [LANCommander/TonyWasAProSkater](https://github.com/LANCommander/TonyWasAProSkater)
 - **Tony Hawk's Pro Skater 2 Demo** — [emoluvjd2/thps2-demo-decomp](https://github.com/emoluvjd2/thps2-demo-decomp)
+- **Torneko: The Last Hope** — [darkuni/Torneko-recomp](https://github.com/darkuni/Torneko-recomp) — *Static recompilation.*
 - **Toy Story 2** — [0danny/toy2-decomp](https://github.com/0danny/toy2-decomp)
 - **ToyStory2** — [PeriBluGaming/ToyStory2Recomp](https://github.com/PeriBluGaming/ToyStory2Recomp) — *Static recompilation.*
 - **TwinBee PARADISE in Donburi Shima** — [Jhuyghue/donburi-decomp](https://github.com/Jhuyghue/donburi-decomp)
@@ -1971,19 +1992,23 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## PlayStation 2
 
-217 projects
+227 projects
 
 - **.hack//IMOQ** ✦ — [dothacktranslate/dothack-decompilation](https://github.com/dothacktranslate/dothack-decompilation)
 - **.hack//Infection (Recompilation)** — [dothacktranslate/dothack-recompilation](https://github.com/dothacktranslate/dothack-recompilation) — *Static recompilation.*
 - **Ace Combat 5: The Unsung War** — [sal063/Ace-Combat-5-Static-recompilation](https://github.com/sal063/Ace-Combat-5-Static-recompilation)
+- **AirBlade (decomp)** — [Xive080/project-blade-decomp](https://github.com/Xive080/project-blade-decomp)
+- **AirBlade (recomp)** — [Xive080/project-blade-recomp](https://github.com/Xive080/project-blade-recomp) — *Static recompilation.*
 - **Amplitude** — [ieee802dot11ac/amp](https://github.com/ieee802dot11ac/amp)
 - **Ar tonelico II: Melody of Metafalica** ✦ — [USED255/artonelico2-decomp](https://github.com/USED255/artonelico2-decomp)
 - **Baroque** — [Arch61s/Baroque-Decomp](https://github.com/Arch61s/Baroque-Decomp)
 - **Battle Stadium D.O.N** — [dvilelaf/battlestadium-don](https://github.com/dvilelaf/battlestadium-don) — *Static recompilation.*
+- **Ben 10: Protector of Earth (PS2)** — [aitorcachero/Ben10-Recomp](https://github.com/aitorcachero/Ben10-Recomp) — *Static recompilation.*
 - **Biohazard Outbreak / Biohazard Outbreak File 2** — [GalaxyNostalgia/Outbreak-decomp](https://github.com/GalaxyNostalgia/Outbreak-decomp)
 - **Bounce** — [misterjdrg/Bouncer](https://github.com/misterjdrg/Bouncer)
 - **Burnout 3: Takedown (Burn3)** — [UwUCammie/Burn3](https://github.com/UwUCammie/Burn3) — *Static recompilation.*
 - **Burnout 3: Takedown (Burnout 3: Takedown - PC port)** — [danielgomesvieira2000/burnout3-pc](https://github.com/danielgomesvieira2000/burnout3-pc) — *Port.*
+- **Burnout 3: Takedown (retail decomp)** — [u0rhs/burnout3-retail-decomp](https://github.com/u0rhs/burnout3-retail-decomp)
 - **Burnout Dominator** — [literalynn/BurnoutDominatorReversed](https://github.com/literalynn/BurnoutDominatorReversed) — *Static recompilation.*
 - **Call of Duty 2: Big Red One** — [SmokeDoggy044/CoD2-BRO-Decomp](https://github.com/SmokeDoggy044/CoD2-BRO-Decomp)
 - **Cartoon Network Racing** — [TekRantGaming/cartoon-network-racing-recompiled](https://github.com/TekRantGaming/cartoon-network-racing-recompiled) — *Static recompilation.*
@@ -1993,6 +2018,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Crash Bandicoot: The Wrath of Cortex** — [calmsacibis995/crash-ps2](https://github.com/calmsacibis995/crash-ps2)
 - **Crash Bandicoot: The Wrath of Cortex (PS2)** — [denzi-gh/crashwoc-decomp-ps2](https://github.com/denzi-gh/crashwoc-decomp-ps2)
 - **Crash Tag Team Racing** — [bluisblu/cttr](https://github.com/bluisblu/cttr)
+- **Crash Tag Team Racing (Miguel0827)** — [Miguel0827/Crash-Tag-Team-Racing-PC](https://github.com/Miguel0827/Crash-Tag-Team-Racing-PC) — *Static recompilation.*
 - **Crash Twinsanity** — [menaman123/Ps2Recomp](https://github.com/menaman123/Ps2Recomp)
 - **Crash Twinsanity** — [GioPixelGH/Crash-Twinsanity-Windows](https://github.com/GioPixelGH/Crash-Twinsanity-Windows)
 - **Crash Twinsanity** — [menaman123/NativeEE](https://github.com/menaman123/NativeEE) — *Static recompilation.*
@@ -2047,6 +2073,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Grand Theft Auto: Vice City Stories** — [gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp) — *Static recompilation.*
 - **Grandia III** — [GranasSabre/Grandia3-PC](https://github.com/GranasSabre/Grandia3-PC) — *Static recompilation.*
 - **Guilty Gear X Plus** — [WistfulHopes/ggx](https://github.com/WistfulHopes/ggx)
+- **Guitar Hero II (GH2Recomp)** — [Diegots123/GH2Recomp-GHDS](https://github.com/Diegots123/GH2Recomp-GHDS) — *Static recompilation.*
 - **Guitar Hero II (GHClassic)** — [noahbaxter/GHClassic](https://github.com/noahbaxter/GHClassic) — *Static recompilation.*
 - **Haunting Ground** — [N900x4/HauntingGround-Recomp-Project](https://github.com/N900x4/HauntingGround-Recomp-Project) — *Static recompilation.*
 - **Haunting Ground (OpenHuey)** — [ArnautDaniel/OpenHuey](https://github.com/ArnautDaniel/OpenHuey)
@@ -2076,6 +2103,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Monster Hunter 2 (Dos)** — [Batenkaitos-dev/mh2-decomp](https://github.com/Batenkaitos-dev/mh2-decomp)
 - **Mortal Kombat: Deception** — [ShulkMaster/mk-deception](https://github.com/ShulkMaster/mk-deception)
 - **The Nightmare Before Christmas: Oogie's Revenge** — [Pallypots/ProjectOogie](https://github.com/Pallypots/ProjectOogie) — *Static recompilation.*
+- **The Nightmare of Druaga** — [darkuni/nightmare-druaga-recomp](https://github.com/darkuni/nightmare-druaga-recomp) — *Static recompilation.*
 - **Nocturne** — [NearlyTRex/NocturneDecomp](https://github.com/NearlyTRex/NocturneDecomp)
 - **Over the Hedge** ✦ — [dantekall/Over-The-Hedge---Decompilation](https://github.com/dantekall/Over-The-Hedge---Decompilation)
 - **PaRappa the Rapper 2** — [parappadev/parappa2](https://github.com/parappadev/parappa2)
@@ -2129,6 +2157,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Shadow of the Colossus (Recomp)** — [InconspicuousCactus/SotCStaticRecompilation](https://github.com/InconspicuousCactus/SotCStaticRecompilation)
 - **Shadow the Hedgehog** — [nicolasserpa/shadow-the-hedgehog-recomp](https://github.com/nicolasserpa/shadow-the-hedgehog-recomp) — *Static recompilation.*
 - **Shaun Palmer's Pro Snowboarder** — [Daniel-McCarthy/SPPS](https://github.com/Daniel-McCarthy/SPPS)
+- **Shin Megami Tensei: Devil Summoner: Raidou Kuzunoha vs. the Soulless Army / King Abaddon** — [Megami-Decomps/raidou-decomp](https://github.com/Megami-Decomps/raidou-decomp)
 - **Shin Megami Tensei: Digital Devil Saga** — [Megami-Decomps/dds-decomp](https://github.com/Megami-Decomps/dds-decomp)
 - **Silent Hill 2** — [dreamingmoths/mirror-of-alessa](https://github.com/dreamingmoths/mirror-of-alessa)
 - **Silent Hill 2 (sh2-nx)** — [cutarev/sh2-nx](https://github.com/cutarev/sh2-nx) — *Static recompilation.*
@@ -2176,6 +2205,8 @@ A game that shipped on several machines is listed under the version the reposito
 - **Twisted Metal: Harbor City** — [jacobleeharris/tmhc](https://github.com/jacobleeharris/tmhc)
 - **Ty the Tasmanian Tiger** — [1superchip/ty-decomp](https://github.com/1superchip/ty-decomp)
 - **Urban Reign** — [thiagordsfx/urban-reign-recomp](https://github.com/thiagordsfx/urban-reign-recomp) — *Static recompilation.*
+- **Vampire Night (decomp)** — [Xive080/project-stake-decomp](https://github.com/Xive080/project-stake-decomp)
+- **Vampire Night (recomp)** — [Xive080/project-stake-recomp](https://github.com/Xive080/project-stake-recomp) — *Static recompilation.*
 - **War of the Monsters** — [yanm1103/War_of_the_Monsters_recomp](https://github.com/yanm1103/War_of_the_Monsters_recomp) — *Static recompilation.*
 - **Way of the Samurai 2** — [acklavidian/decomp_wots2](https://github.com/acklavidian/decomp_wots2)
 - **WWE SmackDown! Here Comes the Pain** — [BigDaddyJRich/hctp-recomp](https://github.com/BigDaddyJRich/hctp-recomp) — *Static recompilation.*
@@ -2193,7 +2224,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## PlayStation 3
 
-50 projects
+54 projects
 
 - **Armored Core 4 (AC4-Port)** — [SulphurS16/AC4-Port](https://github.com/SulphurS16/AC4-Port) — *Port.*
 - **Armored Core: For Answer (ACFA-Port)** — [SulphurS16/ACFA-Port](https://github.com/SulphurS16/ACFA-Port) — *Port.*
@@ -2217,8 +2248,10 @@ A game that shipped on several machines is listed under the version the reposito
 - **God of War: Ascension (YJuDeAd)** — [YJuDeAd/gow-ascension-pc-port](https://github.com/YJuDeAd/gow-ascension-pc-port) — *Static recompilation.*
 - **Gran Turismo 5 Prologue** — [sp00nznet/GT5P](https://github.com/sp00nznet/GT5P) — *Static recompilation.*
 - **Gran Turismo 5 Prologue (Tourline Prologue)** — [mathewdouglas/Tourline-Prologue](https://github.com/mathewdouglas/Tourline-Prologue) — *Static recompilation.*
+- **Grand Theft Auto: San Andreas** — [Noext/gta-sa-port](https://github.com/Noext/gta-sa-port) — *Static recompilation.*
 - **Haze** — [zdiemer/haze-recomp](https://github.com/zdiemer/haze-recomp) — *Static recompilation.*
 - **Imabikisou** — [yasindevs/imabikisou-pc](https://github.com/yasindevs/imabikisou-pc) — *Static recompilation.*
+- **inFAMOUS (infamous1-recomp)** — [erikomis/infamous1-recomp](https://github.com/erikomis/infamous1-recomp) — *Static recompilation.*
 - **inFamous (inFAMOUSreborn)** — [whompay/inFAMOUSreborn](https://github.com/whompay/inFAMOUSreborn) — *Static recompilation.*
 - **inFAMOUS 2 (infamous-2-recomp)** — [markers12312312/infamous-2-recomp](https://github.com/markers12312312/infamous-2-recomp) — *Static recompilation.*
 - **inFAMOUS 2 (infamous2-pc)** — [ThiagoFraga761/infamous2-pc](https://github.com/ThiagoFraga761/infamous2-pc) — *Static recompilation.*
@@ -2229,10 +2262,12 @@ A game that shipped on several machines is listed under the version the reposito
 - **Killzone 2 (Project Pyrrhus)** — [undecuple/project-pyrrhus](https://github.com/undecuple/project-pyrrhus) — *Static recompilation.*
 - **Killzone 3 (Project Helghast)** — [undecuple/project-helghast](https://github.com/undecuple/project-helghast) — *Static recompilation.*
 - **Let's Make a Soccer Club! (Saka Tsuku)** — [PrimeTimerer/Make-Soccer-Club-Game-Project](https://github.com/PrimeTimerer/Make-Soccer-Club-Game-Project) — *Static recompilation.*
+- **Minecraft: PlayStation 3 Edition** — [Noext/mc-ps3-port](https://github.com/Noext/mc-ps3-port) — *Static recompilation.*
 - **MotorStorm: Pacific Rift** — [OddTrie/MotorstormPCificRift](https://github.com/OddTrie/MotorstormPCificRift) — *Static recompilation.*
 - **NHL Legacy Edition** — [csrpfivem/PS3NHLLegacyRecomp](https://github.com/csrpfivem/PS3NHLLegacyRecomp) — *Static recompilation.*
 - **Ratchet & Clank Future: Tools of Destruction (ratchet-tod-recomp)** — [Re-TeRo17/ratchet-tod-recomp](https://github.com/Re-TeRo17/ratchet-tod-recomp) — *Static recompilation.*
 - **Ratchet & Clank: A Crack in Time (RACiT)** — [HighDrexler/RACiT](https://github.com/HighDrexler/RACiT) — *Static recompilation.*
+- **Ratchet & Clank: Into the Nexus** — [vagenam/nexus-recomp](https://github.com/vagenam/nexus-recomp) — *Static recompilation.*
 - **Resident Evil Code: Veronica X HD** — [kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC](https://github.com/kastieloficial/RE-Code-Veronica-PS3-HD-Recomp-PC) — *Static recompilation.*
 - **Resistance 3** — [miroslavdanutalexandru-alt/Resistance3Port](https://github.com/miroslavdanutalexandru-alt/Resistance3Port) — *Static recompilation.*
 - **Sengoku Basara 4 Sumeragi** — [razzconnect/basara4-native-pc](https://github.com/razzconnect/basara4-native-pc) — *Static recompilation.*
@@ -2351,7 +2386,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Xbox
 
-158 projects
+163 projects
 
 - **007: Agent Under Fire (XBE Recomp)** — [hk21x/007-agentunderfire-recomp](https://github.com/hk21x/007-agentunderfire-recomp) — *Static recompilation.*
 - **007: Everything or Nothing (XBE Recomp)** — [hk21x/007eon-recomp](https://github.com/hk21x/007eon-recomp) — *Static recompilation.*
@@ -2359,6 +2394,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **007: Nightfire** — [stefredcore/Nightfire-Recomp](https://github.com/stefredcore/Nightfire-Recomp) — *Static recompilation.*
 - **007: NightFire (remastered fork)** — [papand7/nightfire-recomp](https://github.com/papand7/nightfire-recomp) — *Static recompilation.*
 - **Amped 2** — [bertibertig/Amped2-Recomp](https://github.com/bertibertig/Amped2-Recomp) — *Static recompilation.*
+- **Batman Begins** — [christiansmmc/BatmanBeginsRecomp](https://github.com/christiansmmc/BatmanBeginsRecomp) — *Static recompilation.*
 - **Black** — [portingpete/Black-2006-Recomp](https://github.com/portingpete/Black-2006-Recomp) — *Static recompilation.*
 - **Black (Android, Black-Continue)** — [UnknuwProjects/Black-Continue](https://github.com/UnknuwProjects/Black-Continue) — *Static recompilation.*
 - **Black (Android, RanggaCasper)** — [RanggaCasper/Black-Android](https://github.com/RanggaCasper/Black-Android) — *Static recompilation.*
@@ -2385,6 +2421,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Castlevania: Curse of Darkness** — [Neguchads/Castlevania-COD-Recomp](https://github.com/Neguchads/Castlevania-COD-Recomp) — *Static recompilation.*
 - **Codename: Kids Next Door – Operation: V.I.D.E.O.G.A.M.E.** — [Pallypots/Kids-Next-Door-D.E.C.O.M.P.](https://github.com/Pallypots/Kids-Next-Door-D.E.C.O.M.P.)
 - **Colin McRae Rally 2005** — [projectedan/McRae05-XBE-Recomp](https://github.com/projectedan/McRae05-XBE-Recomp) — *Static recompilation.*
+- **Conflict: Global Terror** — [PotatoRecomp/CGT-XBERecomp](https://github.com/PotatoRecomp/CGT-XBERecomp) — *Static recompilation.*
 - **Conker: Live & Reloaded (Android)** — [codepdbh/conker-android-evolved](https://github.com/codepdbh/conker-android-evolved) — *Static recompilation.*
 - **Conker: Live & Reloaded (cdetv)** — [cdetv/conker-live-recompiled](https://github.com/cdetv/conker-live-recompiled) — *Static recompilation.*
 - **Conker: Live & Reloaded (conker-lr-recomp)** — [rashevskyv/conker-lr-recomp](https://github.com/rashevskyv/conker-lr-recomp) — *Static recompilation.*
@@ -2411,6 +2448,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Futurama** — [hiburn8/Futurama-The-Game-The-Recomp](https://github.com/hiburn8/Futurama-The-Game-The-Recomp) — *Static recompilation.*
 - **Genma Onimusha** — [rafaelkenedy/genma-recomp](https://github.com/rafaelkenedy/genma-recomp) — *Static recompilation.*
 - **The Godfather (Switch)** — [CYBERPUNK20/godfather-nx](https://github.com/CYBERPUNK20/godfather-nx) — *Static recompilation.*
+- **Godzilla: Save the Earth** — [JLAgamer/Godzilla-Save-the-Earth-Xbox-static-recompilation](https://github.com/JLAgamer/Godzilla-Save-the-Earth-Xbox-static-recompilation) — *Static recompilation.*
 - **Grabbed by the Ghoulies** — [SeveerJ/Ghoulies_PC_Recomp](https://github.com/SeveerJ/Ghoulies_PC_Recomp) — *Static recompilation.*
 - **Grabbed by the Ghoulies (kingzmanh)** — [kingzmanh/grabbed-by-the-ghoulies-pc](https://github.com/kingzmanh/grabbed-by-the-ghoulies-pc) — *Static recompilation.*
 - **Gunmetal** — [dingusdev/gunmetal-decomp](https://github.com/dingusdev/gunmetal-decomp)
@@ -2435,6 +2473,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Jet Set Radio Future (Jet Set Radio Future Unleashed)** — [JuMatt/JetSetRadioFuture-Unleashed](https://github.com/JuMatt/JetSetRadioFuture-Unleashed) — *Port.*
 - **Jet Set Radio Future (JSRF-Recomp)** — [Miggas/JSRF-Recomp](https://github.com/Miggas/JSRF-Recomp) — *Static recompilation.*
 - **Jet Set Radio Future (Recomp)** — [andeecollard/jsrf-recomp](https://github.com/andeecollard/jsrf-recomp)
+- **Jet Set Radio Future (Xbox 360)** — [EduDicaseGameplay/JetSetRadioFuture-X360](https://github.com/EduDicaseGameplay/JetSetRadioFuture-X360) — *Static recompilation.*
 - **Juiced (Android)** — [Ihor-Ihorevych/JuicedRecomp](https://github.com/Ihor-Ihorevych/JuicedRecomp) — *Static recompilation.*
 - **Links 2004** — [cgpartlow/Links2004-XBERecomp](https://github.com/cgpartlow/Links2004-XBERecomp) — *Static recompilation.*
 - **The Lord of the Rings: The Two Towers** — [Gumpolas/TooTawersRecomp](https://github.com/Gumpolas/TooTawersRecomp) — *Static recompilation.*
@@ -2482,6 +2521,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Spider-Man (2002)** — [xdivorex-gif/spiderman-2002-pc](https://github.com/xdivorex-gif/spiderman-2002-pc) — *Static recompilation.*
 - **Spider-Man 2** — [SirSymo/SM2-Recomp](https://github.com/SirSymo/SM2-Recomp) — *Static recompilation.*
 - **Spider-Man 2 (Switch)** — [SantiBros/SpiderMan2-2004-NX](https://github.com/SantiBros/SpiderMan2-2004-NX) — *Static recompilation.*
+- **Splinter Cell: Chaos Theory (Switch)** — [itouchdennis/scct-nx](https://github.com/itouchdennis/scct-nx) — *Static recompilation.*
 - **SSX 3** — [koenhendriks/SSX3-recomp](https://github.com/koenhendriks/SSX3-recomp) — *Static recompilation.*
 - **SSX 3** — [bertibertig/SSX3-Recomp](https://github.com/bertibertig/SSX3-Recomp) — *Static recompilation.*
 - **SSX Tricky** — [GiZcesi/OpenTricky](https://github.com/GiZcesi/OpenTricky) — *Static recompilation.*
@@ -2514,7 +2554,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Xbox 360
 
-402 projects
+411 projects
 
 - **11eyes CrossOver** — [ThePlayer14/project-eleven-recomp](https://github.com/ThePlayer14/project-eleven-recomp) — *Static recompilation.*
 - **2014 FIFA World Cup Brazil** — [HossEz/fifa-world-cup-2014-recompiled](https://github.com/HossEz/fifa-world-cup-2014-recompiled) — *Static recompilation.*
@@ -2567,6 +2607,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Call of Duty: Black Ops (bo1-zombies-decompiled)** — [MisaDev4/bo1-zombies-decompiled](https://github.com/MisaDev4/bo1-zombies-decompiled)
 - **Call of Duty: Black Ops II** — [officialmelon/bo2-recompiled](https://github.com/officialmelon/bo2-recompiled) — *Static recompilation.*
 - **Call of Duty: Black Ops II (Switch)** — [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) — *Static recompilation.*
+- **Call of Duty: Black Ops III** — [arieco57/bo3-recomp](https://github.com/arieco57/bo3-recomp) — *Static recompilation.*
 - **Call of Duty: Future Warfare** — [goshavindtburg/NX1recomp](https://github.com/goshavindtburg/NX1recomp)
 - **Call of Duty: Modern Warfare 2** — [PaulCombal/mw2-recompiled](https://github.com/PaulCombal/mw2-recompiled)
 - **Call of Duty: Modern Warfare 2 (Switch)** — [GreenieSparkles/COD6-NX](https://github.com/GreenieSparkles/COD6-NX) — *Static recompilation.*
@@ -2574,6 +2615,8 @@ A game that shipped on several machines is listed under the version the reposito
 - **Cars Race-O-Rama** — [m1ndcrap/Cars-Race-O-Rama-Recompiled](https://github.com/m1ndcrap/Cars-Race-O-Rama-Recompiled) — *Static recompilation.*
 - **Castlevania: Harmony of Despair** — [BLSNCVS/Castlevania-Harmony-of-Despair-Recomp](https://github.com/BLSNCVS/Castlevania-Harmony-of-Despair-Recomp) — *Static recompilation.*
 - **Civilization Revolution** — [ReRevvedRecomp/rerevved](https://github.com/ReRevvedRecomp/rerevved) — *Static recompilation.*
+- **Comic Jumper** — [nathanialf/comic-jumper](https://github.com/nathanialf/comic-jumper)
+- **Comic Jumper: The Adventures of Captain Smiley** — [thefixinhixon/ComicJumperRecomp](https://github.com/thefixinhixon/ComicJumperRecomp) — *Static recompilation.*
 - **Comix Zone (XBLA)** — [sp00nznet/comixzone](https://github.com/sp00nznet/comixzone) — *Static recompilation.*
 - **Conan** — [crazyriddler/Conan2007Recomp](https://github.com/crazyriddler/Conan2007Recomp) — *Static recompilation.*
 - **Condemned 2: Bloodshot** — [psxrestore/Condemned2Recomp](https://github.com/psxrestore/Condemned2Recomp)
@@ -2635,6 +2678,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Fallout: New Vegas (Nintendo Switch)** — [CypherNoodle/FNV-nx](https://github.com/CypherNoodle/FNV-nx) — *Static recompilation.*
 - **The Fancy Pants Adventures** — [elripalda/adventure-pants-recomp](https://github.com/elripalda/adventure-pants-recomp) — *Static recompilation.*
 - **Far Cry 3 (Nintendo Switch)** — [barbaruiva25/fc3-nx](https://github.com/barbaruiva25/fc3-nx) — *Static recompilation.*
+- **Far Cry Instincts: Predator** — [bugcoder00/FarCryInstinctsPredatorRecomp](https://github.com/bugcoder00/FarCryInstinctsPredatorRecomp) — *Static recompilation.*
 - **FIFA 09** — [ChunchunQ/fifa09-recomp](https://github.com/ChunchunQ/fifa09-recomp) — *Static recompilation.*
 - **FIFA Street** — [samuelit0davila/fifa-street-pc-port](https://github.com/samuelit0davila/fifa-street-pc-port) — *Port.*
 - **Fight Night Champion** — [whompay/FNCReborn](https://github.com/whompay/FNCReborn)
@@ -2649,6 +2693,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Forza Horizon 2** — [Gabrick75/fh2-recompiled](https://github.com/Gabrick75/fh2-recompiled) — *Static recompilation.*
 - **Forza Horizon 2** — [fabioap-cpu/Forza-Horizon-2-Recomp](https://github.com/fabioap-cpu/Forza-Horizon-2-Recomp) — *Static recompilation.*
 - **Forza Horizon 2 (Android)** — [deivid22srk/ForzaHorizon2Recomp-Android](https://github.com/deivid22srk/ForzaHorizon2Recomp-Android) — *Static recompilation.*
+- **Forza Horizon 2 (lavender-shift)** — [arcanite24/lavender-shift](https://github.com/arcanite24/lavender-shift) — *Static recompilation.*
 - **Forza Motorsport 2 (hl360-Forza2)** — [0herculabs/hl360-Forza2](https://github.com/0herculabs/hl360-Forza2) — *Port.*
 - **Forza Motorsport 2 (ReGPU)** — [zer0ducksgiven/Forza-Motorsport-2-ReGPU](https://github.com/zer0ducksgiven/Forza-Motorsport-2-ReGPU) — *Static recompilation.*
 - **Forza Motorsport 3 (hl360-forza3)** — [0herculabs/hl360-forza3](https://github.com/0herculabs/hl360-forza3) — *Port.*
@@ -2693,6 +2738,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Guitar Hero: Metallica** — [ElGuslml/GHMetalRecomp](https://github.com/ElGuslml/GHMetalRecomp) — *Static recompilation.*
 - **Guitar Hero: Warriors of Rock** — [ronniecloud/re-wor](https://github.com/ronniecloud/re-wor)
 - **Halo 3** — [george0815/halo-3-recomp](https://github.com/george0815/halo-3-recomp) — *Static recompilation.*
+- **Halo 3 (Android)** — [Jauidev/halo3recomp](https://github.com/Jauidev/halo3recomp) — *Static recompilation.*
 - **Halo 3 Delta** — [twist84/halo3_cache_release_recomp](https://github.com/twist84/halo3_cache_release_recomp/)
 - **Halo 3: Mythic** — [GTTeancum/OpenH3M](https://github.com/GTTeancum/OpenH3M)
 - **Halo Mega Bloks (Project Haggar)** — [kirklandsig/halo-mega-bloks-decompiled](https://github.com/kirklandsig/halo-mega-bloks-decompiled)
@@ -2788,6 +2834,8 @@ A game that shipped on several machines is listed under the version the reposito
 - **Perfect Dark Zero** — [nikolaygorb/PerfectDarkZeroRecomp](https://github.com/nikolaygorb/PerfectDarkZeroRecomp)
 - **Pirates of the Caribbean: At World's End** — [ElGuslml/PiratesAtWorldsEndRecomp](https://github.com/ElGuslml/PiratesAtWorldsEndRecomp) — *Static recompilation.*
 - **Plants vs. Zombies** — [ITSeniy/pvz-console-edition](https://github.com/ITSeniy/pvz-console-edition) — *Static recompilation.*
+- **Pro Evolution Soccer 2013** — [xamphy/PES13Recomp](https://github.com/xamphy/PES13Recomp) — *Static recompilation.*
+- **Pro Evolution Soccer 2017 (Android)** — [octavofernandez275-del/pes2017-recomp](https://github.com/octavofernandez275-del/pes2017-recomp) — *Static recompilation.*
 - **Project Gotham Racing 4 (MTR-PGR4)** — [MissingThePixel/MTR-PGR4](https://github.com/MissingThePixel/MTR-PGR4) — *Static recompilation.*
 - **Project Gotham Racing 4 (pgr4-native)** — [shaunsingh/pgr4-native](https://github.com/shaunsingh/pgr4-native) — *Static recompilation.*
 - **Project Gotham Racing 4 (PGR4-ReGPU)** — [zer0ducksgiven/PGR4-ReGPU](https://github.com/zer0ducksgiven/PGR4-ReGPU) — *Static recompilation.*
@@ -2859,6 +2907,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Splatterhouse** — [0c0de/splatterhouse-decomp](https://github.com/0c0de/splatterhouse-decomp)
 - **SSX (2012)** — [pmrazor/SSX-RexGlue](https://github.com/pmrazor/SSX-RexGlue) — *Static recompilation.*
 - **SSX (2012, AmarilloNL)** — [AmarilloNL/ssx-recomp](https://github.com/AmarilloNL/ssx-recomp) — *Static recompilation.*
+- **SSX (2012, resled)** — [VirtuaQuest/SSX-resled](https://github.com/VirtuaQuest/SSX-resled) — *Static recompilation.*
 - **Stranglehold (PS5)** — [ChaosTheory1075/sh-ps5](https://github.com/ChaosTheory1075/sh-ps5) — *Static recompilation.*
 - **Street Fighter III: 3rd Strike Online Edition** — [updeshxp/SF3TSOEReborn](https://github.com/updeshxp/SF3TSOEReborn) — *Static recompilation.*
 - **Stuntman: Ignition (Stunt Double: Reignition)** — [giangra/stuntdouble-reignition](https://github.com/giangra/stuntdouble-reignition) — *Static recompilation.*
@@ -2934,7 +2983,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## ZX Spectrum
 
-46 projects
+47 projects
 
 - **Back to Skool** — [skoolkid/backtoskool](https://github.com/skoolkid/backtoskool) — *Disassembly.*
 - **The Bard's Tale** — [Bedazzle/Bards-tale](https://github.com/Bedazzle/Bards-tale) — *Disassembly.*
@@ -2973,6 +3022,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Nether Earth (santiontanon netherearth-disassembly)** — [santiontanon/netherearth-disassembly](https://github.com/santiontanon/netherearth-disassembly) — *Disassembly. Inactive or archived.*
 - **Rampage** — [pobtastic/rampage](https://github.com/pobtastic/rampage) — *Disassembly.*
 - **Rex (ultrabolido skRex)** — [ultrabolido/skRex](https://github.com/ultrabolido/skRex) — *Disassembly. Inactive or archived.*
+- **Shadow Skimmer** — [anthonyjclarke/Shadow-Skimmer](https://github.com/anthonyjclarke/Shadow-Skimmer) — *Disassembly.*
 - **SimCity** — [suborb/simcity_z80](https://github.com/suborb/simcity_z80) — *Disassembly.*
 - **Skool Daze** — [skoolkid/skooldaze](https://github.com/skoolkid/skooldaze) — *Disassembly.*
 - **Soldier of Fortune (kmatveev zx-sof-reveng)** — [kmatveev/zx-sof-reveng](https://github.com/kmatveev/zx-sof-reveng) — *Inactive or archived.*
@@ -3011,7 +3061,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Amiga
 
-13 projects
+14 projects
 
 - **Alien Breed** — [hitchhikr/alienbreed](https://github.com/hitchhikr/alienbreed) — *Disassembly.*
 - **Batman: The Movie (MarkyTurtle Batman---Amiga)** — [MarkyTurtle/Batman---Amiga](https://github.com/MarkyTurtle/Batman---Amiga) — *Disassembly.*
@@ -3019,6 +3069,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Dungeons of Avalon** — [tetracorp/dungeons-of-avalon](https://github.com/tetracorp/dungeons-of-avalon) — *Disassembly.*
 - **Frontier: Elite II (fe2-intro)** — [watsonmw/fe2-intro](https://github.com/watsonmw/fe2-intro)
 - **Frontier: Elite II (GLFrontier)** — [pcercuei/glfrontier](https://github.com/pcercuei/glfrontier) — *Inactive or archived.*
+- **The Great Giana Sisters (macOS)** — [lydianb79/GianaSisters](https://github.com/lydianb79/GianaSisters) — *Static recompilation.*
 - **James Pond 2: Codename RoboCod** — [griches/JamesPond2RobocodRecomp](https://github.com/griches/JamesPond2RobocodRecomp) — *Static recompilation.*
 - **K240** — [tetracorp/k240](https://github.com/tetracorp/k240) — *Disassembly.*
 - **Sensible World of Soccer 96/97 (OpenSWOS)** — [benbaker76/OpenSWOS](https://github.com/benbaker76/OpenSWOS) — *Port.*
@@ -3099,7 +3150,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## PC / DOS
 
-465 projects
+472 projects
 
 - **3D Maze** — [x86matthew/Playable3DMaze](https://github.com/x86matthew/Playable3DMaze)
 - **3D Pinball Space Cadet (Dreamcast)** — [headshot2017/3dpinball-dc](https://github.com/headshot2017/3dpinball-dc) — *Port. Inactive or archived.*
@@ -3175,6 +3226,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Cosmo's Cosmic Adventure** — [digows/cosmo](https://github.com/digows/cosmo) — *Port.*
 - **Counter-Strike** — [Velaron/cs16-client](https://github.com/Velaron/cs16-client)
 - **Counter-Strike (ReGameDLL_CS)** — [rehlds/ReGameDLL_CS](https://github.com/rehlds/ReGameDLL_CS)
+- **Crashday Redline Edition (Android)** — [phys-winner/pc_decomp_cdre](https://github.com/phys-winner/pc_decomp_cdre) — *Static recompilation.*
 - **Creatures 2** — [xylolfrei/CREATURES-II-DECOMPILATION-PROJECT](https://github.com/xylolfrei/CREATURES-II-DECOMPILATION-PROJECT)
 - **Creatures 2 (Creatures-2-Decompilation)** — [adamcolquhoun/Creatures-2-Decompilation](https://github.com/adamcolquhoun/Creatures-2-Decompilation)
 - **Crimson Skies** — [sp00nznet/crimsonskies](https://github.com/sp00nznet/crimsonskies) — *Static recompilation.*
@@ -3221,6 +3273,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **The Elder Scrolls II: Daggerfall** ✦ — [brotchie/daggerfall-decomp](https://github.com/brotchie/daggerfall-decomp) — *Matching decompilation of FALL.EXE 1.07.213.*
 - **The Elder Scrolls V: Skyrim (Android)** — [ttom795/Skyrim_Android](https://github.com/ttom795/Skyrim_Android) — *Static recompilation.*
 - **Empire Earth: The Art of Conquest** — [Protryon/empire_earth](https://github.com/Protryon/empire_earth)
+- **EverQuest Trilogy** — [eqdecomp/everquest-trilogy-decomp](https://github.com/eqdecomp/everquest-trilogy-decomp)
 - **F-15 II** — [neuviemeporte/f15se2-re](https://github.com/neuviemeporte/f15se2-re)
 - **Fable: The Lost Chapters** — [BuffJesus/FableDecomp](https://github.com/BuffJesus/FableDecomp)
 - **Fallout** — [alexbatalov/fallout1-ce](https://github.com/alexbatalov/fallout1-ce)
@@ -3253,6 +3306,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Grand Theft Auto (gta1_re)** — [CriminalRETeam/gta1_re](https://github.com/CriminalRETeam/gta1_re)
 - **Grand Theft Auto / GTA: London** — [sp00nznet/gta](https://github.com/sp00nznet/gta) — *Static recompilation.*
 - **Grand Theft Auto 2** — [CriminalRETeam/gta2_re](https://github.com/CriminalRETeam/gta2_re)
+- **Grand Theft Auto 2 (ARM64)** — [alokdhir/gta2-recomp](https://github.com/alokdhir/gta2-recomp) — *Static recompilation.*
 - **Grand Theft Auto 2 (gta2-native)** — [ErcouldnT/gta2-native](https://github.com/ErcouldnT/gta2-native) — *Static recompilation.*
 - **Grand Theft Auto III / Grand Theft Auto: Vice City** — [Cai1Hsu/re3](https://github.com/Cai1Hsu/re3)
 - **Grand Theft Auto IV (Liberty Pro Max, Apple silicon)** — [Awis13/liberty-pro-max](https://github.com/Awis13/liberty-pro-max) — *Static recompilation.*
@@ -3363,6 +3417,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Need for Speed: Underground 2 (Revived, Android)** — [mininxd/NFSU2-Revived-Android](https://github.com/mininxd/NFSU2-Revived-Android) — *Port.*
 - **Need for Speed: Underground 2 (speed-re)** — [troikoss/speed-re](https://github.com/troikoss/speed-re)
 - **Neekothing (BYOND)** — [CryoSpacewalk/neekothing](https://github.com/CryoSpacewalk/neekothing)
+- **The Neverhood** — [kingzmanh/the-neverhood-pc](https://github.com/kingzmanh/the-neverhood-pc) — *Static recompilation.*
 - **Neverwinter Nights: Enhanced Edition (NWNX:EE unified)** — [nwnxee/unified](https://github.com/nwnxee/unified)
 - **No One Lives Forever 2 (nolf2src)** — [nolffan/nolf2src](https://github.com/nolffan/nolf2src) — *Port.*
 - **Nox (nox-decomp)** — [neuromancer/nox-decomp](https://github.com/neuromancer/nox-decomp) — *Inactive or archived.*
@@ -3397,6 +3452,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Pump It Up: The Perfect Collection** — [bmbelo87/decomp-it-up-Perfect-Collection](https://github.com/bmbelo87/decomp-it-up-Perfect-Collection)
 - **Purble Place (PurblePlaceDecomp)** — [simontime/PurblePlaceDecomp](https://github.com/simontime/PurblePlaceDecomp) — *Inactive or archived.*
 - **Quarantine (1994)** — [ACR-GD/quarantine-recomp](https://github.com/ACR-GD/quarantine-recomp) — *Static recompilation.*
+- **Quarantine (kingzmanh)** — [kingzmanh/quarantine-pc](https://github.com/kingzmanh/quarantine-pc) — *Static recompilation.*
 - **Race Driver: GRID** — [PipeKnight/drig-race-driver](https://github.com/PipeKnight/drig-race-driver)
 - **Raptor: Call of the Shadows (skynettx raptor)** — [skynettx/raptor](https://github.com/skynettx/raptor) — *Port.*
 - **Rayman Arena (raymanarenadecomp)** — [zZeck/raymanarenadecomp](https://github.com/zZeck/raymanarenadecomp) — *Inactive or archived.*
@@ -3415,6 +3471,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Runescape (2003)** — [2003scape/rsc-c](https://github.com/2003scape/rsc-c)
 - **RuneScape (2006scape)** — [2006-Scape/2006Scape](https://github.com/2006-Scape/2006Scape)
 - **Saboteur II: Avenging Angel** — [petarov/saboteur2](https://github.com/petarov/saboteur2) — *Static recompilation.*
+- **Saints Row IV** — [dwindles/sr4re](https://github.com/dwindles/sr4re)
 - **San Andreas Multiplayer (SA-MP)** — [dashr9230/SA-MP](https://github.com/dashr9230/SA-MP)
 - **San Andreas Multiplayer 0.3.7** — [Dryxio/samp-source](https://github.com/Dryxio/samp-source)
 - **SCP - Containment Breach Multiplayer** — [juanjp600/SCPCB-Multiplayer-decompiled](https://github.com/juanjp600/SCPCB-Multiplayer-decompiled)
@@ -3464,6 +3521,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Space Rangers HD: A War Apart** — [pakompom/SpaceRangersHD_CPP](https://github.com/pakompom/SpaceRangersHD_CPP)
 - **Space Rangers HD: A War Apart (SpaceRangersHD_FPC)** — [pakompom/SpaceRangersHD_FPC](https://github.com/pakompom/SpaceRangersHD_FPC)
 - **Spore** — [NoahBPeterson/spore-decomp](https://github.com/NoahBPeterson/spore-decomp)
+- **Spore (Android)** — [VinTeRuS/spore-re](https://github.com/VinTeRuS/spore-re) — *Static recompilation.*
 - **Star Wars DroidWorks** — [DaCodeChick/DroidWorks-decomp](https://github.com/DaCodeChick/DroidWorks-decomp)
 - **Star Wars Episode 1: Racer** — [tim-tim707/SW_RACER_RE](https://github.com/tim-tim707/SW_RACER_RE)
 - **Star Wars Episode I: Racer** — [DeonPoncini/swep1r_decomp](https://github.com/DeonPoncini/swep1r_decomp) — *Inactive or archived.*
@@ -3569,7 +3627,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Mobile
 
-107 projects
+108 projects
 
 - **After Burner Climax (PS Vita)** — [Rinnegatamante/afterburner-vita](https://github.com/Rinnegatamante/afterburner-vita) — *Port.*
 - **Age of Speed 2** — [Llamaware/age-of-speed2](https://github.com/Llamaware/age-of-speed2)
@@ -3649,6 +3707,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Professor Layton and the Lost Future HD (PS Vita)** — [Rinnegatamante/layton3-vita](https://github.com/Rinnegatamante/layton3-vita) — *Port. Inactive or archived.*
 - **Ratchet & Clank: Going Mobile (J2ME)** — [Clank700/going-mobile-decomp](https://github.com/Clank700/going-mobile-decomp)
 - **Rockman EXE Phantom of Network (PoN PC)** — [StraDaMa/PoN_PC](https://github.com/StraDaMa/PoN_PC) — *Port.*
+- **Rockman EXE: Phantom of Network / Legend of Network** — [masuexe/rmexe-mobile-recomp](https://github.com/masuexe/rmexe-mobile-recomp) — *Static recompilation.*
 - **RollerCoaster Tycoon Classic (PS Vita)** — [Rinnegatamante/rct-vita](https://github.com/Rinnegatamante/rct-vita) — *Port.*
 - **Samurai Vs Zombies** — [Decomp-And-Recomp/Samurai-Vs-Zombies](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies)
 - **Samurai vs Zombies 2** — [Decomp-And-Recomp/Samurai-Vs-Zombies-2](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies-2)
@@ -3681,15 +3740,16 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Web / Flash
 
-3 projects
+4 projects
 
 - **Habbo Hotel (client archive)** — [Quackster/habbo_src](https://github.com/Quackster/habbo_src)
 - **Happy Wheels** — [Afterflash/HappyWheels](https://github.com/Afterflash/HappyWheels)
 - **Happy Wheels** — [acnbhop/HappyWheels](https://github.com/acnbhop/HappyWheels)
+- **Tanks** — [crusader290/Tanks](https://github.com/crusader290/Tanks) — *Static recompilation.*
 
 ## Arcade
 
-69 projects
+72 projects
 
 - **Arcade games in JavaScript (arcade-js)** — [qarl/arcade-js](https://github.com/qarl/arcade-js)
 - **Asteroids (asteroids-disassembly)** — [nmikstas/asteroids-disassembly](https://github.com/nmikstas/asteroids-disassembly) — *Disassembly. Inactive or archived.*
@@ -3707,6 +3767,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Dig Dug** — [TekRantGaming/digdug-native](https://github.com/TekRantGaming/digdug-native) — *Port.*
 - **Donkey Kong (dkdasm)** — [furrykef/dkdasm](https://github.com/furrykef/dkdasm) — *Disassembly. Inactive or archived.*
 - **Double Dragon (double-dragon-snes)** — [rumbleminze/double-dragon-snes](https://github.com/rumbleminze/double-dragon-snes) — *Port.*
+- **Dungeons & Dragons: Shadow over Mystara (N64)** — [Sunshinin11/DDSOM-N64](https://github.com/Sunshinin11/DDSOM-N64) — *Port.*
 - **F-Zero AX** — [TheInfiniteLegend/f-0-ax](https://github.com/TheInfiniteLegend/f-0-ax)
 - **Fighting Layer (ReLayer)** — [QuietClubGames/ReLayer](https://github.com/QuietClubGames/ReLayer) — *Port.*
 - **Galaga** — [neiderm/arcade](https://github.com/neiderm/arcade) — *Disassembly.*
@@ -3722,6 +3783,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **The Lost World: Arcade** — [snicolast/LostWorldNative](https://github.com/snicolast/LostWorldNative) — *Port.*
 - **Major Havoc** — [historicalsource/major-havoc-dasm](https://github.com/historicalsource/major-havoc-dasm) — *Disassembly. Inactive or archived.*
 - **Mario Kart Arcade GP 2** ✦ — [naari3/mkgp2-decomp](https://github.com/naari3/mkgp2-decomp) — *Triforce arcade board.*
+- **Marvel vs. Capcom 2 (NAOMI)** — [gibletto/mvc2-naomi](https://github.com/gibletto/mvc2-naomi)
 - **Moon Patrol (Amiga port)** — [jotd666/mpatrol](https://github.com/jotd666/mpatrol) — *Port.*
 - **OutRunners** — [cheviman/outrunners-port](https://github.com/cheviman/outrunners-port) — *Port.*
 - **Pac-Man** — [Wilson-Flores/PacmanRecomp](https://github.com/Wilson-Flores/PacmanRecomp) — *Static recompilation.*
@@ -3758,6 +3820,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Virtua Fighter 2** — [celsowm/vf2-decomp](https://github.com/celsowm/vf2-decomp)
 - **Virtua Fighter 2** — [mr-finster/vf2-recomp](https://github.com/mr-finster/vf2-recomp) — *Static recompilation.*
 - **Virtua Fighter 3** — [mr-finster/vf3-recomp](https://github.com/mr-finster/vf3-recomp) — *Static recompilation.*
+- **Virtua Fighter 4: Final Tuned** — [djanice1980/VF4-Final-Tuned-Rev-B-Decomp-Source](https://github.com/djanice1980/VF4-Final-Tuned-Rev-B-Decomp-Source)
 - **Wizard of Wor (dabadab wizardofwor)** — [dabadab/wizardofwor](https://github.com/dabadab/wizardofwor) — *Disassembly. Inactive or archived.*
 - **Xevious (xevious (arcade -> 68k transcode))** — [jotd666/xevious](https://github.com/jotd666/xevious) — *Port.*
 
@@ -3801,7 +3864,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## MSX
 
-9 projects
+10 projects
 
 - **Antarctic Adventure** — [ricbit/antarctic](https://github.com/ricbit/antarctic) — *Disassembly.*
 - **Antarctic Adventure** — [antxiko/AntarcticAdventure-disassembly](https://github.com/antxiko/AntarcticAdventure-disassembly) — *Disassembly.*
@@ -3809,6 +3872,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Booga-Boo** — [mcolom/boogaboo_disasm_msx](https://github.com/mcolom/boogaboo_disasm_msx)
 - **Colt 36** — [antxiko/Colt36-disassembly](https://github.com/antxiko/Colt36-disassembly) — *Disassembly.*
 - **Elite** — [ricbit/elite](https://github.com/ricbit/elite) — *Disassembly.*
+- **Hi no Tori: Houou-hen** — [maxiwamoto/hinotori_msx](https://github.com/maxiwamoto/hinotori_msx) — *Disassembly.*
 - **Metal Gear** — [GuillianSeed/MetalGear](https://github.com/GuillianSeed/MetalGear)
 - **Pyramid Warp Ex** — [theNestruo/msx-pyramidwarpex](https://github.com/theNestruo/msx-pyramidwarpex) — *Disassembly. Inactive or archived.*
 - **Road Fighter** — [howprice/road-fighter-msx](https://github.com/howprice/road-fighter-msx) — *Disassembly.*
@@ -3821,10 +3885,12 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Philips CD-i
 
-5 projects
+7 projects
 
+- **The Apprentice** — [tools81/the-apprentice-static-recomp](https://github.com/tools81/the-apprentice-static-recomp) — *Static recompilation.*
 - **Hotel Mario** — [mstan/HotelMarioRecomp](https://github.com/mstan/HotelMarioRecomp) — *Static recompilation.*
 - **Hotel Mario (tools81)** — [tools81/hotel-mario-static-recomp](https://github.com/tools81/hotel-mario-static-recomp) — *Static recompilation.*
+- **Kether** — [tools81/kether-static-recomp](https://github.com/tools81/kether-static-recomp) — *Static recompilation.*
 - **Link: The Faces of Evil** — [tools81/link-faces-of-evil-static-recomp](https://github.com/tools81/link-faces-of-evil-static-recomp) — *Static recompilation.*
 - **Mutant Rampage: Bodyslam** — [tools81/mutant-rampage-bodyslam-static-recomp](https://github.com/tools81/mutant-rampage-bodyslam-static-recomp) — *Static recompilation.*
 - **Zelda's Adventure** — [tools81/zelda-adventures-static-recomp](https://github.com/tools81/zelda-adventures-static-recomp) — *Static recompilation.*
