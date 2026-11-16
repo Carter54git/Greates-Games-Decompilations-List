@@ -5,7 +5,7 @@
 
 Games with a public decompilation, disassembly, or static recompilation, grouped by the platform that project actually targets.
 
-**4405 projects in total** · **3956** across 55 platforms · **301 reimplementations** and **148 source ports** at the bottom · last updated November 15, 2026
+**4414 projects in total** · **3961** across 55 platforms · **305 reimplementations** and **148 source ports** at the bottom · last updated November 16, 2026
 
 A game that shipped on several machines is listed under the version the repository is reversing. Inside each platform, names are alphabetical and a leading "The" is ignored.
 
@@ -24,7 +24,7 @@ A game that shipped on several machines is listed under the version the reposito
 - [GameCube](#gamecube) · 186
 - [Wii](#wii) · 106
 - [Wii U](#wii-u) · 28
-- [Nintendo Switch](#nintendo-switch) · 146
+- [Nintendo Switch](#nintendo-switch) · 147
 - [Game Boy](#game-boy) · 73
 - [Game Boy Color](#game-boy-color) · 52
 - [Game Boy Advance](#game-boy-advance) · 133
@@ -35,7 +35,7 @@ A game that shipped on several machines is listed under the version the reposito
 **Sega**
 
 - [Master System](#master-system) · 6
-- [Sega Genesis / Mega Drive](#sega-genesis--mega-drive) · 57
+- [Sega Genesis / Mega Drive](#sega-genesis--mega-drive) · 58
 - [Game Gear](#game-gear) · 3
 - [Sega 32X](#sega-32x) · 2
 - [Sega CD](#sega-cd) · 6
@@ -47,14 +47,14 @@ A game that shipped on several machines is listed under the version the reposito
 - [PlayStation](#playstation) · 323
 - [PlayStation 2](#playstation-2) · 249
 - [PlayStation 3](#playstation-3) · 64
-- [PlayStation 4](#playstation-4) · 61
+- [PlayStation 4](#playstation-4) · 62
 - [PlayStation 5](#playstation-5) · 1
 - [PlayStation Portable](#playstation-portable) · 41
 
 **Microsoft**
 
 - [Xbox](#xbox) · 178
-- [Xbox 360](#xbox-360) · 444
+- [Xbox 360](#xbox-360) · 445
 - [Xbox One](#xbox-one) · 1
 
 **Computer, mobile, and web**
@@ -70,7 +70,7 @@ A game that shipped on several machines is listed under the version the reposito
 - [BBC Micro / Acorn](#bbc-micro--acorn) · 16
 - [Amstrad CPC](#amstrad-cpc) · 2
 - [Mac](#mac) · 8
-- [PC / DOS](#pc--dos) · 521
+- [PC / DOS](#pc--dos) · 522
 - [Mobile](#mobile) · 109
 - [Web / Flash](#web--flash) · 4
 
@@ -89,7 +89,7 @@ A game that shipped on several machines is listed under the version the reposito
 - [Multiplatform](#multiplatform) · 28
 - [Other](#other) · 41
 
-- [Open-source reimplementations](#open-source-reimplementations) · 301
+- [Open-source reimplementations](#open-source-reimplementations) · 305
 - [Source ports](#source-ports) · 148
 
 ## NES / Famicom
@@ -1083,7 +1083,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Nintendo Switch
 
-146 projects
+147 projects
 
 - **Animal Crossing: New Horizons (ACNHRecomp)** — [Nycolazs/ACNHRecomp](https://github.com/Nycolazs/ACNHRecomp) — *Static recompilation.*
 - **ARMS** — [VirtuaQuest/Arms-Rearmed](https://github.com/VirtuaQuest/Arms-Rearmed) — *Static recompilation.*
@@ -1106,6 +1106,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Fire Emblem Warriors (fefw)** — [vexcited/fefw](https://github.com/vexcited/fefw)
 - **Fire Emblem: Fortune's Weave (decomp)** — [vexcited/FireEmblemFortunesWeave](https://github.com/vexcited/FireEmblemFortunesWeave)
 - **Fire Emblem: Fortune's Weave (fefw-recomp)** — [Goldoire/fefw-recomp](https://github.com/Goldoire/fefw-recomp) — *Static recompilation.*
+- **Fire Emblem: Fortune's Weave (Switch 2, EmblemWeave)** — [XiONDiGiTaL/EmblemWeave](https://github.com/XiONDiGiTaL/EmblemWeave) — *Static recompilation of the Switch 2 game; Windows x64.*
 - **Fire Emblem: Three Houses** — [jaigner-hub/fe3h-pc-recomp](https://github.com/jaigner-hub/fe3h-pc-recomp) — *Static recompilation.*
 - **Hyrule Warriors: Age of Imprisonment** — [Alano6678/hwaoi-recomp](https://github.com/Alano6678/hwaoi-recomp) — *Static recompilation.*
 - **Hyrule Warriors: Definitive Edition (HWDER)** — [blocker-3/HWDER](https://github.com/blocker-3/HWDER) — *Static recompilation.*
@@ -1663,7 +1664,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Sega Genesis / Mega Drive
 
-57 projects
+58 projects
 
 - **Aerobiz Supersonic** — [matiaszanolli/aerobiz-disasm](https://github.com/matiaszanolli/aerobiz-disasm) — *Static recompilation.*
 - **Alien Soldier** — [RetrolariumLab/alien_soldier_src](https://github.com/RetrolariumLab/alien_soldier_src)
@@ -1718,6 +1719,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Streets of Rage** — [RuiNelson/StreetsOfRageProject](https://github.com/RuiNelson/StreetsOfRageProject)
 - **Streets of Rage** — [Dandaman955/Streets-of-Rage-1-Disassembly-Redux](https://github.com/Dandaman955/Streets-of-Rage-1-Disassembly-Redux) — *Disassembly. Inactive or archived.*
 - **Streets of Rage** — [OriginalSwayze/Streets-Of-Rage-Recomp](https://github.com/OriginalSwayze/Streets-Of-Rage-Recomp) — *Static recompilation.*
+- **Streets of Rage 1–3 (Streets of Rage Collection Recomp)** — [OriginalSwayze/Streets-of-Rage-Collection-Recomp](https://github.com/OriginalSwayze/Streets-of-Rage-Collection-Recomp) — *Static recompilation. Three games in one collection; requires original ROMs.*
 - **Streets Of Rage 2** — [sor2newera.com](https://www.sor2newera.com/)
 - **ToeJam & Earl (tje-disasm)** — [bstreiff/tje-disasm](https://github.com/bstreiff/tje-disasm) — *Disassembly. Inactive or archived.*
 - **Virtua Racing** — [matiaszanolli/sega-vr-disasm](https://github.com/matiaszanolli/sega-vr-disasm)
@@ -2444,7 +2446,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## PlayStation 4
 
-61 projects
+62 projects
 
 - **13 Sentinels: Aegis Rim (PC port)** — [saulob/13-sentinels-aegis-rim-pc](https://github.com/saulob/13-sentinels-aegis-rim-pc) — *Native PC port. Linux and Steam Deck support is experimental.*
 - **Bloodborne** — [Yharnam-Hunters/Paleblood](https://github.com/Yharnam-Hunters/Paleblood)
@@ -2470,6 +2472,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Fist of the North Star: Lost Paradise** — [ItalianKuze/port-ga-gotoku](https://github.com/ItalianKuze/port-ga-gotoku) — *Port.*
 - **God of War III Remastered** — [FelipePrado0/SpartanPort](https://github.com/FelipePrado0/SpartanPort) — *Port.*
 - **Gravity Rush 2** — [HayatoG/gr2_pc](https://github.com/HayatoG/gr2_pc) — *Port.*
+- **Gravity Rush 2 (GR2port)** — [junminlee2004/GR2port](https://github.com/junminlee2004/GR2port) — *Native PC port with a rewritten Vulkan renderer; requires original game data.*
 - **Gravity Rush Remastered (LucaPazienza)** — [LucaPazienza/gravityrush_pc](https://github.com/LucaPazienza/gravityrush_pc) — *Port.*
 - **Gravity Rush Remastered / Gravity Rush 2** — [Prathewsh/gravityrush_pc](https://github.com/Prathewsh/gravityrush_pc) — *Port.*
 - **Gravity Rush Remastered / Gravity Rush 2 (GRport)** — [qnfn/GRport](https://github.com/qnfn/GRport) — *Port.*
@@ -2745,7 +2748,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Xbox 360
 
-444 projects
+445 projects
 
 - **'Splosion Man** — [thefixinhixon/SplosionManRecomp](https://github.com/thefixinhixon/SplosionManRecomp) — *Static recompilation.*
 - **11eyes CrossOver** — [ThePlayer14/project-eleven-recomp](https://github.com/ThePlayer14/project-eleven-recomp) — *Static recompilation.*
@@ -2820,6 +2823,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Crackdown** — [saulob/crackdown-xbox360-recompiled](https://github.com/saulob/crackdown-xbox360-recompiled) — *Static recompilation.*
 - **Crackdown 2** — [matty45/Crackdown2-Recomp](https://github.com/matty45/Crackdown2-Recomp)
 - **Crackdown 2** — [matty45/Crackdown2-Decomp](https://github.com/matty45/Crackdown2-Decomp)
+- **Crash of the Titans (Crash-OTT-web)** — [costa961/Crash-OTT-web](https://github.com/costa961/Crash-OTT-web) — *Static recompilation port to WebAssembly/WebGPU. Work in progress; requires original disc data.*
 - **Crash of the Titans (Definitive Edition)** — [VitoMiguelF/crashott-pc](https://github.com/VitoMiguelF/crashott-pc) — *Static recompilation.*
 - **Crash of the Titans (MojoRecomp)** — [OAleex/MojoRecomp](https://github.com/OAleex/MojoRecomp) — *Static recompilation.*
 - **Crash: Mind over Mutant** — [Maxilure/MindOver-Recomp](https://github.com/Maxilure/MindOver-Recomp)
@@ -3379,8 +3383,9 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## PC / DOS
 
-521 projects
+522 projects
 
+- **1NSANE (1NSANE Recompiled)** — [AntAir267/1nsane-recompiled](https://github.com/AntAir267/1nsane-recompiled) — *Static recompilation of the Windows game for Linux and Windows. Alpha; requires the GOG release.*
 - **3D Maze** — [x86matthew/Playable3DMaze](https://github.com/x86matthew/Playable3DMaze)
 - **3D Pinball Space Cadet (Dreamcast)** — [headshot2017/3dpinball-dc](https://github.com/headshot2017/3dpinball-dc) — *Port. Inactive or archived.*
 - **3D Pinball Space Cadet (Nintendo DS)** — [headshot2017/3dpinball-nds](https://github.com/headshot2017/3dpinball-nds) — *Port. Inactive or archived.*
@@ -4337,12 +4342,14 @@ These are not matching decompilations. They are open engines written by reading 
 - **4D Sports Boxing (Open4DBoxing)** — [ToolAssisted-run/Open4DBoxing](https://github.com/ToolAssisted-run/Open4DBoxing) — *Engine reimplementation, PC / DOS.*
 - **Alone in the Dark 1–3 (Dream in the Dark)** — [Corbachu/DITD](https://github.com/Corbachu/DITD) — *Engine reimplementation, Dreamcast.*
 - **Alone in the Dark 1–3 (Free in the Dark)** — [yaz0r/FITD](https://github.com/yaz0r/FITD) — *Engine reimplementation, PC / DOS.*
+- **Angry Birds (linnut1.6.2-decomp)** — [BurnerAccount-dec/linnut1.6.2-decomp](https://github.com/BurnerAccount-dec/linnut1.6.2-decomp) — *Engine reimplementation, PC / DOS. C++ engine running original Lua scripts; requires game data.*
 - **Bully: Scholarship Edition (bully-re)** — [LiquidSnake0/bully-re](https://github.com/LiquidSnake0/bully-re) — *Engine reimplementation, PC / DOS. Work in progress.*
 - **Chrono Cross: The Radical Dreamers Edition (OpenCross)** — [sp-hy/OpenCross](https://github.com/sp-hy/OpenCross) — *Engine reimplementation, PlayStation.*
 - **Chrono Trigger (Belthasar Project)** — [TemplarServant/BelthasarProject](https://github.com/TemplarServant/BelthasarProject) — *Engine reimplementation, SNES.*
 - **Command & Conquer: Tiberian Sun (OpenTS)** — [OpenTS-Developers/OpenTS](https://github.com/OpenTS-Developers/OpenTS) — *Engine reimplementation, PC / DOS.*
 - **Countdown to Doomsday (brctd-port)** — [abnotus/brctd-port](https://github.com/abnotus/brctd-port) — *Engine reimplementation, PC / DOS.*
 - **Crimson Skies (CSVM)** — [Laeresh/CSVM](https://github.com/Laeresh/CSVM) — *Engine reimplementation, PC / DOS. Early build; requires original game data.*
+- **Dark Souls Remastered (DarkSoulsPS2)** — [nekomancer01/DarkSoulsPS2](https://github.com/nekomancer01/DarkSoulsPS2) — *Engine reimplementation of the PC game targeting PlayStation 2. Early prototype, not yet playable.*
 - **Diablo II: Lord of Destruction (D2RUST)** — [Nugwa628/d2gamma](https://github.com/Nugwa628/d2gamma) — *Engine reimplementation, PC / DOS.*
 - **Dungeon Siege (SiegeFX)** — [codingncaffeine/SiegeFX](https://github.com/codingncaffeine/SiegeFX) — *Engine reimplementation, PC / DOS. Alpha; requires original game data.*
 - **The Elder Scrolls: Arena (tes-arena-rs)** — [7ucina/tes-arena-rs](https://github.com/7ucina/tes-arena-rs) — *Engine reimplementation, PC / DOS.*
@@ -4356,9 +4363,11 @@ These are not matching decompilations. They are open engines written by reading 
 - **Incubation: Time Is Running Out (IncubationRemake)** — [n0madic/IncubationRemake](https://github.com/n0madic/IncubationRemake) — *Engine reimplementation, PC / DOS.*
 - **Jade Cocoon: Story of the Tamamayu (Bevy)** — [ufodriverr/jade-cocoon-bevy-public-v1](https://github.com/ufodriverr/jade-cocoon-bevy-public-v1) — *Engine reimplementation, PlayStation.*
 - **Kenshi (MeitouClient)** — [VlcekM/MeitouClient](https://github.com/VlcekM/MeitouClient) — *Engine reimplementation, PC / DOS. Requires original game data.*
+- **Koikake (SoftPAL engine, softpal-rs)** — [xmoezzz/softpal-rs](https://github.com/xmoezzz/softpal-rs) — *Engine reimplementation, PC / DOS. Cross-platform Rust implementation of SoftPAL.*
 - **LEGO Universe (DarkflameServer)** — [DarkflameUniverse/DarkflameServer](https://github.com/DarkflameUniverse/DarkflameServer) — *Engine reimplementation, PC / DOS.*
 - **Lemmings (lem_port)** — [sectroyer/lem_port](https://github.com/sectroyer/lem_port) — *Engine reimplementation, PC / DOS.*
 - **Lemmings (ohmylemmings)** — [edwardkim/ohmylemmings](https://github.com/edwardkim/ohmylemmings) — *Engine reimplementation, PC / DOS.*
+- **M.U.G.E.N (Ikemen GO)** — [ikemen-engine/Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) — *Engine reimplementation, PC / DOS. Supports M.U.G.E.N resources.*
 - **Marble Blast Ultra (OpenMBU)** — [MBU-Team/OpenMBU](https://github.com/MBU-Team/OpenMBU) — *Engine reimplementation, Xbox 360.*
 - **MechCommander 2 (mc2-rust)** — [justinbukoski/mc2-rust](https://github.com/justinbukoski/mc2-rust) — *Engine reimplementation, PC / DOS.*
 - **Minecraft Classic (ClassiCube)** — [ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) — *Engine reimplementation, PC / DOS.*
@@ -4785,6 +4794,6 @@ Ports and forks of games whose source code was officially released (Doom, Quake,
 - **Wolfenstein 3D (ECWolf)** — [ECWolfEngine/ECWolf](https://github.com/ECWolfEngine/ECWolf) — *Source port, PC / DOS.*
 - **Wolfenstein 3D (Iron Wolf)** — [Ragnaroek/iron-wolf](https://github.com/Ragnaroek/iron-wolf) — *Source port, PC / DOS.*
 - **Wolfenstein 3D (ReflectionHLE (Reflection Keen))** — [ReflectionHLE/ReflectionHLE](https://github.com/ReflectionHLE/ReflectionHLE) — *Source port, PC / DOS.*
-- **Wolfenstein 3D (Wolf4SDL)** — [fabiangreffrath/wolf4sdl](https://github.com/fabiangreffrath/wolf4sdl) — *Source port, PC / DOS.*
+- **Wolfenstein 3D (Wolf4SDL)** — [fabiangreffrath/intenseflow](https://github.com/fabiangreffrath/intenseflow) — *Source port, PC / DOS.*
 - **Yamagi Quake II** — [yquake2/yquake2](https://github.com/yquake2/yquake2) — *Source port, PC / DOS.*
 - **Zero Hour Reforged** — [olcayseygan/CnCGeneralsZH-Reforged](https://github.com/olcayseygan/CnCGeneralsZH-Reforged) — *Source port, PC / DOS.*
