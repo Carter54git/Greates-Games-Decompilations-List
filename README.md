@@ -6,7 +6,7 @@
 
 **Explore game decompilations, disassemblies, static recompilations, open engines and source ports — organized by original platform.**
 
-![projects](https://img.shields.io/badge/projects-4501-8A2BE2?style=for-the-badge) ![platforms](https://img.shields.io/badge/platforms-55-2ea44f?style=for-the-badge) ![reimplementations](https://img.shields.io/badge/reimplementations-311-1f6feb?style=for-the-badge) ![source ports](https://img.shields.io/badge/source%20ports-148-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--21-555?style=for-the-badge)
+![projects](https://img.shields.io/badge/projects-4505-8A2BE2?style=for-the-badge) ![platforms](https://img.shields.io/badge/platforms-55-2ea44f?style=for-the-badge) ![reimplementations](https://img.shields.io/badge/reimplementations-311-1f6feb?style=for-the-badge) ![source ports](https://img.shields.io/badge/source%20ports-148-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--22-555?style=for-the-badge)
 
 </div>
 
@@ -29,7 +29,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ### 🍄 Nintendo
 
-[NES / Famicom](#nes--famicom) <sub>112</sub> · [SNES / Super Famicom](#snes--super-famicom) <sub>151</sub> · [Nintendo 64](#nintendo-64) <sub>379</sub> · [GameCube](#gamecube) <sub>188</sub> · [Wii](#wii) <sub>109</sub> · [Wii U](#wii-u) <sub>28</sub> · [Nintendo Switch](#nintendo-switch) <sub>151</sub> · [Game Boy](#game-boy) <sub>73</sub> · [Game Boy Color](#game-boy-color) <sub>52</sub> · [Game Boy Advance](#game-boy-advance) <sub>135</sub> · [Nintendo DS](#nintendo-ds) <sub>90</sub> · [Nintendo 3DS](#nintendo-3ds) <sub>37</sub> · [Virtual Boy](#virtual-boy) <sub>4</sub>
+[NES / Famicom](#nes--famicom) <sub>112</sub> · [SNES / Super Famicom](#snes--super-famicom) <sub>151</sub> · [Nintendo 64](#nintendo-64) <sub>377</sub> · [GameCube](#gamecube) <sub>188</sub> · [Wii](#wii) <sub>109</sub> · [Wii U](#wii-u) <sub>28</sub> · [Nintendo Switch](#nintendo-switch) <sub>151</sub> · [Game Boy](#game-boy) <sub>73</sub> · [Game Boy Color](#game-boy-color) <sub>52</sub> · [Game Boy Advance](#game-boy-advance) <sub>135</sub> · [Nintendo DS](#nintendo-ds) <sub>90</sub> · [Nintendo 3DS](#nintendo-3ds) <sub>37</sub> · [Virtual Boy](#virtual-boy) <sub>4</sub>
 
 ### 🔵 Sega
 
@@ -37,15 +37,15 @@ A game that shipped on several machines is listed under the version the reposito
 
 ### 🎮 Sony
 
-[PlayStation](#playstation) <sub>331</sub> · [PlayStation 2](#playstation-2) <sub>259</sub> · [PlayStation 3](#playstation-3) <sub>67</sub> · [PlayStation 4](#playstation-4) <sub>63</sub> · [PlayStation 5](#playstation-5) <sub>1</sub> · [PlayStation Portable](#playstation-portable) <sub>42</sub>
+[PlayStation](#playstation) <sub>331</sub> · [PlayStation 2](#playstation-2) <sub>259</sub> · [PlayStation 3](#playstation-3) <sub>67</sub> · [PlayStation 4](#playstation-4) <sub>63</sub> · [PlayStation 5](#playstation-5) <sub>1</sub> · [PlayStation Portable](#playstation-portable) <sub>43</sub>
 
 ### 🟢 Microsoft
 
-[Xbox](#xbox) <sub>186</sub> · [Xbox 360](#xbox-360) <sub>458</sub> · [Xbox One](#xbox-one) <sub>1</sub>
+[Xbox](#xbox) <sub>187</sub> · [Xbox 360](#xbox-360) <sub>460</sub> · [Xbox One](#xbox-one) <sub>1</sub>
 
 ### 💻 Computer, mobile, and web
 
-[PC-98](#pc-98) <sub>2</sub> · [ZX Spectrum](#zx-spectrum) <sub>50</sub> · [Commodore 64](#commodore-64) <sub>14</sub> · [Commodore VIC-20](#commodore-vic-20) <sub>2</sub> · [Amiga](#amiga) <sub>15</sub> · [Atari 8-bit](#atari-8-bit) <sub>3</sub> · [Atari ST](#atari-st) <sub>3</sub> · [Apple II](#apple-ii) <sub>9</sub> · [BBC Micro / Acorn](#bbc-micro--acorn) <sub>16</sub> · [Amstrad CPC](#amstrad-cpc) <sub>2</sub> · [Mac](#mac) <sub>8</sub> · [PC / DOS](#pc--dos) <sub>535</sub> · [Mobile](#mobile) <sub>111</sub> · [Web / Flash](#web--flash) <sub>4</sub>
+[PC-98](#pc-98) <sub>2</sub> · [ZX Spectrum](#zx-spectrum) <sub>50</sub> · [Commodore 64](#commodore-64) <sub>14</sub> · [Commodore VIC-20](#commodore-vic-20) <sub>2</sub> · [Amiga](#amiga) <sub>15</sub> · [Atari 8-bit](#atari-8-bit) <sub>3</sub> · [Atari ST](#atari-st) <sub>3</sub> · [Apple II](#apple-ii) <sub>9</sub> · [BBC Micro / Acorn](#bbc-micro--acorn) <sub>16</sub> · [Amstrad CPC](#amstrad-cpc) <sub>2</sub> · [Mac](#mac) <sub>8</sub> · [PC / DOS](#pc--dos) <sub>537</sub> · [Mobile](#mobile) <sub>111</sub> · [Web / Flash](#web--flash) <sub>4</sub>
 
 ### 🕹️ Arcade, other hardware, and tools
 
@@ -336,7 +336,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Nintendo 64
 
-> 📦 **379 projects**
+> 📦 **377 projects**
 
 - **1080° Snowboarding** — [bigyoshi51/1080-decomp](https://github.com/bigyoshi51/1080-decomp)
 - **1080° Snowboarding** — [djsaunde/1080-decomp](https://github.com/djsaunde/1080-decomp)
@@ -456,7 +456,6 @@ A game that shipped on several machines is listed under the version the reposito
 - **Glover (Recomp)** — [ThatGuyMcd/Glover-R](https://github.com/ThatGuyMcd/Glover-R)
 - **Goemon's Great Adventure** — [PandaPandel/Goemons-Great-Adventure-Decomp](https://github.com/PandaPandel/Goemons-Great-Adventure-Decomp)
 - **Goemon's Great Adventure (GGARecomp)** — [DreaXer/GGARecomp](https://github.com/DreaXer/GGARecomp) — *Static recompilation.*
-- **Goemon’s Great Adventure** — [Fluvian/gga](https://github.com/Fluvian/gga)
 - **GoldenEye 007** — [kholdfuzion/goldeneye_src](https://gitlab.com/kholdfuzion/goldeneye_src)
 - **GoldenEye 007** — [chrissotraidis/goldenpad](https://github.com/chrissotraidis/goldenpad) — *Port.*
 - **GoldenEye 007 (007)** — [n64decomp/007](https://github.com/n64decomp/007)
@@ -549,7 +548,6 @@ A game that shipped on several machines is listed under the version the reposito
 - **Mischief Makers** — [drahsid/mischief-makers](https://github.com/drahsid/mischief-makers)
 - **Mischief Makers (Recomp)** — [ThiagoLira/trouble-makers-pc-recomp](https://github.com/ThiagoLira/trouble-makers-pc-recomp)
 - **Mortal Kombat Trilogy** — [cultofblue/MKTrilogyN64Recomp](https://github.com/cultofblue/MKTrilogyN64Recomp) — *Static recompilation.*
-- **Mystical Ninja Starring Goemon** — [fluvian/mnsg](https://github.com/fluvian/mnsg)
 - **Mystical Ninja Starring Goemon** — [ogdanimal/Goemon64Recomp-Android](https://github.com/ogdanimal/Goemon64Recomp-Android) — *Static recompilation.*
 - **Mystical Ninja Starring Goemon (mnsg)** — [klorfmorf/mnsg](https://github.com/klorfmorf/mnsg)
 - **Mystical Ninja Starring Goemon (Recomp)** — [klorfmorf/Goemon64Recomp](https://github.com/klorfmorf/Goemon64Recomp)
@@ -2572,7 +2570,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## PlayStation Portable
 
-> 📦 **42 projects**
+> 📦 **43 projects**
 
 - **The 3rd Birthday** — [BasedYuki/the-3rd-birthday-recomp](https://github.com/BasedYuki/the-3rd-birthday-recomp) — *Static recompilation.*
 - **ACE COMBAT X** — [sal063/Ace-Combat-X-Recompilation](https://github.com/sal063/Ace-Combat-X-Recompilation)
@@ -2599,6 +2597,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Monster Hunter Freedom Unite (MHForever)** — [Mango77x/MHForever](https://github.com/Mango77x/MHForever) — *Static recompilation.*
 - **Monster Hunter Freedom Unite (Project Cuga)** — [SirNubs/Project-Cuga](https://github.com/SirNubs/Project-Cuga) — *Port.*
 - **Monster Hunter Portable 2nd G** — [tclamb/mhp2g-decomp](https://github.com/tclamb/mhp2g-decomp)
+- **Monster Hunter Portable 3rd HD Ver. (PS5)** — [elaporta/mhp3rd-ps5](https://github.com/elaporta/mhp3rd-ps5) — *PS5 port based on TeamGDB's Yakumo.*
 - **Mortal Kombat: Unchained** — [ParsaBordbar/mku_native](https://github.com/ParsaBordbar/mku_native) — *Static recompilation.*
 - **Patapon 3 (pataport)** — [AlessioGiacobbe/pataport](https://github.com/AlessioGiacobbe/pataport) — *Static recompilation.*
 - **Phantasy Star Portable 2 Infinity** — [zmbkilla/PSP2I_Recomp](https://github.com/zmbkilla/PSP2I_Recomp) — *Static recompilation.*
@@ -2621,7 +2620,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Xbox
 
-> 📦 **186 projects**
+> 📦 **187 projects**
 
 - **007: Agent Under Fire (XBE Recomp)** — [hk21x/007-agentunderfire-recomp](https://github.com/hk21x/007-agentunderfire-recomp) — *Static recompilation.*
 - **007: Everything or Nothing (XBE Recomp)** — [hk21x/007eon-recomp](https://github.com/hk21x/007eon-recomp) — *Static recompilation.*
@@ -2715,6 +2714,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Jet Set Radio Future** — [KeybadeBlox/JSRF-Decompilation](https://codeberg.org/KeybadeBlox/JSRF-Decompilation)
 - **Jet Set Radio Future (Jet Set Radio Future Unleashed)** — [JuMatt/JetSetRadioFuture-Unleashed](https://github.com/JuMatt/JetSetRadioFuture-Unleashed) — *Port.*
 - **Jet Set Radio Future (JSRF Unleashed NX)** — [Eladerino/JetSetRadioFuture-Unleashed-NX](https://github.com/Eladerino/JetSetRadioFuture-Unleashed-NX) — *Static recompilation.*
+- **Jet Set Radio Future (JSRF-PC)** — [spriteice/JSRF-PC](https://github.com/spriteice/JSRF-PC) — *Port based on JSRF Unleashed with Windows and Linux support.*
 - **Jet Set Radio Future (JSRF-Recomp)** — [Miggas/JSRF-Recomp](https://github.com/Miggas/JSRF-Recomp) — *Static recompilation.*
 - **Jet Set Radio Future (Recomp)** — [andeecollard/jsrf-recomp](https://github.com/andeecollard/jsrf-recomp)
 - **Jet Set Radio Future (Xbox 360)** — [EduDicaseGameplay/JetSetRadioFuture-X360](https://github.com/EduDicaseGameplay/JetSetRadioFuture-X360) — *Static recompilation.*
@@ -2814,7 +2814,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Xbox 360
 
-> 📦 **458 projects**
+> 📦 **460 projects**
 
 - **'Splosion Man** — [thefixinhixon/SplosionManRecomp](https://github.com/thefixinhixon/SplosionManRecomp) — *Static recompilation.*
 - **11eyes CrossOver** — [ThePlayer14/project-eleven-recomp](https://github.com/ThePlayer14/project-eleven-recomp) — *Static recompilation.*
@@ -2852,6 +2852,8 @@ A game that shipped on several machines is listed under the version the reposito
 - **The Bigs 2** — [mdomangue26/thebigs2](https://github.com/mdomangue26/thebigs2) — *Static recompilation.*
 - **The Bigs 2** — [mdomangue26/The-Bigs-2-Recompiled](https://github.com/mdomangue26/The-Bigs-2-Recompiled) — *Static recompilation.*
 - **BioShock (bioshock1-native-recomp)** — [EddyGameDev/bioshock1-native-recomp](https://github.com/EddyGameDev/bioshock1-native-recomp) — *Static recompilation of the Xbox 360 release for Windows and Android. Experimental.*
+- **Blitz: The League (Blitz-TheLeague-Recomp)** — [nacholuver1/Blitz-TheLeague-Recomp](https://github.com/nacholuver1/Blitz-TheLeague-Recomp) — *Static recompilation.*
+- **Blitz: The League II (Blitz-TheLeague-II-Recomp)** — [nacholuver1/Blitz-TheLeague-II-Recomp](https://github.com/nacholuver1/Blitz-TheLeague-II-Recomp) — *Static recompilation.*
 - **Blue Dragon** — [zolaware/reblue](https://github.com/zolaware/reblue)
 - **Blue Dragon (Android)** — [JayElDragon/blue-dragon-android](https://github.com/JayElDragon/blue-dragon-android) — *Static recompilation.*
 - **Blue Dragon (reblue)** — [WeiGustavo/reblue](https://github.com/WeiGustavo/reblue) — *Static recompilation.*
@@ -3488,7 +3490,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## PC / DOS
 
-> 📦 **535 projects**
+> 📦 **537 projects**
 
 - **1NSANE (1NSANE Recompiled)** — [AntAir267/1nsane-recompiled](https://github.com/AntAir267/1nsane-recompiled) — *Static recompilation of the Windows game for Linux and Windows. Alpha; requires the GOG release.*
 - **3D Maze** — [x86matthew/Playable3DMaze](https://github.com/x86matthew/Playable3DMaze)
@@ -3657,6 +3659,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Geometry Dash 2.206** — [CallocGD/GD-2.206-Decompiled](https://github.com/CallocGD/GD-2.206-Decompiled)
 - **Grand Prix 4** — [leighrobertabbott/decomp-grandprix4](https://github.com/leighrobertabbott/decomp-grandprix4)
 - **Grand Theft Auto (gta1_re)** — [CriminalRETeam/gta1_re](https://github.com/CriminalRETeam/gta1_re)
+- **Grand Theft Auto (joyride)** — [Txukie/joyride](https://github.com/Txukie/joyride) — *Static recompilation of the Windows release.*
 - **Grand Theft Auto / GTA: London** — [sp00nznet/gta](https://github.com/sp00nznet/gta) — *Static recompilation.*
 - **Grand Theft Auto 2** — [CriminalRETeam/gta2_re](https://github.com/CriminalRETeam/gta2_re)
 - **Grand Theft Auto 2 (3DS)** — [reG2-project/reG2-3DS](https://github.com/reG2-project/reG2-3DS) — *Port.*
@@ -3684,6 +3687,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Heroes of Might and Magic** — [sushi-shi/homm1-decomp](https://github.com/sushi-shi/homm1-decomp)
 - **Heroes of Might and Magic II** — [sushi-shi/homm2-decomp](https://github.com/sushi-shi/homm2-decomp)
 - **Heroes of Might and Magic III** — [sushi-shi/homm3-decomp](https://github.com/sushi-shi/homm3-decomp)
+- **Heroes of Might and Magic IV (HoMM4Recomp)** — [GameRecomp/HoMM4Recomp](https://github.com/GameRecomp/HoMM4Recomp) — *Static recompilation with native builds and a browser target.*
 - **Heroes of Might and Magic V (HommaRe)** — [livmaster-dev/HommaRe-public](https://github.com/livmaster-dev/HommaRe-public) — *Port.*
 - **Heroes of Might and Magic V: Tribes of the East (Android)** — [phys-winner/pc_decomp_homm5](https://github.com/phys-winner/pc_decomp_homm5) — *Static recompilation.*
 - **Hexen (ACS scripts)** — [fragglet/hexen-acs-reconstructed](https://github.com/fragglet/hexen-acs-reconstructed)
