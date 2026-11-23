@@ -37,7 +37,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ### 🎮 Sony
 
-[PlayStation](#playstation) <sub>331</sub> · [PlayStation 2](#playstation-2) <sub>260</sub> · [PlayStation 3](#playstation-3) <sub>69</sub> · [PlayStation 4](#playstation-4) <sub>63</sub> · [PlayStation 5](#playstation-5) <sub>1</sub> · [PlayStation Portable](#playstation-portable) <sub>43</sub>
+[PlayStation](#playstation) <sub>331</sub> · [PlayStation 2](#playstation-2) <sub>260</sub> · [PlayStation 3](#playstation-3) <sub>69</sub> · [PlayStation 4](#playstation-4) <sub>65</sub> · [PlayStation 5](#playstation-5) <sub>1</sub> · [PlayStation Portable](#playstation-portable) <sub>43</sub>
 
 ### 🟢 Microsoft
 
@@ -2548,6 +2548,8 @@ A game that shipped on several machines is listed under the version the reposito
 - **Prototype / Prototype 2** — [petrishevgeorgii-debug/prototype-pc-slop](https://github.com/petrishevgeorgii-debug/prototype-pc-slop) — *Port.*
 - **Ratchet & Clank (RatchetPort)** — [shehab4546/RatchetPort](https://github.com/shehab4546/RatchetPort) — *Port.*
 - **Resogun** — [rcostanza/resogun-recomp](https://github.com/rcostanza/resogun-recomp) — *Static recompilation.*
+- **Sakura Wars 2019 (Linux)** ([https://github.com/HekamiAeon/Sakura-Wars-PS4RT](https://github.com/HekamiAeon/Sakura-Wars-PS4RT)) *Static recompilation.*
+- **Sakura Wars 2019 (Windows)** ([https://github.com/HekamiAeon/Sakura-Wars-PS4RT](https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows)) *Static recompilation.*
 - **Shadow of the Colossus** — [AjncSystem/ShadowOfTheColossus-PC](https://github.com/AjncSystem/ShadowOfTheColossus-PC) — *Port.*
 - **Shadow of the Colossus** — [Oussama268/ShadowOfTheColossus-PC](https://github.com/Oussama268/ShadowOfTheColossus-PC) — *Port.*
 - **Shadow of the Colossus (PS4, FrameGen)** — [nakaionyt/ShadowOfTheColossus-PC-FrameGen](https://github.com/nakaionyt/ShadowOfTheColossus-PC-FrameGen) — *Port.*
