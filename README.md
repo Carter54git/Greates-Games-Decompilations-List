@@ -6,7 +6,7 @@
 
 **Explore game decompilations, disassemblies, static recompilations, open engines and source ports — organized by original platform.**
 
-![projects](https://img.shields.io/badge/projects-4505-8A2BE2?style=for-the-badge) ![platforms](https://img.shields.io/badge/platforms-55-2ea44f?style=for-the-badge) ![reimplementations](https://img.shields.io/badge/reimplementations-311-1f6feb?style=for-the-badge) ![source ports](https://img.shields.io/badge/source%20ports-148-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--22-555?style=for-the-badge)
+![projects](https://img.shields.io/badge/projects-4513-8A2BE2?style=for-the-badge) ![platforms](https://img.shields.io/badge/platforms-55-2ea44f?style=for-the-badge) ![reimplementations](https://img.shields.io/badge/reimplementations-312-1f6feb?style=for-the-badge) ![source ports](https://img.shields.io/badge/source%20ports-148-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--23-555?style=for-the-badge)
 
 </div>
 
@@ -37,15 +37,15 @@ A game that shipped on several machines is listed under the version the reposito
 
 ### 🎮 Sony
 
-[PlayStation](#playstation) <sub>331</sub> · [PlayStation 2](#playstation-2) <sub>259</sub> · [PlayStation 3](#playstation-3) <sub>67</sub> · [PlayStation 4](#playstation-4) <sub>63</sub> · [PlayStation 5](#playstation-5) <sub>1</sub> · [PlayStation Portable](#playstation-portable) <sub>43</sub>
+[PlayStation](#playstation) <sub>331</sub> · [PlayStation 2](#playstation-2) <sub>260</sub> · [PlayStation 3](#playstation-3) <sub>69</sub> · [PlayStation 4](#playstation-4) <sub>63</sub> · [PlayStation 5](#playstation-5) <sub>1</sub> · [PlayStation Portable](#playstation-portable) <sub>43</sub>
 
 ### 🟢 Microsoft
 
-[Xbox](#xbox) <sub>187</sub> · [Xbox 360](#xbox-360) <sub>460</sub> · [Xbox One](#xbox-one) <sub>1</sub>
+[Xbox](#xbox) <sub>188</sub> · [Xbox 360](#xbox-360) <sub>460</sub> · [Xbox One](#xbox-one) <sub>1</sub>
 
 ### 💻 Computer, mobile, and web
 
-[PC-98](#pc-98) <sub>2</sub> · [ZX Spectrum](#zx-spectrum) <sub>50</sub> · [Commodore 64](#commodore-64) <sub>14</sub> · [Commodore VIC-20](#commodore-vic-20) <sub>2</sub> · [Amiga](#amiga) <sub>15</sub> · [Atari 8-bit](#atari-8-bit) <sub>3</sub> · [Atari ST](#atari-st) <sub>3</sub> · [Apple II](#apple-ii) <sub>9</sub> · [BBC Micro / Acorn](#bbc-micro--acorn) <sub>16</sub> · [Amstrad CPC](#amstrad-cpc) <sub>2</sub> · [Mac](#mac) <sub>8</sub> · [PC / DOS](#pc--dos) <sub>537</sub> · [Mobile](#mobile) <sub>111</sub> · [Web / Flash](#web--flash) <sub>4</sub>
+[PC-98](#pc-98) <sub>2</sub> · [ZX Spectrum](#zx-spectrum) <sub>50</sub> · [Commodore 64](#commodore-64) <sub>14</sub> · [Commodore VIC-20](#commodore-vic-20) <sub>2</sub> · [Amiga](#amiga) <sub>15</sub> · [Atari 8-bit](#atari-8-bit) <sub>3</sub> · [Atari ST](#atari-st) <sub>3</sub> · [Apple II](#apple-ii) <sub>9</sub> · [BBC Micro / Acorn](#bbc-micro--acorn) <sub>16</sub> · [Amstrad CPC](#amstrad-cpc) <sub>2</sub> · [Mac](#mac) <sub>8</sub> · [PC / DOS](#pc--dos) <sub>540</sub> · [Mobile](#mobile) <sub>111</sub> · [Web / Flash](#web--flash) <sub>4</sub>
 
 ### 🕹️ Arcade, other hardware, and tools
 
@@ -53,7 +53,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ### 🧩 Open engines & source ports
 
-[Open-source reimplementations](#open-source-reimplementations) <sub>311</sub> · [Source ports](#source-ports) <sub>148</sub>
+[Open-source reimplementations](#open-source-reimplementations) <sub>312</sub> · [Source ports](#source-ports) <sub>148</sub>
 
 ---
 
@@ -2152,7 +2152,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## PlayStation 2
 
-> 📦 **259 projects**
+> 📦 **260 projects**
 
 - **.hack//IMOQ** ✦ — [dothacktranslate/dothack-decompilation](https://github.com/dothacktranslate/dothack-decompilation)
 - **.hack//Infection (Recompilation)** — [dothacktranslate/dothack-recompilation](https://github.com/dothacktranslate/dothack-recompilation) — *Static recompilation.*
@@ -2230,6 +2230,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **God Hand** — [LasVola/godhand-recomp](https://github.com/LasVola/godhand-recomp) — *Static recompilation.*
 - **God Hand (Android)** — [owaissseeee/GodHandAndroidPort](https://github.com/owaissseeee/GodHandAndroidPort) — *Static recompilation.*
 - **God Hand (fabioschmidt01)** — [fabioschmidt01/godhand-recomp](https://github.com/fabioschmidt01/godhand-recomp) — *Static recompilation.*
+- **God Hand (God Hand: Rearmed)** — [God-Hand-Rearmed/God-Hand-Rearmed](https://github.com/God-Hand-Rearmed/God-Hand-Rearmed) — *Static recompilation.*
 - **God of War** — [KIexster/god-of-war-recomp](https://github.com/KIexster/god-of-war-recomp)
 - **God of War** — [YYOzcan/Tobiichi-Port](https://github.com/YYOzcan/Tobiichi-Port) — *Port.*
 - **God of War** — [Waffle565/God-Of-War-Native-Port](https://github.com/Waffle565/God-Of-War-Native-Port) — *Port.*
@@ -2418,8 +2419,9 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## PlayStation 3
 
-> 📦 **67 projects**
+> 📦 **69 projects**
 
+- **3D Dot Game Heroes (Cubic.Heroes)** — [irnutsmurt/Cubic.Heroes](https://github.com/irnutsmurt/Cubic.Heroes) — *Static recompilation for Windows and Linux. Beta.*
 - **Armored Core 4 (AC4-Port)** — [SulphurS16/AC4-Port](https://github.com/SulphurS16/AC4-Port) — *Port.*
 - **Armored Core: For Answer (ACFA-Port)** — [SulphurS16/ACFA-Port](https://github.com/SulphurS16/ACFA-Port) — *Port.*
 - **Asura's Wrath** — [erikomis/asuras-wrath-recomp](https://github.com/erikomis/asuras-wrath-recomp) — *Static recompilation.*
@@ -2448,6 +2450,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Gran Turismo 5 Prologue** — [sp00nznet/GT5P](https://github.com/sp00nznet/GT5P) — *Static recompilation.*
 - **Gran Turismo 5 Prologue (Tourline Prologue)** — [mathewdouglas/Tourline-Prologue](https://github.com/mathewdouglas/Tourline-Prologue) — *Static recompilation.*
 - **Gran Turismo 6 (Gran Turismo 6 PC)** — [Mabec-games/Gran-Turismo-6-PC](https://github.com/Mabec-games/Gran-Turismo-6-PC) — *Port.*
+- **Gran Turismo 6 (Project Grand Tourer Advanced)** — [PrimeTimerer/Project-Grand-Tourer-Advanced](https://github.com/PrimeTimerer/Project-Grand-Tourer-Advanced) — *Static recompilation.*
 - **Grand Theft Auto: San Andreas** — [Noext/gta-sa-port](https://github.com/Noext/gta-sa-port) — *Static recompilation.*
 - **Haze** — [zdiemer/haze-recomp](https://github.com/zdiemer/haze-recomp) — *Static recompilation.*
 - **Imabikisou** — [yasindevs/imabikisou-pc](https://github.com/yasindevs/imabikisou-pc) — *Static recompilation.*
@@ -2620,7 +2623,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Xbox
 
-> 📦 **187 projects**
+> 📦 **188 projects**
 
 - **007: Agent Under Fire (XBE Recomp)** — [hk21x/007-agentunderfire-recomp](https://github.com/hk21x/007-agentunderfire-recomp) — *Static recompilation.*
 - **007: Everything or Nothing (XBE Recomp)** — [hk21x/007eon-recomp](https://github.com/hk21x/007eon-recomp) — *Static recompilation.*
@@ -2750,6 +2753,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Ninja Gaiden Black** — [gamboozino/ngbrecomp](https://github.com/gamboozino/ngbrecomp) — *Static recompilation.*
 - **Ninja Gaiden Black / Ninja Gaiden 2** — [mehmetalinya/DECOMP__Ninja](https://github.com/mehmetalinya/DECOMP__Ninja) — *Inactive or archived.*
 - **OpenCE** — [OpenCommunityEdition/OpenCE](https://github.com/OpenCommunityEdition/OpenCE)
+- **Otogi 2: Immortal Warriors (otogi2-recomp)** — [Aghostinbloom/otogi2-recomp](https://github.com/Aghostinbloom/otogi2-recomp) — *Static recompilation.*
 - **Otogi: Myth of Demons** — [Guuzzeji/otogi-xunchain](https://github.com/Guuzzeji/otogi-xunchain) — *Static recompilation.*
 - **Outlaw Golf 2** — [projectedan/OutlawGolf2-XBE-Recomp](https://github.com/projectedan/OutlawGolf2-XBE-Recomp) — *Static recompilation.*
 - **Panzer Dragoon Orta** — [almost-drowned-rat/Orta-Recompiled](https://github.com/almost-drowned-rat/Orta-Recompiled) — *Static recompilation.*
@@ -3490,7 +3494,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## PC / DOS
 
-> 📦 **537 projects**
+> 📦 **540 projects**
 
 - **1NSANE (1NSANE Recompiled)** — [AntAir267/1nsane-recompiled](https://github.com/AntAir267/1nsane-recompiled) — *Static recompilation of the Windows game for Linux and Windows. Alpha; requires the GOG release.*
 - **3D Maze** — [x86matthew/Playable3DMaze](https://github.com/x86matthew/Playable3DMaze)
@@ -3748,6 +3752,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **MapleStory (shroom95-decomp)** — [jon-zu/shroom95-decomp](https://github.com/jon-zu/shroom95-decomp)
 - **Marble Blast Gold (OpenMBG)** — [The-New-Platinum-Team/OpenMBG](https://github.com/The-New-Platinum-Team/OpenMBG) — *Port. Inactive or archived.*
 - **Mario Teaches Typing 3** — [EliasFever/MarioTeachesTyping3Decomp](https://github.com/EliasFever/MarioTeachesTyping3Decomp)
+- **Mass Destruction (mass_destruction-recomp)** — [mxvisor/mass_destruction-recomp](https://github.com/mxvisor/mass_destruction-recomp) — *Static recompilation.*
 - **Master of Magic (ReMoM)** — [jbalcomb/ReMoM](https://github.com/jbalcomb/ReMoM)
 - **Max Payne (macOS recomp)** — [aldotoa/max-payne-recomp](https://github.com/aldotoa/max-payne-recomp) — *Static recompilation.*
 - **Max Payne 2 (Android)** — [codepdbh/maxpayne2pc-androidevolved](https://github.com/codepdbh/maxpayne2pc-androidevolved) — *Static recompilation.*
@@ -3815,10 +3820,12 @@ A game that shipped on several machines is listed under the version the reposito
 - **Plants vs. Zombies** — [lvplay2/PvZ-Decomp](https://github.com/lvplay2/PvZ-Decomp)
 - **Plants vs. Zombies (0.9.9)** — [bluisblu/pvz](https://github.com/bluisblu/pvz)
 - **Populous: The Beginning (OpenPopTB-MacOS)** — [iagodemacedo/OpenPopTB-MacOS](https://github.com/iagodemacedo/OpenPopTB-MacOS) — *Static recompilation.*
+- **Portal 1 & 2 and Half-Life 2 (source-recomp)** — [kanapitsas/source-recomp](https://github.com/kanapitsas/source-recomp) — *Static recompilation of Linux x86 versions for Apple Silicon and iPhone.*
 - **Prehistorik 2** — [Buyukcaglar/PreH2](https://github.com/Buyukcaglar/PreH2) — *Static recompilation.*
 - **Prince of Persia (SDLPoP Android)** — [mgrz18/sdlpop-android](https://github.com/mgrz18/sdlpop-android) — *Port.*
 - **Prince of Persia 2** — [Supermedo/prince-of-persia-2-windows](https://github.com/Supermedo/prince-of-persia-2-windows)
 - **Prince of Persia 2: The Shadow and the Flame (SDLPoP2)** — [ToolAssisted-run/SDLPoP2](https://github.com/ToolAssisted-run/SDLPoP2) — *Port.*
+- **Prince of Persia: The Sands of Time (Android recomp)** — [Cleverdee/pop-sot-android](https://github.com/Cleverdee/pop-sot-android) — *Static recompilation of the PC version for Android.*
 - **Princess Maker 4** — [Yanis002/pm4](https://github.com/Yanis002/pm4)
 - **Project Eden** — [mercat0r/Eden](https://github.com/mercat0r/Eden) — *Inactive or archived.*
 - **Project I.G.I.: I'm Going In** — [slickdaddyy/IGI-RE](https://github.com/slickdaddyy/IGI-RE)
@@ -4517,6 +4524,7 @@ These are not matching decompilations. They are open engines written by reading 
 - **Diablo II: Lord of Destruction (D2RUST)** — [Nugwa628/d2gamma](https://github.com/Nugwa628/d2gamma) — *Engine reimplementation, PC / DOS.*
 - **Doom (Helion)** — [Helion-Engine/Helion](https://github.com/Helion-Engine/Helion) — *Engine reimplementation, PC / DOS. Supports original WAD data.*
 - **Dungeon Siege (SiegeFX)** — [codingncaffeine/SiegeFX](https://github.com/codingncaffeine/SiegeFX) — *Engine reimplementation, PC / DOS. Alpha; requires original game data.*
+- **The Elder Scrolls Adventures: Redguard (Cyrus)** — [michidk/cyrus](https://github.com/michidk/cyrus) — *Engine reimplementation, PC / DOS. Includes a browser build.*
 - **The Elder Scrolls: Arena (tes-arena-rs)** — [7ucina/tes-arena-rs](https://github.com/7ucina/tes-arena-rs) — *Engine reimplementation, PC / DOS.*
 - **Fallout (Fo1in2)** — [rotators/Fo1in2](https://github.com/rotators/Fo1in2) — *Engine reimplementation, PC / DOS.*
 - **Fallout: New Vegas (nv-rs)** — [slaterain/nv-rs](https://github.com/slaterain/nv-rs) — *Engine reimplementation, PC / DOS. Preview; requires original game data.*
