@@ -6,7 +6,7 @@
 
 **Explore game decompilations, disassemblies, static recompilations, open engines and source ports — organized by original platform.**
 
-![projects](https://img.shields.io/badge/projects-4513-8A2BE2?style=for-the-badge) ![platforms](https://img.shields.io/badge/platforms-55-2ea44f?style=for-the-badge) ![reimplementations](https://img.shields.io/badge/reimplementations-312-1f6feb?style=for-the-badge) ![source ports](https://img.shields.io/badge/source%20ports-148-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--23-555?style=for-the-badge)
+![projects](https://img.shields.io/badge/projects-4521-8A2BE2?style=for-the-badge) ![platforms](https://img.shields.io/badge/platforms-55-2ea44f?style=for-the-badge) ![reimplementations](https://img.shields.io/badge/reimplementations-312-1f6feb?style=for-the-badge) ![source ports](https://img.shields.io/badge/source%20ports-148-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--24-555?style=for-the-badge)
 
 </div>
 
@@ -29,7 +29,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ### 🍄 Nintendo
 
-[NES / Famicom](#nes--famicom) <sub>112</sub> · [SNES / Super Famicom](#snes--super-famicom) <sub>151</sub> · [Nintendo 64](#nintendo-64) <sub>377</sub> · [GameCube](#gamecube) <sub>188</sub> · [Wii](#wii) <sub>109</sub> · [Wii U](#wii-u) <sub>28</sub> · [Nintendo Switch](#nintendo-switch) <sub>151</sub> · [Game Boy](#game-boy) <sub>73</sub> · [Game Boy Color](#game-boy-color) <sub>52</sub> · [Game Boy Advance](#game-boy-advance) <sub>135</sub> · [Nintendo DS](#nintendo-ds) <sub>90</sub> · [Nintendo 3DS](#nintendo-3ds) <sub>37</sub> · [Virtual Boy](#virtual-boy) <sub>4</sub>
+[NES / Famicom](#nes--famicom) <sub>112</sub> · [SNES / Super Famicom](#snes--super-famicom) <sub>151</sub> · [Nintendo 64](#nintendo-64) <sub>377</sub> · [GameCube](#gamecube) <sub>188</sub> · [Wii](#wii) <sub>109</sub> · [Wii U](#wii-u) <sub>28</sub> · [Nintendo Switch](#nintendo-switch) <sub>154</sub> · [Game Boy](#game-boy) <sub>73</sub> · [Game Boy Color](#game-boy-color) <sub>52</sub> · [Game Boy Advance](#game-boy-advance) <sub>136</sub> · [Nintendo DS](#nintendo-ds) <sub>90</sub> · [Nintendo 3DS](#nintendo-3ds) <sub>37</sub> · [Virtual Boy](#virtual-boy) <sub>4</sub>
 
 ### 🔵 Sega
 
@@ -37,7 +37,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ### 🎮 Sony
 
-[PlayStation](#playstation) <sub>331</sub> · [PlayStation 2](#playstation-2) <sub>260</sub> · [PlayStation 3](#playstation-3) <sub>69</sub> · [PlayStation 4](#playstation-4) <sub>63</sub> · [PlayStation 5](#playstation-5) <sub>1</sub> · [PlayStation Portable](#playstation-portable) <sub>43</sub>
+[PlayStation](#playstation) <sub>332</sub> · [PlayStation 2](#playstation-2) <sub>260</sub> · [PlayStation 3](#playstation-3) <sub>69</sub> · [PlayStation 4](#playstation-4) <sub>65</sub> · [PlayStation 5](#playstation-5) <sub>1</sub> · [PlayStation Portable](#playstation-portable) <sub>43</sub>
 
 ### 🟢 Microsoft
 
@@ -49,7 +49,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ### 🕹️ Arcade, other hardware, and tools
 
-[Arcade](#arcade) <sub>85</sub> · [Neo Geo](#neo-geo) <sub>3</sub> · [Atari 2600](#atari-2600) <sub>5</sub> · [Atari Jaguar](#atari-jaguar) <sub>5</sub> · [Atari Lynx](#atari-lynx) <sub>1</sub> · [ColecoVision](#colecovision) <sub>1</sub> · [MSX](#msx) <sub>29</sub> · [3DO](#3do) <sub>1</sub> · [Philips CD-i](#philips-cd-i) <sub>8</sub> · [System software and emulators](#system-software-and-emulators) <sub>36</sub> · [Multiplatform](#multiplatform) <sub>28</sub> · [Other](#other) <sub>41</sub>
+[Arcade](#arcade) <sub>86</sub> · [Neo Geo](#neo-geo) <sub>3</sub> · [Atari 2600](#atari-2600) <sub>5</sub> · [Atari Jaguar](#atari-jaguar) <sub>5</sub> · [Atari Lynx](#atari-lynx) <sub>1</sub> · [ColecoVision](#colecovision) <sub>1</sub> · [MSX](#msx) <sub>29</sub> · [3DO](#3do) <sub>1</sub> · [Philips CD-i](#philips-cd-i) <sub>8</sub> · [System software and emulators](#system-software-and-emulators) <sub>36</sub> · [Multiplatform](#multiplatform) <sub>28</sub> · [Other](#other) <sub>41</sub>
 
 ### 🧩 Open engines & source ports
 
@@ -1066,8 +1066,9 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Nintendo Switch
 
-> 📦 **151 projects**
+> 📦 **154 projects**
 
+- **13 Sentinels: Aegis Rim (13SentinelsRecomp)** — [WenVil/13SentinelsRecomp](https://github.com/WenVil/13SentinelsRecomp) — *Static recompilation.*
 - **Animal Crossing: New Horizons (ACNHRecomp)** — [Nycolazs/ACNHRecomp](https://github.com/Nycolazs/ACNHRecomp) — *Static recompilation.*
 - **ARMS** — [VirtuaQuest/Arms-Rearmed](https://github.com/VirtuaQuest/Arms-Rearmed) — *Static recompilation.*
 - **Astral Chain** — [captainj-sparrow/astral-chain-pc-recomp](https://github.com/captainj-sparrow/astral-chain-pc-recomp) — *Static recompilation.*
@@ -1198,12 +1199,14 @@ A game that shipped on several machines is listed under the version the reposito
 - **Super Mario Odyssey (Quest VR, Project Plumb)** — [2whitelol/project-plumb-vr](https://github.com/2whitelol/project-plumb-vr) — *Port.*
 - **Super Mario Odyssey (super-odyssey-pc-recomp)** — [Simon3Sarkis/super-odyssey-pc-recomp](https://github.com/Simon3Sarkis/super-odyssey-pc-recomp) — *Static recompilation.*
 - **Super Mario Odyssey 1.0.0** — [odyssey-modding/odyssey](https://github.com/odyssey-modding/odyssey) — *Inactive or archived.*
+- **Super Mario RPG (2023, smrpg-recompiled)** — [ElKiro1311/smrpg-recompiled](https://github.com/ElKiro1311/smrpg-recompiled) — *Static recompilation.*
 - **Super Smash Bros. Ultimate** — [sbergeron42/ssbu-decomp](https://github.com/sbergeron42/ssbu-decomp)
 - **Super Smash Bros. Ultimate (OpenSmash-Ultimate)** — [OpenSmash-Ultimate/OpenSmash-Ultimate](https://github.com/OpenSmash-Ultimate/OpenSmash-Ultimate) — *Static recompilation.*
 - **Super Smash Bros. Ultimate (PS4)** — [iHaiDeeZ/SSBU](https://github.com/iHaiDeeZ/SSBU) — *Static recompilation.*
 - **Super Smash Bros. Ultimate (ssbu-recomp)** — [Denkishi/ssbu-recomp](https://github.com/Denkishi/ssbu-recomp) — *Static recompilation.*
 - **Super Smash Bros. Ultimate (ssbu-recomp)** — [OpenSmash-Ultimate/ssbu-recomp](https://github.com/OpenSmash-Ultimate/ssbu-recomp) — *Static recompilation.*
 - **Super Smash Bros. Ultimate (WindowSmash)** — [OpenSmash-Ultimate/WindowSmash](https://github.com/OpenSmash-Ultimate/WindowSmash) — *Static recompilation.*
+- **Tokyo Mirage Sessions #FE Encore (TMSRecomp)** — [godofknife/TMSRecomp](https://github.com/godofknife/TMSRecomp) — *Static recompilation.*
 - **Tomodachi Life: Living the Dream** — [kuosuko/tomodachi-native](https://github.com/kuosuko/tomodachi-native) — *Port.*
 - **Tomodachi Life: Living the Dream** — [josiahg2502-glitch/TomodachiLife-recomp](https://github.com/josiahg2502-glitch/TomodachiLife-recomp) — *Static recompilation.*
 - **Tomodachi Life: Living the Dream (iOS)** — [herrtenma/tomodachi-life-ios](https://github.com/herrtenma/tomodachi-life-ios) — *Static recompilation.*
@@ -1363,7 +1366,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Game Boy Advance
 
-> 📦 **135 projects**
+> 📦 **136 projects**
 
 - **Advance Wars** — [ketsuban/advancewars](https://github.com/ketsuban/advancewars) — *Inactive or archived.*
 - **Advance Wars 2: Black Hole Rising** — [Eebit/aw2bhr](https://github.com/Eebit/aw2bhr)
@@ -1487,6 +1490,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Super Mario Advance 2: Super Mario World (Recomp)** — [mstan/SuperMarioAdvance2Recomp](https://github.com/mstan/SuperMarioAdvance2Recomp)
 - **Super Mario Advance 4: Super Mario Bros. 3** — [mstan/SuperMarioAdvance4Recomp](https://github.com/mstan/SuperMarioAdvance4Recomp)
 - **Super Mario Advance 4: Super Mario Bros. 3 (sma4-disasm)** — [KarisaAdvynia/sma4-disasm](https://github.com/KarisaAdvynia/sma4-disasm)
+- **Super Monkey Ball Jr. (supermonkeyballjr-recomp)** — [gusdslara/supermonkeyballjr-recomp](https://github.com/gusdslara/supermonkeyballjr-recomp) — *Static recompilation for Wear OS, Android, desktop and WebAssembly.*
 - **Tactics Ogre: The Knight of Lodis** — [jiangzhengwenjz/totkol](https://github.com/jiangzhengwenjz/totkol)
 - **The Urbz: Sims in the City** — [SimsAdvanceRet/UrbzGBADecomp](https://github.com/SimsAdvanceRet/UrbzGBADecomp)
 - **Wario Land 4** — [lilDavid/warioland4](https://github.com/lilDavid/warioland4)
@@ -1814,7 +1818,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## PlayStation
 
-> 📦 **331 projects**
+> 📦 **332 projects**
 
 - **Ace Combat 3** — [sal063/Ace-Combat-3-static-recompilation](https://github.com/sal063/Ace-Combat-3-static-recompilation)
 - **Ace Combat 3: Electrosphere** — [alexbeavs-ps1-ports/ace-combat-3-electrosphere-usa-recomp](https://github.com/alexbeavs-ps1-ports/ace-combat-3-electrosphere-usa-recomp)
@@ -1951,6 +1955,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Harvest Moon: Back to Nature** — [coalslav/hmbtn-decomp](https://github.com/coalslav/hmbtn-decomp)
 - **Harvest Moon: Back to Nature** — [beruanglaut-com/backtonature-decompiled](https://github.com/beruanglaut-com/backtonature-decompiled)
 - **Hell Night** — [goodshepherd23/Hellnight-Recompiled](https://github.com/goodshepherd23/Hellnight-Recompiled) — *Static recompilation.*
+- **Hogs of War (hogs-of-war-switch)** — [rashevskyv/hogs-of-war-switch](https://github.com/rashevskyv/hogs-of-war-switch) — *Static recompilation targeting Nintendo Switch, Windows and Linux.*
 - **Hogs of War / Frontschweine** — [Nero2611/FrontschweineRecomp](https://github.com/Nero2611/FrontschweineRecomp) — *Static recompilation.*
 - **Hybrid** ✦ — [Joshua-1248/Hybrid-PS1-Decompilation](https://github.com/Joshua-1248/Hybrid-PS1-Decompilation)
 - **In Cold Blood** — [alexbeavs-ps1-ports/in-cold-blood-recomp](https://github.com/alexbeavs-ps1-ports/in-cold-blood-recomp) — *Static recompilation.*
@@ -2495,7 +2500,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## PlayStation 4
 
-> 📦 **63 projects**
+> 📦 **65 projects**
 
 - **13 Sentinels: Aegis Rim (PC port)** — [saulob/13-sentinels-aegis-rim-pc](https://github.com/saulob/13-sentinels-aegis-rim-pc) — *Native PC port. Linux and Steam Deck support is experimental.*
 - **Bloodborne** — [Yharnam-Hunters/Paleblood](https://github.com/Yharnam-Hunters/Paleblood)
@@ -2548,6 +2553,8 @@ A game that shipped on several machines is listed under the version the reposito
 - **Prototype / Prototype 2** — [petrishevgeorgii-debug/prototype-pc-slop](https://github.com/petrishevgeorgii-debug/prototype-pc-slop) — *Port.*
 - **Ratchet & Clank (RatchetPort)** — [shehab4546/RatchetPort](https://github.com/shehab4546/RatchetPort) — *Port.*
 - **Resogun** — [rcostanza/resogun-recomp](https://github.com/rcostanza/resogun-recomp) — *Static recompilation.*
+- **Sakura Wars (2019, PS4RT Linux)** — [HekamiAeon/Sakura-Wars-PS4RT](https://github.com/HekamiAeon/Sakura-Wars-PS4RT) — *Linux port of the PS4 version.*
+- **Sakura Wars (2019, PS4RT Windows)** — [DiamondDogz/Sakura-Wars-PS4RT-Windows](https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows) — *Windows adaptation of HekamiAeon's PS4RT port.*
 - **Shadow of the Colossus** — [AjncSystem/ShadowOfTheColossus-PC](https://github.com/AjncSystem/ShadowOfTheColossus-PC) — *Port.*
 - **Shadow of the Colossus** — [Oussama268/ShadowOfTheColossus-PC](https://github.com/Oussama268/ShadowOfTheColossus-PC) — *Port.*
 - **Shadow of the Colossus (PS4, FrameGen)** — [nakaionyt/ShadowOfTheColossus-PC-FrameGen](https://github.com/nakaionyt/ShadowOfTheColossus-PC-FrameGen) — *Port.*
@@ -4170,7 +4177,7 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Arcade
 
-> 📦 **85 projects**
+> 📦 **86 projects**
 
 - **Arcade games in JavaScript (arcade-js)** — [qarl/arcade-js](https://github.com/qarl/arcade-js)
 - **Asteroids (asteroids-disassembly)** — [nmikstas/asteroids-disassembly](https://github.com/nmikstas/asteroids-disassembly) — *Disassembly. Inactive or archived.*
@@ -4255,6 +4262,7 @@ A game that shipped on several machines is listed under the version the reposito
 - **Virtua Fighter 2** — [mr-finster/vf2-recomp](https://github.com/mr-finster/vf2-recomp) — *Static recompilation.*
 - **Virtua Fighter 3** — [mr-finster/vf3-recomp](https://github.com/mr-finster/vf3-recomp) — *Static recompilation.*
 - **Virtua Fighter 4: Final Tuned** — [djanice1980/VF4-Final-Tuned-Rev-B-Decomp-Source](https://github.com/djanice1980/VF4-Final-Tuned-Rev-B-Decomp-Source)
+- **Virtua Striker 2 (vs2-recomp)** — [matiasak47/vs2-recomp](https://github.com/matiasak47/vs2-recomp) — *Static recompilation of the Sega Model 3 Step 1.5 release.*
 - **Wizard of Wor (dabadab wizardofwor)** — [dabadab/wizardofwor](https://github.com/dabadab/wizardofwor) — *Disassembly. Inactive or archived.*
 - **Xevious (xevious (arcade -> 68k transcode))** — [jotd666/xevious](https://github.com/jotd666/xevious) — *Port.*
 
